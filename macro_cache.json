@@ -1,0 +1,18 @@
+{
+  "score_macro": 45,
+  "score_sentiment": 35,
+  "tendance_marche": "BAISSIER",
+  "contexte": "Les marchés tech montrent une faiblesse généralisée avec NVDA (-1.64%), META (-2.63%) et TSLA (-1.22%) en baisse, seuls AAPL et GOOGL résistent. Le secteur crypto traverse une crise de confiance majeure avec l'attaque sur Drift Protocol ($200M+) et les multiples incidents de sécurité rapportés.",
+  "risque_principal": "La contagion des risques crypto vers les actifs tech traditionnels pourrait amplifier la correction en cours.",
+  "opportunite_du_jour": "GOOGL montre une résilience remarquable (+2.22%) et pourrait bénéficier d'une rotation sectorielle.",
+  "actifs_favorables": [
+    "GOOGL",
+    "AAPL",
+    "Cash"
+  ],
+  "actifs_risques": [
+    "META",
+    "NVDA"
+  ],
+  "last_claude_run": "2026-04-01T20:55:58.199939+00:00"
+}

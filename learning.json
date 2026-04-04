@@ -1,0 +1,620 @@
+{
+  "version": 2,
+  "weights": {
+    "technique": 0.519,
+    "macro": 0.188,
+    "sentiment": 0.141,
+    "onchain": 0.152
+  },
+  "thresholds": {
+    "MIN_SCORE_BUY": 75,
+    "MAX_SCORE_SELL": 40,
+    "RSI_OVERSOLD": 35,
+    "RSI_OVERBOUGHT": 65,
+    "STOP_LOSS_PCT": 0.05,
+    "TAKE_PROFIT_PCT": 0.18,
+    "last_update": "2026-04-04T20:22:48.958985",
+    "win_rate_recent": 21.4
+  },
+  "asset_patterns": {
+    "NEAR": {
+      "trades": 2,
+      "wins": 1,
+      "losses": 1,
+      "win_rate": 50.0,
+      "avg_pnl": -3.9,
+      "best_rsi_range": null,
+      "avoid_conditions": [
+        "RSI=50 change=-1.0%"
+      ],
+      "favorable_conditions": [
+        "RSI=50 change=-3.6%"
+      ],
+      "last_trades": [
+        {
+          "rsi": 50,
+          "change_24h": -3.56592,
+          "pnl": 9.95,
+          "result": "win"
+        },
+        {
+          "rsi": 50,
+          "change_24h": -1.03512,
+          "pnl": -7.79,
+          "result": "loss"
+        }
+      ]
+    },
+    "BTC": {
+      "trades": 1,
+      "wins": 1,
+      "losses": 0,
+      "win_rate": 100.0,
+      "avg_pnl": 0.38,
+      "best_rsi_range": null,
+      "avoid_conditions": [],
+      "favorable_conditions": [],
+      "last_trades": [
+        {
+          "rsi": 50,
+          "change_24h": -1.14777,
+          "pnl": 0.38,
+          "result": "win"
+        }
+      ]
+    },
+    "FIL": {
+      "trades": 1,
+      "wins": 0,
+      "losses": 1,
+      "win_rate": 0.0,
+      "avg_pnl": -1.38,
+      "best_rsi_range": null,
+      "avoid_conditions": [],
+      "favorable_conditions": [],
+      "last_trades": [
+        {
+          "rsi": 50,
+          "change_24h": -1.10102,
+          "pnl": -1.38,
+          "result": "loss"
+        }
+      ]
+    },
+    "MSFT": {
+      "trades": 1,
+      "wins": 0,
+      "losses": 1,
+      "win_rate": 0.0,
+      "avg_pnl": -7.08,
+      "best_rsi_range": null,
+      "avoid_conditions": [
+        "RSI=50 change=0%"
+      ],
+      "favorable_conditions": [],
+      "last_trades": [
+        {
+          "rsi": 50,
+          "change_24h": 0,
+          "pnl": -7.08,
+          "result": "loss"
+        }
+      ]
+    },
+    "ETH": {
+      "trades": 1,
+      "wins": 0,
+      "losses": 1,
+      "win_rate": 0.0,
+      "avg_pnl": -7.58,
+      "best_rsi_range": null,
+      "avoid_conditions": [
+        "RSI=62 change=-2.2%"
+      ],
+      "favorable_conditions": [],
+      "last_trades": [
+        {
+          "rsi": 62.0,
+          "change_24h": -2.20829,
+          "pnl": -7.58,
+          "result": "loss"
+        }
+      ]
+    },
+    "SOL": {
+      "trades": 1,
+      "wins": 0,
+      "losses": 1,
+      "win_rate": 0.0,
+      "avg_pnl": -7.41,
+      "best_rsi_range": null,
+      "avoid_conditions": [
+        "RSI=59 change=-0.5%"
+      ],
+      "favorable_conditions": [],
+      "last_trades": [
+        {
+          "rsi": 59.2,
+          "change_24h": -0.47277,
+          "pnl": -7.41,
+          "result": "loss"
+        }
+      ]
+    },
+    "APT": {
+      "trades": 1,
+      "wins": 0,
+      "losses": 1,
+      "win_rate": 0.0,
+      "avg_pnl": -7.33,
+      "best_rsi_range": null,
+      "avoid_conditions": [
+        "RSI=48 change=3.3%"
+      ],
+      "favorable_conditions": [],
+      "last_trades": [
+        {
+          "rsi": 47.7,
+          "change_24h": 3.31652,
+          "pnl": -7.33,
+          "result": "loss"
+        }
+      ]
+    },
+    "NVDA": {
+      "trades": 1,
+      "wins": 0,
+      "losses": 1,
+      "win_rate": 0.0,
+      "avg_pnl": -7.02,
+      "best_rsi_range": null,
+      "avoid_conditions": [
+        "RSI=50 change=0%"
+      ],
+      "favorable_conditions": [],
+      "last_trades": [
+        {
+          "rsi": 50,
+          "change_24h": 0,
+          "pnl": -7.02,
+          "result": "loss"
+        }
+      ]
+    },
+    "ARB": {
+      "trades": 1,
+      "wins": 0,
+      "losses": 1,
+      "win_rate": 0.0,
+      "avg_pnl": -7.12,
+      "best_rsi_range": null,
+      "avoid_conditions": [
+        "RSI=51 change=-2.5%"
+      ],
+      "favorable_conditions": [],
+      "last_trades": [
+        {
+          "rsi": 51.0,
+          "change_24h": -2.47768,
+          "pnl": -7.12,
+          "result": "loss"
+        }
+      ]
+    },
+    "TRX": {
+      "trades": 1,
+      "wins": 1,
+      "losses": 0,
+      "win_rate": 100.0,
+      "avg_pnl": 2.5,
+      "best_rsi_range": null,
+      "avoid_conditions": [],
+      "favorable_conditions": [],
+      "last_trades": [
+        {
+          "rsi": 50,
+          "change_24h": -0.17085,
+          "pnl": 2.5,
+          "result": "win"
+        }
+      ]
+    },
+    "BNB": {
+      "trades": 1,
+      "wins": 0,
+      "losses": 1,
+      "win_rate": 0.0,
+      "avg_pnl": -5.02,
+      "best_rsi_range": null,
+      "avoid_conditions": [
+        "RSI=50 change=0.0%"
+      ],
+      "favorable_conditions": [],
+      "last_trades": [
+        {
+          "rsi": 50,
+          "change_24h": 0.0,
+          "pnl": -5.02,
+          "result": "loss"
+        }
+      ]
+    },
+    "XLM": {
+      "trades": 1,
+      "wins": 0,
+      "losses": 1,
+      "win_rate": 0.0,
+      "avg_pnl": -7.78,
+      "best_rsi_range": null,
+      "avoid_conditions": [
+        "RSI=56 change=6.6%"
+      ],
+      "favorable_conditions": [],
+      "last_trades": [
+        {
+          "rsi": 55.6,
+          "change_24h": 6.63416,
+          "pnl": -7.78,
+          "result": "loss"
+        }
+      ]
+    },
+    "OP": {
+      "trades": 1,
+      "wins": 0,
+      "losses": 1,
+      "win_rate": 0.0,
+      "avg_pnl": -1.08,
+      "best_rsi_range": null,
+      "avoid_conditions": [],
+      "favorable_conditions": [],
+      "last_trades": [
+        {
+          "rsi": 50,
+          "change_24h": 0.0,
+          "pnl": -1.08,
+          "result": "loss"
+        }
+      ]
+    }
+  },
+  "trade_log": [
+    {
+      "asset": "NEAR",
+      "action": "TRAILING_STOP",
+      "entry_price_eur": 1.1439270163,
+      "exit_price_eur": 1.2578,
+      "pnl_pct": 9.95,
+      "entry_time": "2026-03-14T16:22:12.929159",
+      "exit_time": "2026-03-17T05:16:04.569408",
+      "entry_rsi": 50,
+      "entry_score": 78,
+      "entry_change_24h": -3.56592,
+      "entry_snapshot": {
+        "score_technique": 47,
+        "score_macro": 45,
+        "score_sentiment": 35,
+        "onchain_score": null,
+        "score": 78
+      }
+    },
+    {
+      "asset": "BTC",
+      "action": "TRAILING_STOP",
+      "entry_price_eur": 61661.15908549,
+      "exit_price_eur": 61897.3113,
+      "pnl_pct": 0.38,
+      "entry_time": "2026-03-14T16:22:12.928392",
+      "exit_time": "2026-03-18T14:57:31.016077",
+      "entry_rsi": 50,
+      "entry_score": 78,
+      "entry_change_24h": -1.14777,
+      "entry_snapshot": {
+        "score_technique": 48,
+        "score_macro": 45,
+        "score_sentiment": 35,
+        "onchain_score": 60,
+        "score": 78
+      }
+    },
+    {
+      "asset": "FIL",
+      "action": "TRAILING_STOP",
+      "entry_price_eur": 0.7926504825378399,
+      "exit_price_eur": 0.7817,
+      "pnl_pct": -1.38,
+      "entry_time": "2026-03-20T05:53:45.362468",
+      "exit_time": "2026-03-21T23:50:42.709684",
+      "entry_rsi": 50,
+      "entry_score": 61,
+      "entry_change_24h": -1.10102,
+      "entry_snapshot": {
+        "score_technique": 48,
+        "score_macro": 25,
+        "score_sentiment": 30,
+        "score_momentum": 50,
+        "score_volume": 50,
+        "onchain_score": null,
+        "score": 61,
+        "rsi": 50,
+        "change_24h": -1.10102,
+        "type": "crypto"
+      }
+    },
+    {
+      "asset": "MSFT",
+      "action": "STOP_LOSS",
+      "entry_price_eur": 343.407989853,
+      "exit_price_eur": 319.088,
+      "pnl_pct": -7.08,
+      "entry_time": "2026-03-13T21:03:18.082920",
+      "exit_time": "2026-03-25T15:56:51.350389",
+      "entry_rsi": 50,
+      "entry_score": 50,
+      "entry_change_24h": 0,
+      "entry_snapshot": {
+        "score_technique": 50,
+        "score_macro": 50,
+        "score_sentiment": 50,
+        "score_momentum": 50,
+        "score_volume": 50,
+        "onchain_score": null,
+        "score": 50,
+        "rsi": 50,
+        "change_24h": 0,
+        "type": "crypto"
+      }
+    },
+    {
+      "asset": "NEAR",
+      "action": "STOP_LOSS",
+      "entry_price_eur": 1.158580549,
+      "exit_price_eur": 1.0684,
+      "pnl_pct": -7.79,
+      "entry_time": "2026-03-20T12:32:09.739235",
+      "exit_time": "2026-03-26T05:51:47.692441",
+      "entry_rsi": 50,
+      "entry_score": 62,
+      "entry_change_24h": -1.03512,
+      "entry_snapshot": {
+        "score_technique": 48,
+        "score_macro": 35,
+        "score_sentiment": 25,
+        "score_momentum": 50,
+        "score_volume": 50,
+        "onchain_score": null,
+        "score": 62,
+        "rsi": 50,
+        "change_24h": -1.03512,
+        "type": "crypto"
+      }
+    },
+    {
+      "asset": "ETH",
+      "action": "STOP_LOSS",
+      "entry_price_eur": 1864.5080363621998,
+      "exit_price_eur": 1723.2644,
+      "pnl_pct": -7.58,
+      "entry_time": "2026-03-20T05:53:43.848276",
+      "exit_time": "2026-03-27T12:09:05.892111",
+      "entry_rsi": 62.0,
+      "entry_score": 70,
+      "entry_change_24h": -2.20829,
+      "entry_snapshot": {
+        "score_technique": 50,
+        "score_macro": 25,
+        "score_sentiment": 30,
+        "score_momentum": 50,
+        "score_volume": 50,
+        "onchain_score": null,
+        "score": 70,
+        "rsi": 62.0,
+        "change_24h": -2.20829,
+        "type": "crypto"
+      }
+    },
+    {
+      "asset": "SOL",
+      "action": "STOP_LOSS",
+      "entry_price_eur": 77.811863826,
+      "exit_price_eur": 72.0424,
+      "pnl_pct": -7.41,
+      "entry_time": "2026-03-20T05:53:44.427922",
+      "exit_time": "2026-03-27T12:09:06.435826",
+      "entry_rsi": 59.2,
+      "entry_score": 61,
+      "entry_change_24h": -0.47277,
+      "entry_snapshot": {
+        "score_technique": 52,
+        "score_macro": 25,
+        "score_sentiment": 30,
+        "score_momentum": 50,
+        "score_volume": 50,
+        "onchain_score": null,
+        "score": 61,
+        "rsi": 59.2,
+        "change_24h": -0.47277,
+        "type": "crypto"
+      }
+    },
+    {
+      "asset": "APT",
+      "action": "STOP_LOSS",
+      "entry_price_eur": 0.9193112483499999,
+      "exit_price_eur": 0.8519,
+      "pnl_pct": -7.33,
+      "entry_time": "2026-03-25T15:56:52.059816",
+      "exit_time": "2026-03-27T12:09:06.975649",
+      "entry_rsi": 47.7,
+      "entry_score": 65,
+      "entry_change_24h": 3.31652,
+      "entry_snapshot": {
+        "score_technique": 46,
+        "score_macro": 25,
+        "score_sentiment": 30,
+        "score_momentum": 42,
+        "score_volume": 50,
+        "onchain_score": null,
+        "score": 65,
+        "rsi": 47.7,
+        "change_24h": 3.31652,
+        "type": "crypto"
+      }
+    },
+    {
+      "asset": "NVDA",
+      "action": "STOP_LOSS",
+      "entry_price_eur": 156.489167415,
+      "exit_price_eur": 145.5038,
+      "pnl_pct": -7.02,
+      "entry_time": "2026-03-13T20:34:56.501665",
+      "exit_time": "2026-03-27T18:07:21.018835",
+      "entry_rsi": 50,
+      "entry_score": 50,
+      "entry_change_24h": 0,
+      "entry_snapshot": {
+        "score_technique": 50,
+        "score_macro": 50,
+        "score_sentiment": 50,
+        "score_momentum": 50,
+        "score_volume": 50,
+        "onchain_score": null,
+        "score": 50,
+        "rsi": 50,
+        "change_24h": 0,
+        "type": "crypto"
+      }
+    },
+    {
+      "asset": "ARB",
+      "action": "STOP_LOSS",
+      "entry_price_eur": 0.08258378862755,
+      "exit_price_eur": 0.0767,
+      "pnl_pct": -7.12,
+      "entry_time": "2026-03-26T05:51:48.334848",
+      "exit_time": "2026-03-29T23:06:03.174644",
+      "entry_rsi": 51.0,
+      "entry_score": 68,
+      "entry_change_24h": -2.47768,
+      "entry_snapshot": {
+        "score_technique": 44,
+        "score_macro": 35,
+        "score_sentiment": 42,
+        "score_momentum": 42,
+        "score_volume": 50,
+        "onchain_score": null,
+        "score": 68,
+        "rsi": 51.0,
+        "change_24h": -2.47768,
+        "type": "crypto"
+      }
+    },
+    {
+      "asset": "TRX",
+      "action": "TRAILING_STOP",
+      "entry_price_eur": 0.26397631284031,
+      "exit_price_eur": 0.2706,
+      "pnl_pct": 2.5,
+      "entry_time": "2026-03-20T05:53:44.871574",
+      "exit_time": "2026-03-31T15:56:22.323291",
+      "entry_rsi": 50,
+      "entry_score": 64,
+      "entry_change_24h": -0.17085,
+      "entry_snapshot": {
+        "score_technique": 48,
+        "score_macro": 25,
+        "score_sentiment": 30,
+        "score_momentum": 50,
+        "score_volume": 50,
+        "onchain_score": null,
+        "score": 64,
+        "rsi": 50,
+        "change_24h": -0.17085,
+        "type": "crypto"
+      }
+    },
+    {
+      "asset": "BNB",
+      "action": "STOP_LOSS",
+      "entry_price_eur": 531.59,
+      "exit_price_eur": 504.898,
+      "pnl_pct": -5.02,
+      "entry_time": "2026-03-31T16:46:15.981565",
+      "exit_time": "2026-04-02T23:19:53.918551",
+      "entry_rsi": 50,
+      "entry_score": 64,
+      "entry_change_24h": 0.0,
+      "entry_snapshot": {
+        "score_technique": 48,
+        "score_macro": 45,
+        "score_sentiment": 35,
+        "score_momentum": 42,
+        "score_volume": 50,
+        "onchain_score": null,
+        "score": 64,
+        "rsi": 50,
+        "change_24h": 0.0,
+        "type": "crypto"
+      }
+    },
+    {
+      "asset": "XLM",
+      "action": "STOP_LOSS",
+      "entry_price_eur": 0.15300027317899997,
+      "exit_price_eur": 0.1411,
+      "pnl_pct": -7.78,
+      "entry_time": "2026-03-25T18:39:25.949256",
+      "exit_time": "2026-04-02T23:19:54.707800",
+      "entry_rsi": 55.6,
+      "entry_score": 63,
+      "entry_change_24h": 6.63416,
+      "entry_snapshot": {
+        "score_technique": 51,
+        "score_macro": 25,
+        "score_sentiment": 30,
+        "score_momentum": 42,
+        "score_volume": 50,
+        "onchain_score": null,
+        "score": 63,
+        "rsi": 55.6,
+        "change_24h": 6.63416,
+        "type": "crypto"
+      }
+    },
+    {
+      "asset": "OP",
+      "action": "TRAILING_STOP",
+      "entry_price_eur": 0.093,
+      "exit_price_eur": 0.092,
+      "pnl_pct": -1.08,
+      "entry_time": "2026-03-30T06:27:23.842125",
+      "exit_time": "2026-04-02T23:19:55.824208",
+      "entry_rsi": 50,
+      "entry_score": 60,
+      "entry_change_24h": 0.0,
+      "entry_snapshot": {
+        "score_technique": 48,
+        "score_macro": 35,
+        "score_sentiment": 25,
+        "score_momentum": 42,
+        "score_volume": 50,
+        "onchain_score": null,
+        "score": 60,
+        "rsi": 50,
+        "change_24h": 0.0,
+        "type": "crypto"
+      }
+    }
+  ],
+  "stats": {
+    "total_closed": 14,
+    "wins": 3,
+    "losses": 11,
+    "win_rate": 21.4,
+    "avg_pnl": -3.84,
+    "total_pnl": -53.76,
+    "best_trade": 9.95,
+    "worst_trade": -7.79
+  },
+  "last_update": "2026-04-04T20:22:58.626935"
+}
