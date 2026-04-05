@@ -13,8 +13,8 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-04-05T12:23:39.751963",
-    "win_rate_recent": 26.7
+    "last_update": "2026-04-05T12:45:10.439239",
+    "win_rate_recent": 25.0
   },
   "asset_patterns": {
     "NEAR": {
@@ -327,7 +327,7 @@
       "pnl_pct": 9.95,
       "entry_time": "2026-03-14T16:22:12.929159",
       "exit_time": "2026-03-17T05:16:04.569408",
-      "entry_rsi": 50,
+      "entry_rsi": 63.2,
       "entry_score": 78,
       "entry_change_24h": -3.56592,
       "entry_snapshot": {
@@ -335,7 +335,11 @@
         "score_macro": 45,
         "score_sentiment": 35,
         "onchain_score": null,
-        "score": 78
+        "score": 78,
+        "rsi": 63.2,
+        "adx": 16.1,
+        "psar_bull": 0,
+        "above_ema200": 0
       }
     },
     {
@@ -346,7 +350,7 @@
       "pnl_pct": 0.38,
       "entry_time": "2026-03-14T16:22:12.928392",
       "exit_time": "2026-03-18T14:57:31.016077",
-      "entry_rsi": 50,
+      "entry_rsi": 60.1,
       "entry_score": 78,
       "entry_change_24h": -1.14777,
       "entry_snapshot": {
@@ -354,7 +358,11 @@
         "score_macro": 45,
         "score_sentiment": 35,
         "onchain_score": 60,
-        "score": 78
+        "score": 78,
+        "rsi": 60.1,
+        "adx": 8.0,
+        "psar_bull": 0,
+        "above_ema200": 0
       }
     },
     {
@@ -365,7 +373,7 @@
       "pnl_pct": -1.38,
       "entry_time": "2026-03-20T05:53:45.362468",
       "exit_time": "2026-03-21T23:50:42.709684",
-      "entry_rsi": 50,
+      "entry_rsi": 39.6,
       "entry_score": 61,
       "entry_change_24h": -1.10102,
       "entry_snapshot": {
@@ -376,9 +384,12 @@
         "score_volume": 50,
         "onchain_score": null,
         "score": 61,
-        "rsi": 50,
+        "rsi": 39.6,
         "change_24h": -1.10102,
-        "type": "crypto"
+        "type": "crypto",
+        "adx": 15.1,
+        "psar_bull": 0,
+        "above_ema200": 0
       }
     },
     {
@@ -413,7 +424,7 @@
       "pnl_pct": -7.79,
       "entry_time": "2026-03-20T12:32:09.739235",
       "exit_time": "2026-03-26T05:51:47.692441",
-      "entry_rsi": 50,
+      "entry_rsi": 58.0,
       "entry_score": 62,
       "entry_change_24h": -1.03512,
       "entry_snapshot": {
@@ -424,9 +435,12 @@
         "score_volume": 50,
         "onchain_score": null,
         "score": 62,
-        "rsi": 50,
+        "rsi": 58.0,
         "change_24h": -1.03512,
-        "type": "crypto"
+        "type": "crypto",
+        "adx": 17.4,
+        "psar_bull": 0,
+        "above_ema200": 0
       }
     },
     {
@@ -437,7 +451,7 @@
       "pnl_pct": -7.58,
       "entry_time": "2026-03-20T05:53:43.848276",
       "exit_time": "2026-03-27T12:09:05.892111",
-      "entry_rsi": 62.0,
+      "entry_rsi": 62.3,
       "entry_score": 70,
       "entry_change_24h": -2.20829,
       "entry_snapshot": {
@@ -448,9 +462,12 @@
         "score_volume": 50,
         "onchain_score": null,
         "score": 70,
-        "rsi": 62.0,
+        "rsi": 62.3,
         "change_24h": -2.20829,
-        "type": "crypto"
+        "type": "crypto",
+        "adx": 10.5,
+        "psar_bull": 0,
+        "above_ema200": 0
       }
     },
     {
@@ -461,7 +478,7 @@
       "pnl_pct": -7.41,
       "entry_time": "2026-03-20T05:53:44.427922",
       "exit_time": "2026-03-27T12:09:06.435826",
-      "entry_rsi": 59.2,
+      "entry_rsi": 59.8,
       "entry_score": 61,
       "entry_change_24h": -0.47277,
       "entry_snapshot": {
@@ -472,9 +489,12 @@
         "score_volume": 50,
         "onchain_score": null,
         "score": 61,
-        "rsi": 59.2,
+        "rsi": 59.8,
         "change_24h": -0.47277,
-        "type": "crypto"
+        "type": "crypto",
+        "adx": 8.3,
+        "psar_bull": 0,
+        "above_ema200": 0
       }
     },
     {
@@ -485,7 +505,7 @@
       "pnl_pct": -7.33,
       "entry_time": "2026-03-25T15:56:52.059816",
       "exit_time": "2026-03-27T12:09:06.975649",
-      "entry_rsi": 47.7,
+      "entry_rsi": 60.0,
       "entry_score": 65,
       "entry_change_24h": 3.31652,
       "entry_snapshot": {
@@ -496,9 +516,12 @@
         "score_volume": 50,
         "onchain_score": null,
         "score": 65,
-        "rsi": 47.7,
+        "rsi": 60.0,
         "change_24h": 3.31652,
-        "type": "crypto"
+        "type": "crypto",
+        "adx": 10.8,
+        "psar_bull": 0,
+        "above_ema200": 0
       }
     },
     {
@@ -533,7 +556,7 @@
       "pnl_pct": -7.12,
       "entry_time": "2026-03-26T05:51:48.334848",
       "exit_time": "2026-03-29T23:06:03.174644",
-      "entry_rsi": 51.0,
+      "entry_rsi": 41.6,
       "entry_score": 68,
       "entry_change_24h": -2.47768,
       "entry_snapshot": {
@@ -544,9 +567,12 @@
         "score_volume": 50,
         "onchain_score": null,
         "score": 68,
-        "rsi": 51.0,
+        "rsi": 41.6,
         "change_24h": -2.47768,
-        "type": "crypto"
+        "type": "crypto",
+        "adx": 13.1,
+        "psar_bull": 0,
+        "above_ema200": 0
       }
     },
     {
@@ -557,7 +583,7 @@
       "pnl_pct": 2.5,
       "entry_time": "2026-03-20T05:53:44.871574",
       "exit_time": "2026-03-31T15:56:22.323291",
-      "entry_rsi": 50,
+      "entry_rsi": 75.6,
       "entry_score": 64,
       "entry_change_24h": -0.17085,
       "entry_snapshot": {
@@ -568,9 +594,12 @@
         "score_volume": 50,
         "onchain_score": null,
         "score": 64,
-        "rsi": 50,
+        "rsi": 75.6,
         "change_24h": -0.17085,
-        "type": "crypto"
+        "type": "crypto",
+        "adx": 20.8,
+        "psar_bull": 0,
+        "above_ema200": 1
       }
     },
     {
@@ -581,7 +610,7 @@
       "pnl_pct": -5.02,
       "entry_time": "2026-03-31T16:46:15.981565",
       "exit_time": "2026-04-02T23:19:53.918551",
-      "entry_rsi": 50,
+      "entry_rsi": 29.3,
       "entry_score": 64,
       "entry_change_24h": 0.0,
       "entry_snapshot": {
@@ -592,9 +621,12 @@
         "score_volume": 50,
         "onchain_score": null,
         "score": 64,
-        "rsi": 50,
+        "rsi": 29.3,
         "change_24h": 0.0,
-        "type": "crypto"
+        "type": "crypto",
+        "adx": 11.8,
+        "psar_bull": 0,
+        "above_ema200": 0
       }
     },
     {
@@ -605,7 +637,7 @@
       "pnl_pct": -7.78,
       "entry_time": "2026-03-25T18:39:25.949256",
       "exit_time": "2026-04-02T23:19:54.707800",
-      "entry_rsi": 55.6,
+      "entry_rsi": 65.6,
       "entry_score": 63,
       "entry_change_24h": 6.63416,
       "entry_snapshot": {
@@ -616,9 +648,12 @@
         "score_volume": 50,
         "onchain_score": null,
         "score": 63,
-        "rsi": 55.6,
+        "rsi": 65.6,
         "change_24h": 6.63416,
-        "type": "crypto"
+        "type": "crypto",
+        "adx": 12.3,
+        "psar_bull": 0,
+        "above_ema200": 0
       }
     },
     {
@@ -629,7 +664,7 @@
       "pnl_pct": -1.08,
       "entry_time": "2026-03-30T06:27:23.842125",
       "exit_time": "2026-04-02T23:19:55.824208",
-      "entry_rsi": 50,
+      "entry_rsi": 14.6,
       "entry_score": 60,
       "entry_change_24h": 0.0,
       "entry_snapshot": {
@@ -640,9 +675,12 @@
         "score_volume": 50,
         "onchain_score": null,
         "score": 60,
-        "rsi": 50,
+        "rsi": 14.6,
         "change_24h": 0.0,
-        "type": "crypto"
+        "type": "crypto",
+        "adx": 29.8,
+        "psar_bull": 0,
+        "above_ema200": 0
       }
     },
     {
@@ -655,7 +693,7 @@
       "amount_eur": 10.5,
       "entry_time": "2026-04-01T23:13:11.729227",
       "exit_time": "2026-04-05T12:17:11.964061",
-      "entry_rsi": 50,
+      "entry_rsi": 67.3,
       "entry_score": 60,
       "entry_change_24h": 10.42,
       "entry_snapshot": {
@@ -666,9 +704,12 @@
         "score_volume": 50,
         "onchain_score": null,
         "score": 60,
-        "rsi": 50,
+        "rsi": 67.3,
         "change_24h": 10.42,
-        "type": "crypto"
+        "type": "crypto",
+        "adx": 15.2,
+        "psar_bull": 0,
+        "above_ema200": 0
       }
     },
     {
@@ -681,7 +722,7 @@
       "amount_eur": 51.04,
       "entry_time": "2026-03-22T07:30:19.221817",
       "exit_time": "2026-04-05T12:23:41.336205",
-      "entry_rsi": 50.3,
+      "entry_rsi": 62.8,
       "entry_score": 63,
       "entry_change_24h": -0.03691,
       "entry_snapshot": {
@@ -692,9 +733,12 @@
         "score_volume": 50,
         "onchain_score": null,
         "score": 63,
-        "rsi": 50.3,
+        "rsi": 62.8,
         "change_24h": -0.03691,
-        "type": "crypto"
+        "type": "crypto",
+        "adx": 13.2,
+        "psar_bull": 0,
+        "above_ema200": 0
       }
     }
   ],
@@ -708,5 +752,5 @@
     "best_trade": 12.29,
     "worst_trade": -7.79
   },
-  "last_update": "2026-04-05T12:23:51.323909"
+  "last_update": "2026-04-05T12:45:24.434911"
 }
