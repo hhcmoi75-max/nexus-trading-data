@@ -9,7 +9,9 @@
   ],
   "actifs_a_privilegier": [
     "BTC",
-    "ALGO"
+    "ALGO",
+    "ETH",
+    "TRX"
   ],
   "actifs_a_eviter": [
     "ETH",
