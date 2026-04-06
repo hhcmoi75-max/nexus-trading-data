@@ -1,5 +1,8 @@
 {
   "lecons_cles": [
+    "Le win rate de 25% est insuffisant et indique un problème de sélection d'entrée",
+    "Les gains moyens sur les trades gagnants (+6.2%) dépassent largement les pertes moyennes (-7.4%), révélant un déséquilibre dans la gestion des risques",
+    "La concentration des gains sur peu d'actifs (BTC, TRX, ALGO) suggère une approche trop dispersée",
     "Le win rate de 25% est très faible et indique un problème majeur dans les critères d'entrée",
     "Les gains moyens des trades gagnants (+6.3%) sont inférieurs aux pertes moyennes des trades perdants (-7.4%)",
     "La concentration sur BTC, ALGO et TRX montre 100% de réussite mais sur un échantillon très restreint"
@@ -14,12 +17,12 @@
     "APT",
     "FIL"
   ],
-  "conditions_favorables": "Les trades gagnants semblent favoriser les cryptomonnaies établies (BTC) et les projets blockchain spécialisés (ALGO) plutôt que les smart contracts platforms populaires",
-  "erreurs_recurrentes": "Seuils d'entrée trop permissifs générant 75% de trades perdants et ratio risque/rendement défavorable avec des pertes systématiques autour de -7.5%",
+  "conditions_favorables": "Marchés avec forte volatilité sur les altcoins établis, éviter les positions simultanées sur trop d'actifs corrélés",
+  "erreurs_recurrentes": "Stop loss trop lâche permettant des pertes de -7% à -8%, critères d'entrée trop permissifs générant un win rate critique de 25%",
   "recommandation_seuil_buy": 75,
-  "recommandation_stop_loss": 0.06,
-  "strategie_recommandee": "Augmenter drastiquement les critères de sélection pour améliorer le win rate et se concentrer sur BTC et ALGO qui montrent une performance constante. Réduire la taille des positions sur les altcoins volatils et implémenter un stop loss plus serré pour limiter les pertes récurrentes.",
-  "last_distillation": "2026-04-06T11:48:15.965387+00:00",
+  "recommandation_stop_loss": 0.05,
+  "strategie_recommandee": "Concentrer les positions sur 3-4 actifs maximum avec des critères d'entrée plus stricts. Réduire drastiquement le stop loss pour limiter les pertes moyennes et améliorer le ratio risk/reward.",
+  "last_distillation": "2026-04-06T13:49:50.882716+00:00",
   "trades_analyzed": 16,
   "win_rate_at_distill": 25.0,
   "traders": {
