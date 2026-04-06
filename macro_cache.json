@@ -1,18 +1,18 @@
 {
   "score_macro": 45,
-  "score_sentiment": 35,
-  "tendance_marche": "BAISSIER",
-  "contexte": "Les marchés tech montrent une faiblesse généralisée avec NVDA (-1.64%), META (-2.63%) et TSLA (-1.22%) en baisse, seuls AAPL et GOOGL résistent. Le secteur crypto traverse une crise de confiance majeure avec l'attaque sur Drift Protocol ($200M+) et les multiples incidents de sécurité rapportés.",
-  "risque_principal": "La contagion des risques crypto vers les actifs tech traditionnels pourrait amplifier la correction en cours.",
-  "opportunite_du_jour": "GOOGL montre une résilience remarquable (+2.22%) et pourrait bénéficier d'une rotation sectorielle.",
+  "score_sentiment": 55,
+  "tendance_marche": "NEUTRE",
+  "contexte": "Les marchés crypto montrent une stabilité relative avec des prix inchangés, tandis que les discussions de cessez-le-feu en Iran apportent un sentiment légèrement positif au Bitcoin. L'avertissement du FMI sur les risques de tokenisation et la baisse continue des volumes DEX créent une tension sous-jacente.",
+  "risque_principal": "L'inflation prend le devant de la scène cette semaine, créant une incertitude majeure sur les politiques monétaires et leur impact sur les crypto-actifs.",
+  "opportunite_du_jour": "Bitcoin pourrait bénéficier de la désescalade géopolitique potentielle et du sentiment de stabilité relative face aux autres actifs volatils.",
   "actifs_favorables": [
-    "GOOGL",
-    "AAPL",
-    "Cash"
+    "BTC",
+    "XAU",
+    "ETH"
   ],
   "actifs_risques": [
-    "META",
-    "NVDA"
+    "SOL",
+    "XRP"
   ],
-  "last_claude_run": "2026-04-01T20:55:58.199939+00:00"
+  "last_claude_run": "2026-04-06T11:49:25.545187+00:00"
 }

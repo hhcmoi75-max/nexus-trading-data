@@ -1,28 +1,27 @@
 {
   "lecons_cles": [
-    "Le win rate de 21.7% est critique et indique un syst\u00e8me de s\u00e9lection d\u00e9faillant",
-    "Les pertes sont syst\u00e9matiquement importantes (-7% en moyenne) tandis que les gains restent modestes",
-    "La concentration sur les cryptos altcoins g\u00e9n\u00e8re une volatilit\u00e9 excessive sans compensation par les gains"
+    "Le win rate de 25% est très faible et indique un problème majeur dans les critères d'entrée",
+    "Les gains moyens des trades gagnants (+6.3%) sont inférieurs aux pertes moyennes des trades perdants (-7.4%)",
+    "La concentration sur BTC, ALGO et TRX montre 100% de réussite mais sur un échantillon très restreint"
   ],
   "actifs_a_privilegier": [
     "BTC",
-    "NEAR"
+    "ALGO"
   ],
   "actifs_a_eviter": [
+    "ETH",
     "SOL",
     "APT",
-    "ARB",
-    "ETH",
     "FIL"
   ],
-  "conditions_favorables": "March\u00e9s avec tendance claire sur BTC et s\u00e9lection tr\u00e8s restrictive des altcoins avec NEAR comme seule exception viable",
-  "erreurs_recurrentes": "Seuils d'entr\u00e9e trop permissifs g\u00e9n\u00e9rant trop de faux signaux et stop-loss insuffisants laissant courir les pertes importantes",
+  "conditions_favorables": "Les trades gagnants semblent favoriser les cryptomonnaies établies (BTC) et les projets blockchain spécialisés (ALGO) plutôt que les smart contracts platforms populaires",
+  "erreurs_recurrentes": "Seuils d'entrée trop permissifs générant 75% de trades perdants et ratio risque/rendement défavorable avec des pertes systématiques autour de -7.5%",
   "recommandation_seuil_buy": 75,
   "recommandation_stop_loss": 0.06,
-  "strategie_recommandee": "R\u00e9duire drastiquement le nombre de trades en privil\u00e9giant la qualit\u00e9 avec des seuils d'entr\u00e9e tr\u00e8s \u00e9lev\u00e9s. Se concentrer sur BTC principalement avec parcimonie sur NEAR uniquement lors de setups exceptionnels.",
-  "last_distillation": "2026-03-29T11:32:05.727405+00:00",
-  "trades_analyzed": 23,
-  "win_rate_at_distill": 21.7,
+  "strategie_recommandee": "Augmenter drastiquement les critères de sélection pour améliorer le win rate et se concentrer sur BTC et ALGO qui montrent une performance constante. Réduire la taille des positions sur les altcoins volatils et implémenter un stop loss plus serré pour limiter les pertes récurrentes.",
+  "last_distillation": "2026-04-06T11:48:15.965387+00:00",
+  "trades_analyzed": 16,
+  "win_rate_at_distill": 25.0,
   "traders": {
     "Warren Buffett": {
       "style": "Value Investing - Long terme",
@@ -54,8 +53,8 @@
         "Les marches sont toujours dans un etat de flux. La reflexivite cree des bulles et des crashs previsibles",
         "Identifie la tendance dominante, puis identifie le moment ou elle va se retourner",
         "Quand tu as raison, maximise. Quand tu as tort, minimise les pertes. La taille de la position compte",
-        "Les march\u00e9s ne refl\u00e8tent pas la r\u00e9alit\u00e9 - ils cr\u00e9ent une r\u00e9alit\u00e9 alternative que les acteurs suivent",
-        "Cherche les d\u00e9s\u00e9quilibres macro : taux, devises, flux de capitaux entre pays",
+        "Les marchés ne reflètent pas la réalité - ils créent une réalité alternative que les acteurs suivent",
+        "Cherche les déséquilibres macro : taux, devises, flux de capitaux entre pays",
         "Une position perdante ne doit jamais devenir une conviction - le marche a toujours raison"
       ],
       "signaux_achat": [
@@ -113,10 +112,10 @@
       ],
       "signaux_vente": [
         "Concentration excessive dans une seule classe d actif",
-        "Corr\u00e9lation des positions trop elevee (tout baisse ensemble)",
+        "Corrélation des positions trop elevee (tout baisse ensemble)",
         "Surchauffe economique avec inflation elevee"
       ],
-      "regle_risque": "Jamais plus de 10% dans une classe d actif. R\u00e9\u00e9quilibrer reguli\u00e8rement",
+      "regle_risque": "Jamais plus de 10% dans une classe d actif. Rééquilibrer regulièrement",
       "citation": "He who lives by the crystal ball will eat shattered glass"
     },
     "Jesse Livermore": {
@@ -148,7 +147,7 @@
       "principes": [
         "Investis dans ce que tu connais. Les meilleures idees viennent de ton quotidien",
         "Un tenbagger (x10) commence par une bonne entreprise a un prix raisonnable",
-        "PEG ratio (P/E divise par croissance) < 1 = opportunite. > 2 = survaloris\u00e9",
+        "PEG ratio (P/E divise par croissance) < 1 = opportunite. > 2 = survalorisé",
         "Les institutionnels ignorent les petites capitalisations = opportunites pour les individus",
         "Ne vendez jamais une action florissante pour en acheter une mediocre",
         "Avant d acheter, tu dois pouvoir expliquer pourquoi en 2 minutes a un enfant de 10 ans",
@@ -220,7 +219,7 @@
       "conviction": "FORTE"
     },
     "smart_money_buying": {
-      "condition": "Insiders ach\u00e8tent + institutionnels accumulent",
+      "condition": "Insiders achètent + institutionnels accumulent",
       "action": "Lynch : signal fort. Suivre les insiders est statistiquement gagnant",
       "score_bonus": 8,
       "conviction": "MODEREE"
