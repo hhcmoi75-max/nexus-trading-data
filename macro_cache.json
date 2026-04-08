@@ -1,18 +1,18 @@
 {
-  "score_macro": 45,
-  "score_sentiment": 55,
-  "tendance_marche": "NEUTRE",
-  "contexte": "Les marchés crypto montrent une stabilité relative avec des prix inchangés, tandis que les discussions de cessez-le-feu en Iran apportent un sentiment légèrement positif au Bitcoin. L'avertissement du FMI sur les risques de tokenisation et la baisse continue des volumes DEX créent une tension sous-jacente.",
-  "risque_principal": "L'inflation prend le devant de la scène cette semaine, créant une incertitude majeure sur les politiques monétaires et leur impact sur les crypto-actifs.",
-  "opportunite_du_jour": "Bitcoin pourrait bénéficier de la désescalade géopolitique potentielle et du sentiment de stabilité relative face aux autres actifs volatils.",
+  "score_macro": 75,
+  "score_sentiment": 70,
+  "tendance_marche": "HAUSSIER",
+  "contexte": "Le contexte macro est favorable avec l'annonce d'un cessez-le-feu US-Iran qui réduit les tensions géopolitiques et provoque un déplacement des capitaux vers les actifs risqués. L'entrée potentielle d'une banque américaine de 1900 milliards de dollars dans l'écosystème Bitcoin via un ETF constitue un catalyseur institutionnel majeur.",
+  "risque_principal": "Le win rate très faible du bot à 23.5% révèle une stratégie d'entrée défaillante qui pourrait compromettre la performance malgré un contexte favorable.",
+  "opportunite_du_jour": "L'effet combiné du cessez-le-feu géopolitique et de l'adoption institutionnelle croissante crée une fenêtre d'opportunité sur les cryptomonnaies, particulièrement Bitcoin et XRP.",
   "actifs_favorables": [
     "BTC",
-    "XAU",
+    "XRP",
     "ETH"
   ],
   "actifs_risques": [
-    "SOL",
-    "XRP"
+    "XAU",
+    "XAG"
   ],
-  "last_claude_run": "2026-04-06T11:49:25.545187+00:00"
+  "last_claude_run": "2026-04-08T08:01:13.738141+00:00"
 }
