@@ -1,0 +1,18 @@
+{
+  "score_macro": 65,
+  "score_sentiment": 70,
+  "tendance_marche": "NEUTRE",
+  "contexte": "Le marché crypto montre une stabilité avec tous les actifs majeurs à 0%, tandis que l'adoption institutionnelle se renforce avec l'ETF Bitcoin de Morgan Stanley générant 34M$ dès le premier jour. Les développements réglementaires en Corée du Sud et les changements à la SEC créent un environnement d'attente prudente.",
+  "risque_principal": "L'incertitude réglementaire persistante avec les nouveaux changements à la SEC pourrait créer de la volatilité à court terme.",
+  "opportunite_du_jour": "L'afflux institutionnel via les ETF Bitcoin combiné aux déclarations optimistes de Michael Saylor suggère un potentiel de rebond technique.",
+  "actifs_favorables": [
+    "BTC",
+    "ETH",
+    "XAU"
+  ],
+  "actifs_risques": [
+    "XRP",
+    "TRX"
+  ],
+  "last_claude_run": "2026-04-08T23:49:42.540967+00:00"
+}
