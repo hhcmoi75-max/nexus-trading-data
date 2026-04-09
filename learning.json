@@ -1,10 +1,10 @@
 {
   "version": 2,
   "weights": {
-    "technique": 0.529,
-    "macro": 0.184,
-    "sentiment": 0.138,
-    "onchain": 0.149
+    "technique": 0.519,
+    "macro": 0.18,
+    "sentiment": 0.135,
+    "onchain": 0.166
   },
   "thresholds": {
     "MIN_SCORE_BUY": 75,
@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-04-09T00:26:00.423072",
+    "last_update": "2026-04-09T00:31:01.858694",
     "win_rate_recent": 26.7
   },
   "asset_patterns": {
@@ -334,6 +334,24 @@
           "change_24h": 0.0,
           "pnl": -5.94,
           "result": "loss"
+        }
+      ]
+    },
+    "DOT": {
+      "trades": 1,
+      "wins": 1,
+      "losses": 0,
+      "win_rate": 100.0,
+      "avg_pnl": 1.4,
+      "best_rsi_range": null,
+      "avoid_conditions": [],
+      "favorable_conditions": [],
+      "last_trades": [
+        {
+          "rsi": 52.5,
+          "change_24h": -1.84806,
+          "pnl": 1.4,
+          "result": "win"
         }
       ]
     }
@@ -1178,17 +1196,43 @@
         "change_24h": 0.0,
         "type": "crypto"
       }
+    },
+    {
+      "asset": "DOT",
+      "action": "TRAILING_STOP",
+      "entry_price_eur": 1.0651126329,
+      "exit_price_eur": 1.08,
+      "pnl_pct": 1.4,
+      "pnl_eur": 0.7,
+      "amount_eur": 50,
+      "entry_time": "2026-04-02T23:19:55.450308",
+      "exit_time": "2026-04-09T00:31:08.371715",
+      "entry_rsi": 52.5,
+      "entry_score": 64,
+      "entry_change_24h": -1.84806,
+      "entry_snapshot": {
+        "score_technique": 48,
+        "score_macro": 45,
+        "score_sentiment": 35,
+        "score_momentum": 42,
+        "score_volume": 50,
+        "onchain_score": null,
+        "score": 64,
+        "rsi": 52.5,
+        "change_24h": -1.84806,
+        "type": "crypto"
+      }
     }
   ],
   "stats": {
-    "total_closed": 23,
-    "wins": 8,
-    "losses": 15,
-    "win_rate": 34.8,
-    "avg_pnl": -1.83,
-    "total_pnl": -41.98,
+    "total_closed": 36,
+    "wins": 11,
+    "losses": 25,
+    "win_rate": 30.6,
+    "avg_pnl": -1.11,
+    "total_pnl": -39.78,
     "best_trade": 13.87,
     "worst_trade": -7.79
   },
-  "last_update": "2026-04-09T00:26:18.223547"
+  "last_update": "2026-04-09T00:31:21.824225"
 }
