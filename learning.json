@@ -569,6 +569,86 @@
       }
     },
     {
+      "asset": "BTC",
+      "action": "TIMEOUT",
+      "entry_price_eur": 57511.95,
+      "exit_price_eur": 57511.95,
+      "pnl_pct": 0.0,
+      "entry_time": "2026-03-28T10:31:01.178085",
+      "exit_time": "2026-03-28T10:32:52.828697",
+      "entry_rsi": 50,
+      "entry_score": 69,
+      "entry_change_24h": 0.0,
+      "simulated": true,
+      "entry_snapshot": {
+        "score_technique": 48,
+        "score_macro": 50,
+        "score_sentiment": 50,
+        "onchain_score": 75,
+        "score": 69
+      }
+    },
+    {
+      "asset": "SOL",
+      "action": "TIMEOUT",
+      "entry_price_eur": 71.97,
+      "exit_price_eur": 71.97,
+      "pnl_pct": 0.0,
+      "entry_time": "2026-03-28T10:31:01.476171",
+      "exit_time": "2026-03-28T10:32:52.828715",
+      "entry_rsi": 50,
+      "entry_score": 67,
+      "entry_change_24h": 0.0,
+      "simulated": true,
+      "entry_snapshot": {
+        "score_technique": 48,
+        "score_macro": 50,
+        "score_sentiment": 50,
+        "onchain_score": null,
+        "score": 67
+      }
+    },
+    {
+      "asset": "DOGE",
+      "action": "TIMEOUT",
+      "entry_price_eur": 0.079486,
+      "exit_price_eur": 0.0795,
+      "pnl_pct": 0.0,
+      "entry_time": "2026-03-28T10:31:01.707743",
+      "exit_time": "2026-03-28T10:32:52.828723",
+      "entry_rsi": 50,
+      "entry_score": 67,
+      "entry_change_24h": 0.0,
+      "simulated": true,
+      "entry_snapshot": {
+        "score_technique": 48,
+        "score_macro": 50,
+        "score_sentiment": 50,
+        "onchain_score": null,
+        "score": 67
+      }
+    },
+    {
+      "asset": "BCH",
+      "action": "TIMEOUT",
+      "entry_price_eur": 414.542721,
+      "exit_price_eur": 412.35,
+      "pnl_pct": -0.53,
+      "entry_time": "2026-03-28T10:16:01.407592",
+      "exit_time": "2026-03-28T10:32:52.828730",
+      "entry_rsi": 63.0,
+      "entry_score": 83,
+      "entry_change_24h": 2.54,
+      "simulated": true,
+      "entry_snapshot": {
+        "score_technique": 47,
+        "score_macro": 50,
+        "score_sentiment": 50,
+        "onchain_score": null,
+        "score": 83
+      }
+    },
+    {
       "asset": "ARB",
       "action": "STOP_LOSS",
       "entry_price_eur": 0.08258378862755,
@@ -620,6 +700,166 @@
         "adx": 20.8,
         "psar_bull": 0,
         "above_ema200": 1
+      }
+    },
+    {
+      "asset": "BTC",
+      "action": "TIMEOUT",
+      "entry_price_eur": 57855.13,
+      "exit_price_eur": 58872.2817,
+      "pnl_pct": 1.76,
+      "entry_time": "2026-03-29T15:21:01.781725",
+      "exit_time": "2026-04-01T23:35:59.262943",
+      "entry_rsi": 50,
+      "entry_score": 66,
+      "entry_change_24h": 0.0,
+      "simulated": true,
+      "entry_snapshot": {
+        "score_technique": 48,
+        "score_macro": 50,
+        "score_sentiment": 50,
+        "onchain_score": 75,
+        "score": 66
+      }
+    },
+    {
+      "asset": "ETH",
+      "action": "TIMEOUT",
+      "entry_price_eur": 1850.271711,
+      "exit_price_eur": 1850.4706,
+      "pnl_pct": 0.01,
+      "entry_time": "2026-04-01T23:21:00.319344",
+      "exit_time": "2026-04-01T23:35:59.262962",
+      "entry_rsi": 45.0,
+      "entry_score": 66,
+      "entry_change_24h": 2.0,
+      "simulated": true,
+      "entry_snapshot": {
+        "score_technique": 52,
+        "score_macro": 50,
+        "score_sentiment": 50,
+        "onchain_score": null,
+        "score": 66
+      }
+    },
+    {
+      "asset": "ICP",
+      "action": "TIMEOUT",
+      "entry_price_eur": 1.97117,
+      "exit_price_eur": 1.9625,
+      "pnl_pct": -0.44,
+      "entry_time": "2026-04-01T23:16:00.833548",
+      "exit_time": "2026-04-01T23:35:59.262987",
+      "entry_rsi": 61.6,
+      "entry_score": 66,
+      "entry_change_24h": -0.86,
+      "simulated": true,
+      "entry_snapshot": {
+        "score_technique": 43,
+        "score_macro": 50,
+        "score_sentiment": 50,
+        "onchain_score": null,
+        "score": 66
+      }
+    },
+    {
+      "asset": "ICP",
+      "action": "TIMEOUT",
+      "entry_price_eur": 1.962525,
+      "exit_price_eur": 1.9625,
+      "pnl_pct": 0.0,
+      "entry_time": "2026-04-02T00:01:04.837494",
+      "exit_time": "2026-04-02T00:06:01.329850",
+      "entry_rsi": 61.6,
+      "entry_score": 67,
+      "entry_change_24h": -1.33,
+      "simulated": true,
+      "entry_snapshot": {
+        "score_technique": 45,
+        "score_macro": 50,
+        "score_sentiment": 50,
+        "onchain_score": null,
+        "score": 67
+      }
+    },
+    {
+      "asset": "ETH",
+      "action": "TIMEOUT",
+      "entry_price_eur": 1849.761628,
+      "exit_price_eur": 1849.7616,
+      "pnl_pct": 0.0,
+      "entry_time": "2026-04-02T00:35:58.519213",
+      "exit_time": "2026-04-02T00:40:58.403512",
+      "entry_rsi": 50.2,
+      "entry_score": 66,
+      "entry_change_24h": 1.98,
+      "simulated": true,
+      "entry_snapshot": {
+        "score_technique": 51,
+        "score_macro": 50,
+        "score_sentiment": 50,
+        "onchain_score": null,
+        "score": 66
+      }
+    },
+    {
+      "asset": "ADA",
+      "action": "TIMEOUT",
+      "entry_price_eur": 0.215475,
+      "exit_price_eur": 0.2155,
+      "pnl_pct": 0.0,
+      "entry_time": "2026-04-02T00:45:58.250586",
+      "exit_time": "2026-04-02T00:50:59.168829",
+      "entry_rsi": 51.3,
+      "entry_score": 65,
+      "entry_change_24h": 2.76,
+      "simulated": true,
+      "entry_snapshot": {
+        "score_technique": 50,
+        "score_macro": 50,
+        "score_sentiment": 50,
+        "onchain_score": null,
+        "score": 65
+      }
+    },
+    {
+      "asset": "ETH",
+      "action": "TIMEOUT",
+      "entry_price_eur": 1863.594401,
+      "exit_price_eur": 1863.5944,
+      "pnl_pct": 0.0,
+      "entry_time": "2026-04-02T01:00:59.027916",
+      "exit_time": "2026-04-02T01:05:57.975772",
+      "entry_rsi": 51.6,
+      "entry_score": 66,
+      "entry_change_24h": 2.22,
+      "simulated": true,
+      "entry_snapshot": {
+        "score_technique": 51,
+        "score_macro": 50,
+        "score_sentiment": 50,
+        "onchain_score": null,
+        "score": 66
+      }
+    },
+    {
+      "asset": "ADA",
+      "action": "TIMEOUT",
+      "entry_price_eur": 0.215295,
+      "exit_price_eur": 0.2153,
+      "pnl_pct": 0.0,
+      "entry_time": "2026-04-02T01:05:58.523802",
+      "exit_time": "2026-04-02T01:10:58.860025",
+      "entry_rsi": 51.3,
+      "entry_score": 65,
+      "entry_change_24h": 1.9,
+      "simulated": true,
+      "entry_snapshot": {
+        "score_technique": 50,
+        "score_macro": 50,
+        "score_sentiment": 50,
+        "onchain_score": null,
+        "score": 65
       }
     },
     {
@@ -704,6 +944,54 @@
       }
     },
     {
+      "asset": "SEI",
+      "action": "STOP_LOSS",
+      "entry_price_eur": 0.046513,
+      "exit_price_eur": 0.0442,
+      "pnl_pct": -4.97,
+      "entry_time": "2026-04-01T23:16:12.826248",
+      "exit_time": "2026-04-03T00:46:02.666976",
+      "entry_rsi": 50,
+      "entry_score": 60,
+      "entry_change_24h": 8.03,
+      "entry_snapshot": {
+        "score_technique": 50,
+        "score_macro": 50,
+        "score_sentiment": 50,
+        "score_momentum": 50,
+        "score_volume": 50,
+        "onchain_score": null,
+        "score": 60,
+        "rsi": 50,
+        "change_24h": 8.03,
+        "type": "crypto"
+      }
+    },
+    {
+      "asset": "ALGO",
+      "action": "TRAILING_STOP",
+      "entry_price_eur": 0.088876,
+      "exit_price_eur": 0.1012,
+      "pnl_pct": 13.87,
+      "entry_time": "2026-04-01T23:16:12.633489",
+      "exit_time": "2026-04-03T11:36:04.126393",
+      "entry_rsi": 50,
+      "entry_score": 60,
+      "entry_change_24h": 10.3,
+      "entry_snapshot": {
+        "score_technique": 50,
+        "score_macro": 50,
+        "score_sentiment": 50,
+        "score_momentum": 50,
+        "score_volume": 50,
+        "onchain_score": null,
+        "score": 60,
+        "rsi": 50,
+        "change_24h": 10.3,
+        "type": "crypto"
+      }
+    },
+    {
       "asset": "ALGO",
       "action": "TRAILING_STOP",
       "entry_price_eur": 0.088876,
@@ -762,6 +1050,110 @@
       }
     },
     {
+      "asset": "NEAR",
+      "action": "TRAILING_STOP",
+      "entry_price_eur": 0.9958370145,
+      "exit_price_eur": 1.0693,
+      "pnl_pct": 7.38,
+      "pnl_eur": 2.58,
+      "amount_eur": 35.0,
+      "entry_time": "2026-04-02T18:31:02.020361",
+      "exit_time": "2026-04-05T18:21:05.537750",
+      "entry_rsi": 45.9,
+      "entry_score": 66,
+      "entry_change_24h": -4.36041,
+      "entry_snapshot": {
+        "score_technique": 43,
+        "score_macro": 50,
+        "score_sentiment": 50,
+        "score_momentum": 42,
+        "score_volume": 50,
+        "onchain_score": null,
+        "score": 66,
+        "rsi": 45.9,
+        "change_24h": -4.36041,
+        "type": "crypto"
+      }
+    },
+    {
+      "asset": "XLM",
+      "action": "STOP_LOSS",
+      "entry_price_eur": 0.1442,
+      "exit_price_eur": 0.134,
+      "pnl_pct": -7.07,
+      "pnl_eur": -3.54,
+      "amount_eur": 50,
+      "entry_time": "2026-03-28T10:31:01.708372",
+      "exit_time": "2026-04-07T11:26:11.293601",
+      "entry_rsi": 50,
+      "entry_score": 64,
+      "entry_change_24h": 0.0,
+      "entry_snapshot": {
+        "score_technique": 48,
+        "score_macro": 50,
+        "score_sentiment": 50,
+        "score_momentum": 42,
+        "score_volume": 50,
+        "onchain_score": null,
+        "score": 64,
+        "rsi": 50,
+        "change_24h": 0.0,
+        "type": "crypto"
+      }
+    },
+    {
+      "asset": "UNI",
+      "action": "TRAILING_STOP",
+      "entry_price_eur": 2.68,
+      "exit_price_eur": 2.72,
+      "pnl_pct": 1.49,
+      "pnl_eur": 0.74,
+      "amount_eur": 50,
+      "entry_time": "2026-04-05T18:11:05.749596",
+      "exit_time": "2026-04-08T14:36:12.895042",
+      "entry_rsi": 50,
+      "entry_score": 64,
+      "entry_change_24h": 0.0,
+      "entry_snapshot": {
+        "score_technique": 48,
+        "score_macro": 50,
+        "score_sentiment": 50,
+        "score_momentum": 42,
+        "score_volume": 50,
+        "onchain_score": null,
+        "score": 64,
+        "rsi": 50,
+        "change_24h": 0.0,
+        "type": "crypto"
+      }
+    },
+    {
+      "asset": "FIL",
+      "action": "TRAILING_STOP",
+      "entry_price_eur": 0.745,
+      "exit_price_eur": 0.759,
+      "pnl_pct": 1.88,
+      "pnl_eur": 0.94,
+      "amount_eur": 50,
+      "entry_time": "2026-04-07T11:26:20.258799",
+      "exit_time": "2026-04-08T23:06:11.893228",
+      "entry_rsi": 49.47,
+      "entry_score": 68,
+      "entry_change_24h": 0.0,
+      "entry_snapshot": {
+        "score_technique": 48,
+        "score_macro": 65,
+        "score_sentiment": 55,
+        "score_momentum": 42,
+        "score_volume": 50,
+        "onchain_score": null,
+        "score": 68,
+        "rsi": 49.47,
+        "change_24h": 0.0,
+        "type": "crypto"
+      }
+    },
+    {
       "asset": "POL",
       "action": "STOP_LOSS",
       "entry_price_eur": 0.0808,
@@ -789,13 +1181,13 @@
     }
   ],
   "stats": {
-    "total_closed": 17,
-    "wins": 4,
-    "losses": 13,
-    "win_rate": 23.5,
-    "avg_pnl": -3.21,
-    "total_pnl": -54.56,
-    "best_trade": 12.29,
+    "total_closed": 23,
+    "wins": 8,
+    "losses": 15,
+    "win_rate": 34.8,
+    "avg_pnl": -1.83,
+    "total_pnl": -41.98,
+    "best_trade": 13.87,
     "worst_trade": -7.79
   },
   "last_update": "2026-04-09T00:01:20.948859"
