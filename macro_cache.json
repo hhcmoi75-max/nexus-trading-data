@@ -1,18 +1,18 @@
 {
-  "score_macro": 65,
-  "score_sentiment": 58,
-  "tendance_marche": "NEUTRE",
-  "contexte": "Les marchés crypto affichent une stabilité inhabituelle avec tous les actifs à 0% de variation, suggérant une consolidation après les récents mouvements. L'adoption institutionnelle se poursuit avec l'ETF Bitcoin de Morgan Stanley collectant 34M$ dès le premier jour, tandis que les régulations se renforcent notamment en Corée du Sud.",
-  "risque_principal": "Le win rate catastrophique de 25% et l'avg PnL négatif de -3.04% révèlent une inefficacité algorithmique critique nécessitant une révision complète de la stratégie.",
-  "opportunite_du_jour": "Les déclarations optimistes de Michael Saylor sur un potentiel bottom Bitcoin, couplées à l'afflux institutionnel, créent un contexte favorable pour des positions longues mesurées.",
+  "score_macro": 75,
+  "score_sentiment": 70,
+  "tendance_marche": "HAUSSIER",
+  "contexte": "Le marché crypto montre des signes de stabilisation avec Bitcoin franchissant les 72 000$ suite à l'optimisme sur un cessez-le-feu au Moyen-Orient. L'écosystème institutionnel se renforce avec les nominations d'anciens officiels SEC et l'intégration croissante du secteur crypto dans les mécanismes de sécurité traditionnels.",
+  "risque_principal": "Le win rate dégradé à 30.6% et le PnL moyen négatif révèlent une phase de marché difficile nécessitant une prudence extrême.",
+  "opportunite_du_jour": "Bitcoin bénéficie d'un momentum haussier soutenu par la détente géopolitique et pourrait prolonger sa progression au-dessus des 72K$.",
   "actifs_favorables": [
     "BTC",
     "ETH",
-    "XAU"
+    "BNB"
   ],
   "actifs_risques": [
-    "TRX",
-    "XRP"
+    "XAG",
+    "TRX"
   ],
-  "last_claude_run": "2026-04-08T23:54:15.229323+00:00"
+  "last_claude_run": "2026-04-09T18:31:12.734700+00:00"
 }
