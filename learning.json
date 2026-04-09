@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-04-09T23:31:02.468033",
+    "last_update": "2026-04-09T23:35:59.963879",
     "win_rate_recent": 30.0
   },
   "asset_patterns": {
@@ -352,6 +352,24 @@
           "change_24h": -1.84806,
           "pnl": 1.4,
           "result": "win"
+        }
+      ]
+    },
+    "TON": {
+      "trades": 1,
+      "wins": 0,
+      "losses": 1,
+      "win_rate": 0.0,
+      "avg_pnl": -0.27,
+      "best_rsi_range": null,
+      "avoid_conditions": [],
+      "favorable_conditions": [],
+      "last_trades": [
+        {
+          "rsi": 63.9,
+          "change_24h": 0.01111,
+          "pnl": -0.27,
+          "result": "loss"
         }
       ]
     }
@@ -1222,17 +1240,43 @@
         "change_24h": -1.84806,
         "type": "crypto"
       }
+    },
+    {
+      "asset": "TON",
+      "action": "TRAILING_STOP",
+      "entry_price_eur": 1.0747553184,
+      "exit_price_eur": 1.0719,
+      "pnl_pct": -0.27,
+      "pnl_eur": -0.14,
+      "amount_eur": 50,
+      "entry_time": "2026-03-30T06:27:27.487543",
+      "exit_time": "2026-04-09T23:36:17.719071",
+      "entry_rsi": 63.9,
+      "entry_score": 65,
+      "entry_change_24h": 0.01111,
+      "entry_snapshot": {
+        "score_technique": 44,
+        "score_macro": 35,
+        "score_sentiment": 25,
+        "score_momentum": 42,
+        "score_volume": 50,
+        "onchain_score": null,
+        "score": 65,
+        "rsi": 63.9,
+        "change_24h": 0.01111,
+        "type": "crypto"
+      }
     }
   ],
   "stats": {
-    "total_closed": 36,
+    "total_closed": 37,
     "wins": 11,
-    "losses": 25,
-    "win_rate": 30.6,
-    "avg_pnl": -1.11,
-    "total_pnl": -39.78,
+    "losses": 26,
+    "win_rate": 29.7,
+    "avg_pnl": -1.08,
+    "total_pnl": -40.05,
     "best_trade": 13.87,
     "worst_trade": -7.79
   },
-  "last_update": "2026-04-09T23:31:20.329756"
+  "last_update": "2026-04-09T23:36:19.592323"
 }
