@@ -1,18 +1,18 @@
 {
-  "score_macro": 75,
-  "score_sentiment": 70,
-  "tendance_marche": "HAUSSIER",
-  "contexte": "Le marché crypto montre des signes de stabilisation avec Bitcoin franchissant les 72 000$ suite à l'optimisme sur un cessez-le-feu au Moyen-Orient. L'écosystème institutionnel se renforce avec les nominations d'anciens officiels SEC et l'intégration croissante du secteur crypto dans les mécanismes de sécurité traditionnels.",
-  "risque_principal": "Le win rate dégradé à 30.6% et le PnL moyen négatif révèlent une phase de marché difficile nécessitant une prudence extrême.",
-  "opportunite_du_jour": "Bitcoin bénéficie d'un momentum haussier soutenu par la détente géopolitique et pourrait prolonger sa progression au-dessus des 72K$.",
+  "score_macro": 35,
+  "score_sentiment": 40,
+  "tendance_marche": "BAISSIER",
+  "contexte": "Les marchés crypto montrent une stagnation généralisée avec Bitcoin qui échoue pour la troisième fois à percer les 73000$ depuis le cessez-le-feu. Les préoccupations concernant les menaces quantiques sur Bitcoin et la baisse d'ETH, SOL et DOGE reflètent un sentiment de faiblesse technique.",
+  "risque_principal": "L'échec répété de Bitcoin à franchir la résistance majeure suggère un essoufflement haussier imminent.",
+  "opportunite_du_jour": "XRP présente une breakout technique vers 1.35$ avec une résistance relative aux menaces quantiques selon les experts.",
   "actifs_favorables": [
-    "BTC",
-    "ETH",
-    "BNB"
-  ],
-  "actifs_risques": [
+    "XRP",
     "XAG",
     "TRX"
   ],
-  "last_claude_run": "2026-04-09T18:31:12.734700+00:00"
+  "actifs_risques": [
+    "BTC",
+    "ETH"
+  ],
+  "last_claude_run": "2026-04-10T06:34:34.350732+00:00"
 }
