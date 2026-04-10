@@ -1,18 +1,18 @@
 {
-  "score_macro": 35,
-  "score_sentiment": 40,
-  "tendance_marche": "BAISSIER",
-  "contexte": "Les marchés crypto montrent une stagnation généralisée avec Bitcoin qui échoue pour la troisième fois à percer les 73000$ depuis le cessez-le-feu. Les préoccupations concernant les menaces quantiques sur Bitcoin et la baisse d'ETH, SOL et DOGE reflètent un sentiment de faiblesse technique.",
-  "risque_principal": "L'échec répété de Bitcoin à franchir la résistance majeure suggère un essoufflement haussier imminent.",
-  "opportunite_du_jour": "XRP présente une breakout technique vers 1.35$ avec une résistance relative aux menaces quantiques selon les experts.",
+  "score_macro": 65,
+  "score_sentiment": 45,
+  "tendance_marche": "NEUTRE",
+  "contexte": "L'inflation US plus faible qu'attendu est positive mais insuffisante pour une baisse de taux en avril, créant un environnement macro mitigé. Le sentiment crypto reste fragile avec des conflits entre dirigeants d'exchanges et la chute du token WLFI de Trump.",
+  "risque_principal": "Le win rate dramatiquement faible du bot (29.7%) avec des pertes moyennes nécessite une révision complète de la stratégie avant tout nouveau trade.",
+  "opportunite_du_jour": "Bitcoin montre des signaux haussiers selon les traders avec un objectif 88K EUR, mais attendre confirmation avant exposition.",
   "actifs_favorables": [
-    "XRP",
-    "XAG",
-    "TRX"
+    "BTC",
+    "ETH",
+    "XAU"
   ],
   "actifs_risques": [
-    "BTC",
-    "ETH"
+    "HBAR",
+    "TRX"
   ],
-  "last_claude_run": "2026-04-10T06:34:34.350732+00:00"
+  "last_claude_run": "2026-04-10T18:36:09.894162+00:00"
 }
