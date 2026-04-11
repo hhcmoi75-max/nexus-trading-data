@@ -1,34 +1,36 @@
 {
   "lecons_cles": [
+    "Le win rate de 41.4% est insuffisant avec un PnL moyen négatif, indiquant un problème de sélectivité",
+    "Les gains maximums (+13.9%) dépassent largement les pertes maximales (-7.8%), suggérant une asymétrie positive des trades gagnants",
+    "Certains actifs montrent une performance parfaite (100% win rate) sur un échantillon réduit, révélant des opportunités de spécialisation",
     "Le win rate de 29.7% est insuffisant pour compenser les pertes moyennes de -1.08%",
     "Les gains sur ALGO sont exceptionnels (+13.9%, +12.3%) mais peu fréquents",
     "La diversification excessive nuit aux performances avec des actifs systématiquement perdants",
     "Le win rate de 25% est insuffisant et indique un problème de sélection d'entrée",
     "Les gains moyens sur les trades gagnants (+6.2%) dépassent largement les pertes moyennes (-7.4%), révélant un déséquilibre dans la gestion des risques",
     "La concentration des gains sur peu d'actifs (BTC, TRX, ALGO) suggère une approche trop dispersée",
-    "Le win rate de 25% est très faible et indique un problème majeur dans les critères d'entrée",
-    "Les gains moyens des trades gagnants (+6.3%) sont inférieurs aux pertes moyennes des trades perdants (-7.4%)",
-    "La concentration sur BTC, ALGO et TRX montre 100% de réussite mais sur un échantillon très restreint"
+    "Le win rate de 25% est très faible et indique un problème majeur dans les critères d'entrée"
   ],
   "actifs_a_privilegier": [
     "ALGO",
+    "BTC",
     "TRX",
-    "BTC"
+    "DOT"
   ],
   "actifs_a_eviter": [
-    "FIL",
     "ETH",
     "SOL",
+    "FIL",
     "APT"
   ],
-  "conditions_favorables": "Concentration sur les crypto-monnaies alternatives performantes (ALGO, TRX, DOT) avec évitement des grandes capitalisations traditionnelles",
-  "erreurs_recurrentes": "Trading trop fréquent avec un seuil d'entrée trop bas générant plus de positions perdantes, et gestion du risque insuffisante avec des pertes moyennes trop importantes",
+  "conditions_favorables": "Le bot performe mieux sur les altcoins de moyenne capitalisation (ALGO, TRX, DOT) et évite les grandes caps traditionnelles qui semblent moins prévisibles",
+  "erreurs_recurrentes": "Trop de trades sont exécutés sans filtrage suffisant, diluant la performance avec des setups de faible qualité sur des actifs peu adaptés à la stratégie",
   "recommandation_seuil_buy": 75,
   "recommandation_stop_loss": 0.06,
-  "strategie_recommandee": "Réduire drastiquement le nombre de positions en se concentrant uniquement sur ALGO et TRX avec des critères d'entrée plus stricts. Augmenter la taille des positions gagnantes tout en limitant l'exposition aux actifs défaillants identifiés.",
-  "last_distillation": "2026-04-10T06:33:19.197600+00:00",
-  "trades_analyzed": 37,
-  "win_rate_at_distill": 29.7,
+  "strategie_recommandee": "Concentrer les trades sur les 4-5 actifs les plus performants identifiés et augmenter drastiquement la sélectivité. Réduire la fréquence de trading de 30-40% pour ne garder que les setups de plus haute conviction.",
+  "last_distillation": "2026-04-11T20:26:07.846927+00:00",
+  "trades_analyzed": 41,
+  "win_rate_at_distill": 41.4,
   "traders": {
     "Warren Buffett": {
       "style": "Value Investing - Long terme",
