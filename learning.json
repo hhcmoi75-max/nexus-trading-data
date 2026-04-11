@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-04-11T00:01:00.538171",
+    "last_update": "2026-04-11T00:06:12.032796",
     "win_rate_recent": 30.0
   },
   "asset_patterns": {
@@ -401,7 +401,8 @@
       "entry_weekday": 5,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 2
     },
     {
       "asset": "BTC",
@@ -429,7 +430,8 @@
       "entry_weekday": 5,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 2
     },
     {
       "asset": "FIL",
@@ -461,7 +463,8 @@
       "entry_weekday": 4,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 1
     },
     {
       "asset": "MSFT",
@@ -490,7 +493,8 @@
       "entry_weekday": 4,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 0
     },
     {
       "asset": "NEAR",
@@ -522,7 +526,8 @@
       "entry_weekday": 4,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 0
     },
     {
       "asset": "ETH",
@@ -554,7 +559,8 @@
       "entry_weekday": 4,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 0
     },
     {
       "asset": "SOL",
@@ -586,7 +592,8 @@
       "entry_weekday": 4,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 0
     },
     {
       "asset": "APT",
@@ -618,7 +625,8 @@
       "entry_weekday": 2,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 0
     },
     {
       "asset": "NVDA",
@@ -647,7 +655,8 @@
       "entry_weekday": 4,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 0
     },
     {
       "asset": "BTC",
@@ -672,7 +681,8 @@
       "entry_weekday": 5,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 5
     },
     {
       "asset": "SOL",
@@ -697,7 +707,8 @@
       "entry_weekday": 5,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 5
     },
     {
       "asset": "DOGE",
@@ -722,7 +733,8 @@
       "entry_weekday": 5,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 5
     },
     {
       "asset": "BCH",
@@ -747,7 +759,8 @@
       "entry_weekday": 5,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 5
     },
     {
       "asset": "ARB",
@@ -779,7 +792,8 @@
       "entry_weekday": 3,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 0
     },
     {
       "asset": "TRX",
@@ -811,7 +825,8 @@
       "entry_weekday": 4,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 2
     },
     {
       "asset": "BTC",
@@ -836,7 +851,8 @@
       "entry_weekday": 6,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 5
     },
     {
       "asset": "ETH",
@@ -861,7 +877,8 @@
       "entry_weekday": 2,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 5
     },
     {
       "asset": "ICP",
@@ -886,7 +903,8 @@
       "entry_weekday": 2,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 5
     },
     {
       "asset": "ICP",
@@ -911,7 +929,8 @@
       "entry_weekday": 3,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 5
     },
     {
       "asset": "ETH",
@@ -936,7 +955,8 @@
       "entry_weekday": 3,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 5
     },
     {
       "asset": "ADA",
@@ -961,7 +981,8 @@
       "entry_weekday": 3,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 5
     },
     {
       "asset": "ETH",
@@ -986,7 +1007,8 @@
       "entry_weekday": 3,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 5
     },
     {
       "asset": "ADA",
@@ -1011,7 +1033,8 @@
       "entry_weekday": 3,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 5
     },
     {
       "asset": "BNB",
@@ -1043,7 +1066,8 @@
       "entry_weekday": 1,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 0
     },
     {
       "asset": "XLM",
@@ -1075,7 +1099,8 @@
       "entry_weekday": 2,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 0
     },
     {
       "asset": "OP",
@@ -1107,7 +1132,8 @@
       "entry_weekday": 0,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 1
     },
     {
       "asset": "SEI",
@@ -1136,7 +1162,8 @@
       "entry_weekday": 2,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 0
     },
     {
       "asset": "ALGO",
@@ -1165,7 +1192,8 @@
       "entry_weekday": 2,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 2
     },
     {
       "asset": "ALGO",
@@ -1199,7 +1227,8 @@
       "entry_weekday": 2,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 2
     },
     {
       "asset": "BCH",
@@ -1233,7 +1262,8 @@
       "entry_weekday": 6,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 0
     },
     {
       "asset": "NEAR",
@@ -1264,7 +1294,8 @@
       "entry_weekday": 3,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 2
     },
     {
       "asset": "XLM",
@@ -1295,7 +1326,8 @@
       "entry_weekday": 5,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 0
     },
     {
       "asset": "UNI",
@@ -1326,7 +1358,8 @@
       "entry_weekday": 6,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 2
     },
     {
       "asset": "FIL",
@@ -1357,7 +1390,8 @@
       "entry_weekday": 1,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 2
     },
     {
       "asset": "POL",
@@ -1388,7 +1422,8 @@
       "entry_weekday": 0,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 0
     },
     {
       "asset": "DOT",
@@ -1419,7 +1454,8 @@
       "entry_weekday": 3,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 2
     },
     {
       "asset": "TON",
@@ -1450,7 +1486,8 @@
       "entry_weekday": 0,
       "btc_status": "neutral",
       "btc_change_at_entry": 0.0,
-      "claude_confidence": 50
+      "claude_confidence": 50,
+      "exit_type_code": 1
     }
   ],
   "stats": {
@@ -1463,6 +1500,6 @@
     "best_trade": 13.87,
     "worst_trade": -7.79
   },
-  "last_update": "2026-04-11T00:01:18.620616",
-  "ml_accuracy": 81.1
+  "last_update": "2026-04-11T00:06:59.567375",
+  "ml_accuracy": 78.6
 }
