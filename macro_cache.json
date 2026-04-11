@@ -2,17 +2,17 @@
   "score_macro": 35,
   "score_sentiment": 25,
   "tendance_marche": "BAISSIER",
-  "contexte": "Le marché crypto traverse une phase de consolidation négative avec des nouvelles majoritairement défavorables, notamment la vente massive de Bitcoin par le Bhoutan qui représente 70% de ses réserves en 18 mois. Les conflits entre figures emblématiques comme Star Xu et CZ créent une incertitude supplémentaire sur la gouvernance du secteur.",
-  "risque_principal": "La liquidation continue des positions institutionnelles comme celle du Bhoutan pourrait déclencher une pression vendeuse en cascade sur Bitcoin.",
-  "opportunite_du_jour": "XRP montre des signaux techniques de retournement après avoir maintenu ses supports clés, offrant un potentiel de rebond à court terme.",
+  "contexte": "Le marché crypto traverse une phase de consolidation difficile avec des signaux d'épuisement des vendeurs sur Bitcoin mais un sentiment général dégradé. Les négociations géopolitiques US-Iran apportent une incertitude supplémentaire tandis que l'effondrement du deal SPAC Ether Machine à 1,6 milliard témoigne de conditions de marché défavorables.",
+  "risque_principal": "Le squeeze potentiel des positions courtes avec 25 milliards d'open interest pourrait créer une volatilité extrême défavorable aux stratégies algorithmiques actuelles.",
+  "opportunite_du_jour": "La baisse des pertes réalisées sur Bitcoin suggère un possible plancher technique à surveiller pour un retournement.",
   "actifs_favorables": [
-    "XRP",
-    "ETH",
-    "BNB"
+    "XAU",
+    "XAG",
+    "TRX"
   ],
   "actifs_risques": [
     "BTC",
-    "SOL"
+    "ETH"
   ],
-  "last_claude_run": "2026-04-11T06:41:09.398960+00:00"
+  "last_claude_run": "2026-04-11T18:46:10.273264+00:00"
 }
