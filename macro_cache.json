@@ -1,18 +1,18 @@
 {
-  "score_macro": 65,
-  "score_sentiment": 45,
-  "tendance_marche": "NEUTRE",
-  "contexte": "L'inflation US plus faible qu'attendu est positive mais insuffisante pour une baisse de taux en avril, créant un environnement macro mitigé. Le sentiment crypto reste fragile avec des conflits entre dirigeants d'exchanges et la chute du token WLFI de Trump.",
-  "risque_principal": "Le win rate dramatiquement faible du bot (29.7%) avec des pertes moyennes nécessite une révision complète de la stratégie avant tout nouveau trade.",
-  "opportunite_du_jour": "Bitcoin montre des signaux haussiers selon les traders avec un objectif 88K EUR, mais attendre confirmation avant exposition.",
+  "score_macro": 35,
+  "score_sentiment": 25,
+  "tendance_marche": "BAISSIER",
+  "contexte": "Le marché crypto traverse une phase de consolidation négative avec des nouvelles majoritairement défavorables, notamment la vente massive de Bitcoin par le Bhoutan qui représente 70% de ses réserves en 18 mois. Les conflits entre figures emblématiques comme Star Xu et CZ créent une incertitude supplémentaire sur la gouvernance du secteur.",
+  "risque_principal": "La liquidation continue des positions institutionnelles comme celle du Bhoutan pourrait déclencher une pression vendeuse en cascade sur Bitcoin.",
+  "opportunite_du_jour": "XRP montre des signaux techniques de retournement après avoir maintenu ses supports clés, offrant un potentiel de rebond à court terme.",
   "actifs_favorables": [
-    "BTC",
+    "XRP",
     "ETH",
-    "XAU"
+    "BNB"
   ],
   "actifs_risques": [
-    "HBAR",
-    "TRX"
+    "BTC",
+    "SOL"
   ],
-  "last_claude_run": "2026-04-10T18:36:09.894162+00:00"
+  "last_claude_run": "2026-04-11T06:41:09.398960+00:00"
 }
