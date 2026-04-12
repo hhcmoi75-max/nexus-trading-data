@@ -9,11 +9,11 @@
   "thresholds": {
     "MIN_SCORE_BUY": 65,
     "MAX_SCORE_SELL": 40,
-    "RSI_OVERSOLD": 26,
+    "RSI_OVERSOLD": 25,
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-04-12T21:54:05.149543",
+    "last_update": "2026-04-12T21:57:10.948638",
     "win_rate_recent": 80.0
   },
   "asset_patterns": {
@@ -2258,6 +2258,6 @@
     "best_trade": 13.87,
     "worst_trade": -7.79
   },
-  "last_update": "2026-04-12T21:54:55.297475",
+  "last_update": "2026-04-12T21:58:03.568533",
   "ml_accuracy": 76.1
 }
