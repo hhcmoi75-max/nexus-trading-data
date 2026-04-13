@@ -1,18 +1,18 @@
 {
-  "score_macro": 45,
-  "score_sentiment": 35,
-  "tendance_marche": "BAISSIER",
-  "contexte": "Bitcoin fait face à une résistance critique à 88 000$ tandis que des tensions émergent dans l'écosystème DeFi avec le conflit WLFI-Justin Sun. Les régulateurs intensifient leur surveillance avec les propositions de circuit breakers crypto de la Banque de Corée et les débats CFTC sur les marchés de prédiction.",
-  "risque_principal": "La résistance technique majeure de Bitcoin à 88 000$ pourrait déclencher une correction significative sur l'ensemble du marché crypto.",
-  "opportunite_du_jour": "L'accumulation de whales TRUMP avant l'événement Mar-a-Lago présente un potentiel de momentum court terme malgré le sentiment général défavorable.",
+  "score_macro": 65,
+  "score_sentiment": 55,
+  "tendance_marche": "NEUTRE",
+  "contexte": "Le marché crypto montre une consolidation avec des prix stables sur tous les actifs majeurs, reflétant une attente prudente des investisseurs. Les développements réglementaires américains positifs (SEC, White House) contrebalancent les préoccupations sécuritaires (Kraken, risques quantiques).",
+  "risque_principal": "Les menaces sécuritaires émergentes (tentatives d'extorsion sur Kraken et vulnérabilités quantiques des wallets Bitcoin dormants) créent une incertitude technique majeure.",
+  "opportunite_du_jour": "Les positions short Bitcoin au-dessus de 70K présentent un risque élevé selon l'analyse technique suggérant que 90% de la correction est déjà réalisée.",
   "actifs_favorables": [
-    "TRX",
-    "XAU",
-    "XAG"
+    "BTC",
+    "ETH",
+    "SOL"
   ],
   "actifs_risques": [
-    "BTC",
-    "ETH"
+    "TRX",
+    "XRP"
   ],
-  "last_claude_run": "2026-04-13T06:56:10.700822+00:00"
+  "last_claude_run": "2026-04-13T19:11:12.018970+00:00"
 }
