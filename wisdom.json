@@ -30,7 +30,7 @@
   "strategie_recommandee": "Concentrer les trades sur les 4-5 actifs les plus performants identifi\u00e9s et augmenter drastiquement la s\u00e9lectivit\u00e9. R\u00e9duire la fr\u00e9quence de trading de 30-40% pour ne garder que les setups de plus haute conviction.",
   "last_distillation": "2026-04-12T21:59:22.164011+00:00",
   "trades_analyzed": 41,
-  "win_rate_at_distill": 59.6,
+  "win_rate_at_distill": 50.0,
   "traders": {
     "Warren Buffett": {
       "style": "Value Investing - Long terme",
