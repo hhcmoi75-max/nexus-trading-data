@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-04-14T12:36:00.819536",
+    "last_update": "2026-04-14T12:41:01.266945",
     "win_rate_recent": 93.3
   },
   "asset_patterns": {
@@ -2541,6 +2541,27 @@
         "btc_status": "ok",
         "claude_confidence": 50
       }
+    },
+    {
+      "asset": "ETC",
+      "action": "MTF_SELL_EXIT",
+      "entry_price_eur": 7.0395,
+      "exit_price_eur": 7.1509,
+      "pnl_pct": 1.58,
+      "pnl_eur": 0.06,
+      "amount_eur": 3.6,
+      "entry_time": "2026-04-12T01:46:35.181483+00:00",
+      "exit_time": "2026-04-14T12:41:29.280204+00:00",
+      "exit_type_code": 2,
+      "entry_score": 65,
+      "entry_rsi": 33.36,
+      "btc_status": "ok",
+      "entry_hour_utc": 1,
+      "entry_weekday": 6,
+      "confluence_signal": "SELL",
+      "aligned_timeframes": 2,
+      "simulated": false,
+      "partial": true
     }
   ],
   "stats": {
@@ -2553,6 +2574,6 @@
     "best_trade": 13.87,
     "worst_trade": -7.79
   },
-  "last_update": "2026-04-14T12:36:50.724000",
+  "last_update": "2026-04-14T12:41:51.084850",
   "ml_accuracy": 76.7
 }
