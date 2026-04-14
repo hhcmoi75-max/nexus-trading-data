@@ -1,18 +1,18 @@
 {
-  "score_macro": 35,
-  "score_sentiment": 25,
-  "tendance_marche": "BAISSIER",
-  "contexte": "Le marché crypto traverse une période de consolidation baissière avec des ventes massives de figures emblématiques comme Steve Aoki et des perspectives mitigées malgré l'assouplissement monétaire japonais. Les NFTs subissent des pertes dramatiques (-88% sur les Bored Apes) et les analystes anticipent encore une correction vers 50k$ sur Bitcoin.",
-  "risque_principal": "Les prédictions d'un 'final flush' vers 50k$ sur Bitcoin pourraient déclencher une liquidation en cascade sur l'ensemble du marché crypto.",
-  "opportunite_du_jour": "L'assouplissement de la politique monétaire japonaise pourrait créer des opportunités d'accumulation sur les niveaux de support clés.",
+  "score_macro": 72,
+  "score_sentiment": 75,
+  "tendance_marche": "HAUSSIER",
+  "contexte": "Le contexte macro est favorable avec un futur président de la Fed ayant une exposition crypto et Rakuten intégrant XRP pour 44 millions d'utilisateurs, signalant une adoption institutionnelle croissante. L'Ethereum Foundation lance un programme d'audit de $1M et Visa renforce sa présence blockchain, consolidant l'infrastructure crypto.",
+  "risque_principal": "La faille de sécurité sur une plateforme DeFi populaire rappelle les risques systémiques du secteur et pourrait créer une aversion temporaire au risque.",
+  "opportunite_du_jour": "ETH présente un setup technique prometteur avec un fractal 2025 suggérant un potentiel rally de 250%, soutenu par les initiatives de sécurisation de l'écosystème.",
   "actifs_favorables": [
-    "XAU",
-    "XAG",
+    "ETH",
+    "XRP",
     "BTC"
   ],
   "actifs_risques": [
-    "ETH",
-    "PEPE"
+    "SOL",
+    "TRX"
   ],
-  "last_claude_run": "2026-04-14T07:16:10.201961+00:00"
+  "last_claude_run": "2026-04-14T19:21:12.810501+00:00"
 }
