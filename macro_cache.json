@@ -1,18 +1,18 @@
 {
-  "score_macro": 72,
-  "score_sentiment": 75,
-  "tendance_marche": "HAUSSIER",
-  "contexte": "Le contexte macro est favorable avec un futur président de la Fed ayant une exposition crypto et Rakuten intégrant XRP pour 44 millions d'utilisateurs, signalant une adoption institutionnelle croissante. L'Ethereum Foundation lance un programme d'audit de $1M et Visa renforce sa présence blockchain, consolidant l'infrastructure crypto.",
-  "risque_principal": "La faille de sécurité sur une plateforme DeFi populaire rappelle les risques systémiques du secteur et pourrait créer une aversion temporaire au risque.",
-  "opportunite_du_jour": "ETH présente un setup technique prometteur avec un fractal 2025 suggérant un potentiel rally de 250%, soutenu par les initiatives de sécurisation de l'écosystème.",
+  "score_macro": 45,
+  "score_sentiment": 55,
+  "tendance_marche": "NEUTRE",
+  "contexte": "Le marché crypto présente une stabilité trompeuse avec tous les actifs à 0% de variation, masquant des développements majeurs comme la perte de 3.8 milliards de Bitmine et les préoccupations quantiques sur Bitcoin. Le sentiment Reddit modéré (50/100) et l'amélioration du ratio ETH/BTC depuis les plus bas de 2026 suggèrent une consolidation avant mouvement directionnel.",
+  "risque_principal": "Les menaces de sécurité se multiplient avec les attaques d'ingénierie sociale IA des hackers nord-coréens et les vulnérabilités quantiques potentielles de Bitcoin.",
+  "opportunite_du_jour": "XRP bénéficie de l'adoption concrète avec l'intégration Rakuten au Japon, offrant un catalyseur fondamental fort vers 1.38EUR.",
   "actifs_favorables": [
-    "ETH",
     "XRP",
-    "BTC"
+    "ETH",
+    "SOL"
   ],
   "actifs_risques": [
-    "SOL",
-    "TRX"
+    "BTC",
+    "BNB"
   ],
-  "last_claude_run": "2026-04-14T19:21:12.810501+00:00"
+  "last_claude_run": "2026-04-15T07:26:11.674468+00:00"
 }
