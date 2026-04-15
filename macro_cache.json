@@ -1,18 +1,18 @@
 {
-  "score_macro": 45,
-  "score_sentiment": 55,
-  "tendance_marche": "NEUTRE",
-  "contexte": "Le marché crypto présente une stabilité trompeuse avec tous les actifs à 0% de variation, masquant des développements majeurs comme la perte de 3.8 milliards de Bitmine et les préoccupations quantiques sur Bitcoin. Le sentiment Reddit modéré (50/100) et l'amélioration du ratio ETH/BTC depuis les plus bas de 2026 suggèrent une consolidation avant mouvement directionnel.",
-  "risque_principal": "Les menaces de sécurité se multiplient avec les attaques d'ingénierie sociale IA des hackers nord-coréens et les vulnérabilités quantiques potentielles de Bitcoin.",
-  "opportunite_du_jour": "XRP bénéficie de l'adoption concrète avec l'intégration Rakuten au Japon, offrant un catalyseur fondamental fort vers 1.38EUR.",
+  "score_macro": 72,
+  "score_sentiment": 68,
+  "tendance_marche": "HAUSSIER",
+  "contexte": "L'adoption institutionnelle massive se poursuit avec 68 milliards de dollars de fonds britanniques tokenisés et Tether renforçant ses réserves Bitcoin. Cependant, les préoccupations de sécurité quantique et la résistance de Wall Street aux promesses de décentralisation créent des incertitudes.",
+  "risque_principal": "La proposition Bitcoin de gel des coins liés au quantique pourrait créer de la volatilité et questionner la fongibilité de l'actif.",
+  "opportunite_du_jour": "L'arrivée de 50 milliards de livres de fonds de liquidité tokenisés ouvre de nouveaux flux institutionnels massifs.",
   "actifs_favorables": [
-    "XRP",
-    "ETH",
-    "SOL"
-  ],
-  "actifs_risques": [
     "BTC",
+    "ETH",
     "BNB"
   ],
-  "last_claude_run": "2026-04-15T07:26:11.674468+00:00"
+  "actifs_risques": [
+    "XRP",
+    "TRX"
+  ],
+  "last_claude_run": "2026-04-15T19:31:16.855885+00:00"
 }
