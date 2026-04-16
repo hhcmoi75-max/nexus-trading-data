@@ -1,18 +1,18 @@
 {
-  "score_macro": 72,
-  "score_sentiment": 68,
-  "tendance_marche": "HAUSSIER",
-  "contexte": "L'adoption institutionnelle massive se poursuit avec 68 milliards de dollars de fonds britanniques tokenisés et Tether renforçant ses réserves Bitcoin. Cependant, les préoccupations de sécurité quantique et la résistance de Wall Street aux promesses de décentralisation créent des incertitudes.",
-  "risque_principal": "La proposition Bitcoin de gel des coins liés au quantique pourrait créer de la volatilité et questionner la fongibilité de l'actif.",
-  "opportunite_du_jour": "L'arrivée de 50 milliards de livres de fonds de liquidité tokenisés ouvre de nouveaux flux institutionnels massifs.",
+  "score_macro": 65,
+  "score_sentiment": 58,
+  "tendance_marche": "NEUTRE",
+  "contexte": "Bitcoin consolide autour des 75 000$ après avoir testé des résistances clés de janvier, tandis que les débats sur la sécurité quantique créent de l'incertitude technique. Le marché crypto montre des signes de pause avec un sentiment Reddit modéré à 50/100, mais Dogecoin surperforme avec +4.5%.",
+  "risque_principal": "La résistance technique majeure de Bitcoin autour de 75 000$ pourrait déclencher une correction si elle n'est pas franchie.",
+  "opportunite_du_jour": "Dogecoin montre une dynamique haussière claire avec une surperformance de 4.5% dans un marché stagnant.",
   "actifs_favorables": [
-    "BTC",
-    "ETH",
-    "BNB"
+    "XAG",
+    "DOGE",
+    "SOL"
   ],
   "actifs_risques": [
-    "XRP",
-    "TRX"
+    "BTC",
+    "ETH"
   ],
-  "last_claude_run": "2026-04-15T19:31:16.855885+00:00"
+  "last_claude_run": "2026-04-16T07:36:10.592903+00:00"
 }
