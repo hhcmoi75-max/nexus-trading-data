@@ -1,18 +1,18 @@
 {
   "score_macro": 65,
-  "score_sentiment": 58,
+  "score_sentiment": 55,
   "tendance_marche": "NEUTRE",
-  "contexte": "Bitcoin consolide autour des 75 000$ après avoir testé des résistances clés de janvier, tandis que les débats sur la sécurité quantique créent de l'incertitude technique. Le marché crypto montre des signes de pause avec un sentiment Reddit modéré à 50/100, mais Dogecoin surperforme avec +4.5%.",
-  "risque_principal": "La résistance technique majeure de Bitcoin autour de 75 000$ pourrait déclencher une correction si elle n'est pas franchie.",
-  "opportunite_du_jour": "Dogecoin montre une dynamique haussière claire avec une surperformance de 4.5% dans un marché stagnant.",
+  "contexte": "Le marché crypto traverse une phase de consolidation avec Bitcoin qui peine à maintenir ses breakouts au-dessus de 74000$ malgré des perspectives techniques haussières identifiées par les analystes. La régulation américaine évolue positivement avec l'usage de l'IA par la CFTC, mais les préoccupations quantiques sur Bitcoin et les ventes massives des mineurs publics en Q1 2026 créent une pression baissière.",
+  "risque_principal": "L'échec répété des breakouts Bitcoin combiné aux ventes record des mineurs publics pourrait déclencher une correction plus marquée sur l'ensemble du marché crypto.",
+  "opportunite_du_jour": "La consolidation actuelle avec des prix stables à 0% offre des points d'entrée techniques intéressants sur les altcoins de qualité avant un potentiel rebond.",
   "actifs_favorables": [
-    "XAG",
-    "DOGE",
-    "SOL"
+    "ETH",
+    "SOL",
+    "BNB"
   ],
   "actifs_risques": [
     "BTC",
-    "ETH"
+    "XRP"
   ],
-  "last_claude_run": "2026-04-16T07:36:10.592903+00:00"
+  "last_claude_run": "2026-04-16T19:41:15.226565+00:00"
 }
