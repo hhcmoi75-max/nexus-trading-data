@@ -1,10 +1,10 @@
 {
   "version": 2,
   "weights": {
-    "technique": 0.53,
-    "macro": 0.196,
-    "sentiment": 0.089,
-    "onchain": 0.185
+    "technique": 0.539,
+    "macro": 0.192,
+    "sentiment": 0.087,
+    "onchain": 0.181
   },
   "thresholds": {
     "MIN_SCORE_BUY": 65,
@@ -13,8 +13,8 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-04-17T05:06:01.460221",
-    "win_rate_recent": 86.7
+    "last_update": "2026-04-17T05:11:00.664402",
+    "win_rate_recent": 83.3
   },
   "asset_patterns": {
     "NEAR": {
@@ -397,11 +397,11 @@
       ]
     },
     "BCH": {
-      "trades": 1,
-      "wins": 0,
+      "trades": 2,
+      "wins": 1,
       "losses": 1,
-      "win_rate": 0.0,
-      "avg_pnl": -7.15,
+      "win_rate": 50.0,
+      "avg_pnl": 0.92,
       "best_rsi_range": null,
       "avoid_conditions": [
         "RSI=50 change=-0.0%"
@@ -413,6 +413,12 @@
           "change_24h": -0.03691,
           "pnl": -7.15,
           "result": "loss"
+        },
+        {
+          "rsi": 53.13,
+          "change_24h": 0.0,
+          "pnl": 1.84,
+          "result": "win"
         }
       ]
     },
@@ -3393,18 +3399,104 @@
         "btc_status": "ok",
         "claude_confidence": 50
       }
+    },
+    {
+      "asset": "BCH",
+      "partial_exits": [
+        {
+          "action": "SETUP_INVALID_EXIT",
+          "pnl_pct": 1.42,
+          "pnl_eur": 0.18,
+          "amount_eur": 12.5,
+          "exit_time": "2026-04-16T20:21:17.820121+00:00",
+          "score_tech": 36,
+          "adx": 16.9
+        },
+        {
+          "action": "MTF_SELL_EXIT",
+          "pnl_pct": 1.32,
+          "pnl_eur": 0.15,
+          "amount_eur": 11.25,
+          "exit_time": "2026-04-16T20:31:16.923662+00:00",
+          "confluence_signal": "SELL"
+        },
+        {
+          "action": "MTF_SELL_EXIT",
+          "pnl_pct": 2.05,
+          "pnl_eur": 0.16,
+          "amount_eur": 7.88,
+          "exit_time": "2026-04-16T22:41:14.601511+00:00",
+          "confluence_signal": "SELL"
+        },
+        {
+          "action": "MTF_SELL_EXIT",
+          "pnl_pct": 3.68,
+          "pnl_eur": 0.2,
+          "amount_eur": 5.51,
+          "exit_time": "2026-04-17T00:46:14.641307+00:00",
+          "confluence_signal": "SELL"
+        }
+      ],
+      "paliers_done": [],
+      "action": "TRAILING_STOP",
+      "entry_price_eur": 373.59,
+      "exit_price_eur": 380.18,
+      "pnl_pct": 1.84,
+      "pnl_eur": 0.92,
+      "amount_eur": 50.0,
+      "entry_time": "2026-04-16T10:26:20.370372+00:00",
+      "exit_time": "2026-04-17T05:11:15.570368",
+      "entry_rsi": 53.13,
+      "entry_score": 69,
+      "entry_change_24h": 0.0,
+      "exit_type_code": 2,
+      "candle_score": 35,
+      "stoch_k": 15.06,
+      "fib_score": 0,
+      "dist_support_pct": 2.91,
+      "dist_resistance_pct": 0.89,
+      "entry_hour_utc": 10,
+      "entry_weekday": 3,
+      "btc_change_at_entry": 0,
+      "btc_status": "ok",
+      "claude_confidence": 50,
+      "adx": 29.05,
+      "psar_bull": true,
+      "above_ema200": true,
+      "fear_greed": 23,
+      "entry_snapshot": {
+        "score_technique": 65,
+        "score_macro": 65,
+        "score_sentiment": 58,
+        "score_momentum": 42,
+        "score_volume": 50,
+        "onchain_score": null,
+        "score": 69,
+        "rsi": 53.13,
+        "change_24h": 0.0,
+        "type": "crypto",
+        "adx": 29.05,
+        "psar_bull": true,
+        "above_ema200": true,
+        "fear_greed": 23,
+        "entry_hour_utc": 10,
+        "entry_weekday": 3,
+        "btc_change_at_entry": 0,
+        "btc_status": "ok",
+        "claude_confidence": 50
+      }
     }
   ],
   "stats": {
-    "total_closed": 54,
-    "wins": 33,
+    "total_closed": 55,
+    "wins": 34,
     "losses": 21,
-    "win_rate": 61.1,
-    "avg_pnl": 0.88,
-    "total_pnl": 47.72,
+    "win_rate": 61.8,
+    "avg_pnl": 0.9,
+    "total_pnl": 49.56,
     "best_trade": 13.87,
     "worst_trade": -7.79
   },
-  "last_update": "2026-04-17T05:06:54.385514",
-  "ml_accuracy": 76.3
+  "last_update": "2026-04-17T05:11:53.269778",
+  "ml_accuracy": 74.9
 }
