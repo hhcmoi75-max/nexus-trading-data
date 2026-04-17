@@ -1,18 +1,18 @@
 {
-  "score_macro": 65,
-  "score_sentiment": 55,
-  "tendance_marche": "NEUTRE",
-  "contexte": "Le marché crypto traverse une phase de consolidation avec Bitcoin qui peine à maintenir ses breakouts au-dessus de 74000$ malgré des perspectives techniques haussières identifiées par les analystes. La régulation américaine évolue positivement avec l'usage de l'IA par la CFTC, mais les préoccupations quantiques sur Bitcoin et les ventes massives des mineurs publics en Q1 2026 créent une pression baissière.",
-  "risque_principal": "L'échec répété des breakouts Bitcoin combiné aux ventes record des mineurs publics pourrait déclencher une correction plus marquée sur l'ensemble du marché crypto.",
-  "opportunite_du_jour": "La consolidation actuelle avec des prix stables à 0% offre des points d'entrée techniques intéressants sur les altcoins de qualité avant un potentiel rebond.",
+  "score_macro": 45,
+  "score_sentiment": 40,
+  "tendance_marche": "BAISSIER",
+  "contexte": "Le marché crypto traverse un hiver prolongé avec des volumes d'échange en chute de 39% au Q1, malgré des performances record d'Ethereum qui reste isolé dans cette dynamique positive. Les mouvements de bitcoins liés au hack Bitfinex et les faibles volumes limitent les breakouts potentiels, créant un environnement de consolidation défavorable.",
+  "risque_principal": "La baisse significative des volumes couplée à l'absence de signal de fond selon les indicateurs techniques maintient une pression baissière structurelle.",
+  "opportunite_du_jour": "XRP montre une surperformance hebdomadaire face à BTC et ETH, offrant un potentiel de momentum à court terme malgré les volumes modérés.",
   "actifs_favorables": [
     "ETH",
-    "SOL",
+    "XRP",
     "BNB"
   ],
   "actifs_risques": [
     "BTC",
-    "XRP"
+    "SOL"
   ],
-  "last_claude_run": "2026-04-16T19:41:15.226565+00:00"
+  "last_claude_run": "2026-04-17T07:46:12.139656+00:00"
 }
