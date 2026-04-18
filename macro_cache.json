@@ -1,18 +1,18 @@
 {
-  "score_macro": 45,
-  "score_sentiment": 40,
-  "tendance_marche": "BAISSIER",
-  "contexte": "Le marché crypto traverse un hiver prolongé avec des volumes d'échange en chute de 39% au Q1, malgré des performances record d'Ethereum qui reste isolé dans cette dynamique positive. Les mouvements de bitcoins liés au hack Bitfinex et les faibles volumes limitent les breakouts potentiels, créant un environnement de consolidation défavorable.",
-  "risque_principal": "La baisse significative des volumes couplée à l'absence de signal de fond selon les indicateurs techniques maintient une pression baissière structurelle.",
-  "opportunite_du_jour": "XRP montre une surperformance hebdomadaire face à BTC et ETH, offrant un potentiel de momentum à court terme malgré les volumes modérés.",
+  "score_macro": 75,
+  "score_sentiment": 65,
+  "tendance_marche": "HAUSSIER",
+  "contexte": "Bitcoin franchit les 78000$ générant un rallye sur les actions crypto et treasury, tandis que l'or reste stable autour de 132EUR. Le sentiment Reddit modéré (50/100) contraste avec la performance du bot qui s'améliore significativement (61.8% win rate vs 41.4% précédent).",
+  "risque_principal": "Worldcoin chute de 13% malgré l'expansion technologique, signalant une possible volatilité sur les projets AI/crypto ambitieux.",
+  "opportunite_du_jour": "Le surge des digital asset treasury stocks suite au break de Bitcoin à 78k$ offre un momentum haussier sur BTC et les altcoins majeurs.",
   "actifs_favorables": [
+    "BTC",
     "ETH",
-    "XRP",
     "BNB"
   ],
   "actifs_risques": [
-    "BTC",
-    "SOL"
+    "SOL",
+    "TRX"
   ],
-  "last_claude_run": "2026-04-17T07:46:12.139656+00:00"
+  "last_claude_run": "2026-04-18T03:41:11.990251+00:00"
 }
