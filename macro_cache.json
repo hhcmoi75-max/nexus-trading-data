@@ -1,18 +1,18 @@
 {
-  "score_macro": 75,
-  "score_sentiment": 65,
-  "tendance_marche": "HAUSSIER",
-  "contexte": "Bitcoin franchit les 78000$ générant un rallye sur les actions crypto et treasury, tandis que l'or reste stable autour de 132EUR. Le sentiment Reddit modéré (50/100) contraste avec la performance du bot qui s'améliore significativement (61.8% win rate vs 41.4% précédent).",
-  "risque_principal": "Worldcoin chute de 13% malgré l'expansion technologique, signalant une possible volatilité sur les projets AI/crypto ambitieux.",
-  "opportunite_du_jour": "Le surge des digital asset treasury stocks suite au break de Bitcoin à 78k$ offre un momentum haussier sur BTC et les altcoins majeurs.",
+  "score_macro": 42,
+  "score_sentiment": 38,
+  "tendance_marche": "BAISSIER",
+  "contexte": "L'écosystème crypto fait face à des tensions réglementaires majeures avec les controverses autour de Zondacrypto en Pologne et l'échec répété du parlement polonais à adopter le projet de loi crypto. Le sentiment Reddit à 50/100 et la stagnation complète des prix (0.0% sur tous les actifs) reflètent une phase d'attentisme et d'incertitude réglementaire.",
+  "risque_principal": "Les pressions réglementaires européennes s'intensifient avec des implications politiques directes, créant un environnement d'incertitude juridique défavorable aux cryptoactifs.",
+  "opportunite_du_jour": "L'intégration de Wrapped XRP sur Solana ouvre de nouvelles possibilités DeFi et pourrait stimuler l'adoption cross-chain malgré le contexte difficile.",
   "actifs_favorables": [
-    "BTC",
-    "ETH",
-    "BNB"
+    "XRP",
+    "SOL",
+    "ETH"
   ],
   "actifs_risques": [
-    "SOL",
-    "TRX"
+    "BTC",
+    "XAU"
   ],
-  "last_claude_run": "2026-04-18T03:41:11.990251+00:00"
+  "last_claude_run": "2026-04-18T15:46:11.150814+00:00"
 }
