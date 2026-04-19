@@ -1,18 +1,18 @@
 {
-  "score_macro": 45,
-  "score_sentiment": 35,
+  "score_macro": 35,
+  "score_sentiment": 25,
   "tendance_marche": "BAISSIER",
-  "contexte": "Le marché crypto traverse une période de consolidation avec tous les actifs majeurs stables à 0% de variation, mais l'exploit massif de 292M$ sur Kelp DAO génère une forte anxiété sur la sécurité des protocoles DeFi. L'adaptation croissante des firmes crypto face à la concurrence de l'IA dans les financements VC révèle une pression structurelle sur le secteur.",
-  "risque_principal": "La faille de sécurité majeure sur Kelp DAO pourrait déclencher une vague de défiance généralisée envers les protocoles DeFi et provoquer des retraits massifs.",
-  "opportunite_du_jour": "L'entrée d'Alcoa dans le secteur crypto-énergie offre une validation institutionnelle et pourrait catalyser l'adoption par d'autres géants industriels traditionnels.",
+  "contexte": "Le marché crypto traverse une phase de stress majeur avec des hacks DeFi, des effondrements de tokens et des tensions géopolitiques au détroit d'Hormuz impactant Bitcoin. Malgré l'étude Nomura montrant 65% d'institutionnels favorables au crypto, les risques structurels dominent le sentiment.",
+  "risque_principal": "La multiplication des hacks DeFi et l'effondrement de tokens créent une crise de confiance systémique dans l'écosystème crypto.",
+  "opportunite_du_jour": "L'or pourrait bénéficier de la fuite vers la qualité causée par les tensions géopolitiques au détroit d'Hormuz.",
   "actifs_favorables": [
-    "BTC",
     "XAU",
-    "XAG"
+    "XAG",
+    "TRX"
   ],
   "actifs_risques": [
-    "ETH",
-    "SOL"
+    "BTC",
+    "ETH"
   ],
-  "last_claude_run": "2026-04-19T03:51:09.559311+00:00"
+  "last_claude_run": "2026-04-19T15:56:10.092023+00:00"
 }
