@@ -1,18 +1,18 @@
 {
-  "score_macro": 42,
-  "score_sentiment": 38,
+  "score_macro": 45,
+  "score_sentiment": 35,
   "tendance_marche": "BAISSIER",
-  "contexte": "L'écosystème crypto fait face à des tensions réglementaires majeures avec les controverses autour de Zondacrypto en Pologne et l'échec répété du parlement polonais à adopter le projet de loi crypto. Le sentiment Reddit à 50/100 et la stagnation complète des prix (0.0% sur tous les actifs) reflètent une phase d'attentisme et d'incertitude réglementaire.",
-  "risque_principal": "Les pressions réglementaires européennes s'intensifient avec des implications politiques directes, créant un environnement d'incertitude juridique défavorable aux cryptoactifs.",
-  "opportunite_du_jour": "L'intégration de Wrapped XRP sur Solana ouvre de nouvelles possibilités DeFi et pourrait stimuler l'adoption cross-chain malgré le contexte difficile.",
+  "contexte": "Le marché crypto traverse une période de consolidation avec tous les actifs majeurs stables à 0% de variation, mais l'exploit massif de 292M$ sur Kelp DAO génère une forte anxiété sur la sécurité des protocoles DeFi. L'adaptation croissante des firmes crypto face à la concurrence de l'IA dans les financements VC révèle une pression structurelle sur le secteur.",
+  "risque_principal": "La faille de sécurité majeure sur Kelp DAO pourrait déclencher une vague de défiance généralisée envers les protocoles DeFi et provoquer des retraits massifs.",
+  "opportunite_du_jour": "L'entrée d'Alcoa dans le secteur crypto-énergie offre une validation institutionnelle et pourrait catalyser l'adoption par d'autres géants industriels traditionnels.",
   "actifs_favorables": [
-    "XRP",
-    "SOL",
-    "ETH"
+    "BTC",
+    "XAU",
+    "XAG"
   ],
   "actifs_risques": [
-    "BTC",
-    "XAU"
+    "ETH",
+    "SOL"
   ],
-  "last_claude_run": "2026-04-18T15:46:11.150814+00:00"
+  "last_claude_run": "2026-04-19T03:51:09.559311+00:00"
 }
