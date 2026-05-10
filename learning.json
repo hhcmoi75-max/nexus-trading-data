@@ -1,10 +1,10 @@
 {
   "version": 2,
   "weights": {
-    "technique": 0.504,
-    "macro": 0.268,
-    "sentiment": 0.114,
-    "onchain": 0.114
+    "technique": 0.503,
+    "macro": 0.277,
+    "sentiment": 0.11,
+    "onchain": 0.11
   },
   "thresholds": {
     "MIN_SCORE_BUY": 65,
@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-05-10T22:45:54.163088",
+    "last_update": "2026-05-10T22:48:39.689324",
     "win_rate_recent": 96.7
   },
   "asset_patterns": {
@@ -213,12 +213,15 @@
       ]
     },
     "SOL": {
-      "trades": 3,
-      "wins": 2,
+      "trades": 4,
+      "wins": 3,
       "losses": 1,
-      "win_rate": 66.7,
-      "avg_pnl": 0.31,
-      "best_rsi_range": null,
+      "win_rate": 75.0,
+      "avg_pnl": 0.37,
+      "best_rsi_range": [
+        46.2,
+        57.8
+      ],
       "avoid_conditions": [
         "RSI=59 change=-0.5%"
       ],
@@ -240,6 +243,12 @@
           "rsi": 46.16,
           "change_24h": 0.0,
           "pnl": 0.93,
+          "result": "win"
+        },
+        {
+          "rsi": 57.8,
+          "change_24h": 0.0,
+          "pnl": 1.47,
           "result": "win"
         }
       ]
@@ -801,14 +810,14 @@
       ]
     },
     "ETC": {
-      "trades": 3,
-      "wins": 3,
+      "trades": 4,
+      "wins": 4,
       "losses": 0,
       "win_rate": 100.0,
-      "avg_pnl": 1.01,
+      "avg_pnl": 0.37,
       "best_rsi_range": [
         31.7,
-        33.4
+        49.0
       ],
       "avoid_conditions": [],
       "favorable_conditions": [],
@@ -829,6 +838,12 @@
           "rsi": 32.56,
           "change_24h": 0.0,
           "pnl": 3.04,
+          "result": "win"
+        },
+        {
+          "rsi": 48.98,
+          "change_24h": 0.0,
+          "pnl": 1.48,
           "result": "win"
         }
       ]
@@ -8515,18 +8530,164 @@
         "btc_status": "ok",
         "claude_confidence": 50
       }
+    },
+    {
+      "asset": "SOL",
+      "partial_exits": [
+        {
+          "action": "SETUP_INVALID_EXIT",
+          "pnl_pct": 0.52,
+          "pnl_eur": 0.08,
+          "amount_eur": 14.82,
+          "exit_time": "2026-05-10T06:21:10.287805+00:00",
+          "score_tech": 31,
+          "adx": 13.1
+        },
+        {
+          "action": "SETUP_INVALID_EXIT",
+          "pnl_pct": 1.47,
+          "pnl_eur": 0.16,
+          "amount_eur": 11.12,
+          "exit_time": "2026-05-10T10:06:10.782528+00:00",
+          "score_tech": 31,
+          "adx": 17.7
+        },
+        {
+          "action": "SETUP_INVALID_EXIT",
+          "pnl_pct": 0.66,
+          "pnl_eur": 0.06,
+          "amount_eur": 8.34,
+          "exit_time": "2026-05-10T12:06:50.828704+00:00",
+          "score_tech": 31,
+          "adx": 14.3
+        },
+        {
+          "action": "MTF_SELL_EXIT",
+          "pnl_pct": 3.32,
+          "pnl_eur": 0.25,
+          "amount_eur": 7.5,
+          "exit_time": "2026-05-10T17:53:39.672597+00:00",
+          "confluence_signal": "SELL"
+        }
+      ],
+      "paliers_done": [],
+      "action": "TRAILING_STOP",
+      "exit_reason": "TRAILING_STOP",
+      "entry_price_eur": 78.82,
+      "exit_price_eur": 80.24,
+      "pnl_pct": 1.47,
+      "pnl_eur": 0.87,
+      "amount_eur": 59.29,
+      "features": [],
+      "ml_score": 0,
+      "entry_time": "2026-05-09T15:31:15.137085+00:00",
+      "exit_time": "2026-05-10T22:48:46.904273",
+      "entry_rsi": 57.8,
+      "entry_score": 70,
+      "entry_change_24h": 0.0,
+      "exit_type_code": 2,
+      "candle_score": 15,
+      "stoch_k": 2.33,
+      "fib_score": 0,
+      "dist_support_pct": 5.74,
+      "dist_resistance_pct": 5.0,
+      "entry_hour_utc": 15,
+      "entry_weekday": 5,
+      "btc_change_at_entry": 0,
+      "btc_status": "ok",
+      "claude_confidence": 50,
+      "adx": 41.09,
+      "psar_bull": true,
+      "above_ema200": true,
+      "fear_greed": 38,
+      "entry_snapshot": {
+        "score_technique": 65,
+        "score_macro": 65,
+        "score_sentiment": 58,
+        "score_momentum": 42,
+        "score_volume": 50,
+        "onchain_score": null,
+        "score": 70,
+        "rsi": 57.8,
+        "change_24h": 0.0,
+        "type": "crypto",
+        "adx": 41.09,
+        "psar_bull": true,
+        "above_ema200": true,
+        "fear_greed": 38,
+        "entry_hour_utc": 15,
+        "entry_weekday": 5,
+        "btc_change_at_entry": 0,
+        "btc_status": "ok",
+        "claude_confidence": 50
+      }
+    },
+    {
+      "asset": "ETC",
+      "partial_exits": [],
+      "paliers_done": [],
+      "action": "TRAILING_STOP",
+      "exit_reason": "TRAILING_STOP",
+      "entry_price_eur": 8.1656,
+      "exit_price_eur": 8.2858,
+      "pnl_pct": 1.48,
+      "pnl_eur": 0.89,
+      "amount_eur": 60.31,
+      "features": [],
+      "ml_score": 0,
+      "entry_time": "2026-05-10T11:11:34.548299+00:00",
+      "exit_time": "2026-05-10T22:49:05.164603",
+      "entry_rsi": 48.98,
+      "entry_score": 66,
+      "entry_change_24h": 0.0,
+      "exit_type_code": 2,
+      "candle_score": 15,
+      "stoch_k": 0.0,
+      "fib_score": 0,
+      "dist_support_pct": 5.62,
+      "dist_resistance_pct": 3.33,
+      "entry_hour_utc": 11,
+      "entry_weekday": 6,
+      "btc_change_at_entry": 0,
+      "btc_status": "ok",
+      "claude_confidence": 50,
+      "adx": 26.76,
+      "psar_bull": true,
+      "above_ema200": false,
+      "fear_greed": 47,
+      "entry_snapshot": {
+        "score_technique": 66,
+        "score_macro": 72,
+        "score_sentiment": 58,
+        "score_momentum": 42,
+        "score_volume": 50,
+        "onchain_score": null,
+        "score": 66,
+        "rsi": 48.98,
+        "change_24h": 0.0,
+        "type": "crypto",
+        "adx": 26.76,
+        "psar_bull": true,
+        "above_ema200": false,
+        "fear_greed": 47,
+        "entry_hour_utc": 11,
+        "entry_weekday": 6,
+        "btc_change_at_entry": 0,
+        "btc_status": "ok",
+        "claude_confidence": 50
+      }
     }
   ],
   "stats": {
-    "total_closed": 118,
-    "wins": 82,
+    "total_closed": 120,
+    "wins": 84,
     "losses": 36,
-    "win_rate": 69.5,
-    "avg_pnl": 1.9,
-    "total_pnl": 224.01,
+    "win_rate": 70.0,
+    "avg_pnl": 1.89,
+    "total_pnl": 226.96,
     "best_trade": 15.61,
     "worst_trade": -7.79
   },
-  "last_update": "2026-05-10T22:46:33.308623",
-  "ml_accuracy": 85.6
+  "last_update": "2026-05-10T22:49:19.670015",
+  "ml_accuracy": 88.0
 }
