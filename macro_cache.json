@@ -1,18 +1,18 @@
 {
-  "score_macro": 72,
-  "score_sentiment": 58,
-  "tendance_marche": "NEUTRE",
-  "contexte": "Le marché présente une stabilité trompeuse avec tous les actifs majeurs à 0% de variation, masquant une volatilité sous-jacente importante révélée par les patterns de trading algorithmique. L'amélioration spectaculaire des performances du bot (+38% de PnL) couplée à un win rate de 68.7% suggère une phase d'optimisation technique malgré un sentiment Reddit mitigé à 50/100.",
-  "risque_principal": "L'émergence du pattern 'volatilité miroir' sur ARB et la vulnérabilité des tokens de gouvernance DeFi signalent une rotation sectorielle défavorable aux infrastructures décentralisées.",
-  "opportunite_du_jour": "Le plafond algorithmique de 15% sur les gains révèle des opportunités de breakout technique sur TON, ETC, FIL une fois ce seuil franchi.",
+  "score_macro": 75,
+  "score_sentiment": 72,
+  "tendance_marche": "HAUSSIER",
+  "contexte": "L'écosystème crypto montre des signes de maturation institutionnelle avec l'approbation conditionnelle d'Augustus par l'OCC pour une banque crypto-IA et l'adoption croissante des stablecoins dans les paiements corporate. Les performances algorithmiques exceptionnelles (win rate 70.5%, PnL moyen 1.9%) confirment un environnement technique favorable malgré la stagnation apparente des prix.",
+  "risque_principal": "L'émergence de plafonds algorithmiques à 15% de gains révèle des limites techniques qui pourraient brider les performances lors de breakouts majeurs.",
+  "opportunite_du_jour": "Les stablecoins et l'infrastructure crypto corporate offrent un nouveau narratif de croissance avec l'intégration BVNK-Corpay et les développements bancaires réglementés.",
   "actifs_favorables": [
-    "SOL",
     "BTC",
-    "ETH"
+    "ETH",
+    "BNB"
   ],
   "actifs_risques": [
-    "XRP",
-    "TRX"
+    "UNI",
+    "NEAR"
   ],
-  "last_claude_run": "2026-05-10T07:16:15.138340+00:00"
+  "last_claude_run": "2026-05-11T18:08:37.749045+00:00"
 }
