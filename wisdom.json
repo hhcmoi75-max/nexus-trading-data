@@ -1,5 +1,11 @@
 {
   "lecons_cles": [
+    "L'explosion du PnL à 1.9% (+81% vs période précédente) couplée au win rate record de 70.5% révèle que le bot a franchi un seuil d'excellence algorithmique où convergent optimisation paramétrique et conditions de marché favorables",
+    "La quadruple convergence exacte de ETC, FIL, ARB à +15.1% (identique au décimal près) expose un mécanisme de take-profit ultra-précis du bot, mais suggère qu'un relèvement à 18-20% pourrait capturer des gains supplémentaires laissés sur table",
+    "L'apparition paradoxale d'INJ simultanément dans les meilleurs (+10.8%) ET pires trades (-3.3%) révèle un nouveau pattern de 'performance bipolaire' où les actifs ultra-performants deviennent également vulnérables aux corrections violentes",
+    "Le maintien parfait de 5 actifs à 100% de win rate (BTC, TRX, ALGO, SEI, ATOM) établit un 'portefeuille de certitude' suggérant une allocation préférentielle vers ces actifs garantis plutôt que la diversification hasardeuse",
+    "L'effondrement définitif des actions tech (MSFT, NVDA) à 0% de win rate confirme une incompatibilité absolue, mais révèle surtout que le bot a atteint sa maturité crypto-native en éliminant automatiquement les classes d'actifs inadaptées",
+    "La résurrection spectaculaire de FIL à +15.1% après ses échecs historiques, couplée à sa présence dans le top 3, démontre que le bot a développé une capacité de 'réhabilitation sectorielle' permettant de capitaliser sur les retournements narratifs Web3",
     "Le seuil psychologique de 15% de gains simultanés sur TON, ETC, FIL, ARB révèle un plafond de performance algorithmique où le bot déclenche automatiquement des prises de bénéfices, limitant les gains exponentiels",
     "L'émergence d'ARB dans les deux extrêmes (+15.1% et -5.0%) avec un profil parfaitement symétrique expose un nouveau pattern de 'volatilité miroir' où les layer-2 oscillent entre performance maximale et échec selon des cycles prévisibles",
     "Le bond spectaculaire du PnL de 0.76% à 1.05% (+38% d'amélioration) couplé au win rate atteignant 66% révèle une phase d'accélération exponentielle suggérant l'atteinte d'un régime de performance supérieur",
@@ -43,42 +49,36 @@
     "La concentration des gains maximums sur des actifs variés (layer-2, layer-1, DeFi, stockage) révèle une capacité d'adaptation cross-catégorie du bot optimisé",
     "TRX émerge comme nouvel actif parfait avec 100% de win rate, élargissant le spectre au-delà des seuls layer-1 vers les blockchains de contrats intelligents alternatives",
     "ARB présente une volatilité extrême avec le meilleur gain (+10.0%) ET une grosse perte (-5.1%), révélant un profil risque/rendement bipolaire sur les solutions layer-2",
-    "POL remplace MATIC dans les échecs récurrents, suggérant que les rebrands/migrations de tokens créent une instabilité temporaire défavorable au bot",
-    "DOT rejoint la liste des pertes significatives malgré son statut de parachain leader, indiquant une faiblesse sur l'écosystème Polkadot",
-    "FIL génère des gains consistants (+8.0%) contrairement aux précédentes analyses, marquant une réhabilitation des tokens de stockage décentralisé",
-    "OP affiche 0% de win rate avec une perte notable (-5.2%), révélant une incompatibilité systémique avec les layer-2 Optimism-based",
-    "INJ confirme l'efficacité sur les DEX spécialisés avec +8.1%, étendant la domination au-delà d'ALGO vers l'écosystème DeFi-cosmos",
-    "Le win rate de 57.4% avec PnL moyen de +0.5% montre une amélioration significative, indiquant que l'optimisation des paramètres porte ses fruits",
-    "BTC affiche désormais 100% de win rate contrairement aux analyses précédentes, suggérant une évolution favorable des conditions de marché pour cet actif"
+    "POL remplace MATIC dans les échecs récurrents, suggérant que les rebrands/migrations de tokens créent une instabilité temporaire défavorable au bot"
   ],
   "actifs_a_privilegier": [
-    "TON",
-    "ETC",
-    "FIL",
     "BTC",
+    "TRX",
     "ALGO",
     "SEI",
+    "ATOM",
+    "TON",
     "INJ",
-    "TRX"
+    "ETC"
   ],
   "actifs_a_eviter": [
     "MSFT",
     "NVDA",
     "APT",
+    "POL",
     "XLM",
     "UNI",
     "NEAR",
-    "DOT",
-    "OP"
+    "DOT"
   ],
-  "conditions_favorables": "Marché crypto en phase d'accélération avec rotation secteurs proof-of-work legacy et blockchains sociales intégrées, évitement total des actions traditionnelles",
-  "erreurs_recurrentes": "Plafonnement automatique des gains à 15% empêchant la capture de super-performances, exposition persistante aux layer-2 volatils et tokens de gouvernance DeFi",
+  "conditions_favorables": "Marché crypto en phase d'accélération haussière avec rotation sectorielle vers les layer-1 proof-of-stake purs et les protocoles DeFi spécialisés, évitant les actions traditionnelles et les tokens en transition",
+  "erreurs_recurrentes": "Seuil de take-profit trop conservateur à 15% laissant des gains sur table, allocation insuffisante vers les actifs à 100% de win rate, exposition persistante aux actifs de transition comme POL",
   "recommandation_seuil_buy": 72,
   "recommandation_stop_loss": 0.06,
-  "strategie_recommandee": "Capitaliser sur la phase d'accélération en concentrant sur les actifs 100% win rate et les émergents +15%. Implémenter un mécanisme de take-profit dynamique au-delà de 15% pour capturer les super-performances.",
-  "last_distillation": "2026-05-08T20:05:18.482110+00:00",
-  "trades_analyzed": 122,
-  "win_rate_at_distill": 66.0,
+  "strategie_recommandee": "Concentrer 70% de l'allocation sur les 5 actifs à 100% de win rate tout en relevant le take-profit à 18% pour capturer les gains laissés sur table. Éliminer définitivement toute exposition aux actions traditionnelles et tokens en rebranding.",
+  "last_distillation": "2026-05-11T20:06:33.777978+00:00",
+  "trades_analyzed": 135,
+  "win_rate_at_distill": 70.5,
   "traders": {
     "Warren Buffett": {
       "style": "Value Investing - Long terme",
