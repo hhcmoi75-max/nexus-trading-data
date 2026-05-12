@@ -1,18 +1,18 @@
 {
-  "score_macro": 75,
-  "score_sentiment": 68,
-  "tendance_marche": "HAUSSIER",
-  "contexte": "Bitcoin franchit brièvement les 82 000$ malgré les réserves de Ray Dalio sur la surveillance des transactions, tandis que le Clarity Act progresse au Sénat pour clarifier le cadre réglementaire crypto. L'acquisition agressive d'Ethereum par Bitmine (objectif 5% de l'offre) stimule l'optimisme institutionnel malgré l'avertissement de Michael Burry sur un crash boursier imminent.",
-  "risque_principal": "La divergence croissante entre crypto et actions traditionnelles amplifie la volatilité avec les alertes de crash de Michael Burry.",
-  "opportunite_du_jour": "L'accumulation institutionnelle massive sur Ethereum et la clarification réglementaire US créent un momentum d'achat structurel.",
+  "score_macro": 45,
+  "score_sentiment": 35,
+  "tendance_marche": "BAISSIER",
+  "contexte": "L'inflation américaine atteint son plus haut niveau depuis 2023, ravivant les craintes de hausse des taux de la Fed et créant une pression baissière sur les actifs risqués. Malgré des développements positifs sur Ethereum et les infrastructures DeFi, le sentiment reste dominé par les inquiétudes macroéconomiques avec un Reddit score de 62/100.",
+  "risque_principal": "Le retour des craintes de hausse des taux Fed suite au pic d'inflation menace de déclencher une rotation défavorable aux cryptomonnaies.",
+  "opportunite_du_jour": "L'émergence de la privacy comme 'killer app' crypto avec plus d'1 milliard de financement offre un nouveau narratif d'investissement.",
   "actifs_favorables": [
     "BTC",
-    "ETH",
+    "TRX",
     "SOL"
   ],
   "actifs_risques": [
-    "XRP",
-    "TRX"
+    "ETH",
+    "XRP"
   ],
-  "last_claude_run": "2026-05-12T06:09:08.034146+00:00"
+  "last_claude_run": "2026-05-12T18:10:32.685116+00:00"
 }
