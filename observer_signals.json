@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "timestamp": "2026-05-12T21:35:20.429489+00:00",
+    "timestamp": "2026-05-12T21:36:06.425503+00:00",
     "symbol": "ETHUSDT",
-    "score": 0.2673,
+    "score": 0.2665,
     "source": "news_decrypt",
-    "age_seconds": 245.62699222564697,
+    "age_seconds": 291.6351969242096,
     "size_pct": 1.0,
     "size_usd": 6.0,
     "regime": "sideways",
