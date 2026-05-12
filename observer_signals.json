@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "timestamp": "2026-05-12T20:54:30.246202+00:00",
+    "timestamp": "2026-05-12T21:35:20.429489+00:00",
     "symbol": "ETHUSDT",
-    "score": 0.6143,
-    "source": "whale_buy",
-    "age_seconds": 0,
-    "size_pct": 8.43,
-    "size_usd": 50.57,
+    "score": 0.2673,
+    "source": "news_decrypt",
+    "age_seconds": 245.62699222564697,
+    "size_pct": 1.0,
+    "size_usd": 6.0,
     "regime": "sideways",
     "urgency": "NORMAL",
     "bypass": 
