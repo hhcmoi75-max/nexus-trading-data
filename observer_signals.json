@@ -27404,12 +27404,12 @@
     "is_cascade": false,
     "title": "XRP ETF Inflows Hit $1.35B as Senate Releases Latest CLARITY Act Draft",
     "price_at_signal": 1.4294,
-    "price_after_1h": null,
+    "price_after_1h": 1.425,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.308,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1247,
@@ -27426,12 +27426,12 @@
     "is_cascade": false,
     "title": "XRP ETF Inflows Hit $1.35B as Senate Releases Latest CLARITY Act Draft",
     "price_at_signal": 80575.81,
-    "price_after_1h": null,
+    "price_after_1h": 80318.26,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.32,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1248,
