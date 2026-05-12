@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-10T08:15:22.409293+00:00",
-  "total_signals": 1235,
-  "verified_signals": 1230,
+  "generated_at": "2026-05-12T11:33:21.365475+00:00",
+  "total_signals": 1244,
+  "verified_signals": 1237,
   "by_source": {
     "news_coindesk": {
       "win_rate_pct": 2.1,
@@ -16,7 +16,7 @@
     "whale_buy": {
       "win_rate_pct": 0.0,
       "avg_gain_1h": -0.02,
-      "total_signals": 460
+      "total_signals": 467
     },
     "news_cointelegraph": {
       "win_rate_pct": 0.5,
@@ -54,7 +54,7 @@
     },
     "0.7": {
       "win_rate": 0.0,
-      "count": 464
+      "count": 471
     },
     "0.8": {
       "win_rate": 0.7,
