@@ -1,18 +1,18 @@
 {
   "score_macro": 75,
-  "score_sentiment": 72,
+  "score_sentiment": 68,
   "tendance_marche": "HAUSSIER",
-  "contexte": "L'écosystème crypto montre des signes de maturation institutionnelle avec l'approbation conditionnelle d'Augustus par l'OCC pour une banque crypto-IA et l'adoption croissante des stablecoins dans les paiements corporate. Les performances algorithmiques exceptionnelles (win rate 70.5%, PnL moyen 1.9%) confirment un environnement technique favorable malgré la stagnation apparente des prix.",
-  "risque_principal": "L'émergence de plafonds algorithmiques à 15% de gains révèle des limites techniques qui pourraient brider les performances lors de breakouts majeurs.",
-  "opportunite_du_jour": "Les stablecoins et l'infrastructure crypto corporate offrent un nouveau narratif de croissance avec l'intégration BVNK-Corpay et les développements bancaires réglementés.",
+  "contexte": "Bitcoin franchit brièvement les 82 000$ malgré les réserves de Ray Dalio sur la surveillance des transactions, tandis que le Clarity Act progresse au Sénat pour clarifier le cadre réglementaire crypto. L'acquisition agressive d'Ethereum par Bitmine (objectif 5% de l'offre) stimule l'optimisme institutionnel malgré l'avertissement de Michael Burry sur un crash boursier imminent.",
+  "risque_principal": "La divergence croissante entre crypto et actions traditionnelles amplifie la volatilité avec les alertes de crash de Michael Burry.",
+  "opportunite_du_jour": "L'accumulation institutionnelle massive sur Ethereum et la clarification réglementaire US créent un momentum d'achat structurel.",
   "actifs_favorables": [
     "BTC",
     "ETH",
-    "BNB"
+    "SOL"
   ],
   "actifs_risques": [
-    "UNI",
-    "NEAR"
+    "XRP",
+    "TRX"
   ],
-  "last_claude_run": "2026-05-11T18:08:37.749045+00:00"
+  "last_claude_run": "2026-05-12T06:09:08.034146+00:00"
 }
