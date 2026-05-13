@@ -1,18 +1,18 @@
 {
-  "score_macro": 45,
-  "score_sentiment": 35,
-  "tendance_marche": "BAISSIER",
-  "contexte": "L'inflation américaine atteint son plus haut niveau depuis 2023, ravivant les craintes de hausse des taux de la Fed et créant une pression baissière sur les actifs risqués. Malgré des développements positifs sur Ethereum et les infrastructures DeFi, le sentiment reste dominé par les inquiétudes macroéconomiques avec un Reddit score de 62/100.",
-  "risque_principal": "Le retour des craintes de hausse des taux Fed suite au pic d'inflation menace de déclencher une rotation défavorable aux cryptomonnaies.",
-  "opportunite_du_jour": "L'émergence de la privacy comme 'killer app' crypto avec plus d'1 milliard de financement offre un nouveau narratif d'investissement.",
+  "score_macro": 75,
+  "score_sentiment": 78,
+  "tendance_marche": "HAUSSIER",
+  "contexte": "L'écosystème crypto montre une forte dynamique positive avec Bitcoin repassant au-dessus de 81 000$ suite à l'inflation américaine, tandis que l'adoption institutionnelle s'accélère avec JPMorgan lançant de nouveaux fonds tokenisés. Les développements réglementaires favorables (CFTC pro-Kalshi) et les améliorations techniques d'Ethereum renforcent la confiance structurelle.",
+  "risque_principal": "La discordance entre les prix affichés (stagnation à 0%) et les actualités haussières suggère une possible correction technique imminente ou des dysfonctionnements de données.",
+  "opportunite_du_jour": "Capitaliser sur la momentum institutionnelle avec les actifs du 'portefeuille de certitude' (BTC, TRX) qui maintiennent 100% de win rate selon les stats du bot.",
   "actifs_favorables": [
     "BTC",
-    "TRX",
-    "SOL"
+    "BNB",
+    "TRX"
   ],
   "actifs_risques": [
     "ETH",
     "XRP"
   ],
-  "last_claude_run": "2026-05-12T18:10:32.685116+00:00"
+  "last_claude_run": "2026-05-13T06:12:09.552307+00:00"
 }
