@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": 1,
+    "timestamp": "2026-05-13T06:24:41.477132+00:00",
+    "symbol": "BTCUSDT",
+    "score": 0.5643,
+    "source": "whale_buy",
+    "age_seconds": 0,
+    "size_pct": 6.93,
+    "size_usd": 41.57,
+    "regime": "sideways",
+    "urgency": "NORMAL",
+    "bypass": 
