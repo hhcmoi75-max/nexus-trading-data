@@ -895,9 +895,9 @@
     "title": "",
     "price_at_signal": 79671.06,
     "price_after_1h": 78819.99,
-    "price_after_4h": null,
+    "price_after_4h": 79480.0,
     "result_1h_pct": -1.068,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.24,
     "would_have_won": false,
     "verified": true
   },
@@ -917,9 +917,9 @@
     "title": "",
     "price_at_signal": 79671.05,
     "price_after_1h": 78819.99,
-    "price_after_4h": null,
+    "price_after_4h": 79480.0,
     "result_1h_pct": -1.068,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.24,
     "would_have_won": false,
     "verified": true
   },
@@ -2720,12 +2720,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 79579.38,
-    "price_after_1h": null,
+    "price_after_1h": 79519.01,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.076,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 125,
@@ -2742,12 +2742,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 79579.39,
-    "price_after_1h": null,
+    "price_after_1h": 79519.01,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.076,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 126,
@@ -2764,12 +2764,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 79589.61,
-    "price_after_1h": null,
+    "price_after_1h": 79519.01,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.089,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 127,
@@ -2786,12 +2786,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 79589.61,
-    "price_after_1h": null,
+    "price_after_1h": 79519.01,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.089,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 128,
