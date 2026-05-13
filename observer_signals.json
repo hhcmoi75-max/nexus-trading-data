@@ -592,5 +592,27 @@
     "result_4h_pct": null,
     "would_have_won": null,
     "verified": false
+  },
+  {
+    "id": 28,
+    "timestamp": "2026-05-13T14:22:45.470848+00:00",
+    "symbol": "ARBUSDT",
+    "score": 0.6025,
+    "source": "whale_buy",
+    "age_seconds": 0,
+    "size_pct": 8.08,
+    "size_usd": 48.45,
+    "regime": "sideways",
+    "urgency": "NORMAL",
+    "bypass": "False",
+    "is_cascade": false,
+    "title": "",
+    "price_at_signal": 0.1343,
+    "price_after_1h": null,
+    "price_after_4h": null,
+    "result_1h_pct": null,
+    "result_4h_pct": null,
+    "would_have_won": null,
+    "verified": false
   }
 ]
