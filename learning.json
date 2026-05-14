@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-05-15T01:14:30.077583",
+    "last_update": "2026-05-15T01:17:18.693192",
     "win_rate_recent": 63.3
   },
   "asset_patterns": {
@@ -10119,6 +10119,33 @@
         "btc_status": "ok",
         "claude_confidence": 50
       }
+    },
+    {
+      "asset": "ADA",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-05-14T23:17:32.854619+00:00",
+      "entry_time": "2026-05-14T23:17:32.854619+00:00",
+      "exit_time": "2026-05-14T23:17:32.854619+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 0.2329,
+      "score": 83,
+      "rsi": 54.82,
+      "adx": 34.11,
+      "claude_confidence": 25,
+      "claude_reason": "Confiance ML insuffisante (24.4%), ADA absent des actifs favorables, RSI neutre (54.82), absence de momentum directeur et variation 24h nulle contredisent le score 83/100. Contexte macro favorise BTC/XRP/TRX listés explicitement, pas ADA. Les gains récents du bot suggèrent d'appliquer strictement la liste de sélection d'actifs validés.",
+      "ml_confidence": 24.4,
+      "score_technique": 72,
+      "score_macro": 85,
+      "score_sentiment": 78,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 34,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 23,
+      "entry_weekday": 3,
+      "simulated": true
     }
   ],
   "stats": {
@@ -10131,6 +10158,6 @@
     "best_trade": 15.61,
     "worst_trade": -7.79
   },
-  "last_update": "2026-05-15T01:15:09.865937",
+  "last_update": "2026-05-15T01:18:00.534220",
   "ml_accuracy": 89.5
 }
