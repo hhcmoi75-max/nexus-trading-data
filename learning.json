@@ -13,8 +13,8 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-05-15T01:17:18.693192",
-    "win_rate_recent": 63.3
+    "last_update": "2026-05-15T01:19:59.882720",
+    "win_rate_recent": 60.0
   },
   "asset_patterns": {
     "NEAR": {
@@ -10146,6 +10146,33 @@
       "entry_hour_utc": 23,
       "entry_weekday": 3,
       "simulated": true
+    },
+    {
+      "asset": "ADA",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-05-14T23:20:13.688866+00:00",
+      "entry_time": "2026-05-14T23:20:13.688866+00:00",
+      "exit_time": "2026-05-14T23:20:13.688866+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 0.23280000000000003,
+      "score": 83,
+      "rsi": 54.82,
+      "adx": 34.11,
+      "claude_confidence": 25,
+      "claude_reason": "Confiance ML insuffisante (23.9%), ADA absent de la liste blanche favorable, ADX élevé (34.1) indiquant volatilité sans direction claire, variation 24h nulle signalant absence de momentum, RSI neutre (54.82) sans survendeur/suracheté. Malgré bon score ML (83), le contexte technique et la gestion des risques l'emportent.",
+      "ml_confidence": 23.9,
+      "score_technique": 72,
+      "score_macro": 85,
+      "score_sentiment": 78,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 34,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 23,
+      "entry_weekday": 3,
+      "simulated": true
     }
   ],
   "stats": {
@@ -10158,6 +10185,6 @@
     "best_trade": 15.61,
     "worst_trade": -7.79
   },
-  "last_update": "2026-05-15T01:18:00.534220",
-  "ml_accuracy": 89.5
+  "last_update": "2026-05-15T01:20:41.270687",
+  "ml_accuracy": 91.0
 }
