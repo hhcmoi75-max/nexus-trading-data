@@ -8726,12 +8726,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 79835.77,
-    "price_after_1h": null,
+    "price_after_1h": 79812.88,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.029,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 398,
