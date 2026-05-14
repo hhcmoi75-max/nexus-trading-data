@@ -1,19 +1,18 @@
 {
-  "score_macro": 35,
-  "score_sentiment": 25,
-  "tendance_marche": "BAISSIER",
-  "contexte": "Les sorties massives de 635M$ des ETFs Bitcoin spot signalent une détérioration brutale du sentiment institutionnel, amplifiée par les tensions géopolitiques Taiwan-Chine qui fragilisent l'appétit pour le risque. La chute de Bitcoin sous 80k$ et de Solana (-5%) confirme une rotation défensive généralisée malgré les avancées technologiques positives (récupération Claude).",
-  "risque_principal": "L'escalade des tensions géopolitiques Xi-Trump sur Taiwan pourrait déclencher un sell-off crypto généralisé avec Bitcoin testant les 75k$.",
-  "opportunite_du_jour": "La digitalisation bancaire accélérée révélée par Moody's ouvre une fenêtre d'accumulation sur les infrastructures blockchain sous-valorisées.",
+  "score_macro": 85,
+  "score_sentiment": 78,
+  "tendance_marche": "HAUSSIER",
+  "contexte": "L'écosystème crypto connaît une phase d'institutionnalisation accélérée avec l'avancement du Clarity Act au Sénat américain et l'expansion de CME dans les actifs numériques pour $85 trillions. Bitcoin franchit les $82,000 tandis que le S&P 500 atteint de nouveaux sommets, créant une convergence bullish exceptionnelle entre marchés traditionnels et crypto.",
+  "risque_principal": "La corrélation croissante entre crypto et actions tech pourrait amplifier une correction simultanée si les valorisations IA se retournent brutalement.",
+  "opportunite_du_jour": "L'accumulation massive des whales XRP combinée au momentum institutionnel Bitcoin offre un setup de breakout vers $1.50+ pour XRP et $85K pour BTC.",
   "actifs_favorables": [
-    "TRX",
     "BTC",
-    "XAU"
+    "XRP",
+    "TRX"
   ],
   "actifs_risques": [
-    "SOL",
-    "TRUMP",
-    "ETH"
+    "ETH",
+    "SOL"
   ],
-  "last_claude_run": "2026-05-14T06:12:59.530766+00:00"
+  "last_claude_run": "2026-05-14T18:15:22.458817+00:00"
 }
