@@ -6153,9 +6153,9 @@
     "title": "",
     "price_at_signal": 9.8,
     "price_after_1h": 9.79,
-    "price_after_4h": null,
+    "price_after_4h": 9.68,
     "result_1h_pct": -0.102,
-    "result_4h_pct": null,
+    "result_4h_pct": -1.224,
     "would_have_won": false,
     "verified": true
   },
