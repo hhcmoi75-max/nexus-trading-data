@@ -10729,9 +10729,9 @@
     "title": "Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-05-15 & 2026-05-",
     "price_at_signal": 669.98,
     "price_after_1h": 671.58,
-    "price_after_4h": null,
+    "price_after_4h": 675.86,
     "result_1h_pct": 0.239,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.878,
     "would_have_won": false,
     "verified": true
   },
@@ -11872,12 +11872,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 674.68,
-    "price_after_1h": null,
+    "price_after_1h": 676.11,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.212,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 541,
@@ -11894,12 +11894,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 79719.97,
-    "price_after_1h": null,
+    "price_after_1h": 80040.14,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.402,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 542,
