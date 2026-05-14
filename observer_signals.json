@@ -13831,9 +13831,9 @@
     "title": "Binance Futures Will Launch USDⓈ-Margined BTCUSD1 Perpetual Contract (2026-05-18)",
     "price_at_signal": 81086.28,
     "price_after_1h": 81577.62,
-    "price_after_4h": null,
+    "price_after_4h": 81388.0,
     "result_1h_pct": 0.606,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.372,
     "would_have_won": false,
     "verified": true
   },
@@ -13853,9 +13853,9 @@
     "title": "Binance Futures Will Launch USDⓈ-Margined BTCUSD1 Perpetual Contract (2026-05-18)",
     "price_at_signal": 680.12,
     "price_after_1h": 681.87,
-    "price_after_4h": null,
+    "price_after_4h": 680.64,
     "result_1h_pct": 0.257,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.076,
     "would_have_won": false,
     "verified": true
   },
@@ -13875,9 +13875,9 @@
     "title": "",
     "price_at_signal": 81016.84,
     "price_after_1h": 81539.0,
-    "price_after_4h": null,
+    "price_after_4h": 81469.6,
     "result_1h_pct": 0.645,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.559,
     "would_have_won": false,
     "verified": true
   },
@@ -13897,9 +13897,9 @@
     "title": "",
     "price_at_signal": 81003.08,
     "price_after_1h": 81539.0,
-    "price_after_4h": null,
+    "price_after_4h": 81469.6,
     "result_1h_pct": 0.662,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.576,
     "would_have_won": false,
     "verified": true
   },
@@ -13919,9 +13919,9 @@
     "title": "",
     "price_at_signal": 80993.61,
     "price_after_1h": 81538.99,
-    "price_after_4h": null,
+    "price_after_4h": 81469.6,
     "result_1h_pct": 0.673,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.588,
     "would_have_won": false,
     "verified": true
   },
@@ -31540,12 +31540,12 @@
     "is_cascade": true,
     "title": "",
     "price_at_signal": 10.08,
-    "price_after_1h": null,
+    "price_after_1h": 10.01,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.694,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1435,
@@ -31562,12 +31562,12 @@
     "is_cascade": true,
     "title": "",
     "price_at_signal": 0.2766,
-    "price_after_1h": null,
+    "price_after_1h": 0.2746,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.723,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1436,
