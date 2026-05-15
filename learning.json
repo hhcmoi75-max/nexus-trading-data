@@ -7,14 +7,14 @@
     "onchain": 0.096
   },
   "thresholds": {
-    "MIN_SCORE_BUY": 65,
+    "MIN_SCORE_BUY": 67,
     "MAX_SCORE_SELL": 40,
     "RSI_OVERSOLD": 25,
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-05-15T02:01:24.780805",
-    "win_rate_recent": 43.3
+    "last_update": "2026-05-15T02:04:02.819492",
+    "win_rate_recent": 40.0
   },
   "asset_patterns": {
     "NEAR": {
@@ -10431,6 +10431,33 @@
       "entry_hour_utc": 0,
       "entry_weekday": 4,
       "simulated": true
+    },
+    {
+      "asset": "ADA",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-05-15T00:04:16.224880+00:00",
+      "entry_time": "2026-05-15T00:04:16.224880+00:00",
+      "exit_time": "2026-05-15T00:04:16.224880+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 0.23240000000000002,
+      "score": 75,
+      "rsi": 53.2,
+      "adx": 33.55,
+      "claude_confidence": 15,
+      "claude_reason": "ADA absent des listes de favoris et défavoris mais présente un profil risqué: confiance ML très faible (20.6%), variation 24h nulle suggérant un manque de momentum, RSI neutre (53.2), et corrélation croissante crypto-tech crée un risque systémique majeur en cas de correction IA. Le contexte macro favorable ne compense pas les signaux techniques faibles et l'absence de validation historique positive du bot sur cet actif.",
+      "ml_confidence": 20.6,
+      "score_technique": 71,
+      "score_macro": 85,
+      "score_sentiment": 78,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 43,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 0,
+      "entry_weekday": 4,
+      "simulated": true
     }
   ],
   "stats": {
@@ -10443,6 +10470,6 @@
     "best_trade": 15.61,
     "worst_trade": -7.79
   },
-  "last_update": "2026-05-15T02:02:05.959465",
-  "ml_accuracy": 90.6
+  "last_update": "2026-05-15T02:04:44.026489",
+  "ml_accuracy": 92.0
 }
