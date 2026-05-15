@@ -42343,9 +42343,9 @@
     "title": "",
     "price_at_signal": 79159.99,
     "price_after_1h": 79136.78,
-    "price_after_4h": null,
+    "price_after_4h": 79109.27,
     "result_1h_pct": -0.029,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.064,
     "would_have_won": false,
     "verified": true
   },
