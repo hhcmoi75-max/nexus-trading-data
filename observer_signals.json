@@ -40363,9 +40363,9 @@
     "title": "",
     "price_at_signal": 10.07,
     "price_after_1h": 10.02,
-    "price_after_4h": null,
+    "price_after_4h": 10.1,
     "result_1h_pct": -0.497,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.298,
     "would_have_won": false,
     "verified": true
   },
