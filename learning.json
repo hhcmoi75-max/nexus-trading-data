@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-05-15T10:57:13.303571",
+    "last_update": "2026-05-15T11:00:04.395627",
     "win_rate_recent": 40.0
   },
   "asset_patterns": {
@@ -11406,6 +11406,33 @@
         "btc_status": "ok",
         "claude_confidence": 50
       }
+    },
+    {
+      "asset": "DOT",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-05-15T09:00:29.008199+00:00",
+      "entry_time": "2026-05-15T09:00:29.008199+00:00",
+      "exit_time": "2026-05-15T09:00:29.008199+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 1.15,
+      "score": 69,
+      "rsi": 42.08,
+      "adx": 20.19,
+      "claude_confidence": 15,
+      "claude_reason": "DOT est explicitement listé dans la liste 'A eviter' du bot. Le score ML de 69/100 est insuffisant avec une confiance de seulement 21.8%. RSI à 42.08 indique une position neutre sans momentum clair. ADX faible à 20.2 confirme l'absence de tendance directionnelle. Les rendements Treasury à leurs plus hauts de 12 mois créent une pression déflationniste majeure sur les actifs risqués. Le contexte macro favorise XRP et BTC, pas DOT. Risk/reward défavorable.",
+      "ml_confidence": 21.8,
+      "score_technique": 77,
+      "score_macro": 72,
+      "score_sentiment": 78,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 43,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 9,
+      "entry_weekday": 4,
+      "simulated": true
     }
   ],
   "stats": {
@@ -11418,6 +11445,6 @@
     "best_trade": 15.61,
     "worst_trade": -7.79
   },
-  "last_update": "2026-05-15T10:57:53.349445",
+  "last_update": "2026-05-15T11:00:47.242639",
   "ml_accuracy": 88.1
 }
