@@ -7,14 +7,14 @@
     "onchain": 0.096
   },
   "thresholds": {
-    "MIN_SCORE_BUY": 69,
+    "MIN_SCORE_BUY": 71,
     "MAX_SCORE_SELL": 40,
     "RSI_OVERSOLD": 25,
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-05-15T02:06:41.221872",
-    "win_rate_recent": 36.7
+    "last_update": "2026-05-15T02:09:18.456695",
+    "win_rate_recent": 33.3
   },
   "asset_patterns": {
     "NEAR": {
@@ -10485,6 +10485,60 @@
       "entry_hour_utc": 0,
       "entry_weekday": 4,
       "simulated": true
+    },
+    {
+      "asset": "ADA",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-05-15T00:09:31.727932+00:00",
+      "entry_time": "2026-05-15T00:09:31.727932+00:00",
+      "exit_time": "2026-05-15T00:09:31.727932+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 0.2323,
+      "score": 75,
+      "rsi": 53.66,
+      "adx": 33.55,
+      "claude_confidence": 25,
+      "claude_reason": "Confiance ML insuffisante (18%), RSI neutre (53.66), variation 24h nulle indiquant absence de momentum. ADA absent des favoris et contexte macro favorise BTC/XRP. Score technique positif (75/100, ADX 33.5) ne compense pas les signaux faibles. Attendre une accumulation de prix ou un renforcement de la confiance ML avant d'engager.",
+      "ml_confidence": 18.0,
+      "score_technique": 71,
+      "score_macro": 85,
+      "score_sentiment": 78,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 43,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 0,
+      "entry_weekday": 4,
+      "simulated": true
+    },
+    {
+      "asset": "UNI",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-05-15T00:09:42.734255+00:00",
+      "entry_time": "2026-05-15T00:09:42.734255+00:00",
+      "exit_time": "2026-05-15T00:09:42.734255+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 3.2,
+      "score": 79,
+      "rsi": 55.51,
+      "adx": 27.79,
+      "claude_confidence": 15,
+      "claude_reason": "UNI figure explicitement dans la liste 'A eviter' malgre un score ML de 79/100. Le signal technique BUY est contredit par l'historique bot qui montre une vulnerabilite structurelle sur cet actif. La confiance ML de 18.2% est extremement faible et incompatible avec le risque. ADX de 27.8 indique une tendance modérée insuffisante pour justifier l'entrée contre la sagesse historique.",
+      "ml_confidence": 18.2,
+      "score_technique": 69,
+      "score_macro": 85,
+      "score_sentiment": 78,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 43,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 0,
+      "entry_weekday": 4,
+      "simulated": true
     }
   ],
   "stats": {
@@ -10497,6 +10551,6 @@
     "best_trade": 15.61,
     "worst_trade": -7.79
   },
-  "last_update": "2026-05-15T02:07:21.942945",
-  "ml_accuracy": 90.2
+  "last_update": "2026-05-15T02:10:02.689895",
+  "ml_accuracy": 91.5
 }
