@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-05-15T01:58:26.557932",
+    "last_update": "2026-05-15T02:01:24.780805",
     "win_rate_recent": 43.3
   },
   "asset_patterns": {
@@ -10404,6 +10404,33 @@
         "btc_status": "ok",
         "claude_confidence": 50
       }
+    },
+    {
+      "asset": "ADA",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-05-15T00:01:38.292835+00:00",
+      "entry_time": "2026-05-15T00:01:38.292835+00:00",
+      "exit_time": "2026-05-15T00:01:38.292835+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 0.232,
+      "score": 75,
+      "rsi": 53.43,
+      "adx": 33.55,
+      "claude_confidence": 25,
+      "claude_reason": "ADA absent de la liste des actifs favorables malgré un score ML de 75/100. Confiance ML très faible (22.3%), RSI neutre (53.43), variation 24h nulle. Le contexte macro favorise BTC, XRP et actifs institutionnels listés. ADA n'apparaît ni en favori ni en évitement mais l'absence est significative. Risque de correction tech/crypto identifié en macro. Ratio risque/récompense défavorable.",
+      "ml_confidence": 22.3,
+      "score_technique": 71,
+      "score_macro": 85,
+      "score_sentiment": 78,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 43,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 0,
+      "entry_weekday": 4,
+      "simulated": true
     }
   ],
   "stats": {
@@ -10416,6 +10443,6 @@
     "best_trade": 15.61,
     "worst_trade": -7.79
   },
-  "last_update": "2026-05-15T01:59:04.949602",
+  "last_update": "2026-05-15T02:02:05.959465",
   "ml_accuracy": 90.6
 }
