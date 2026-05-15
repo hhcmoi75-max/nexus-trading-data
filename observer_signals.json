@@ -43580,5 +43580,27 @@
     "result_4h_pct": null,
     "would_have_won": null,
     "verified": false
+  },
+  {
+    "id": 1982,
+    "timestamp": "2026-05-15T22:39:30.409811+00:00",
+    "symbol": "ADAUSDT",
+    "score": 0.6096,
+    "source": "whale_buy",
+    "age_seconds": 0,
+    "size_pct": 4.14,
+    "size_usd": 24.86,
+    "regime": "bear_volatile",
+    "urgency": "NORMAL",
+    "bypass": false,
+    "is_cascade": false,
+    "title": "",
+    "price_at_signal": 0.2615,
+    "price_after_1h": null,
+    "price_after_4h": null,
+    "result_1h_pct": null,
+    "result_4h_pct": null,
+    "would_have_won": null,
+    "verified": false
   }
 ]
