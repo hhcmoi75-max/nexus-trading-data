@@ -38537,9 +38537,9 @@
     "title": "",
     "price_at_signal": 80765.66,
     "price_after_1h": 80614.2,
-    "price_after_4h": null,
+    "price_after_4h": 80590.01,
     "result_1h_pct": -0.188,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.217,
     "would_have_won": false,
     "verified": true
   },
@@ -38559,9 +38559,9 @@
     "title": "MENA Nations Cup - Fan Points Airdrop: Team Up with Binance, Share 60,000 USDC Rewards and Unlock VI",
     "price_at_signal": 0.1411,
     "price_after_1h": 0.141,
-    "price_after_4h": null,
+    "price_after_4h": 0.1415,
     "result_1h_pct": -0.071,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.283,
     "would_have_won": false,
     "verified": true
   },
@@ -38581,9 +38581,9 @@
     "title": "MENA Nations Cup - Fan Points Airdrop: Team Up with Binance, Share 60,000 USDC Rewards and Unlock VI",
     "price_at_signal": 684.07,
     "price_after_1h": 685.33,
-    "price_after_4h": null,
+    "price_after_4h": 685.79,
     "result_1h_pct": 0.184,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.251,
     "would_have_won": false,
     "verified": true
   },
@@ -39592,12 +39592,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 2260.0,
-    "price_after_1h": null,
+    "price_after_1h": 2255.82,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.185,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1801,
