@@ -37327,9 +37327,9 @@
     "title": "Binance Card: Enjoy 50% Cashback on Everyday Spending!",
     "price_at_signal": 676.19,
     "price_after_1h": 683.4,
-    "price_after_4h": null,
+    "price_after_4h": 682.81,
     "result_1h_pct": 1.066,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.979,
     "would_have_won": false,
     "verified": true
   },
@@ -38976,12 +38976,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 80638.01,
-    "price_after_1h": null,
+    "price_after_1h": 80441.39,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.244,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1773,
@@ -38998,12 +38998,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 80638.01,
-    "price_after_1h": null,
+    "price_after_1h": 80441.38,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.244,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1774,
@@ -39020,12 +39020,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 80620.62,
-    "price_after_1h": null,
+    "price_after_1h": 80441.39,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.222,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1775,
