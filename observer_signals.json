@@ -41177,9 +41177,9 @@
     "title": "",
     "price_at_signal": 9.48,
     "price_after_1h": 9.54,
-    "price_after_4h": null,
+    "price_after_4h": 9.55,
     "result_1h_pct": 0.633,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.738,
     "would_have_won": false,
     "verified": true
   },
