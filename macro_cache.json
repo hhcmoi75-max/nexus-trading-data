@@ -1,18 +1,18 @@
 {
-  "score_macro": 85,
+  "score_macro": 72,
   "score_sentiment": 78,
   "tendance_marche": "HAUSSIER",
-  "contexte": "L'écosystème crypto connaît une phase d'institutionnalisation accélérée avec l'avancement du Clarity Act au Sénat américain et l'expansion de CME dans les actifs numériques pour $85 trillions. Bitcoin franchit les $82,000 tandis que le S&P 500 atteint de nouveaux sommets, créant une convergence bullish exceptionnelle entre marchés traditionnels et crypto.",
-  "risque_principal": "La corrélation croissante entre crypto et actions tech pourrait amplifier une correction simultanée si les valorisations IA se retournent brutalement.",
-  "opportunite_du_jour": "L'accumulation massive des whales XRP combinée au momentum institutionnel Bitcoin offre un setup de breakout vers $1.50+ pour XRP et $85K pour BTC.",
+  "contexte": "Le passage du CLARITY Act au Sénat Banking Panel catalyse un rallye crypto avec XRP et DOGE en hausse de 5% et Bitcoin au-dessus de 81k, malgré les rendements obligataires à leur plus haut de 12 mois. La concentration record des baleines Cardano à 67% de l'offre ADA et la croissance de 42% de Gemini signalent une maturation institutionnelle du secteur.",
+  "risque_principal": "Les rendements Treasury 2Y et 10Y à leurs sommets annuels créent une pression déflationniste majeure sur les actifs risqués crypto.",
+  "opportunite_du_jour": "XRP bénéficie d'un momentum réglementaire exceptionnel avec le CLARITY Act et maintient son win rate parfait de 100% selon les stats du bot.",
   "actifs_favorables": [
-    "BTC",
     "XRP",
-    "TRX"
+    "DOGE",
+    "BTC"
   ],
   "actifs_risques": [
-    "ETH",
-    "SOL"
+    "ICP",
+    "FIL"
   ],
-  "last_claude_run": "2026-05-14T18:15:22.458817+00:00"
+  "last_claude_run": "2026-05-15T06:15:44.628657+00:00"
 }
