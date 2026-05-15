@@ -37310,5 +37310,27 @@
     "result_4h_pct": null,
     "would_have_won": null,
     "verified": false
+  },
+  {
+    "id": 1697,
+    "timestamp": "2026-05-15T06:01:17.461588+00:00",
+    "symbol": "BNBUSDT",
+    "score": 0.4913,
+    "source": "news_binance_news",
+    "age_seconds": 76.63428497314453,
+    "size_pct": 3.53,
+    "size_usd": 21.17,
+    "regime": "sideways",
+    "urgency": "NORMAL",
+    "bypass": "False",
+    "is_cascade": false,
+    "title": "Binance Card: Enjoy 50% Cashback on Everyday Spending!",
+    "price_at_signal": 676.19,
+    "price_after_1h": null,
+    "price_after_4h": null,
+    "result_1h_pct": null,
+    "result_4h_pct": null,
+    "would_have_won": null,
+    "verified": false
   }
 ]
