@@ -37810,12 +37810,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 80564.6,
-    "price_after_1h": null,
+    "price_after_1h": 80811.07,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.306,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1720,
@@ -37832,12 +37832,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 80564.59,
-    "price_after_1h": null,
+    "price_after_1h": 80811.08,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.306,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1721,
@@ -37854,12 +37854,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 80564.6,
-    "price_after_1h": null,
+    "price_after_1h": 80811.08,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.306,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1722,
@@ -37876,12 +37876,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 80564.6,
-    "price_after_1h": null,
+    "price_after_1h": 80811.08,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.306,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1723,
@@ -37898,12 +37898,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 80564.6,
-    "price_after_1h": null,
+    "price_after_1h": 80811.08,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.306,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1724,
