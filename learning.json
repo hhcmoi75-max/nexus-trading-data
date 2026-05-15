@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-05-15T11:22:55.516919",
+    "last_update": "2026-05-15T11:25:49.390706",
     "win_rate_recent": 40.0
   },
   "asset_patterns": {
@@ -11514,6 +11514,33 @@
       "entry_hour_utc": 9,
       "entry_weekday": 4,
       "simulated": true
+    },
+    {
+      "asset": "APT",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-05-15T09:26:20.383029+00:00",
+      "entry_time": "2026-05-15T09:26:20.383029+00:00",
+      "exit_time": "2026-05-15T09:26:20.383029+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 0.8742,
+      "score": 65,
+      "rsi": 34.36,
+      "adx": 24.91,
+      "claude_confidence": 85,
+      "claude_reason": "APT est explicitement dans la liste 'A eviter' du bot. Le score ML de 65/100 avec confiance faible (31.9%) et RSI suracheté (34.36 insuffisant) ne compensent pas cette exclusion. Les rendements Treasury au plus haut créent une pression déflationniste majeure sur les actifs risqués. Le momentum macro bénéficie à XRP/BTC, pas à APT.",
+      "ml_confidence": 31.9,
+      "score_technique": 66,
+      "score_macro": 72,
+      "score_sentiment": 78,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 43,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 9,
+      "entry_weekday": 4,
+      "simulated": true
     }
   ],
   "stats": {
@@ -11526,6 +11553,6 @@
     "best_trade": 15.61,
     "worst_trade": -7.79
   },
-  "last_update": "2026-05-15T11:23:38.225785",
-  "ml_accuracy": 92.2
+  "last_update": "2026-05-15T11:26:30.902778",
+  "ml_accuracy": 92.3
 }
