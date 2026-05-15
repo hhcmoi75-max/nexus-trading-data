@@ -40758,12 +40758,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 79219.14,
-    "price_after_1h": null,
+    "price_after_1h": 79095.74,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.156,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1854,
