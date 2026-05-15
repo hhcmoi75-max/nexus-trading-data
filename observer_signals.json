@@ -40517,9 +40517,9 @@
     "title": "",
     "price_at_signal": 2220.56,
     "price_after_1h": 2215.69,
-    "price_after_4h": null,
+    "price_after_4h": 2230.8,
     "result_1h_pct": -0.219,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.461,
     "would_have_won": false,
     "verified": true
   },
