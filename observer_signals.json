@@ -38757,9 +38757,9 @@
     "title": "",
     "price_at_signal": 2256.85,
     "price_after_1h": 2255.23,
-    "price_after_4h": null,
+    "price_after_4h": 2253.54,
     "result_1h_pct": -0.072,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.147,
     "would_have_won": false,
     "verified": true
   },
