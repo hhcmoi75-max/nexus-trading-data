@@ -38515,9 +38515,9 @@
     "title": "",
     "price_at_signal": 1.022,
     "price_after_1h": 1.018,
-    "price_after_4h": null,
+    "price_after_4h": 1.017,
     "result_1h_pct": -0.391,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.489,
     "would_have_won": false,
     "verified": true
   },
