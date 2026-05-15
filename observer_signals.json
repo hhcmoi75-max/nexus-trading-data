@@ -39307,9 +39307,9 @@
     "title": "",
     "price_at_signal": 9.75,
     "price_after_1h": 9.81,
-    "price_after_4h": null,
+    "price_after_4h": 9.44,
     "result_1h_pct": 0.615,
-    "result_4h_pct": null,
+    "result_4h_pct": -3.179,
     "would_have_won": false,
     "verified": true
   },
