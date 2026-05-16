@@ -52595,9 +52595,9 @@
     "title": "",
     "price_at_signal": 78264.03,
     "price_after_1h": 78223.41,
-    "price_after_4h": null,
+    "price_after_4h": 78229.27,
     "result_1h_pct": -0.052,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.044,
     "would_have_won": false,
     "verified": true
   },
