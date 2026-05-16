@@ -50834,12 +50834,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 9.67,
-    "price_after_1h": null,
+    "price_after_1h": 9.75,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.827,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 2312,
