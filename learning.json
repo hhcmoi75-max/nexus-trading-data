@@ -7,13 +7,13 @@
     "onchain": 0.077
   },
   "thresholds": {
-    "MIN_SCORE_BUY": 77,
+    "MIN_SCORE_BUY": 79,
     "MAX_SCORE_SELL": 40,
     "RSI_OVERSOLD": 25,
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-05-16T19:04:14.064481",
+    "last_update": "2026-05-16T19:07:07.686933",
     "win_rate_recent": 36.7
   },
   "asset_patterns": {
@@ -12348,6 +12348,33 @@
         "btc_status": "ok",
         "claude_confidence": 50
       }
+    },
+    {
+      "asset": "ETH",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-05-16T17:07:13.219549+00:00",
+      "entry_time": "2026-05-16T17:07:13.219549+00:00",
+      "exit_time": "2026-05-16T17:07:13.219549+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 1873.93,
+      "score": 83,
+      "rsi": 28.57,
+      "adx": 59.45,
+      "claude_confidence": 25,
+      "claude_reason": "Confiance ML insuffisante (39.4%), contexte macro instable (Fear&Greed 50/100), risques systémiques DeFi élevés (hack KelpDAO), ETH absent des actifs favorables, variation 24h nulle suggère manque de momentum, et RSI survendu (28.57) peut indiquer piège baissier plutôt que rebond fiable",
+      "ml_confidence": 39.4,
+      "score_technique": 67,
+      "score_macro": 72,
+      "score_sentiment": 65,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 31,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 17,
+      "entry_weekday": 5,
+      "simulated": true
     }
   ],
   "stats": {
@@ -12360,6 +12387,6 @@
     "best_trade": 15.61,
     "worst_trade": -9.65
   },
-  "last_update": "2026-05-16T19:05:04.210201",
+  "last_update": "2026-05-16T19:07:51.472326",
   "ml_accuracy": 92.3
 }
