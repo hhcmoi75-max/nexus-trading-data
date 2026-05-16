@@ -45802,5 +45802,27 @@
     "result_4h_pct": null,
     "would_have_won": null,
     "verified": false
+  },
+  {
+    "id": 2083,
+    "timestamp": "2026-05-16T05:05:41.668284+00:00",
+    "symbol": "BTCUSDT",
+    "score": 0.603,
+    "source": "whale_buy",
+    "age_seconds": 0,
+    "size_pct": 8.09,
+    "size_usd": 48.54,
+    "regime": "sideways",
+    "urgency": "NORMAL",
+    "bypass": "False",
+    "is_cascade": false,
+    "title": "",
+    "price_at_signal": 79000.0,
+    "price_after_1h": null,
+    "price_after_4h": null,
+    "result_1h_pct": null,
+    "result_4h_pct": null,
+    "would_have_won": null,
+    "verified": false
   }
 ]
