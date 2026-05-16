@@ -7,14 +7,14 @@
     "onchain": 0.077
   },
   "thresholds": {
-    "MIN_SCORE_BUY": 81,
+    "MIN_SCORE_BUY": 83,
     "MAX_SCORE_SELL": 40,
     "RSI_OVERSOLD": 25,
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-05-16T19:10:00.609327",
-    "win_rate_recent": 36.7
+    "last_update": "2026-05-16T19:12:56.010027",
+    "win_rate_recent": 33.3
   },
   "asset_patterns": {
     "NEAR": {
@@ -12429,6 +12429,60 @@
       "entry_hour_utc": 17,
       "entry_weekday": 5,
       "simulated": true
+    },
+    {
+      "asset": "ETH",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-05-16T17:13:02.221572+00:00",
+      "entry_time": "2026-05-16T17:13:02.221572+00:00",
+      "exit_time": "2026-05-16T17:13:02.221572+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 1873.3599999999997,
+      "score": 83,
+      "rsi": 27.6,
+      "adx": 59.45,
+      "claude_confidence": 25,
+      "claude_reason": "Confiance ML insuffisante (37.6%), variation 24h nulle indiquant absence de momentum, RSI survendu mais sans catalyseur macro spécifique à ETH. Contexte macro dominé par risques systémiques DeFi (hack KelpDAO 293M$) sans support fondamental pour ETH. Sagesse bot favorise XRP/TRX/ATOM, ETH absent des actifs favorables. Score technique élevé contredit par faible confiance prédictive.",
+      "ml_confidence": 37.6,
+      "score_technique": 67,
+      "score_macro": 72,
+      "score_sentiment": 65,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 31,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 17,
+      "entry_weekday": 5,
+      "simulated": true
+    },
+    {
+      "asset": "SOL",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-05-16T17:13:08.545227+00:00",
+      "entry_time": "2026-05-16T17:13:08.545227+00:00",
+      "exit_time": "2026-05-16T17:13:08.545227+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 74.65,
+      "score": 84,
+      "rsi": 30.68,
+      "adx": 62.88,
+      "claude_confidence": 15,
+      "claude_reason": "Confiance ML insuffisante (27%) malgré score élevé (84/100), variation 24h nulle suggérant absence de momentum, RSI survendu (30.68) mais ADX fort (62.9) crée contradiction technique, SOL absent de liste favorable du bot, contexte macro instable avec hack DeFi majeur créant risque systémique, sagesse révèle surconfiance algorithmique dangereuse après récents gains",
+      "ml_confidence": 27.0,
+      "score_technique": 67,
+      "score_macro": 72,
+      "score_sentiment": 65,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 31,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 17,
+      "entry_weekday": 5,
+      "simulated": true
     }
   ],
   "stats": {
@@ -12441,6 +12495,6 @@
     "best_trade": 15.61,
     "worst_trade": -9.65
   },
-  "last_update": "2026-05-16T19:10:47.034613",
-  "ml_accuracy": 91.9
+  "last_update": "2026-05-16T19:13:40.263665",
+  "ml_accuracy": 91.5
 }
