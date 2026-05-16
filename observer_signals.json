@@ -44147,9 +44147,9 @@
     "title": "",
     "price_at_signal": 79170.0,
     "price_after_1h": 79123.9,
-    "price_after_4h": null,
+    "price_after_4h": 79084.14,
     "result_1h_pct": -0.058,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.108,
     "would_have_won": false,
     "verified": true
   },
