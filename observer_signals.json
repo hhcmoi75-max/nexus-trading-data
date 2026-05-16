@@ -43311,9 +43311,9 @@
     "title": "",
     "price_at_signal": 79067.69,
     "price_after_1h": 79101.92,
-    "price_after_4h": null,
+    "price_after_4h": 79084.06,
     "result_1h_pct": 0.043,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.021,
     "would_have_won": false,
     "verified": true
   },
