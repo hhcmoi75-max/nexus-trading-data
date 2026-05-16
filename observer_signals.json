@@ -44433,9 +44433,9 @@
     "title": "",
     "price_at_signal": 79165.03,
     "price_after_1h": 79069.18,
-    "price_after_4h": null,
+    "price_after_4h": 78990.01,
     "result_1h_pct": -0.121,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.221,
     "would_have_won": false,
     "verified": true
   },
