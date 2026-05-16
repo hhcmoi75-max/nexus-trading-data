@@ -46154,5 +46154,27 @@
     "result_4h_pct": null,
     "would_have_won": null,
     "verified": false
+  },
+  {
+    "id": 2099,
+    "timestamp": "2026-05-16T06:22:09.922128+00:00",
+    "symbol": "APTUSDT",
+    "score": 0.6104,
+    "source": "whale_buy",
+    "age_seconds": 0,
+    "size_pct": 4.16,
+    "size_usd": 24.94,
+    "regime": "bear_volatile",
+    "urgency": "NORMAL",
+    "bypass": false,
+    "is_cascade": false,
+    "title": "",
+    "price_at_signal": 0.969,
+    "price_after_1h": null,
+    "price_after_4h": null,
+    "result_1h_pct": null,
+    "result_4h_pct": null,
+    "would_have_won": null,
+    "verified": false
   }
 ]
