@@ -1,18 +1,18 @@
 {
   "score_macro": 72,
-  "score_sentiment": 78,
-  "tendance_marche": "HAUSSIER",
-  "contexte": "Le passage du CLARITY Act au Sénat Banking Panel catalyse un rallye crypto avec XRP et DOGE en hausse de 5% et Bitcoin au-dessus de 81k, malgré les rendements obligataires à leur plus haut de 12 mois. La concentration record des baleines Cardano à 67% de l'offre ADA et la croissance de 42% de Gemini signalent une maturation institutionnelle du secteur.",
-  "risque_principal": "Les rendements Treasury 2Y et 10Y à leurs sommets annuels créent une pression déflationniste majeure sur les actifs risqués crypto.",
-  "opportunite_du_jour": "XRP bénéficie d'un momentum réglementaire exceptionnel avec le CLARITY Act et maintient son win rate parfait de 100% selon les stats du bot.",
+  "score_sentiment": 65,
+  "tendance_marche": "NEUTRE",
+  "contexte": "Les marchés crypto affichent une stabilité remarquable avec tous les actifs majeurs à 0.0%, suggérant une consolidation technique après les récents mouvements. L'avancement du CLARITY Act pour XRP et les développements d'infrastructure comme Firedancer pour Solana créent un biais constructif malgré les préoccupations sécuritaires.",
+  "risque_principal": "Le hack massif de KelpDAO (293M$) et l'appétit croissant pour les rendements risqués exposent l'écosystème DeFi à des vulnérabilités systémiques majeures.",
+  "opportunite_du_jour": "XRP bénéficie d'un catalyseur réglementaire fort avec le CLARITY Act, offrant une opportunité de breakout sur les cryptos de paiement institutionnel.",
   "actifs_favorables": [
     "XRP",
-    "DOGE",
+    "SOL",
     "BTC"
   ],
   "actifs_risques": [
-    "ICP",
-    "FIL"
+    "ETH",
+    "BNB"
   ],
-  "last_claude_run": "2026-05-15T06:15:44.628657+00:00"
+  "last_claude_run": "2026-05-16T17:04:05.985792+00:00"
 }
