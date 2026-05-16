@@ -49097,9 +49097,9 @@
     "title": "",
     "price_at_signal": 9.64,
     "price_after_1h": 9.63,
-    "price_after_4h": null,
+    "price_after_4h": 9.73,
     "result_1h_pct": -0.104,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.934,
     "would_have_won": false,
     "verified": true
   },
