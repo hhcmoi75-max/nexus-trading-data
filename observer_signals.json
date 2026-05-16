@@ -47117,9 +47117,9 @@
     "title": "",
     "price_at_signal": 78412.25,
     "price_after_1h": 78040.27,
-    "price_after_4h": null,
+    "price_after_4h": 77985.0,
     "result_1h_pct": -0.474,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.545,
     "would_have_won": false,
     "verified": true
   },
