@@ -46170,12 +46170,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 0.969,
-    "price_after_1h": null,
+    "price_after_1h": 0.954,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -1.548,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 2100,
