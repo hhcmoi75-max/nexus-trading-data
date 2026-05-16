@@ -47513,9 +47513,9 @@
     "title": "",
     "price_at_signal": 78100.01,
     "price_after_1h": 77934.91,
-    "price_after_4h": null,
+    "price_after_4h": 77932.77,
     "result_1h_pct": -0.211,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.214,
     "would_have_won": false,
     "verified": true
   },
