@@ -45950,12 +45950,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 78992.42,
-    "price_after_1h": null,
+    "price_after_1h": 78881.72,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.14,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 2090,
