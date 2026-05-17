@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-05-17T02:20:19.182593",
+    "last_update": "2026-05-17T02:27:05.737899",
     "win_rate_recent": 23.3
   },
   "asset_patterns": {
@@ -12545,6 +12545,33 @@
         "btc_status": "ok",
         "claude_confidence": 50
       }
+    },
+    {
+      "asset": "BTC",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-05-17T00:27:10.031391+00:00",
+      "entry_time": "2026-05-17T00:27:10.031391+00:00",
+      "exit_time": "2026-05-17T00:27:10.031391+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 67291.69,
+      "score": 85,
+      "rsi": 33.79,
+      "adx": 49.08,
+      "claude_confidence": 15,
+      "claude_reason": "Confiance ML insuffisante (25.3%), variation 24h nulle suggère une consolidation sans momentum, hack KelpDAO crée risque systémique DeFi, Fear & Greed neutre (50/100) ne justifie pas entry, RSI 33.79 en survente mais sans confirmation d'inversion de tendance",
+      "ml_confidence": 25.3,
+      "score_technique": 67,
+      "score_macro": 72,
+      "score_sentiment": 65,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 27,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 0,
+      "entry_weekday": 6,
+      "simulated": true
     }
   ],
   "stats": {
@@ -12557,6 +12584,6 @@
     "best_trade": 15.61,
     "worst_trade": -9.65
   },
-  "last_update": "2026-05-17T02:20:57.719194",
+  "last_update": "2026-05-17T02:27:49.892408",
   "ml_accuracy": 87.2
 }
