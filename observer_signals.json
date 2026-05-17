@@ -54838,12 +54838,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 87.06,
-    "price_after_1h": null,
+    "price_after_1h": 86.97,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.103,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 2494,
@@ -54860,12 +54860,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 78263.15,
-    "price_after_1h": null,
+    "price_after_1h": 78179.75,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.107,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 2495,
@@ -54882,12 +54882,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 78271.51,
-    "price_after_1h": null,
+    "price_after_1h": 78185.87,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.109,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 2496,
@@ -54904,12 +54904,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 78274.56,
-    "price_after_1h": null,
+    "price_after_1h": 78185.13,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.114,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 2497,
@@ -54926,12 +54926,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 78270.17,
-    "price_after_1h": null,
+    "price_after_1h": 78185.13,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.109,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 2498,
