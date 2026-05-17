@@ -1,5 +1,12 @@
 {
   "lecons_cles": [
+    "AVAX fait son entrée dans le cercle exclusif des 100% win rate, confirmant que l'algorithme a finalement maîtrisé les blockchains à consensus Snow++ malgré leur complexité technique initiale",
+    "La stabilisation du PnL à 0.98% (-34% vs pics précédents) avec maintien du win rate à 62.5% révèle une consolidation forcée où la diversification excessive dilue l'alpha sur les actifs premium",
+    "L'explosion de TRX à +12.4% (nouveau record absolu) établit définitivement les blockchains DPOS comme catégorie supérieure, détrônant même les références BTC/ETH traditionnelles",
+    "La double présence d'ATOM dans le top 5 (+11.8% et +3.5%) avec des écarts de performance massifs révèle un pattern de timing optimal où l'IBC Cosmos récompense les entrées multiples stratégiques",
+    "La bipolarité extrême d'ARB (+4.2% ET -9.7% simultanément) avec 19% d'écart confirme que les Layer-2 Ethereum nécessitent une approche de swing trading plutôt qu'une stratégie directionnelle pure",
+    "LTC réapparaît dans le top 5 (+3.3%) pour la première fois depuis des cycles, marquant la résurrection des altcoins legacy comme hedge contre la saturation des nouvelles blockchains",
+    "CHZ plonge à 0% de win rate (rejoignant MSFT/NVDA), exposant l'effondrement complet des fan tokens sportifs face à l'adoption institutionnelle des crypto-monnaies sérieuses",
     "L'explosion du PnL à 1.44% (+37% vs période précédente) avec un win rate culminant à 66.7% révèle que le bot a atteint sa phase de maturité algorithmique optimale, suggérant une stabilisation durable des performances",
     "XRP rejoint le cercle exclusif des actifs à 100% de win rate, marquant la réconciliation définitive du bot avec les cryptos de paiement institutionnel après des années de sous-performance",
     "La triple occurrence exacte de +15.1% sur ETC, FIL et ARB révèle un seuil de take-profit automatique ultra-précis, mais l'exception de TON à +15.6% suggère une logique de momentum qui pourrait être exploitée",
@@ -42,43 +49,36 @@
     "TRX maintient sa perfection à 100% de win rate, consolidant l'efficacité sur les blockchains alternatives à consensus TPOS (Tribunal Proof of Stake) face aux mécanismes traditionnels",
     "L'accélération du win rate de 61.4% à 64.1% avec PnL bondissant de +0.59% à +0.76% révèle un momentum d'amélioration exponentiel suggérant une convergence vers des paramètres optimaux",
     "TON présente un profil schizophrène avec des gains majeurs (+7.9%) ET des pertes importantes (-5.1%), indiquant une volatilité bidirectionnelle qui nécessite un timing précis contrairement à sa stabilité supposée",
-    "L'émergence d'ATOM à 100% de win rate confirme l'extension réussie vers l'écosystème Cosmos Inter-Blockchain Communication, ouvrant une nouvelle voie de diversification cross-chain",
-    "SEI maintient sa perfection à 100% de win rate, consolidant sa position de layer-1 optimisé pour le trading haute fréquence comme catégorie distinctive des blockchains généralistes",
-    "La récurrence d'INJ dans le top 5 des gains (+10.8% et +8.1%) établit une dominance reproductible sur les protocoles DEX derivatives, transcendant les performances ponctuelles",
-    "La stabilisation de ALGO à 100% de win rate sur plusieurs périodes confirme l'efficacité durable des blockchains pure-proof-of-stake à gouvernance décentralisée",
-    "FIL réapparaît dans le top 5 (+8.0%) après sa réhabilitation, validant définitivement le retournement de tendance des tokens de stockage décentralisé Web3",
-    "TON révèle l'émergence des blockchains Telegram-intégrées (+8.7%) comme nouvelle catégorie ultra-performante, capitalisant sur l'adoption sociale massive",
-    "L'inclusion d'actions traditionnelles (MSFT, NVDA) génère systématiquement 0% de win rate, confirmant l'incompatibilité totale du bot avec les marchés actions versus crypto",
-    "XLM rejoint les échecs récurrents malgré son statut de leader des paiements transfrontaliers, révélant une faiblesse structurelle sur les tokens à utilité financière traditionnelle"
+    "L'émergence d'ATOM à 100% de win rate confirme l'extension réussie vers l'écosystème Cosmos Inter-Blockchain Communication, ouvrant une nouvelle voie de diversification cross-chain"
   ],
   "actifs_a_privilegier": [
-    "BTC",
     "TRX",
+    "ATOM",
+    "AVAX",
+    "BTC",
     "ALGO",
     "SEI",
     "XRP",
-    "ATOM",
-    "TON",
-    "INJ"
+    "TON"
   ],
   "actifs_a_eviter": [
+    "CHZ",
+    "ARB",
+    "FIL",
+    "APT",
     "MSFT",
     "NVDA",
-    "APT",
     "XLM",
-    "POL",
-    "UNI",
-    "NEAR",
-    "DOT"
+    "POL"
   ],
-  "conditions_favorables": "Marché crypto en expansion avec dominance des layer-1 éprouvés, blockchains PoS natives, et tokens de paiement institutionnel, évitant les secteurs actions tech et rebrands récents",
-  "erreurs_recurrentes": "Sur-exposition aux actifs bipolaires comme FIL et ATOM malgré leurs performances historiques, et maintien d'allocations sur les blockchains Move-based et tokens d'exchange centralisés",
+  "conditions_favorables": "Dominance des blockchains à consensus alternatifs (DPOS, Snow++, Pure PoS) avec timing d'entrées multiples sur écosystèmes interopérables comme Cosmos IBC",
+  "erreurs_recurrentes": "Sur-allocation sur Layer-2 Ethereum volatils et maintien d'exposition aux fan tokens/actions traditionnelles malgré leur échec systémique",
   "recommandation_seuil_buy": 72,
-  "recommandation_stop_loss": 0.055,
-  "strategie_recommandee": "Concentrer 80% de l'allocation sur les 5 actifs parfaits (BTC, TRX, ALGO, SEI, XRP) en augmentant la taille des positions. Implémenter un mécanisme de take-profit dynamique au-delà de 15.1% pour capturer les gains exceptionnels comme TON +15.6%.",
-  "last_distillation": "2026-05-14T20:08:02.877540+00:00",
-  "trades_analyzed": 151,
-  "win_rate_at_distill": 66.7,
+  "recommandation_stop_loss": 0.08,
+  "strategie_recommandee": "Concentrer 80% de l'allocation sur les 5 actifs à 100% win rate avec timing d'entrées multiples sur ATOM/TRX lors des corrections. Éliminer définitivement CHZ et réduire drastiquement l'exposition ARB malgré ses pics de performance.",
+  "last_distillation": "2026-05-17T20:12:53.270775+00:00",
+  "trades_analyzed": 217,
+  "win_rate_at_distill": 62.5,
   "traders": {
     "Warren Buffett": {
       "style": "Value Investing - Long terme",
