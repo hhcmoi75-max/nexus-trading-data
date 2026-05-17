@@ -57236,12 +57236,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 2193.8,
-    "price_after_1h": null,
+    "price_after_1h": 2190.8,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.137,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 2603,
@@ -57258,12 +57258,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 78471.79,
-    "price_after_1h": null,
+    "price_after_1h": 78325.23,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.187,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 2604,
@@ -57280,12 +57280,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 78471.78,
-    "price_after_1h": null,
+    "price_after_1h": 78325.22,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.187,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 2605,
@@ -57302,12 +57302,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 78550.0,
-    "price_after_1h": null,
+    "price_after_1h": 78337.0,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.271,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 2606,
@@ -57324,12 +57324,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 78543.6,
-    "price_after_1h": null,
+    "price_after_1h": 78337.0,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.263,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 2607,
