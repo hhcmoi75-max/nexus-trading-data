@@ -1,32 +1,7 @@
 {
-  "last_scan": "2026-05-17T12:26:52.369265",
-  "total_scanned": 2,
-  "top_signals": [
-    {
-      "asset": "CHZ",
-      "name": "CHZ",
-      "type": "crypto",
-      "price_eur": 0.044673,
-      "change_24h": 9.13,
-      "volume_usd": 15730885.0,
-      "signal": "BUY",
-      "strength": 9.1,
-      "source": "Binance background",
-      "layer": 2
-    },
-    {
-      "asset": "ZEC",
-      "name": "ZEC",
-      "type": "crypto",
-      "price_eur": 484.83344,
-      "change_24h": 7.59,
-      "volume_usd": 73543241.0,
-      "signal": "BUY",
-      "strength": 7.6,
-      "source": "Binance background",
-      "layer": 2
-    }
-  ],
+  "last_scan": "2026-05-17T12:33:50.164635",
+  "total_scanned": 0,
+  "top_signals": [],
   "extreme_count": 0,
-  "eur_rate": 0.923
+  "eur_rate": 0.86023046
 }
