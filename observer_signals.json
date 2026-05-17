@@ -56819,9 +56819,9 @@
     "title": "",
     "price_at_signal": 78423.46,
     "price_after_1h": 78461.99,
-    "price_after_4h": null,
+    "price_after_4h": 77981.99,
     "result_1h_pct": 0.049,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.563,
     "would_have_won": false,
     "verified": true
   },
@@ -56841,9 +56841,9 @@
     "title": "",
     "price_at_signal": 78406.42,
     "price_after_1h": 78463.6,
-    "price_after_4h": null,
+    "price_after_4h": 78000.93,
     "result_1h_pct": 0.073,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.517,
     "would_have_won": false,
     "verified": true
   },
@@ -56863,9 +56863,9 @@
     "title": "",
     "price_at_signal": 78424.63,
     "price_after_1h": 78463.6,
-    "price_after_4h": null,
+    "price_after_4h": 78024.76,
     "result_1h_pct": 0.05,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.51,
     "would_have_won": false,
     "verified": true
   },
@@ -56885,9 +56885,9 @@
     "title": "",
     "price_at_signal": 78408.21,
     "price_after_1h": 78500.91,
-    "price_after_4h": null,
+    "price_after_4h": 78032.01,
     "result_1h_pct": 0.118,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.48,
     "would_have_won": false,
     "verified": true
   },
@@ -57786,12 +57786,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 77992.19,
-    "price_after_1h": null,
+    "price_after_1h": 78031.99,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.051,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 2628,
@@ -57808,12 +57808,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 78000.0,
-    "price_after_1h": null,
+    "price_after_1h": 77981.99,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.023,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 2629,
