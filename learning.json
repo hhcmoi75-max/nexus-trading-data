@@ -13,8 +13,8 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-05-17T03:01:11.616708",
-    "win_rate_recent": 20.0
+    "last_update": "2026-05-17T03:07:59.979700",
+    "win_rate_recent": 16.7
   },
   "asset_patterns": {
     "NEAR": {
@@ -12633,6 +12633,33 @@
         "btc_status": "ok",
         "claude_confidence": 50
       }
+    },
+    {
+      "asset": "BTC",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-05-17T01:08:04.562880+00:00",
+      "entry_time": "2026-05-17T01:08:04.562880+00:00",
+      "exit_time": "2026-05-17T01:08:04.562880+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 67114.91,
+      "score": 85,
+      "rsi": 30.99,
+      "adx": 48.99,
+      "claude_confidence": 15,
+      "claude_reason": "Confiance ML insuffisante (25.4%), variation 24h nulle indiquant absence de momentum, contexte macro instable avec hack majeur DeFi et Fear&Greed neutre. RSI bas (30.99) suggère survendu mais pas confirmation de reversal. BTC en liste favorable mais signaux contradictoires nécessitent attendre confirmation de volume/prix.",
+      "ml_confidence": 25.4,
+      "score_technique": 67,
+      "score_macro": 72,
+      "score_sentiment": 65,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 27,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 1,
+      "entry_weekday": 6,
+      "simulated": true
     }
   ],
   "stats": {
@@ -12645,6 +12672,6 @@
     "best_trade": 15.61,
     "worst_trade": -9.65
   },
-  "last_update": "2026-05-17T03:01:51.592426",
+  "last_update": "2026-05-17T03:08:41.879703",
   "ml_accuracy": 87.3
 }
