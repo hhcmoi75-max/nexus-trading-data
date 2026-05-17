@@ -1,10 +1,10 @@
 {
   "score_macro": 72,
-  "score_sentiment": 65,
-  "tendance_marche": "NEUTRE",
-  "contexte": "Les marchés crypto affichent une stabilité remarquable avec tous les actifs majeurs à 0.0%, suggérant une consolidation technique après les récents mouvements. L'avancement du CLARITY Act pour XRP et les développements d'infrastructure comme Firedancer pour Solana créent un biais constructif malgré les préoccupations sécuritaires.",
-  "risque_principal": "Le hack massif de KelpDAO (293M$) et l'appétit croissant pour les rendements risqués exposent l'écosystème DeFi à des vulnérabilités systémiques majeures.",
-  "opportunite_du_jour": "XRP bénéficie d'un catalyseur réglementaire fort avec le CLARITY Act, offrant une opportunité de breakout sur les cryptos de paiement institutionnel.",
+  "score_sentiment": 68,
+  "tendance_marche": "HAUSSIER",
+  "contexte": "L'avancement du CLARITY Act au Congrès américain créé un optimisme réglementaire favorisant XRP et l'innovation crypto domestique selon A16z. Cependant, les récents hacks massifs comme KelpDAO ($293M) exposent une prise de risque excessive des utilisateurs DeFi attirés par les rendements élevés.",
+  "risque_principal": "La multiplication des hacks DeFi de grande ampleur révèle une fragilité systémique croissante malgré l'appât du gain par les yields attractifs.",
+  "opportunite_du_jour": "XRP bénéficie d'un momentum réglementaire unique avec le CLARITY Act, surperformant Bitcoin dans un contexte d'adoption institutionnelle accélérée.",
   "actifs_favorables": [
     "XRP",
     "SOL",
@@ -14,5 +14,5 @@
     "ETH",
     "BNB"
   ],
-  "last_claude_run": "2026-05-16T17:04:05.985792+00:00"
+  "last_claude_run": "2026-05-17T05:05:26.835784+00:00"
 }
