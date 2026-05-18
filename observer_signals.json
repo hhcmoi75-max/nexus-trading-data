@@ -61659,9 +61659,9 @@
     "title": "Binance Earn: Enjoy Up to 8% APR with U Flexible Products (2026-05-19)",
     "price_at_signal": 642.6,
     "price_after_1h": 641.55,
-    "price_after_4h": null,
+    "price_after_4h": 638.85,
     "result_1h_pct": -0.163,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.584,
     "would_have_won": false,
     "verified": true
   },
@@ -64034,12 +64034,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 77033.99,
-    "price_after_1h": null,
+    "price_after_1h": 76933.16,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.131,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 2912,
@@ -64056,12 +64056,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 77040.43,
-    "price_after_1h": null,
+    "price_after_1h": 76933.17,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.139,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 2913,
@@ -64078,12 +64078,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 2119.12,
-    "price_after_1h": null,
+    "price_after_1h": 2116.33,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.132,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 2914,
@@ -64100,12 +64100,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 76996.13,
-    "price_after_1h": null,
+    "price_after_1h": 76927.8,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.089,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 2915,
@@ -64122,12 +64122,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 76996.13,
-    "price_after_1h": null,
+    "price_after_1h": 76927.8,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.089,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 2916,
@@ -64144,12 +64144,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 76996.13,
-    "price_after_1h": null,
+    "price_after_1h": 76927.8,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.089,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 2917,
@@ -64628,6 +64628,28 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 76927.77,
+    "price_after_1h": null,
+    "price_after_4h": null,
+    "result_1h_pct": null,
+    "result_4h_pct": null,
+    "would_have_won": null,
+    "verified": false
+  },
+  {
+    "id": 2939,
+    "timestamp": "2026-05-18T10:02:10.089755+00:00",
+    "symbol": "BTCUSDT",
+    "score": 0.6095,
+    "source": "whale_buy",
+    "age_seconds": 0,
+    "size_pct": 4.14,
+    "size_usd": 24.86,
+    "regime": "bear_volatile",
+    "urgency": "NORMAL",
+    "bypass": false,
+    "is_cascade": false,
+    "title": "",
+    "price_at_signal": 76940.08,
     "price_after_1h": null,
     "price_after_4h": null,
     "result_1h_pct": null,
