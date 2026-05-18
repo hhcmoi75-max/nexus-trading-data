@@ -66719,9 +66719,9 @@
     "title": "",
     "price_at_signal": 2110.99,
     "price_after_1h": 2108.4,
-    "price_after_4h": null,
+    "price_after_4h": 2081.21,
     "result_1h_pct": -0.123,
-    "result_4h_pct": null,
+    "result_4h_pct": -1.411,
     "would_have_won": false,
     "verified": true
   },
@@ -67818,12 +67818,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 2107.44,
-    "price_after_1h": null,
+    "price_after_1h": 2084.06,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -1.109,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 3084,
@@ -67840,12 +67840,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 2107.44,
-    "price_after_1h": null,
+    "price_after_1h": 2084.06,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -1.109,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 3085,
@@ -67862,12 +67862,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 2107.58,
-    "price_after_1h": null,
+    "price_after_1h": 2084.05,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -1.116,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 3086,
@@ -67884,12 +67884,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 76700.95,
-    "price_after_1h": null,
+    "price_after_1h": 76260.44,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.574,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 3087,
@@ -67906,12 +67906,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 76709.22,
-    "price_after_1h": null,
+    "price_after_1h": 76260.44,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.585,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 3088,
@@ -68522,6 +68522,28 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 76316.7,
+    "price_after_1h": null,
+    "price_after_4h": null,
+    "result_1h_pct": null,
+    "result_4h_pct": null,
+    "would_have_won": null,
+    "verified": false
+  },
+  {
+    "id": 3116,
+    "timestamp": "2026-05-18T18:53:33.355013+00:00",
+    "symbol": "BTCUSDT",
+    "score": 0.6023,
+    "source": "whale_buy",
+    "age_seconds": 0,
+    "size_pct": 4.03,
+    "size_usd": 24.21,
+    "regime": "bear_volatile",
+    "urgency": "NORMAL",
+    "bypass": "False",
+    "is_cascade": false,
+    "title": "",
+    "price_at_signal": 76339.01,
     "price_after_1h": null,
     "price_after_4h": null,
     "result_1h_pct": null,
