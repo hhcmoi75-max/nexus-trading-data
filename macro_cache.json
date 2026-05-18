@@ -1,18 +1,18 @@
 {
-  "score_macro": 35,
-  "score_sentiment": 25,
+  "score_macro": 45,
+  "score_sentiment": 35,
   "tendance_marche": "BAISSIER",
-  "contexte": "Le marché crypto subit une pression baissière généralisée avec Bitcoin glissant sous 77 000$ face au choc pétrolier et à la montée des rendements obligataires qui pénalisent les actifs risqués. La multiplication des hacks (11M$ sur un bridge crypto) et la stagnation totale des prix (0% partout) révèlent un environnement de risk-off prononcé.",
-  "risque_principal": "L'effet domino du choc pétrolier combiné à la hausse des taux pourrait déclencher un sell-off massif sur les cryptos si Bitcoin casse le support des 77 000$.",
-  "opportunite_du_jour": "HYPE surperforme avec +7% grâce à l'effet SpaceX/Hyperliquid, offrant un alpha rare dans ce marché stagnant.",
+  "contexte": "L'écosystème crypto traverse une période de consolidation forcée avec des sorties de capitaux massives ($1B) liées aux tensions géopolitiques iraniennes qui relancent l'aversion au risque. Paradoxalement, l'infrastructure institutionnelle se renforce avec Galaxy obtenant la BitLicense et des investissements AI-crypto de $13.6B, créant une dichotomie entre flux court terme et fondamentaux long terme.",
+  "risque_principal": "Les traders Ethereum confirment une prise de contrôle baissière avec ETH sous $2000, signalant une potentielle contagion sur l'ensemble des altcoins.",
+  "opportunite_du_jour": "Les blockchains DPOS comme TRX continuent de surperformer (+12.4% record) tandis que les mineurs crypto bénéficient de l'intérêt croissant pour l'infrastructure AI.",
   "actifs_favorables": [
-    "BNB",
     "TRX",
-    "HYPE"
+    "HIVE",
+    "BTC"
   ],
   "actifs_risques": [
-    "BTC",
-    "ETH"
+    "ETH",
+    "ARB"
   ],
-  "last_claude_run": "2026-05-18T05:11:45.504877+00:00"
+  "last_claude_run": "2026-05-18T17:16:20.244455+00:00"
 }
