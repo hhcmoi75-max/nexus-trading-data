@@ -1,18 +1,18 @@
 {
-  "score_macro": 72,
-  "score_sentiment": 68,
-  "tendance_marche": "NEUTRE",
-  "contexte": "L'adoption institutionnelle s'accélère avec les initiatives japonaises (SBI, Rakuten, Nomura) pour lancer des fonds crypto, signalant une maturité croissante du secteur. Les développements techniques sur Bitcoin programmable et l'infrastructure Solana renforcent les fondamentaux long-terme malgré la stagnation des prix.",
-  "risque_principal": "La géopolitique crypto s'intensifie avec les stablecoins russes anti-sanctions, créant un risque réglementaire systémique pour l'écosystème global.",
-  "opportunite_du_jour": "L'infrastructure DeFi de nouvelle génération (VerifiedX, Firedancer) ouvre une fenêtre d'opportunité sur les actifs Web3 avant la prochaine phase d'adoption.",
+  "score_macro": 35,
+  "score_sentiment": 25,
+  "tendance_marche": "BAISSIER",
+  "contexte": "Le marché crypto subit une pression baissière généralisée avec Bitcoin glissant sous 77 000$ face au choc pétrolier et à la montée des rendements obligataires qui pénalisent les actifs risqués. La multiplication des hacks (11M$ sur un bridge crypto) et la stagnation totale des prix (0% partout) révèlent un environnement de risk-off prononcé.",
+  "risque_principal": "L'effet domino du choc pétrolier combiné à la hausse des taux pourrait déclencher un sell-off massif sur les cryptos si Bitcoin casse le support des 77 000$.",
+  "opportunite_du_jour": "HYPE surperforme avec +7% grâce à l'effet SpaceX/Hyperliquid, offrant un alpha rare dans ce marché stagnant.",
   "actifs_favorables": [
-    "SOL",
-    "XRP",
-    "BTC"
+    "BNB",
+    "TRX",
+    "HYPE"
   ],
   "actifs_risques": [
-    "TRX",
-    "BNB"
+    "BTC",
+    "ETH"
   ],
-  "last_claude_run": "2026-05-17T17:09:10.774434+00:00"
+  "last_claude_run": "2026-05-18T05:11:45.504877+00:00"
 }
