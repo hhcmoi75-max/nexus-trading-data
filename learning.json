@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-05-18T03:47:44.790648",
+    "last_update": "2026-05-18T03:54:31.084245",
     "win_rate_recent": 20.0
   },
   "asset_patterns": {
@@ -13601,6 +13601,33 @@
         "btc_status": "ok",
         "claude_confidence": 50
       }
+    },
+    {
+      "asset": "ETH",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-05-18T01:54:36.866637+00:00",
+      "entry_time": "2026-05-18T01:54:36.866637+00:00",
+      "exit_time": "2026-05-18T01:54:36.866637+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 1820.23,
+      "score": 86,
+      "rsi": 18.3,
+      "adx": 24.37,
+      "claude_confidence": 15,
+      "claude_reason": "ETH absent des favorables avec confiance ML basse (33.5%), RSI extrêmement bas (18.3) suggère survendeur mais ADX faible (24.4) indique absence de tendance établie. Contexte macro neutre (50/100) sans catalyseur immédiat. Profil de risque incompatible avec allocation bot.",
+      "ml_confidence": 33.5,
+      "score_technique": 87,
+      "score_macro": 72,
+      "score_sentiment": 68,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 28,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 1,
+      "entry_weekday": 0,
+      "simulated": true
     }
   ],
   "stats": {
@@ -13613,6 +13640,6 @@
     "best_trade": 15.61,
     "worst_trade": -9.65
   },
-  "last_update": "2026-05-18T03:48:23.552116",
+  "last_update": "2026-05-18T03:55:12.993001",
   "ml_accuracy": 88.6
 }
