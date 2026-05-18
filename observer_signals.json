@@ -61306,12 +61306,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 9.56,
-    "price_after_1h": null,
+    "price_after_1h": 9.52,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.418,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 2788,
@@ -61328,12 +61328,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 77000.0,
-    "price_after_1h": null,
+    "price_after_1h": 76921.88,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.101,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 2789,
@@ -61350,12 +61350,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 77021.7,
-    "price_after_1h": null,
+    "price_after_1h": 76921.88,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.13,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 2790,
@@ -61372,12 +61372,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 77021.7,
-    "price_after_1h": null,
+    "price_after_1h": 76921.88,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.13,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 2791,
@@ -61394,12 +61394,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 77034.99,
-    "price_after_1h": null,
+    "price_after_1h": 76921.88,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.147,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 2792,
