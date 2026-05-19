@@ -75166,12 +75166,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 76438.66,
-    "price_after_1h": null,
+    "price_after_1h": 76588.89,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.197,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 3418,
@@ -75188,12 +75188,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 76437.0,
-    "price_after_1h": null,
+    "price_after_1h": 76590.49,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.201,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 3419,
@@ -75210,12 +75210,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 76437.01,
-    "price_after_1h": null,
+    "price_after_1h": 76590.49,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.201,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 3420,
@@ -75232,12 +75232,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 76443.71,
-    "price_after_1h": null,
+    "price_after_1h": 76607.83,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.215,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 3421,
@@ -75254,12 +75254,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 76474.19,
-    "price_after_1h": null,
+    "price_after_1h": 76607.83,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.175,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 3422,
@@ -75276,12 +75276,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 76477.93,
-    "price_after_1h": null,
+    "price_after_1h": 76607.83,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.17,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 3423,
@@ -75298,12 +75298,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 76500.0,
-    "price_after_1h": null,
+    "price_after_1h": 76641.4,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.185,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 3424,
@@ -75320,12 +75320,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 76500.0,
-    "price_after_1h": null,
+    "price_after_1h": 76645.0,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.19,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 3425,
@@ -75342,12 +75342,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 76500.0,
-    "price_after_1h": null,
+    "price_after_1h": 76660.4,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.21,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 3426,
@@ -75364,12 +75364,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 76543.22,
-    "price_after_1h": null,
+    "price_after_1h": 76660.41,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.153,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 3427,
