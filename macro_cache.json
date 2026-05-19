@@ -1,18 +1,18 @@
 {
-  "score_macro": 72,
+  "score_macro": 75,
   "score_sentiment": 68,
   "tendance_marche": "HAUSSIER",
-  "contexte": "L'environnement macro présente des signaux positifs avec la proposition SEC sur les actions tokenisées et l'expansion de la custody crypto dans le Minnesota, suggérant une adoption institutionnelle croissante. La stabilité des prix majeurs à 0.0% masque une consolidation technique saine avant potentiel breakout, soutenue par un win rate bot solide à 62.1%.",
-  "risque_principal": "L'exploit de $77M sur Echo Protocol's eBTC rappelle les vulnérabilités des protocoles DeFi et pourrait créer une aversion temporaire au risque sur les altcoins.",
-  "opportunite_du_jour": "Les blockchains DPOS et l'écosystème Cosmos montrent une outperformance historique selon les patterns bot, offrant des opportunités de swing trading optimales.",
+  "contexte": "L'écosystème crypto bénéficie d'un momentum réglementaire positif avec les réformes SEC facilitant les levées de fonds et l'adoption institutionnelle de la tokenisation par les banques traditionnelles. Les marchés affichent une stabilité consolidative avec tous les actifs majeurs à l'équilibre, permettant une accumulation technique saine.",
+  "risque_principal": "Les départs massifs à l'Ethereum Foundation créent une incertitude structurelle sur l'écosystème ETH et ses Layer-2.",
+  "opportunite_du_jour": "La tokenisation Wall Street émergente et le support institutionnel BoE ouvrent une nouvelle phase d'adoption macro pour les blockchains DPoS.",
   "actifs_favorables": [
     "TRX",
-    "ATOM",
-    "ETH"
+    "BNB",
+    "SOL"
   ],
   "actifs_risques": [
-    "BTC",
-    "ARB"
+    "ETH",
+    "XRP"
   ],
-  "last_claude_run": "2026-05-19T05:18:52.560283+00:00"
+  "last_claude_run": "2026-05-19T17:19:31.098231+00:00"
 }
