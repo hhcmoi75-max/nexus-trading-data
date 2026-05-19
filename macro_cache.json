@@ -1,18 +1,18 @@
 {
-  "score_macro": 45,
-  "score_sentiment": 35,
-  "tendance_marche": "BAISSIER",
-  "contexte": "L'écosystème crypto traverse une période de consolidation forcée avec des sorties de capitaux massives ($1B) liées aux tensions géopolitiques iraniennes qui relancent l'aversion au risque. Paradoxalement, l'infrastructure institutionnelle se renforce avec Galaxy obtenant la BitLicense et des investissements AI-crypto de $13.6B, créant une dichotomie entre flux court terme et fondamentaux long terme.",
-  "risque_principal": "Les traders Ethereum confirment une prise de contrôle baissière avec ETH sous $2000, signalant une potentielle contagion sur l'ensemble des altcoins.",
-  "opportunite_du_jour": "Les blockchains DPOS comme TRX continuent de surperformer (+12.4% record) tandis que les mineurs crypto bénéficient de l'intérêt croissant pour l'infrastructure AI.",
+  "score_macro": 72,
+  "score_sentiment": 68,
+  "tendance_marche": "HAUSSIER",
+  "contexte": "L'environnement macro présente des signaux positifs avec la proposition SEC sur les actions tokenisées et l'expansion de la custody crypto dans le Minnesota, suggérant une adoption institutionnelle croissante. La stabilité des prix majeurs à 0.0% masque une consolidation technique saine avant potentiel breakout, soutenue par un win rate bot solide à 62.1%.",
+  "risque_principal": "L'exploit de $77M sur Echo Protocol's eBTC rappelle les vulnérabilités des protocoles DeFi et pourrait créer une aversion temporaire au risque sur les altcoins.",
+  "opportunite_du_jour": "Les blockchains DPOS et l'écosystème Cosmos montrent une outperformance historique selon les patterns bot, offrant des opportunités de swing trading optimales.",
   "actifs_favorables": [
     "TRX",
-    "HIVE",
-    "BTC"
+    "ATOM",
+    "ETH"
   ],
   "actifs_risques": [
-    "ETH",
+    "BTC",
     "ARB"
   ],
-  "last_claude_run": "2026-05-18T17:16:20.244455+00:00"
+  "last_claude_run": "2026-05-19T05:18:52.560283+00:00"
 }
