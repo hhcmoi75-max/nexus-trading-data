@@ -70943,9 +70943,9 @@
     "title": "",
     "price_at_signal": 1.07,
     "price_after_1h": 1.059,
-    "price_after_4h": null,
+    "price_after_4h": 1.0613,
     "result_1h_pct": -1.028,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.813,
     "would_have_won": false,
     "verified": true
   },
@@ -70965,9 +70965,9 @@
     "title": "",
     "price_at_signal": 77223.54,
     "price_after_1h": 76883.68,
-    "price_after_4h": null,
+    "price_after_4h": 76880.36,
     "result_1h_pct": -0.44,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.444,
     "would_have_won": false,
     "verified": true
   },
@@ -70987,9 +70987,9 @@
     "title": "",
     "price_at_signal": 77260.74,
     "price_after_1h": 76883.68,
-    "price_after_4h": null,
+    "price_after_4h": 76856.76,
     "result_1h_pct": -0.488,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.523,
     "would_have_won": false,
     "verified": true
   },
@@ -71009,9 +71009,9 @@
     "title": "",
     "price_at_signal": 77260.73,
     "price_after_1h": 76883.67,
-    "price_after_4h": null,
+    "price_after_4h": 76856.76,
     "result_1h_pct": -0.488,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.523,
     "would_have_won": false,
     "verified": true
   },
@@ -71031,9 +71031,9 @@
     "title": "",
     "price_at_signal": 77260.74,
     "price_after_1h": 76883.67,
-    "price_after_4h": null,
+    "price_after_4h": 76856.76,
     "result_1h_pct": -0.488,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.523,
     "would_have_won": false,
     "verified": true
   },
@@ -71053,9 +71053,9 @@
     "title": "",
     "price_at_signal": 77260.74,
     "price_after_1h": 76883.67,
-    "price_after_4h": null,
+    "price_after_4h": 76856.77,
     "result_1h_pct": -0.488,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.523,
     "would_have_won": false,
     "verified": true
   },
@@ -71580,12 +71580,12 @@
     "is_cascade": false,
     "title": "Binance Will Support the Moonbeam (GLMR) Network Upgrade - 2026-05-20",
     "price_at_signal": 643.37,
-    "price_after_1h": null,
+    "price_after_1h": 642.49,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.137,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 3255,
@@ -71602,12 +71602,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 76820.18,
-    "price_after_1h": null,
+    "price_after_1h": 76845.84,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.033,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 3256,
@@ -71624,12 +71624,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 76820.18,
-    "price_after_1h": null,
+    "price_after_1h": 76845.83,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.033,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 3257,
