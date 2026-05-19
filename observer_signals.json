@@ -71163,9 +71163,9 @@
     "title": "",
     "price_at_signal": 77088.54,
     "price_after_1h": 76661.55,
-    "price_after_4h": null,
+    "price_after_4h": 76936.0,
     "result_1h_pct": -0.554,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.198,
     "would_have_won": false,
     "verified": true
   },
@@ -71185,9 +71185,9 @@
     "title": "Pakistan Crypto Clash: Join a Team, Trade Together, and Win a Share of Up to  $100,000 in USDT Token",
     "price_at_signal": 2133.59,
     "price_after_1h": 2124.53,
-    "price_after_4h": null,
+    "price_after_4h": 2133.99,
     "result_1h_pct": -0.425,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.019,
     "would_have_won": false,
     "verified": true
   },
@@ -71866,12 +71866,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 76794.85,
-    "price_after_1h": null,
+    "price_after_1h": 76903.86,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.142,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 3268,
