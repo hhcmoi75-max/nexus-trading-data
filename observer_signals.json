@@ -80535,9 +80535,9 @@
     "title": "",
     "price_at_signal": 77422.97,
     "price_after_1h": 77571.25,
-    "price_after_4h": null,
+    "price_after_4h": 77329.4,
     "result_1h_pct": 0.192,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.121,
     "would_have_won": false,
     "verified": true
   },
