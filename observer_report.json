@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-20T02:25:19.620345+00:00",
-  "total_signals": 3532,
-  "verified_signals": 3502,
+  "generated_at": "2026-05-20T06:25:19.915154+00:00",
+  "total_signals": 3608,
+  "verified_signals": 3573,
   "by_source": {
     "whale_buy": {
       "win_rate_pct": 0.1,
-      "avg_gain_1h": -0.011,
-      "total_signals": 2754
+      "avg_gain_1h": -0.004,
+      "total_signals": 2823
     },
     "cascade": {
       "win_rate_pct": 2.2,
@@ -15,8 +15,8 @@
     },
     "news_binance_news": {
       "win_rate_pct": 0.0,
-      "avg_gain_1h": 0.075,
-      "total_signals": 22
+      "avg_gain_1h": 0.065,
+      "total_signals": 24
     },
     "news_reddit_crypto": {
       "win_rate_pct": 0.0,
@@ -36,7 +36,7 @@
     },
     "0.4": {
       "win_rate": 0.0,
-      "count": 160
+      "count": 162
     },
     "0.5": {
       "win_rate": 0.0,
@@ -44,7 +44,7 @@
     },
     "0.6": {
       "win_rate": 0.1,
-      "count": 2731
+      "count": 2800
     },
     "0.7": {
       "win_rate": 0.0,
