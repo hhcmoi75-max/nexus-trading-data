@@ -1,18 +1,18 @@
 {
-  "score_macro": 75,
-  "score_sentiment": 68,
-  "tendance_marche": "HAUSSIER",
-  "contexte": "L'écosystème crypto bénéficie d'un momentum réglementaire positif avec les réformes SEC facilitant les levées de fonds et l'adoption institutionnelle de la tokenisation par les banques traditionnelles. Les marchés affichent une stabilité consolidative avec tous les actifs majeurs à l'équilibre, permettant une accumulation technique saine.",
-  "risque_principal": "Les départs massifs à l'Ethereum Foundation créent une incertitude structurelle sur l'écosystème ETH et ses Layer-2.",
-  "opportunite_du_jour": "La tokenisation Wall Street émergente et le support institutionnel BoE ouvrent une nouvelle phase d'adoption macro pour les blockchains DPoS.",
+  "score_macro": 35,
+  "score_sentiment": 40,
+  "tendance_marche": "BAISSIER",
+  "contexte": "Les marchés crypto stagnent à 0% sur tous les actifs majeurs dans un contexte réglementaire tendu avec Trump ordonnant une revue de l'accès des crypto-firms aux rails de paiement. Les préoccupations de liquidité sur les stablecoins (Tether/Circle) et le sentiment 'uniquement pessimiste' des traders bitcoin selon K33 créent une atmosphère défensive généralisée.",
+  "risque_principal": "La combinaison d'une potentielle restriction réglementaire US et d'une crise de liquidité sur les stablecoins pourrait déclencher un deleveraging massif.",
+  "opportunite_du_jour": "Les blockchains DPOS comme TRX continuent de surperformer avec +12.4% selon l'historique bot, offrant une alternative aux majors stagnants.",
   "actifs_favorables": [
     "TRX",
-    "BNB",
-    "SOL"
+    "AVAX",
+    "ATOM"
   ],
   "actifs_risques": [
-    "ETH",
-    "XRP"
+    "BTC",
+    "ETH"
   ],
-  "last_claude_run": "2026-05-19T17:19:31.098231+00:00"
+  "last_claude_run": "2026-05-20T05:25:07.131087+00:00"
 }
