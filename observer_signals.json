@@ -83791,9 +83791,9 @@
     "title": "",
     "price_at_signal": 77076.49,
     "price_after_1h": 77602.55,
-    "price_after_4h": null,
+    "price_after_4h": 77674.58,
     "result_1h_pct": 0.683,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.776,
     "would_have_won": false,
     "verified": true
   },
@@ -83813,9 +83813,9 @@
     "title": "",
     "price_at_signal": 0.2488,
     "price_after_1h": 0.2509,
-    "price_after_4h": null,
+    "price_after_4h": 0.2498,
     "result_1h_pct": 0.844,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.402,
     "would_have_won": false,
     "verified": true
   },
@@ -83835,9 +83835,9 @@
     "title": "",
     "price_at_signal": 0.2491,
     "price_after_1h": 0.251,
-    "price_after_4h": null,
+    "price_after_4h": 0.2498,
     "result_1h_pct": 0.763,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.281,
     "would_have_won": false,
     "verified": true
   },
@@ -83857,9 +83857,9 @@
     "title": "",
     "price_at_signal": 0.2491,
     "price_after_1h": 0.251,
-    "price_after_4h": null,
+    "price_after_4h": 0.2498,
     "result_1h_pct": 0.763,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.281,
     "would_have_won": false,
     "verified": true
   },
@@ -84934,12 +84934,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 77604.01,
-    "price_after_1h": null,
+    "price_after_1h": 77698.29,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.121,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 3862,
@@ -84956,12 +84956,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 77599.54,
-    "price_after_1h": null,
+    "price_after_1h": 77670.79,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.092,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 3863,
