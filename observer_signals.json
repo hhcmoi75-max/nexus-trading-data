@@ -79522,12 +79522,12 @@
     "is_cascade": false,
     "title": "Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-05-20)",
     "price_at_signal": 643.75,
-    "price_after_1h": null,
+    "price_after_1h": 643.37,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.059,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 3616,
