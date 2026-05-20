@@ -82757,9 +82757,9 @@
     "title": "",
     "price_at_signal": 77518.06,
     "price_after_1h": 77222.98,
-    "price_after_4h": null,
+    "price_after_4h": 77295.72,
     "result_1h_pct": -0.381,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.287,
     "would_have_won": false,
     "verified": true
   },
@@ -82779,9 +82779,9 @@
     "title": "",
     "price_at_signal": 77518.05,
     "price_after_1h": 77222.99,
-    "price_after_4h": null,
+    "price_after_4h": 77295.72,
     "result_1h_pct": -0.381,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.287,
     "would_have_won": false,
     "verified": true
   },
@@ -82801,9 +82801,9 @@
     "title": "",
     "price_at_signal": 77537.31,
     "price_after_1h": 77144.65,
-    "price_after_4h": null,
+    "price_after_4h": 77291.83,
     "result_1h_pct": -0.506,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.317,
     "would_have_won": false,
     "verified": true
   },
@@ -83526,12 +83526,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 86.45,
-    "price_after_1h": null,
+    "price_after_1h": 86.44,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.012,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 3798,
@@ -83548,12 +83548,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 77532.86,
-    "price_after_1h": null,
+    "price_after_1h": 77323.66,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.27,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 3799,
@@ -83570,12 +83570,12 @@
     "is_cascade": true,
     "title": "",
     "price_at_signal": 0.77,
-    "price_after_1h": null,
+    "price_after_1h": 0.769,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.13,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 3800,
@@ -83592,12 +83592,12 @@
     "is_cascade": true,
     "title": "",
     "price_at_signal": 0.2153,
-    "price_after_1h": null,
+    "price_after_1h": 0.2152,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.046,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 3801,
@@ -83614,12 +83614,12 @@
     "is_cascade": true,
     "title": "",
     "price_at_signal": 0.197,
-    "price_after_1h": null,
+    "price_after_1h": 0.196,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.508,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 3802,
@@ -83636,12 +83636,12 @@
     "is_cascade": true,
     "title": "",
     "price_at_signal": 6.12e-06,
-    "price_after_1h": null,
+    "price_after_1h": 6.12e-06,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.0,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 3803,
@@ -83988,6 +83988,28 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 77290.12,
+    "price_after_1h": null,
+    "price_after_4h": null,
+    "result_1h_pct": null,
+    "result_4h_pct": null,
+    "would_have_won": null,
+    "verified": false
+  },
+  {
+    "id": 3819,
+    "timestamp": "2026-05-20T17:13:55.407643+00:00",
+    "symbol": "SOLUSDT",
+    "score": 0.5533,
+    "source": "whale_buy",
+    "age_seconds": 0,
+    "size_pct": 6.6,
+    "size_usd": 39.59,
+    "regime": "sideways",
+    "urgency": "NORMAL",
+    "bypass": "False",
+    "is_cascade": false,
+    "title": "",
+    "price_at_signal": 86.52,
     "price_after_1h": null,
     "price_after_4h": null,
     "result_1h_pct": null,
