@@ -81261,9 +81261,9 @@
     "title": "",
     "price_at_signal": 77591.5,
     "price_after_1h": 77502.48,
-    "price_after_4h": null,
+    "price_after_4h": 77475.25,
     "result_1h_pct": -0.115,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.15,
     "would_have_won": false,
     "verified": true
   },
@@ -81283,9 +81283,9 @@
     "title": "",
     "price_at_signal": 77591.51,
     "price_after_1h": 77502.49,
-    "price_after_4h": null,
+    "price_after_4h": 77475.31,
     "result_1h_pct": -0.115,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.15,
     "would_have_won": false,
     "verified": true
   },
@@ -81305,9 +81305,9 @@
     "title": "",
     "price_at_signal": 77591.51,
     "price_after_1h": 77502.49,
-    "price_after_4h": null,
+    "price_after_4h": 77475.33,
     "result_1h_pct": -0.115,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.15,
     "would_have_won": false,
     "verified": true
   },
@@ -81327,9 +81327,9 @@
     "title": "",
     "price_at_signal": 77591.5,
     "price_after_1h": 77502.49,
-    "price_after_4h": null,
+    "price_after_4h": 77478.81,
     "result_1h_pct": -0.115,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.145,
     "would_have_won": false,
     "verified": true
   },
@@ -82822,12 +82822,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 2131.09,
-    "price_after_1h": null,
+    "price_after_1h": 2131.38,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.014,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 3766,
@@ -82844,12 +82844,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 77451.22,
-    "price_after_1h": null,
+    "price_after_1h": 77360.32,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.117,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 3767,
