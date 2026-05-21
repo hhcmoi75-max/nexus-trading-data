@@ -93273,9 +93273,9 @@
     "title": "",
     "price_at_signal": 77174.99,
     "price_after_1h": 77102.57,
-    "price_after_4h": null,
+    "price_after_4h": 77947.56,
     "result_1h_pct": -0.094,
-    "result_4h_pct": null,
+    "result_4h_pct": 1.001,
     "would_have_won": false,
     "verified": true
   },
@@ -93295,9 +93295,9 @@
     "title": "",
     "price_at_signal": 77112.12,
     "price_after_1h": 77185.87,
-    "price_after_4h": null,
+    "price_after_4h": 78008.0,
     "result_1h_pct": 0.096,
-    "result_4h_pct": null,
+    "result_4h_pct": 1.162,
     "would_have_won": false,
     "verified": true
   },
@@ -94526,12 +94526,12 @@
     "is_cascade": false,
     "title": "Crypto Exchange Kraken Secures VARA License to Launch in Dubai",
     "price_at_signal": 77271.97,
-    "price_after_1h": null,
+    "price_after_1h": 77929.12,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.85,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 4298,
