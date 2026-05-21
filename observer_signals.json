@@ -95803,9 +95803,9 @@
     "title": "",
     "price_at_signal": 87.48,
     "price_after_1h": 87.21,
-    "price_after_4h": null,
+    "price_after_4h": 87.46,
     "result_1h_pct": -0.309,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.023,
     "would_have_won": false,
     "verified": true
   },
