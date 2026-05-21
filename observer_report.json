@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-21T14:25:22.188480+00:00",
-  "total_signals": 4261,
-  "verified_signals": 4210,
+  "generated_at": "2026-05-21T18:25:22.472543+00:00",
+  "total_signals": 4355,
+  "verified_signals": 4315,
   "by_source": {
     "whale_buy": {
       "win_rate_pct": 0.1,
-      "avg_gain_1h": -0.012,
-      "total_signals": 3413
+      "avg_gain_1h": -0.001,
+      "total_signals": 3516
     },
     "cascade": {
       "win_rate_pct": 2.1,
@@ -25,14 +25,19 @@
     },
     "news_decrypt": {
       "win_rate_pct": 0.0,
-      "avg_gain_1h": 0.053,
-      "total_signals": 12
+      "avg_gain_1h": 0.12,
+      "total_signals": 13
+    },
+    "news_coindesk": {
+      "win_rate_pct": 0.0,
+      "avg_gain_1h": -0.434,
+      "total_signals": 1
     }
   },
   "threshold_analysis": {
     "0.3": {
       "win_rate": 2.9,
-      "count": 555
+      "count": 556
     },
     "0.4": {
       "win_rate": 0.0,
@@ -44,7 +49,7 @@
     },
     "0.6": {
       "win_rate": 0.1,
-      "count": 3395
+      "count": 3499
     },
     "0.7": {
       "win_rate": 0.0,
@@ -59,7 +64,7 @@
   },
   "urgency_wr": {
     "high_wr": 0,
-    "normal_wr": 0.5,
+    "normal_wr": 0.4,
     "high_count": 0
   }
 }
