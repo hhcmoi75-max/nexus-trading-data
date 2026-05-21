@@ -1,18 +1,18 @@
 {
-  "score_macro": 35,
-  "score_sentiment": 28,
-  "tendance_marche": "BAISSIER",
-  "contexte": "Les marchés crypto stagnent totalement (0.0% sur tous actifs) dans l'attente des résultats Nvidia qui dicteront la direction des tech et par ricochet du crypto. Les nouvelles réglementaires négatives sur les prediction markets et les préoccupations quantiques sur Bitcoin créent un environnement d'aversion au risque généralisée.",
-  "risque_principal": "La menace quantique sur 10% du supply Bitcoin combinée aux sell-offs US pourrait déclencher une cascade baissière majeure si Nvidia déçoit.",
-  "opportunite_du_jour": "TRX maintient sa dynamique record (+12.4% historique) et les blockchains DPOS résistent mieux aux turbulences macro actuelles.",
+  "score_macro": 72,
+  "score_sentiment": 68,
+  "tendance_marche": "NEUTRE",
+  "contexte": "Le marché crypto affiche une stabilité trompeuse avec tous les actifs majeurs à 0% de variation, masquant une volatilité structurelle forte révélée par les leçons bot sur l'obsolescence des tokens utilitaires et la polarisation entre Layer-1 performants et sectoriels. L'écosystème se restructure autour d'une dichotomie claire entre actifs techniques supérieurs (AVAX à 100% win rate) et tokens spécialisés en déclin brutal.",
+  "risque_principal": "L'effondrement simultané des tokens utilitaires sectoriels (UNI, CHZ à 0% win rate) signale une rotation destructrice vers les Layer-1, créant un risque de contagion sur l'ensemble des altcoins spécialisés.",
+  "opportunite_du_jour": "LINK retrouve sa pertinence (+3.3%) dans le top 5 grâce à la multiplication des protocoles DeFi nécessitant des oracles fiables, offrant un point d'entrée sur l'infrastructure critique décentralisée.",
   "actifs_favorables": [
-    "TRX",
-    "BNB",
-    "AVAX"
+    "LINK",
+    "AVAX",
+    "BTC"
   ],
   "actifs_risques": [
-    "BTC",
-    "ETH"
+    "UNI",
+    "FIL"
   ],
-  "last_claude_run": "2026-05-20T17:27:58.726824+00:00"
+  "last_claude_run": "2026-05-21T05:31:33.350222+00:00"
 }
