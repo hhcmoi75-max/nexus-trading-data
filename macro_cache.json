@@ -1,18 +1,18 @@
 {
-  "score_macro": 72,
-  "score_sentiment": 68,
-  "tendance_marche": "NEUTRE",
-  "contexte": "Le marché crypto affiche une stabilité trompeuse avec tous les actifs majeurs à 0% de variation, masquant une volatilité structurelle forte révélée par les leçons bot sur l'obsolescence des tokens utilitaires et la polarisation entre Layer-1 performants et sectoriels. L'écosystème se restructure autour d'une dichotomie claire entre actifs techniques supérieurs (AVAX à 100% win rate) et tokens spécialisés en déclin brutal.",
-  "risque_principal": "L'effondrement simultané des tokens utilitaires sectoriels (UNI, CHZ à 0% win rate) signale une rotation destructrice vers les Layer-1, créant un risque de contagion sur l'ensemble des altcoins spécialisés.",
-  "opportunite_du_jour": "LINK retrouve sa pertinence (+3.3%) dans le top 5 grâce à la multiplication des protocoles DeFi nécessitant des oracles fiables, offrant un point d'entrée sur l'infrastructure critique décentralisée.",
+  "score_macro": 25,
+  "score_sentiment": 30,
+  "tendance_marche": "BAISSIER",
+  "contexte": "Les marchés crypto stagnent totalement avec 0% de variation sur tous les actifs majeurs, reflétant une paralysie institutionnelle face aux sorties de Mark Cuban et à la fuite des cerveaux d'Ethereum. L'accumulation Bitcoin s'affaiblit drastiquement avec 600M$ de pertes réalisées tandis que le Congrès menace de bannir les marchés de prédiction crypto pour risques sécuritaires.",
+  "risque_principal": "La combinaison toxique entre désinvestissement des milliardaires, crise d'identité d'Ethereum et pression réglementaire croissante créé un environnement de défiance généralisée.",
+  "opportunite_du_jour": "LINK retrouve sa pertinence stratégique dans l'écosystème DeFi avec +3.3% de performance, positionnant les oracles comme infrastructure critique résistante.",
   "actifs_favorables": [
-    "LINK",
     "AVAX",
-    "BTC"
+    "LINK",
+    "Layer-1"
   ],
   "actifs_risques": [
-    "UNI",
-    "FIL"
+    "BTC",
+    "ETH"
   ],
-  "last_claude_run": "2026-05-21T05:31:33.350222+00:00"
+  "last_claude_run": "2026-05-21T17:31:44.831056+00:00"
 }
