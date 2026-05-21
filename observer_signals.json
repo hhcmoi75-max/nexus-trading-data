@@ -92173,9 +92173,9 @@
     "title": "Join the Bitcoin Pizza Day Community Activities: Share 8,000 USDC in Rewards!",
     "price_at_signal": 77223.7,
     "price_after_1h": 77334.02,
-    "price_after_4h": null,
+    "price_after_4h": 77262.89,
     "result_1h_pct": 0.143,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.051,
     "would_have_won": false,
     "verified": true
   },
@@ -93932,12 +93932,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 76943.95,
-    "price_after_1h": null,
+    "price_after_1h": 77300.45,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.463,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 4271,
@@ -93954,12 +93954,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 76943.95,
-    "price_after_1h": null,
+    "price_after_1h": 77300.45,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.463,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 4272,
@@ -93976,12 +93976,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 76937.0,
-    "price_after_1h": null,
+    "price_after_1h": 77326.96,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.507,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 4273,
