@@ -98272,5 +98272,27 @@
     "result_4h_pct": null,
     "would_have_won": null,
     "verified": false
+  },
+  {
+    "id": 4468,
+    "timestamp": "2026-05-22T06:03:47.892003+00:00",
+    "symbol": "BNBUSDT",
+    "score": 0.2609,
+    "source": "news_binance_news",
+    "age_seconds": 223.7602391242981,
+    "size_pct": 1.0,
+    "size_usd": 6.0,
+    "regime": "sideways",
+    "urgency": "NORMAL",
+    "bypass": "False",
+    "is_cascade": false,
+    "title": "Binance Square: Post Your TradFi Insights, Win Your Prize!",
+    "price_at_signal": 657.35,
+    "price_after_1h": null,
+    "price_after_4h": null,
+    "result_1h_pct": null,
+    "result_4h_pct": null,
+    "would_have_won": null,
+    "verified": false
   }
 ]
