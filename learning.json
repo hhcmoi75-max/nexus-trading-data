@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-05-23T01:26:15.110909",
+    "last_update": "2026-05-23T01:33:03.109055",
     "win_rate_recent": 30.0
   },
   "asset_patterns": {
@@ -14033,6 +14033,33 @@
       "entry_hour_utc": 22,
       "entry_weekday": 4,
       "simulated": true
+    },
+    {
+      "asset": "BCH",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-05-22T23:33:19.997406+00:00",
+      "entry_time": "2026-05-22T23:33:19.997406+00:00",
+      "exit_time": "2026-05-22T23:33:19.997406+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 313.63,
+      "score": 86,
+      "rsi": 23.24,
+      "adx": 23.42,
+      "claude_confidence": 15,
+      "claude_reason": "BCH absent de la liste favorable, confiance ML très faible (35.9%), RSI extrêmement bas (23.24) suggérant survendeur mais sans momentum (ADX 23.4 faible), variation 24h nulle indique indécision marché, contexte macro instable avec investigations réglementaires systémiques menaçantes, narratif dominant (IA tokens) ne concerne pas BCH, WR bot 62.4% insuffisant pour compenser risques multiples",
+      "ml_confidence": 35.9,
+      "score_technique": 70,
+      "score_macro": 72,
+      "score_sentiment": 68,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 28,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 23,
+      "entry_weekday": 4,
+      "simulated": true
     }
   ],
   "stats": {
@@ -14045,6 +14072,6 @@
     "best_trade": 15.61,
     "worst_trade": -9.65
   },
-  "last_update": "2026-05-23T01:26:53.929280",
+  "last_update": "2026-05-23T01:33:47.335813",
   "ml_accuracy": 89.5
 }
