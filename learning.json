@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-05-23T00:38:39.943056",
+    "last_update": "2026-05-23T00:45:27.090183",
     "win_rate_recent": 30.0
   },
   "asset_patterns": {
@@ -14006,6 +14006,33 @@
         "btc_status": "ok",
         "claude_confidence": 50
       }
+    },
+    {
+      "asset": "ETH",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-05-22T22:45:33.155935+00:00",
+      "entry_time": "2026-05-22T22:45:33.155935+00:00",
+      "exit_time": "2026-05-22T22:45:33.155935+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 1782.97,
+      "score": 86,
+      "rsi": 29.21,
+      "adx": 29.07,
+      "claude_confidence": 15,
+      "claude_reason": "ETH absent de la liste favorable malgré score ML élevé; confiance ML trop basse (35.1%); incertitude réglementaire systémique (Polymarket/Kalshi) crée risque macro disproportionné; RSI survendu (29.21) mais sans catalyseur haussier identifié; variation 24h à 0% indique absence de momentum; préférer actifs de la liste favorable (BTC, AVAX, ATOM) avec profils risque/récompense supérieurs",
+      "ml_confidence": 35.1,
+      "score_technique": 68,
+      "score_macro": 72,
+      "score_sentiment": 68,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 28,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 22,
+      "entry_weekday": 4,
+      "simulated": true
     }
   ],
   "stats": {
@@ -14018,6 +14045,6 @@
     "best_trade": 15.61,
     "worst_trade": -9.65
   },
-  "last_update": "2026-05-23T00:39:18.898748",
+  "last_update": "2026-05-23T00:46:08.599409",
   "ml_accuracy": 88.9
 }
