@@ -98998,5 +98998,27 @@
     "result_4h_pct": null,
     "would_have_won": null,
     "verified": false
+  },
+  {
+    "id": 4501,
+    "timestamp": "2026-05-22T08:34:44.526951+00:00",
+    "symbol": "ETHUSDT",
+    "score": 0.5909,
+    "source": "whale_buy",
+    "age_seconds": 0,
+    "size_pct": 7.73,
+    "size_usd": 46.36,
+    "regime": "sideways",
+    "urgency": "NORMAL",
+    "bypass": "False",
+    "is_cascade": false,
+    "title": "",
+    "price_at_signal": 2129.0,
+    "price_after_1h": null,
+    "price_after_4h": null,
+    "result_1h_pct": null,
+    "result_4h_pct": null,
+    "would_have_won": null,
+    "verified": false
   }
 ]
