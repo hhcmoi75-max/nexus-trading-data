@@ -97739,9 +97739,9 @@
     "title": "",
     "price_at_signal": 77799.97,
     "price_after_1h": 77770.11,
-    "price_after_4h": null,
+    "price_after_4h": 77489.4,
     "result_1h_pct": -0.038,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.399,
     "would_have_won": false,
     "verified": true
   },
@@ -97761,9 +97761,9 @@
     "title": "",
     "price_at_signal": 77790.62,
     "price_after_1h": 77703.48,
-    "price_after_4h": null,
+    "price_after_4h": 77480.67,
     "result_1h_pct": -0.112,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.398,
     "would_have_won": false,
     "verified": true
   },
@@ -97783,9 +97783,9 @@
     "title": "",
     "price_at_signal": 77790.62,
     "price_after_1h": 77703.48,
-    "price_after_4h": null,
+    "price_after_4h": 77476.74,
     "result_1h_pct": -0.112,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.403,
     "would_have_won": false,
     "verified": true
   },
@@ -98464,12 +98464,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 77416.7,
-    "price_after_1h": null,
+    "price_after_1h": 77476.74,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.078,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 4477,
@@ -98486,12 +98486,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 77433.21,
-    "price_after_1h": null,
+    "price_after_1h": 77502.53,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.09,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 4478,
@@ -98508,12 +98508,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 77433.2,
-    "price_after_1h": null,
+    "price_after_1h": 77502.53,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.09,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 4479,
