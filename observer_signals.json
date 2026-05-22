@@ -97172,5 +97172,27 @@
     "result_4h_pct": null,
     "would_have_won": null,
     "verified": false
+  },
+  {
+    "id": 4418,
+    "timestamp": "2026-05-22T00:30:22.290041+00:00",
+    "symbol": "NEARUSDT",
+    "score": 0.5493,
+    "source": "whale_buy",
+    "age_seconds": 0,
+    "size_pct": 6.48,
+    "size_usd": 38.87,
+    "regime": "sideways",
+    "urgency": "NORMAL",
+    "bypass": "False",
+    "is_cascade": false,
+    "title": "",
+    "price_at_signal": 1.959,
+    "price_after_1h": null,
+    "price_after_4h": null,
+    "result_1h_pct": null,
+    "result_4h_pct": null,
+    "would_have_won": null,
+    "verified": false
   }
 ]
