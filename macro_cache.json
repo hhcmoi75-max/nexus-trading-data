@@ -1,18 +1,18 @@
 {
-  "score_macro": 25,
-  "score_sentiment": 30,
+  "score_macro": 45,
+  "score_sentiment": 35,
   "tendance_marche": "BAISSIER",
-  "contexte": "Les marchés crypto stagnent totalement avec 0% de variation sur tous les actifs majeurs, reflétant une paralysie institutionnelle face aux sorties de Mark Cuban et à la fuite des cerveaux d'Ethereum. L'accumulation Bitcoin s'affaiblit drastiquement avec 600M$ de pertes réalisées tandis que le Congrès menace de bannir les marchés de prédiction crypto pour risques sécuritaires.",
-  "risque_principal": "La combinaison toxique entre désinvestissement des milliardaires, crise d'identité d'Ethereum et pression réglementaire croissante créé un environnement de défiance généralisée.",
-  "opportunite_du_jour": "LINK retrouve sa pertinence stratégique dans l'écosystème DeFi avec +3.3% de performance, positionnant les oracles comme infrastructure critique résistante.",
+  "contexte": "Les marchés crypto stagnent avec 0% de variation sur tous les actifs majeurs dans un contexte de nouvelles majoritairement négatives incluant la répression indienne sur les marchés de prédiction et les sorties de Mark Cuban du Bitcoin. Le sentiment Reddit à 73/100 contraste avec les signaux baissiers institutionnels et les crises d'identité d'Ethereum face à l'exode de talents.",
+  "risque_principal": "La convergence entre la répression réglementaire croissante, l'abandon institutionnel (Cuban) et les problèmes structurels d'Ethereum créent un environnement de défiance systémique.",
+  "opportunite_du_jour": "Les Layer-1 techniquement supérieurs comme AVAX montrent une résilience parfaite (100% win rate) face à la débâcle des tokens utilitaires sectoriels.",
   "actifs_favorables": [
     "AVAX",
     "LINK",
-    "Layer-1"
+    "SOL"
   ],
   "actifs_risques": [
-    "BTC",
-    "ETH"
+    "ETH",
+    "UNI"
   ],
-  "last_claude_run": "2026-05-21T17:31:44.831056+00:00"
+  "last_claude_run": "2026-05-22T05:33:20.198658+00:00"
 }
