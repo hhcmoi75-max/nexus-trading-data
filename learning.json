@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-05-23T01:46:53.654810",
+    "last_update": "2026-05-23T01:53:48.824913",
     "win_rate_recent": 30.0
   },
   "asset_patterns": {
@@ -14168,6 +14168,33 @@
       "entry_hour_utc": 23,
       "entry_weekday": 4,
       "simulated": true
+    },
+    {
+      "asset": "ETH",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-05-22T23:53:54.999874+00:00",
+      "entry_time": "2026-05-22T23:53:54.999874+00:00",
+      "exit_time": "2026-05-22T23:53:54.999874+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 1780.53,
+      "score": 86,
+      "rsi": 28.63,
+      "adx": 32.16,
+      "claude_confidence": 15,
+      "claude_reason": "ETH absent de la liste favorable malgré score ML élevé; confiance ML très faible (34.6%); incertitude réglementaire systémique (investigations Congrès) pénalise les smart-contract chains; RSI bas (28.63) suggère rebond court-terme mais pas sustain; variation 24h à 0% indique manque de momentum; préférer Layer-1 corrélées positives (AVAX, ATOM) ou stratégies IA-blockchain (NEAR)",
+      "ml_confidence": 34.6,
+      "score_technique": 68,
+      "score_macro": 72,
+      "score_sentiment": 68,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 28,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 23,
+      "entry_weekday": 4,
+      "simulated": true
     }
   ],
   "stats": {
@@ -14180,6 +14207,6 @@
     "best_trade": 15.61,
     "worst_trade": -9.65
   },
-  "last_update": "2026-05-23T01:47:40.600660",
-  "ml_accuracy": 89.5
+  "last_update": "2026-05-23T01:54:30.652665",
+  "ml_accuracy": 89.3
 }
