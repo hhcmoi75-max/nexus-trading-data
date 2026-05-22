@@ -100334,12 +100334,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 0.989,
-    "price_after_1h": null,
+    "price_after_1h": 0.994,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.506,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 4562,
@@ -100356,12 +100356,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 0.988,
-    "price_after_1h": null,
+    "price_after_1h": 0.992,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.405,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 4563,
@@ -100378,12 +100378,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 77450.52,
-    "price_after_1h": null,
+    "price_after_1h": 77247.76,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.262,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 4564,
@@ -100400,12 +100400,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 77450.53,
-    "price_after_1h": null,
+    "price_after_1h": 77255.94,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.251,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 4565,
@@ -100598,6 +100598,28 @@
     "is_cascade": false,
     "title": "Bitcoin crashing from a high of $30, 15 years ago. They called it the \"Great Bubble of 2011.\" Anyone",
     "price_at_signal": 0.1363,
+    "price_after_1h": null,
+    "price_after_4h": null,
+    "result_1h_pct": null,
+    "result_4h_pct": null,
+    "would_have_won": null,
+    "verified": false
+  },
+  {
+    "id": 4574,
+    "timestamp": "2026-05-22T13:32:15.875344+00:00",
+    "symbol": "ADAUSDT",
+    "score": 0.5751,
+    "source": "whale_buy",
+    "age_seconds": 0,
+    "size_pct": 7.25,
+    "size_usd": 43.52,
+    "regime": "sideways",
+    "urgency": "NORMAL",
+    "bypass": "False",
+    "is_cascade": false,
+    "title": "",
+    "price_at_signal": 0.2533,
     "price_after_1h": null,
     "price_after_4h": null,
     "result_1h_pct": null,
