@@ -103458,12 +103458,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 2069.2,
-    "price_after_1h": null,
+    "price_after_1h": 2074.07,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.235,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 4704,
@@ -103480,12 +103480,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 0.1284,
-    "price_after_1h": null,
+    "price_after_1h": 0.1284,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.0,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 4705,
@@ -103502,12 +103502,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 1.275,
-    "price_after_1h": null,
+    "price_after_1h": 1.263,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.941,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 4706,
@@ -103524,12 +103524,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 75652.56,
-    "price_after_1h": null,
+    "price_after_1h": 75584.67,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.09,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 4707,
@@ -103788,6 +103788,28 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 75711.17,
+    "price_after_1h": null,
+    "price_after_4h": null,
+    "result_1h_pct": null,
+    "result_4h_pct": null,
+    "would_have_won": null,
+    "verified": false
+  },
+  {
+    "id": 4719,
+    "timestamp": "2026-05-22T23:44:11.333077+00:00",
+    "symbol": "BTCUSDT",
+    "score": 0.6098,
+    "source": "whale_buy",
+    "age_seconds": 0,
+    "size_pct": 4.15,
+    "size_usd": 24.88,
+    "regime": "bear_volatile",
+    "urgency": "NORMAL",
+    "bypass": false,
+    "is_cascade": false,
+    "title": "",
+    "price_at_signal": 75805.3,
     "price_after_1h": null,
     "price_after_4h": null,
     "result_1h_pct": null,
