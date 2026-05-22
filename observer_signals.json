@@ -97321,9 +97321,9 @@
     "title": "",
     "price_at_signal": 86.83,
     "price_after_1h": 87.07,
-    "price_after_4h": null,
+    "price_after_4h": 86.96,
     "result_1h_pct": 0.276,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.15,
     "would_have_won": false,
     "verified": true
   },
