@@ -1,18 +1,18 @@
 {
-  "score_macro": 45,
-  "score_sentiment": 35,
-  "tendance_marche": "BAISSIER",
-  "contexte": "Les marchés crypto stagnent avec 0% de variation sur tous les actifs majeurs dans un contexte de nouvelles majoritairement négatives incluant la répression indienne sur les marchés de prédiction et les sorties de Mark Cuban du Bitcoin. Le sentiment Reddit à 73/100 contraste avec les signaux baissiers institutionnels et les crises d'identité d'Ethereum face à l'exode de talents.",
-  "risque_principal": "La convergence entre la répression réglementaire croissante, l'abandon institutionnel (Cuban) et les problèmes structurels d'Ethereum créent un environnement de défiance systémique.",
-  "opportunite_du_jour": "Les Layer-1 techniquement supérieurs comme AVAX montrent une résilience parfaite (100% win rate) face à la débâcle des tokens utilitaires sectoriels.",
+  "score_macro": 72,
+  "score_sentiment": 68,
+  "tendance_marche": "NEUTRE",
+  "contexte": "Bitcoin maintient sa stabilité près des 77k$ avec Kevin Warsh prenant les rênes de la Fed, suggérant une transition monétaire contrôlée favorable aux actifs risqués. Les institutions renforcent leur emprise sur Bitcoin tandis que l'IA et les marchés de prédiction captent l'attention réglementaire avec les enquêtes sur Polymarket/Kalshi.",
+  "risque_principal": "Les investigations massives du Congrès sur le délit d'initié touchant Polymarket et Kalshi créent une incertitude réglementaire systémique sur l'écosystème crypto-betting.",
+  "opportunite_du_jour": "NEAR mène le rallye des tokens IA avec +50% et vise les 5$, porté par la convergence IA-blockchain qui devient le nouveau narratif dominant.",
   "actifs_favorables": [
-    "AVAX",
-    "LINK",
-    "SOL"
+    "SOL",
+    "BTC",
+    "ETH"
   ],
   "actifs_risques": [
-    "ETH",
-    "UNI"
+    "XRP",
+    "TRX"
   ],
-  "last_claude_run": "2026-05-22T05:33:20.198658+00:00"
+  "last_claude_run": "2026-05-22T17:38:21.905649+00:00"
 }
