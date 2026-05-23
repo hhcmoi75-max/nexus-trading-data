@@ -13,8 +13,8 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-05-23T12:27:07.540896",
-    "win_rate_recent": 13.3
+    "last_update": "2026-05-23T12:33:59.469372",
+    "win_rate_recent": 10.0
   },
   "asset_patterns": {
     "NEAR": {
@@ -14608,6 +14608,33 @@
       "entry_hour_utc": 10,
       "entry_weekday": 5,
       "simulated": true
+    },
+    {
+      "asset": "AVAX",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-05-23T10:34:19.035679+00:00",
+      "entry_time": "2026-05-23T10:34:19.035679+00:00",
+      "exit_time": "2026-05-23T10:34:19.035679+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 7.670000000000001,
+      "score": 86,
+      "rsi": 23.36,
+      "adx": 52.99,
+      "claude_confidence": 25,
+      "claude_reason": "Confiance ML insuffisante (33%) malgré score élevé, RSI extrêmement bas (23.36) signalant surévente non confirmée par volume, variation 24h nulle trahissant absence de momentum réel, incertitude macro (Fear&Greed neutre + départs cadres Robinhood) incompatible avec position longue, corrélation Layer-1 à 100% suspecte et non vérifiable indépendamment",
+      "ml_confidence": 33.0,
+      "score_technique": 70,
+      "score_macro": 72,
+      "score_sentiment": 68,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 28,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 10,
+      "entry_weekday": 5,
+      "simulated": true
     }
   ],
   "stats": {
@@ -14620,6 +14647,6 @@
     "best_trade": 15.61,
     "worst_trade": -9.65
   },
-  "last_update": "2026-05-23T12:27:49.166826",
-  "ml_accuracy": 89.0
+  "last_update": "2026-05-23T12:34:41.497315",
+  "ml_accuracy": 89.1
 }
