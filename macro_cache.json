@@ -2,17 +2,17 @@
   "score_macro": 72,
   "score_sentiment": 68,
   "tendance_marche": "NEUTRE",
-  "contexte": "Bitcoin maintient sa stabilité près des 77k$ avec Kevin Warsh prenant les rênes de la Fed, suggérant une transition monétaire contrôlée favorable aux actifs risqués. Les institutions renforcent leur emprise sur Bitcoin tandis que l'IA et les marchés de prédiction captent l'attention réglementaire avec les enquêtes sur Polymarket/Kalshi.",
-  "risque_principal": "Les investigations massives du Congrès sur le délit d'initié touchant Polymarket et Kalshi créent une incertitude réglementaire systémique sur l'écosystème crypto-betting.",
-  "opportunite_du_jour": "NEAR mène le rallye des tokens IA avec +50% et vise les 5$, porté par la convergence IA-blockchain qui devient le nouveau narratif dominant.",
+  "contexte": "Les marchés crypto évoluent en stabilité avec des prix latéraux, tandis que des développements structurels émergent comme la mission SpaceX menée par un mineur contrôlant 11% du hashrate Bitcoin. Le sentiment Reddit à 63/100 et la performance du bot à 62.4% de win rate reflètent un environnement modérément constructif mais sans catalyseur immédiat.",
+  "risque_principal": "Les départs de cadres dirigeants chez Robinhood Crypto et les commentaires de Saylor sur une potentielle vente Bitcoin en 2026 créent une incertitude sur la stratégie institutionnelle.",
+  "opportunite_du_jour": "Les Layer-1 techniquement supérieurs montrent une corrélation positive parfaite avec AVAX atteignant 100% de win rate, signalant un momentum sectoriel.",
   "actifs_favorables": [
-    "SOL",
-    "BTC",
-    "ETH"
+    "AVAX",
+    "ETH",
+    "LINK"
   ],
   "actifs_risques": [
-    "XRP",
-    "TRX"
+    "UNI",
+    "CHZ"
   ],
-  "last_claude_run": "2026-05-22T17:38:21.905649+00:00"
+  "last_claude_run": "2026-05-23T05:40:29.417647+00:00"
 }
