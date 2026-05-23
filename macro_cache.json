@@ -1,18 +1,18 @@
 {
-  "score_macro": 72,
-  "score_sentiment": 68,
-  "tendance_marche": "NEUTRE",
-  "contexte": "Les marchés crypto évoluent en stabilité avec des prix latéraux, tandis que des développements structurels émergent comme la mission SpaceX menée par un mineur contrôlant 11% du hashrate Bitcoin. Le sentiment Reddit à 63/100 et la performance du bot à 62.4% de win rate reflètent un environnement modérément constructif mais sans catalyseur immédiat.",
-  "risque_principal": "Les départs de cadres dirigeants chez Robinhood Crypto et les commentaires de Saylor sur une potentielle vente Bitcoin en 2026 créent une incertitude sur la stratégie institutionnelle.",
-  "opportunite_du_jour": "Les Layer-1 techniquement supérieurs montrent une corrélation positive parfaite avec AVAX atteignant 100% de win rate, signalant un momentum sectoriel.",
+  "score_macro": 45,
+  "score_sentiment": 35,
+  "tendance_marche": "BAISSIER",
+  "contexte": "Le marché crypto traverse une phase de consolidation baissière avec Bitcoin qui a chuté à 74,300$ et des sorties massives de 2,26 milliards sur les ETF spot en deux semaines. Les prix actuels en EUR montrent une stagnation complète (0,0% sur tous les actifs) masquant probablement une volatilité sous-jacente inquiétante.",
+  "risque_principal": "L'effondrement des ETF Bitcoin et les allégations contre Binance créent un environnement de défiance institutionnelle majeure.",
+  "opportunite_du_jour": "Les tokens AI et Hyperliquid sont identifiés par les traders comme leaders du prochain rally altcoin selon les analyses techniques.",
   "actifs_favorables": [
     "AVAX",
-    "ETH",
-    "LINK"
+    "SOL",
+    "ETH"
   ],
   "actifs_risques": [
     "UNI",
     "CHZ"
   ],
-  "last_claude_run": "2026-05-23T05:40:29.417647+00:00"
+  "last_claude_run": "2026-05-23T17:43:31.102346+00:00"
 }
