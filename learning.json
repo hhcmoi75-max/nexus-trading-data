@@ -13,8 +13,8 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-05-23T10:51:36.829452",
-    "win_rate_recent": 20.0
+    "last_update": "2026-05-23T10:58:26.827688",
+    "win_rate_recent": 16.7
   },
   "asset_patterns": {
     "NEAR": {
@@ -14473,6 +14473,33 @@
       "entry_hour_utc": 8,
       "entry_weekday": 5,
       "simulated": true
+    },
+    {
+      "asset": "ETH",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-05-23T08:58:32.774440+00:00",
+      "entry_time": "2026-05-23T08:58:32.774440+00:00",
+      "exit_time": "2026-05-23T08:58:32.774440+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 1748.2,
+      "score": 87,
+      "rsi": 21.28,
+      "adx": 64.88,
+      "claude_confidence": 15,
+      "claude_reason": "ETH absent de la liste des actifs favorables malgré un score ML élevé; RSI extrêmement bas (21.28) suggère survendu mais contexte macro instable avec incertitude Saylor/Robinhood; confiance ML faible (33.4%) incompatible avec ratio risque/récompense; momentum sectoriel favorable à Layer-1 généralistes (AVAX 100% WR) plutôt qu'à ETH; préférer actifs recommandés BTC, ALGO, AVAX ou SEI",
+      "ml_confidence": 33.4,
+      "score_technique": 71,
+      "score_macro": 72,
+      "score_sentiment": 68,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 28,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 8,
+      "entry_weekday": 5,
+      "simulated": true
     }
   ],
   "stats": {
@@ -14485,6 +14512,6 @@
     "best_trade": 15.61,
     "worst_trade": -9.65
   },
-  "last_update": "2026-05-23T10:52:18.501102",
-  "ml_accuracy": 88.8
+  "last_update": "2026-05-23T10:59:08.818859",
+  "ml_accuracy": 88.9
 }
