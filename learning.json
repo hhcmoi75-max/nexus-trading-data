@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-05-23T11:59:44.695741",
+    "last_update": "2026-05-23T12:06:36.169726",
     "win_rate_recent": 13.3
   },
   "asset_patterns": {
@@ -14500,6 +14500,33 @@
       "entry_hour_utc": 8,
       "entry_weekday": 5,
       "simulated": true
+    },
+    {
+      "asset": "AVAX",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-05-23T10:06:55.944986+00:00",
+      "entry_time": "2026-05-23T10:06:55.944986+00:00",
+      "exit_time": "2026-05-23T10:06:55.944986+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 7.66,
+      "score": 89,
+      "rsi": 20.69,
+      "adx": 53.41,
+      "claude_confidence": 25,
+      "claude_reason": "Confiance ML trop faible (28.4%) malgré score élevé. RSI extrêmement survendu (20.69) suggère un rebond technique possible mais risqué. Prix de 7.66 EUR semble anormalement bas pour AVAX. Incertitude macro élevée (Fear/Greed 50/100) avec départs de cadres et commentaires baissiers. Bien que AVAX soit en liste favorable et affiche 100% win rate historique, le signal manque de confirmation multi-timeframe fiable.",
+      "ml_confidence": 28.4,
+      "score_technique": 78,
+      "score_macro": 72,
+      "score_sentiment": 68,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 28,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 10,
+      "entry_weekday": 5,
+      "simulated": true
     }
   ],
   "stats": {
@@ -14512,6 +14539,6 @@
     "best_trade": 15.61,
     "worst_trade": -9.65
   },
-  "last_update": "2026-05-23T12:00:26.576891",
+  "last_update": "2026-05-23T12:07:17.913267",
   "ml_accuracy": 88.9
 }
