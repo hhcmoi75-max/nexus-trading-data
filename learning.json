@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-05-23T10:03:36.028759",
+    "last_update": "2026-05-23T10:10:24.040474",
     "win_rate_recent": 30.0
   },
   "asset_patterns": {
@@ -14222,6 +14222,60 @@
       "entry_hour_utc": 0,
       "entry_weekday": 5,
       "simulated": true
+    },
+    {
+      "asset": "ETH",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-05-23T08:10:31.425563+00:00",
+      "entry_time": "2026-05-23T08:10:31.425563+00:00",
+      "exit_time": "2026-05-23T08:10:31.425563+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 1745.43,
+      "score": 89,
+      "rsi": 21.33,
+      "adx": 64.88,
+      "claude_confidence": 25,
+      "claude_reason": "ETH absent de la liste favorable et présente confiance ML anormalement basse (31.1%) malgré score élevé. RSI extrêmement survendu (21.33) suggère rebond technique mais contexte macro incertain avec départs de cadres et commentaires de Saylor créant volatilité. Momentum sectoriel favorise AVAX et Layer-1 listés, pas ETH. Variation 24h à 0% manque d'élan. Risk/reward défavorable.",
+      "ml_confidence": 31.1,
+      "score_technique": 79,
+      "score_macro": 72,
+      "score_sentiment": 68,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 28,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 8,
+      "entry_weekday": 5,
+      "simulated": true
+    },
+    {
+      "asset": "SHIB",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-05-23T08:10:51.400843+00:00",
+      "entry_time": "2026-05-23T08:10:51.400843+00:00",
+      "exit_time": "2026-05-23T08:10:51.400843+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 4.75e-06,
+      "score": 89,
+      "rsi": 23.15,
+      "adx": 50.98,
+      "claude_confidence": 15,
+      "claude_reason": "SHIB absent de la whitelist favorable, RSI extrêmement bas (23.15) signalant surévente technique non confirmée par momentum macro, confiance ML insuffisante (25.5%), pas de corrélation avec l'opportunité AVAX/Layer-1 identifiée, contexte macro d'incertitude (départs Robinhood, commentaires Saylor) défavorable aux meme coins sans fondamentaux",
+      "ml_confidence": 25.5,
+      "score_technique": 86,
+      "score_macro": 72,
+      "score_sentiment": 68,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 28,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 8,
+      "entry_weekday": 5,
+      "simulated": true
     }
   ],
   "stats": {
@@ -14234,6 +14288,6 @@
     "best_trade": 15.61,
     "worst_trade": -9.65
   },
-  "last_update": "2026-05-23T10:04:15.010129",
+  "last_update": "2026-05-23T10:11:12.108211",
   "ml_accuracy": 89.3
 }
