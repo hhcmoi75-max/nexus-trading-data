@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-05-23T12:13:27.355010",
+    "last_update": "2026-05-23T12:20:17.300853",
     "win_rate_recent": 13.3
   },
   "asset_patterns": {
@@ -14554,6 +14554,33 @@
       "entry_hour_utc": 10,
       "entry_weekday": 5,
       "simulated": true
+    },
+    {
+      "asset": "AVAX",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-05-23T10:20:36.322105+00:00",
+      "entry_time": "2026-05-23T10:20:36.322105+00:00",
+      "exit_time": "2026-05-23T10:20:36.322105+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 7.670000000000001,
+      "score": 86,
+      "rsi": 22.95,
+      "adx": 53.17,
+      "claude_confidence": 25,
+      "claude_reason": "Confiance ML trop faible (32.4%) malgré score élevé, variation 24h nulle indiquant absence de momentum, RSI extrêmement bas (22.95) suggérant surréaction baissière plutôt qu'opportunité d'achat, contexte macro incertain avec départs de cadres et risques de liquidité",
+      "ml_confidence": 32.4,
+      "score_technique": 70,
+      "score_macro": 72,
+      "score_sentiment": 68,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 28,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 10,
+      "entry_weekday": 5,
+      "simulated": true
     }
   ],
   "stats": {
@@ -14566,6 +14593,6 @@
     "best_trade": 15.61,
     "worst_trade": -9.65
   },
-  "last_update": "2026-05-23T12:14:08.762529",
-  "ml_accuracy": 89.4
+  "last_update": "2026-05-23T12:20:58.514103",
+  "ml_accuracy": 89.0
 }
