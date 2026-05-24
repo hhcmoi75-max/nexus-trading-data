@@ -115470,12 +115470,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 76913.97,
-    "price_after_1h": null,
+    "price_after_1h": 76907.99,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.008,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 5250,
@@ -115492,12 +115492,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 76913.97,
-    "price_after_1h": null,
+    "price_after_1h": 76902.91,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.014,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 5251,
@@ -115514,12 +115514,12 @@
     "is_cascade": true,
     "title": "",
     "price_at_signal": 0.1095,
-    "price_after_1h": null,
+    "price_after_1h": 0.1093,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.183,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 5252,
@@ -115536,12 +115536,12 @@
     "is_cascade": true,
     "title": "",
     "price_at_signal": 0.1298,
-    "price_after_1h": null,
+    "price_after_1h": 0.1289,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.693,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 5253,
@@ -115558,12 +115558,12 @@
     "is_cascade": true,
     "title": "",
     "price_at_signal": 0.3794,
-    "price_after_1h": null,
+    "price_after_1h": 0.3794,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.0,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 5254,
@@ -115580,12 +115580,12 @@
     "is_cascade": true,
     "title": "",
     "price_at_signal": 9.582,
-    "price_after_1h": null,
+    "price_after_1h": 9.562,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.209,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 5255,
@@ -115602,12 +115602,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 76917.14,
-    "price_after_1h": null,
+    "price_after_1h": 76881.01,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.047,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 5256,
@@ -115624,12 +115624,12 @@
     "is_cascade": true,
     "title": "",
     "price_at_signal": 86.8,
-    "price_after_1h": null,
+    "price_after_1h": 86.45,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.403,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 5257,
@@ -115646,12 +115646,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 76917.14,
-    "price_after_1h": null,
+    "price_after_1h": 76881.01,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.047,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 5258,
@@ -115668,12 +115668,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 76835.02,
-    "price_after_1h": null,
+    "price_after_1h": 76893.31,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.076,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 5259,
@@ -116262,6 +116262,50 @@
     "is_cascade": true,
     "title": "",
     "price_at_signal": 9.563,
+    "price_after_1h": null,
+    "price_after_4h": null,
+    "result_1h_pct": null,
+    "result_4h_pct": null,
+    "would_have_won": null,
+    "verified": false
+  },
+  {
+    "id": 5286,
+    "timestamp": "2026-05-24T03:16:58.171671+00:00",
+    "symbol": "AAVEUSDT",
+    "score": 0.3276,
+    "source": "cascade",
+    "age_seconds": 210.0,
+    "size_pct": 1.0,
+    "size_usd": 6.0,
+    "regime": "bear_volatile",
+    "urgency": "NORMAL",
+    "bypass": "False",
+    "is_cascade": true,
+    "title": "",
+    "price_at_signal": 86.52,
+    "price_after_1h": null,
+    "price_after_4h": null,
+    "result_1h_pct": null,
+    "result_4h_pct": null,
+    "would_have_won": null,
+    "verified": false
+  },
+  {
+    "id": 5287,
+    "timestamp": "2026-05-24T03:16:59.027709+00:00",
+    "symbol": "AAVEUSDT",
+    "score": 0.3276,
+    "source": "cascade",
+    "age_seconds": 210.0,
+    "size_pct": 1.0,
+    "size_usd": 6.0,
+    "regime": "bear_volatile",
+    "urgency": "NORMAL",
+    "bypass": "False",
+    "is_cascade": true,
+    "title": "",
+    "price_at_signal": 86.52,
     "price_after_1h": null,
     "price_after_4h": null,
     "result_1h_pct": null,
