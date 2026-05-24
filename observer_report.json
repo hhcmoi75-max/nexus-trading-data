@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-24T02:25:26.511718+00:00",
-  "total_signals": 5260,
-  "verified_signals": 5192,
+  "generated_at": "2026-05-24T06:25:26.971248+00:00",
+  "total_signals": 5323,
+  "verified_signals": 5268,
   "by_source": {
     "whale_buy": {
       "win_rate_pct": 0.1,
-      "avg_gain_1h": -0.006,
-      "total_signals": 4374
+      "avg_gain_1h": -0.007,
+      "total_signals": 4415
     },
     "cascade": {
-      "win_rate_pct": 2.1,
-      "avg_gain_1h": 0.093,
-      "total_signals": 763
+      "win_rate_pct": 2.0,
+      "avg_gain_1h": 0.082,
+      "total_signals": 798
     },
     "news_binance_news": {
       "win_rate_pct": 0.0,
@@ -37,19 +37,19 @@
   "threshold_analysis": {
     "0.3": {
       "win_rate": 2.8,
-      "count": 562
+      "count": 576
     },
     "0.4": {
       "win_rate": 0.0,
-      "count": 180
+      "count": 194
     },
     "0.5": {
-      "win_rate": 0.7,
-      "count": 151
+      "win_rate": 0.5,
+      "count": 189
     },
     "0.6": {
       "win_rate": 0.1,
-      "count": 4295
+      "count": 4305
     },
     "0.7": {
       "win_rate": 0.0,
@@ -58,9 +58,9 @@
   },
   "recommended_threshold": null,
   "cascade_wr": {
-    "cascade_wr": 2.1,
+    "cascade_wr": 2.0,
     "normal_wr": 0.1,
-    "cascade_count": 763
+    "cascade_count": 798
   },
   "urgency_wr": {
     "high_wr": 0,
