@@ -13,8 +13,8 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-05-25T00:43:21.841858",
-    "win_rate_recent": 6.7
+    "last_update": "2026-05-25T00:50:15.236325",
+    "win_rate_recent": 3.3
   },
   "asset_patterns": {
     "NEAR": {
@@ -15862,6 +15862,33 @@
       "entry_hour_utc": 22,
       "entry_weekday": 6,
       "simulated": true
+    },
+    {
+      "asset": "SOL",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-05-24T22:50:25.465099+00:00",
+      "entry_time": "2026-05-24T22:50:25.465099+00:00",
+      "exit_time": "2026-05-24T22:50:25.465099+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 73.07,
+      "score": 87,
+      "rsi": 47.16,
+      "adx": 21.26,
+      "claude_confidence": 25,
+      "claude_reason": "SOL absent de liste favorable avec confiance ML très faible (18.3%), RSI neutre (47.16), score technique insuffisant face à dominance avérée de NEAR/TRX/BTC. Menace quantique érode fondamentaux crypto. Signal géopolitique positif (accord Iran) mais insuffisant pour compenser sous-performance relative de SOL.",
+      "ml_confidence": 18.3,
+      "score_technique": 68,
+      "score_macro": 75,
+      "score_sentiment": 72,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 25,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 22,
+      "entry_weekday": 6,
+      "simulated": true
     }
   ],
   "stats": {
@@ -15874,6 +15901,6 @@
     "best_trade": 15.61,
     "worst_trade": -9.65
   },
-  "last_update": "2026-05-25T00:44:07.276361",
-  "ml_accuracy": 90.1
+  "last_update": "2026-05-25T00:50:57.408698",
+  "ml_accuracy": 89.8
 }
