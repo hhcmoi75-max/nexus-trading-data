@@ -13,8 +13,8 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-05-25T00:36:31.307961",
-    "win_rate_recent": 10.0
+    "last_update": "2026-05-25T00:43:21.841858",
+    "win_rate_recent": 6.7
   },
   "asset_patterns": {
     "NEAR": {
@@ -15835,6 +15835,33 @@
       "entry_hour_utc": 22,
       "entry_weekday": 6,
       "simulated": true
+    },
+    {
+      "asset": "SOL",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-05-24T22:43:32.386774+00:00",
+      "entry_time": "2026-05-24T22:43:32.386774+00:00",
+      "exit_time": "2026-05-24T22:43:32.386774+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 72.83,
+      "score": 92,
+      "rsi": 44.09,
+      "adx": 21.26,
+      "claude_confidence": 15,
+      "claude_reason": "SOL absent de la liste favorable malgré score ML élevé; confiance ML extrêmement faible à 17.6%; contexte macro dominé par NEAR (+15.5%) et TRX (100% win rate) qui surpassent SOL; menace quantique crée incertitude systémique; variation 24h nulle indique momentum absent; ADX faible (21.3) confirme tendance insuffisante",
+      "ml_confidence": 17.6,
+      "score_technique": 75,
+      "score_macro": 75,
+      "score_sentiment": 72,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 25,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 22,
+      "entry_weekday": 6,
+      "simulated": true
     }
   ],
   "stats": {
@@ -15847,6 +15874,6 @@
     "best_trade": 15.61,
     "worst_trade": -9.65
   },
-  "last_update": "2026-05-25T00:37:13.290861",
-  "ml_accuracy": 89.3
+  "last_update": "2026-05-25T00:44:07.276361",
+  "ml_accuracy": 90.1
 }
