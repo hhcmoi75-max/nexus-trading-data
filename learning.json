@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-05-24T23:55:22.652849",
+    "last_update": "2026-05-25T00:02:16.195633",
     "win_rate_recent": 20.0
   },
   "asset_patterns": {
@@ -15673,6 +15673,33 @@
       "entry_hour_utc": 18,
       "entry_weekday": 6,
       "simulated": true
+    },
+    {
+      "asset": "SOL",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-05-24T22:02:26.071142+00:00",
+      "entry_time": "2026-05-24T22:02:26.071142+00:00",
+      "exit_time": "2026-05-24T22:02:26.071142+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 72.32,
+      "score": 89,
+      "rsi": 40.01,
+      "adx": 21.99,
+      "claude_confidence": 15,
+      "claude_reason": "SOL absent des actifs favorables malgré score ML élevé; confiance ML très faible (23.7%); RSI neutre (40) et ADX faible (22) sans momentum; contexte macro dominé par NEAR/TRX/sharding; risque quantique systémique non mitigé pour SOL; décalage total entre signal ML et sagesse collective favorisant alternatives",
+      "ml_confidence": 23.7,
+      "score_technique": 65,
+      "score_macro": 75,
+      "score_sentiment": 72,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 25,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 22,
+      "entry_weekday": 6,
+      "simulated": true
     }
   ],
   "stats": {
@@ -15685,6 +15712,6 @@
     "best_trade": 15.61,
     "worst_trade": -9.65
   },
-  "last_update": "2026-05-24T23:56:06.829854",
+  "last_update": "2026-05-25T00:02:58.201264",
   "ml_accuracy": 88.4
 }
