@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-05-24T18:13:16.677407",
+    "last_update": "2026-05-24T18:20:06.964289",
     "win_rate_recent": 20.0
   },
   "asset_patterns": {
@@ -15349,6 +15349,33 @@
       "entry_hour_utc": 16,
       "entry_weekday": 6,
       "simulated": true
+    },
+    {
+      "asset": "SOL",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-05-24T16:20:16.607252+00:00",
+      "entry_time": "2026-05-24T16:20:16.607252+00:00",
+      "exit_time": "2026-05-24T16:20:16.607252+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 73.77,
+      "score": 92,
+      "rsi": 50.3,
+      "adx": 25.79,
+      "claude_confidence": 25,
+      "claude_reason": "SOL absent de la liste favorable malgré score ML élevé; confiance ML anormalement basse (13.2%) contredit le score 92/100; RSI neutre (50.3) et ADX modéré (25.8) ne soutiennent pas l'urgence d'achat; historique bot montre domination NEAR/TRX/BTC vs alternatives; contexte géopolitique positif mais prévisions crash Bitcoin créent tension baissière incompatible avec risque",
+      "ml_confidence": 13.2,
+      "score_technique": 83,
+      "score_macro": 72,
+      "score_sentiment": 68,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 25,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 16,
+      "entry_weekday": 6,
+      "simulated": true
     }
   ],
   "stats": {
@@ -15361,6 +15388,6 @@
     "best_trade": 15.61,
     "worst_trade": -9.65
   },
-  "last_update": "2026-05-24T18:13:58.018180",
-  "ml_accuracy": 87.9
+  "last_update": "2026-05-24T18:20:48.572828",
+  "ml_accuracy": 88.3
 }
