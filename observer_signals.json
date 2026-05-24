@@ -113667,9 +113667,9 @@
     "title": "",
     "price_at_signal": 76728.49,
     "price_after_1h": 76750.13,
-    "price_after_4h": null,
+    "price_after_4h": 76872.87,
     "result_1h_pct": 0.028,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.188,
     "would_have_won": false,
     "verified": true
   },
@@ -113689,9 +113689,9 @@
     "title": "",
     "price_at_signal": 76728.49,
     "price_after_1h": 76750.13,
-    "price_after_4h": null,
+    "price_after_4h": 76872.87,
     "result_1h_pct": 0.028,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.188,
     "would_have_won": false,
     "verified": true
   },
@@ -113711,9 +113711,9 @@
     "title": "",
     "price_at_signal": 76722.9,
     "price_after_1h": 76750.13,
-    "price_after_4h": null,
+    "price_after_4h": 76872.87,
     "result_1h_pct": 0.035,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.195,
     "would_have_won": false,
     "verified": true
   },
@@ -113733,9 +113733,9 @@
     "title": "",
     "price_at_signal": 76722.01,
     "price_after_1h": 76750.13,
-    "price_after_4h": null,
+    "price_after_4h": 76872.87,
     "result_1h_pct": 0.037,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.197,
     "would_have_won": false,
     "verified": true
   },
@@ -115844,12 +115844,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 76766.68,
-    "price_after_1h": null,
+    "price_after_1h": 76889.87,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.16,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 5267,
@@ -115866,12 +115866,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 76808.0,
-    "price_after_1h": null,
+    "price_after_1h": 76894.31,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.112,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 5268,
