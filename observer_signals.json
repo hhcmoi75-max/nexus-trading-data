@@ -126646,12 +126646,12 @@
     "is_cascade": true,
     "title": "",
     "price_at_signal": 660.66,
-    "price_after_1h": null,
+    "price_after_1h": 661.8,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.173,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 5758,
@@ -126668,12 +126668,12 @@
     "is_cascade": true,
     "title": "",
     "price_at_signal": 86.34,
-    "price_after_1h": null,
+    "price_after_1h": 86.53,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.22,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 5759,
@@ -126690,12 +126690,12 @@
     "is_cascade": true,
     "title": "",
     "price_at_signal": 9.335,
-    "price_after_1h": null,
+    "price_after_1h": 9.351,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.171,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 5760,
@@ -126712,12 +126712,12 @@
     "is_cascade": true,
     "title": "",
     "price_at_signal": 0.2451,
-    "price_after_1h": null,
+    "price_after_1h": 0.2457,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.245,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 5761,
@@ -128802,6 +128802,28 @@
     "is_cascade": true,
     "title": "",
     "price_at_signal": 9.349,
+    "price_after_1h": null,
+    "price_after_4h": null,
+    "result_1h_pct": null,
+    "result_4h_pct": null,
+    "would_have_won": null,
+    "verified": false
+  },
+  {
+    "id": 5856,
+    "timestamp": "2026-05-24T11:48:13.058493+00:00",
+    "symbol": "ADAUSDT",
+    "score": 0.3543,
+    "source": "cascade",
+    "age_seconds": 270.0,
+    "size_pct": 1.0,
+    "size_usd": 6.0,
+    "regime": "bear_volatile",
+    "urgency": "NORMAL",
+    "bypass": false,
+    "is_cascade": true,
+    "title": "",
+    "price_at_signal": 0.2457,
     "price_after_1h": null,
     "price_after_4h": null,
     "result_1h_pct": null,
