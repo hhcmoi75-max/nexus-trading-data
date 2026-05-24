@@ -1,18 +1,18 @@
 {
-  "score_macro": 45,
-  "score_sentiment": 35,
-  "tendance_marche": "BAISSIER",
-  "contexte": "Le marché crypto traverse une phase de consolidation baissière avec Bitcoin qui a chuté à 74,300$ et des sorties massives de 2,26 milliards sur les ETF spot en deux semaines. Les prix actuels en EUR montrent une stagnation complète (0,0% sur tous les actifs) masquant probablement une volatilité sous-jacente inquiétante.",
-  "risque_principal": "L'effondrement des ETF Bitcoin et les allégations contre Binance créent un environnement de défiance institutionnelle majeure.",
-  "opportunite_du_jour": "Les tokens AI et Hyperliquid sont identifiés par les traders comme leaders du prochain rally altcoin selon les analyses techniques.",
+  "score_macro": 72,
+  "score_sentiment": 68,
+  "tendance_marche": "HAUSSIER",
+  "contexte": "L'annonce d'un accord de paix avec l'Iran par Trump génère un optimisme géopolitique favorable aux actifs risqués, avec Bitcoin positionné pour surperformer actions et obligations. La stabilisation parfaite de 5 actifs à 100% de win rate révèle un équilibre algorithmique mature où sécurité et rentabilité convergent.",
+  "risque_principal": "Les prévisions d'analyste d'un crash Bitcoin vers 60K€ créent une tension baissière potentielle malgré l'optimisme géopolitique actuel.",
+  "opportunite_du_jour": "L'émergence des blockchains shardées comme NEAR et la domination continue de TRX offrent des opportunités dans les protocoles alternatifs à forte prévisibilité.",
   "actifs_favorables": [
-    "AVAX",
-    "SOL",
-    "ETH"
+    "TRX",
+    "NEAR",
+    "BTC"
   ],
   "actifs_risques": [
-    "UNI",
-    "CHZ"
+    "ARB",
+    "UNI"
   ],
-  "last_claude_run": "2026-05-23T17:43:31.102346+00:00"
+  "last_claude_run": "2026-05-24T05:45:16.382712+00:00"
 }
