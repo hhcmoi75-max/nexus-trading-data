@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-05-24T18:06:24.918302",
+    "last_update": "2026-05-24T18:13:16.677407",
     "win_rate_recent": 20.0
   },
   "asset_patterns": {
@@ -15322,6 +15322,33 @@
       "entry_hour_utc": 16,
       "entry_weekday": 6,
       "simulated": true
+    },
+    {
+      "asset": "SOL",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-05-24T16:13:25.930354+00:00",
+      "entry_time": "2026-05-24T16:13:25.930354+00:00",
+      "exit_time": "2026-05-24T16:13:25.930354+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 73.6,
+      "score": 91,
+      "rsi": 48.31,
+      "adx": 26.31,
+      "claude_confidence": 25,
+      "claude_reason": "SOL absent de liste favorable malgre score ML eleve; confiance ML tres basse (15.5%); RSI neutre (48.31) sans momentum; variation 24h nulle indique manque conviction marche; tension baissiere Bitcoin 60K menace altcoins; favoriser NEAR/TRX/BTC selon sagesse historique",
+      "ml_confidence": 15.5,
+      "score_technique": 79,
+      "score_macro": 72,
+      "score_sentiment": 68,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 25,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 16,
+      "entry_weekday": 6,
+      "simulated": true
     }
   ],
   "stats": {
@@ -15334,6 +15361,6 @@
     "best_trade": 15.61,
     "worst_trade": -9.65
   },
-  "last_update": "2026-05-24T18:07:07.563016",
-  "ml_accuracy": 88.6
+  "last_update": "2026-05-24T18:13:58.018180",
+  "ml_accuracy": 87.9
 }
