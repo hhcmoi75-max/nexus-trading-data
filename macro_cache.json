@@ -1,18 +1,18 @@
 {
-  "score_macro": 72,
-  "score_sentiment": 68,
+  "score_macro": 75,
+  "score_sentiment": 72,
   "tendance_marche": "HAUSSIER",
-  "contexte": "L'annonce d'un accord de paix avec l'Iran par Trump génère un optimisme géopolitique favorable aux actifs risqués, avec Bitcoin positionné pour surperformer actions et obligations. La stabilisation parfaite de 5 actifs à 100% de win rate révèle un équilibre algorithmique mature où sécurité et rentabilité convergent.",
-  "risque_principal": "Les prévisions d'analyste d'un crash Bitcoin vers 60K€ créent une tension baissière potentielle malgré l'optimisme géopolitique actuel.",
-  "opportunite_du_jour": "L'émergence des blockchains shardées comme NEAR et la domination continue de TRX offrent des opportunités dans les protocoles alternatifs à forte prévisibilité.",
+  "contexte": "L'annonce d'un accord de paix avec l'Iran par le président Trump booste Bitcoin tandis qu'un rapport révèle un marché caché de 1000 milliards de dollars en BTC. Cependant, les menaces quantiques accélérées par l'IA et la chute de 7,35 milliards du portefeuille ETH de Tom Lee créent des tensions sectorielles.",
+  "risque_principal": "L'accélération de la menace quantique par l'IA pourrait compromettre la sécurité cryptographique fondamentale des crypto-actifs.",
+  "opportunite_du_jour": "Les blockchains shardées comme NEAR dominent avec +15,5% tandis que TRON maintient sa fiabilité à 100% de win rate.",
   "actifs_favorables": [
     "TRX",
-    "NEAR",
-    "BTC"
+    "BTC",
+    "SOL"
   ],
   "actifs_risques": [
-    "ARB",
-    "UNI"
+    "ETH",
+    "BNB"
   ],
-  "last_claude_run": "2026-05-24T05:45:16.382712+00:00"
+  "last_claude_run": "2026-05-24T17:49:12.739499+00:00"
 }
