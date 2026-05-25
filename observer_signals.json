@@ -139297,9 +139297,9 @@
     "title": "",
     "price_at_signal": 77448.68,
     "price_after_1h": 77464.15,
-    "price_after_4h": null,
+    "price_after_4h": 77315.83,
     "result_1h_pct": 0.02,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.172,
     "would_have_won": false,
     "verified": true
   },
