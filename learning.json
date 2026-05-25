@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-05-26T00:27:57.321273",
+    "last_update": "2026-05-26T00:34:47.222242",
     "win_rate_recent": 10.0
   },
   "asset_patterns": {
@@ -16183,6 +16183,33 @@
       "entry_hour_utc": 22,
       "entry_weekday": 0,
       "simulated": true
+    },
+    {
+      "asset": "TON",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-05-25T22:35:31.702399+00:00",
+      "entry_time": "2026-05-25T22:35:31.702399+00:00",
+      "exit_time": "2026-05-25T22:35:31.702399+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 1.6585238839999998,
+      "score": 94,
+      "rsi": 56.75,
+      "adx": 44.7,
+      "claude_confidence": 15,
+      "claude_reason": "TON absent de la liste favorable alors que NEAR (+15%) et TRX (+12.4%) dominent le secteur. Score ML élevé (94/100) contredit par confiance très faible (10.4%). Variation 24h à 0% sur tous les majeurs suggère accumulation de volatilité. RSI neutre (56.75) et ADX élevé (44.7) sans direction claire. Le contexte macro favorise les blockchains shardées (NEAR) et TRON, pas TON. Risque de faux signal dans consolidation masquée.",
+      "ml_confidence": 10.4,
+      "score_technique": 67,
+      "score_macro": 72,
+      "score_sentiment": 78,
+      "score_momentum": 65,
+      "score_volume": 50,
+      "fear_greed": 30,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 22,
+      "entry_weekday": 0,
+      "simulated": true
     }
   ],
   "stats": {
@@ -16195,6 +16222,6 @@
     "best_trade": 25.48,
     "worst_trade": -9.65
   },
-  "last_update": "2026-05-26T00:28:38.877669",
-  "ml_accuracy": 90.7
+  "last_update": "2026-05-26T00:35:31.702443",
+  "ml_accuracy": 90.0
 }
