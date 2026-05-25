@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-05-26T01:02:10.408542",
+    "last_update": "2026-05-26T01:09:00.783757",
     "win_rate_recent": 10.0
   },
   "asset_patterns": {
@@ -16318,6 +16318,33 @@
       "entry_hour_utc": 23,
       "entry_weekday": 0,
       "simulated": true
+    },
+    {
+      "asset": "TON",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-05-25T23:09:43.140232+00:00",
+      "entry_time": "2026-05-25T23:09:43.140232+00:00",
+      "exit_time": "2026-05-25T23:09:43.140232+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 1.6585238839999998,
+      "score": 94,
+      "rsi": 56.21,
+      "adx": 46.13,
+      "claude_confidence": 15,
+      "claude_reason": "TON absent de la liste favorable malgré score ML élevé; confiance ML anormalement basse (10.4%) contredit le score 94/100; variation 0% sur 24h suspect dans contexte de volatilité accumulée; momentum clairement en faveur de NEAR (+15%) et TRX (+12.4%) listés favorables; risque de faux signal dans consolidation masquée",
+      "ml_confidence": 10.4,
+      "score_technique": 67,
+      "score_macro": 72,
+      "score_sentiment": 78,
+      "score_momentum": 65,
+      "score_volume": 50,
+      "fear_greed": 30,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 23,
+      "entry_weekday": 0,
+      "simulated": true
     }
   ],
   "stats": {
@@ -16330,6 +16357,6 @@
     "best_trade": 25.48,
     "worst_trade": -9.65
   },
-  "last_update": "2026-05-26T01:02:52.301262",
-  "ml_accuracy": 91.2
+  "last_update": "2026-05-26T01:09:43.140277",
+  "ml_accuracy": 90.1
 }
