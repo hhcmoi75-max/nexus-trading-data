@@ -137734,12 +137734,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 77720.14,
-    "price_after_1h": null,
+    "price_after_1h": 77635.98,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.108,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 6262,
