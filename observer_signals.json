@@ -133841,9 +133841,9 @@
     "title": "Now You Can Buy Bitcoin, XRP and More in ChatGPT via MoonPay",
     "price_at_signal": 76680.0,
     "price_after_1h": 76501.66,
-    "price_after_4h": null,
+    "price_after_4h": 77124.27,
     "result_1h_pct": -0.233,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.579,
     "would_have_won": false,
     "verified": true
   },
@@ -133863,9 +133863,9 @@
     "title": "Now You Can Buy Bitcoin, XRP and More in ChatGPT via MoonPay",
     "price_at_signal": 1.3456,
     "price_after_1h": 1.3417,
-    "price_after_4h": null,
+    "price_after_4h": 1.352,
     "result_1h_pct": -0.29,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.476,
     "would_have_won": false,
     "verified": true
   },
@@ -134346,12 +134346,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 77155.26,
-    "price_after_1h": null,
+    "price_after_1h": 77100.83,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.071,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 6108,
