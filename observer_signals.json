@@ -136194,12 +136194,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 77441.89,
-    "price_after_1h": null,
+    "price_after_1h": 77623.1,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.234,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 6192,
@@ -136216,12 +136216,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 77441.89,
-    "price_after_1h": null,
+    "price_after_1h": 77623.09,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.234,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 6193,
@@ -136238,12 +136238,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 77441.89,
-    "price_after_1h": null,
+    "price_after_1h": 77623.09,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.234,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 6194,
@@ -136260,12 +136260,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 77441.88,
-    "price_after_1h": null,
+    "price_after_1h": 77623.09,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.234,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 6195,
@@ -136282,12 +136282,12 @@
     "is_cascade": false,
     "title": "Binance Square: Grab a Share of 100,000 GENIUS Rewards on CreatorPad!",
     "price_at_signal": 662.14,
-    "price_after_1h": null,
+    "price_after_1h": 661.52,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.094,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 6196,
@@ -136304,12 +136304,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 86.07,
-    "price_after_1h": null,
+    "price_after_1h": 85.94,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.151,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 6197,
@@ -136612,6 +136612,28 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 77620.01,
+    "price_after_1h": null,
+    "price_after_4h": null,
+    "result_1h_pct": null,
+    "result_4h_pct": null,
+    "would_have_won": null,
+    "verified": false
+  },
+  {
+    "id": 6211,
+    "timestamp": "2026-05-25T10:00:24.862828+00:00",
+    "symbol": "ADAUSDT",
+    "score": 0.5753,
+    "source": "whale_buy",
+    "age_seconds": 0,
+    "size_pct": 3.63,
+    "size_usd": 21.78,
+    "regime": "bear_volatile",
+    "urgency": "NORMAL",
+    "bypass": "False",
+    "is_cascade": false,
+    "title": "",
+    "price_at_signal": 0.2449,
     "price_after_1h": null,
     "price_after_4h": null,
     "result_1h_pct": null,
