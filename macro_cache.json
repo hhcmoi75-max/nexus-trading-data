@@ -1,18 +1,18 @@
 {
   "score_macro": 72,
-  "score_sentiment": 68,
+  "score_sentiment": 78,
   "tendance_marche": "HAUSSIER",
-  "contexte": "Le marché crypto bénéficie d'un momentum institutionnel avec Coinbase qui affirme sa position face à Wall Street et un rapport révélant un marché caché de 1000 milliards $ en Bitcoin. Les performances du bot à 63.3% de win rate et la stabilisation de 5 actifs à 100% de réussite témoignent d'un environnement algorithmique mature.",
-  "risque_principal": "L'accélération de la menace quantique par l'IA pourrait déstabiliser la sécurité cryptographique fondamentale des cryptomonnaies.",
-  "opportunite_du_jour": "NEAR domine avec +15.5% établissant les blockchains shardées comme nouvelle classe d'actifs supérieure aux layer-1 traditionnels.",
+  "contexte": "Le marché crypto montre une stabilité remarquable avec tous les actifs majeurs à 0% de variation, suggérant une consolidation saine avant un mouvement directionnel. Les nouvelles positives incluent un potentiel accord de paix US-Iran soutenant Bitcoin et l'annonce de Vitalik sur la restructuration d'Ethereum Foundation pour se concentrer sur les fondamentaux.",
+  "risque_principal": "La stabilité parfaite à 0% sur tous les actifs majeurs pourrait masquer une accumulation de volatilité prête à exploser dans un sens ou l'autre.",
+  "opportunite_du_jour": "NEAR montre un momentum exceptionnel avec +15% et une adoption cross-chain croissante, positionnant les blockchains shardées comme nouvelle classe d'actifs dominante.",
   "actifs_favorables": [
-    "TRX",
     "NEAR",
-    "BTC"
+    "TRX",
+    "XRP"
   ],
   "actifs_risques": [
-    "ETH",
-    "BNB"
+    "ARB",
+    "UNI"
   ],
-  "last_claude_run": "2026-05-25T05:51:54.053249+00:00"
+  "last_claude_run": "2026-05-25T17:55:14.982236+00:00"
 }
