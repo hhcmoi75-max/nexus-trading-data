@@ -1,18 +1,18 @@
 {
-  "score_macro": 75,
-  "score_sentiment": 72,
+  "score_macro": 72,
+  "score_sentiment": 68,
   "tendance_marche": "HAUSSIER",
-  "contexte": "L'annonce d'un accord de paix avec l'Iran par le président Trump booste Bitcoin tandis qu'un rapport révèle un marché caché de 1000 milliards de dollars en BTC. Cependant, les menaces quantiques accélérées par l'IA et la chute de 7,35 milliards du portefeuille ETH de Tom Lee créent des tensions sectorielles.",
-  "risque_principal": "L'accélération de la menace quantique par l'IA pourrait compromettre la sécurité cryptographique fondamentale des crypto-actifs.",
-  "opportunite_du_jour": "Les blockchains shardées comme NEAR dominent avec +15,5% tandis que TRON maintient sa fiabilité à 100% de win rate.",
+  "contexte": "Le marché crypto bénéficie d'un momentum institutionnel avec Coinbase qui affirme sa position face à Wall Street et un rapport révélant un marché caché de 1000 milliards $ en Bitcoin. Les performances du bot à 63.3% de win rate et la stabilisation de 5 actifs à 100% de réussite témoignent d'un environnement algorithmique mature.",
+  "risque_principal": "L'accélération de la menace quantique par l'IA pourrait déstabiliser la sécurité cryptographique fondamentale des cryptomonnaies.",
+  "opportunite_du_jour": "NEAR domine avec +15.5% établissant les blockchains shardées comme nouvelle classe d'actifs supérieure aux layer-1 traditionnels.",
   "actifs_favorables": [
     "TRX",
-    "BTC",
-    "SOL"
+    "NEAR",
+    "BTC"
   ],
   "actifs_risques": [
     "ETH",
     "BNB"
   ],
-  "last_claude_run": "2026-05-24T17:49:12.739499+00:00"
+  "last_claude_run": "2026-05-25T05:51:54.053249+00:00"
 }
