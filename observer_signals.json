@@ -143345,9 +143345,9 @@
     "title": "",
     "price_at_signal": 76726.01,
     "price_after_1h": 76702.34,
-    "price_after_4h": null,
+    "price_after_4h": 77216.0,
     "result_1h_pct": -0.031,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.639,
     "would_have_won": false,
     "verified": true
   },
@@ -144378,12 +144378,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 77443.85,
-    "price_after_1h": null,
+    "price_after_1h": 77205.79,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.307,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 6564,
@@ -144400,12 +144400,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 77443.85,
-    "price_after_1h": null,
+    "price_after_1h": 77205.79,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.307,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 6565,
@@ -144422,12 +144422,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 77436.05,
-    "price_after_1h": null,
+    "price_after_1h": 77205.79,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.297,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 6566,
@@ -144444,12 +144444,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 77435.45,
-    "price_after_1h": null,
+    "price_after_1h": 77212.48,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.288,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 6567,
@@ -144466,12 +144466,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 77427.73,
-    "price_after_1h": null,
+    "price_after_1h": 77212.48,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.278,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 6568,
@@ -144488,12 +144488,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 77427.72,
-    "price_after_1h": null,
+    "price_after_1h": 77212.48,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.278,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 6569,
@@ -144510,12 +144510,12 @@
     "is_cascade": false,
     "title": "Binance Alpha Trading Competition: Trade Zest Protocol (ZEST) and Share $200K Worth of Rewards (2026",
     "price_at_signal": 662.78,
-    "price_after_1h": null,
+    "price_after_1h": 662.81,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.005,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 6570,
@@ -144532,12 +144532,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 77464.21,
-    "price_after_1h": null,
+    "price_after_1h": 77209.91,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.328,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 6571,
