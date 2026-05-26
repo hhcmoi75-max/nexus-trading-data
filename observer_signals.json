@@ -143916,12 +143916,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 84.57,
-    "price_after_1h": null,
+    "price_after_1h": 85.5,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 1.1,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 6543,
@@ -143938,12 +143938,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 76671.82,
-    "price_after_1h": null,
+    "price_after_1h": 77327.24,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.855,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 6544,
@@ -143960,12 +143960,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 76699.85,
-    "price_after_1h": null,
+    "price_after_1h": 77297.52,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.779,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 6545,
@@ -143982,12 +143982,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 2.752,
-    "price_after_1h": null,
+    "price_after_1h": 2.944,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 6.977,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": true,
+    "verified": true
   },
   {
     "id": 6546,
@@ -144532,6 +144532,28 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 77464.21,
+    "price_after_1h": null,
+    "price_after_4h": null,
+    "result_1h_pct": null,
+    "result_4h_pct": null,
+    "would_have_won": null,
+    "verified": false
+  },
+  {
+    "id": 6571,
+    "timestamp": "2026-05-26T11:13:35.067602+00:00",
+    "symbol": "LINKUSDT",
+    "score": 0.5788,
+    "source": "whale_buy",
+    "age_seconds": 0,
+    "size_pct": 3.68,
+    "size_usd": 22.09,
+    "regime": "bear_volatile",
+    "urgency": "NORMAL",
+    "bypass": "False",
+    "is_cascade": false,
+    "title": "",
+    "price_at_signal": 9.601,
     "price_after_1h": null,
     "price_after_4h": null,
     "result_1h_pct": null,
