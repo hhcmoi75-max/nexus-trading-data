@@ -144841,9 +144841,9 @@
     "title": "",
     "price_at_signal": 2120.14,
     "price_after_1h": 2120.57,
-    "price_after_4h": null,
+    "price_after_4h": 2081.3,
     "result_1h_pct": 0.02,
-    "result_4h_pct": null,
+    "result_4h_pct": -1.832,
     "would_have_won": false,
     "verified": true
   },
@@ -144863,9 +144863,9 @@
     "title": "",
     "price_at_signal": 77078.75,
     "price_after_1h": 77049.99,
-    "price_after_4h": null,
+    "price_after_4h": 76590.0,
     "result_1h_pct": -0.037,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.634,
     "would_have_won": false,
     "verified": true
   },
@@ -145786,12 +145786,12 @@
     "is_cascade": false,
     "title": "Hut 8 is currently commanding the digital assets sector with a powerful breakout that defies the bro",
     "price_at_signal": 76578.03,
-    "price_after_1h": null,
+    "price_after_1h": 76553.77,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.032,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 6628,
@@ -145808,12 +145808,12 @@
     "is_cascade": false,
     "title": "Hut 8 is currently commanding the digital assets sector with a powerful breakout that defies the bro",
     "price_at_signal": 2093.09,
-    "price_after_1h": null,
+    "price_after_1h": 2079.99,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.626,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 6629,
@@ -145830,12 +145830,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 2088.92,
-    "price_after_1h": null,
+    "price_after_1h": 2079.9,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.432,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 6630,
