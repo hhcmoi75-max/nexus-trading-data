@@ -1,18 +1,18 @@
 {
-  "score_macro": 72,
-  "score_sentiment": 78,
-  "tendance_marche": "HAUSSIER",
-  "contexte": "Le marché crypto montre une stabilité remarquable avec tous les actifs majeurs à 0% de variation, suggérant une consolidation saine avant un mouvement directionnel. Les nouvelles positives incluent un potentiel accord de paix US-Iran soutenant Bitcoin et l'annonce de Vitalik sur la restructuration d'Ethereum Foundation pour se concentrer sur les fondamentaux.",
-  "risque_principal": "La stabilité parfaite à 0% sur tous les actifs majeurs pourrait masquer une accumulation de volatilité prête à exploser dans un sens ou l'autre.",
-  "opportunite_du_jour": "NEAR montre un momentum exceptionnel avec +15% et une adoption cross-chain croissante, positionnant les blockchains shardées comme nouvelle classe d'actifs dominante.",
+  "score_macro": 35,
+  "score_sentiment": 42,
+  "tendance_marche": "BAISSIER",
+  "contexte": "Les marchés crypto montrent une stagnation généralisée avec Bitcoin bloqué près de 76 500$ dans un contexte d'attentisme macro, tandis que les tensions géopolitiques (frappes US sur Iran) amplifient l'aversion au risque. La faiblesse du sentiment Reddit (62/100) combinée aux breakdowns techniques (XRP sous triangle) signale une phase de consolidation défensive.",
+  "risque_principal": "L'effondrement systémique des tokens d'infrastructure Ethereum (ARB, UNI, CHZ) révèle une rotation sectorielle majeure qui pourrait contaminer l'ensemble de l'écosystème DeFi.",
+  "opportunite_du_jour": "NEAR capitalise sur sa momentum cross-chain avec une architecture shardée qui attire massivement les développeurs, confirmant l'émergence des blockchains alternatives comme nouvelle classe d'actifs dominante.",
   "actifs_favorables": [
     "NEAR",
     "TRX",
-    "XRP"
+    "SOL"
   ],
   "actifs_risques": [
-    "ARB",
-    "UNI"
+    "XRP",
+    "ETH"
   ],
-  "last_claude_run": "2026-05-25T17:55:14.982236+00:00"
+  "last_claude_run": "2026-05-26T05:57:20.032636+00:00"
 }
