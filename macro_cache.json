@@ -1,18 +1,18 @@
 {
-  "score_macro": 35,
-  "score_sentiment": 42,
-  "tendance_marche": "BAISSIER",
-  "contexte": "Les marchés crypto montrent une stagnation généralisée avec Bitcoin bloqué près de 76 500$ dans un contexte d'attentisme macro, tandis que les tensions géopolitiques (frappes US sur Iran) amplifient l'aversion au risque. La faiblesse du sentiment Reddit (62/100) combinée aux breakdowns techniques (XRP sous triangle) signale une phase de consolidation défensive.",
-  "risque_principal": "L'effondrement systémique des tokens d'infrastructure Ethereum (ARB, UNI, CHZ) révèle une rotation sectorielle majeure qui pourrait contaminer l'ensemble de l'écosystème DeFi.",
-  "opportunite_du_jour": "NEAR capitalise sur sa momentum cross-chain avec une architecture shardée qui attire massivement les développeurs, confirmant l'émergence des blockchains alternatives comme nouvelle classe d'actifs dominante.",
+  "score_macro": 65,
+  "score_sentiment": 58,
+  "tendance_marche": "NEUTRE",
+  "contexte": "Le marché crypto évolue dans un environnement réglementaire contrasté avec les sanctions UK sur Huobi d'un côté et l'innovation technologique de Coinbase Base avec l'IA de l'autre. La stabilité des prix à 0.0% sur tous les actifs majeurs reflète une consolidation après les mouvements récents, tandis que le sentiment Reddit à 72/100 et le win rate bot à 63.4% indiquent une confiance modérée.",
+  "risque_principal": "Les sanctions réglementaires s'intensifient avec le UK qui cible les réseaux crypto russes, créant une incertitude sur les futures restrictions d'accès aux plateformes.",
+  "opportunite_du_jour": "L'émergence des blockchains shardées comme NEAR et la domination continue de TRX offrent des opportunités sur les protocoles alternatifs à haute performance.",
   "actifs_favorables": [
-    "NEAR",
     "TRX",
+    "NEAR",
     "SOL"
   ],
   "actifs_risques": [
-    "XRP",
-    "ETH"
+    "ARB",
+    "UNI"
   ],
-  "last_claude_run": "2026-05-26T05:57:20.032636+00:00"
+  "last_claude_run": "2026-05-26T17:58:41.996444+00:00"
 }
