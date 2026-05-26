@@ -140067,9 +140067,9 @@
     "title": "",
     "price_at_signal": 1.0387,
     "price_after_1h": 1.0402,
-    "price_after_4h": null,
+    "price_after_4h": 1.0191,
     "result_1h_pct": 0.144,
-    "result_4h_pct": null,
+    "result_4h_pct": -1.887,
     "would_have_won": false,
     "verified": true
   },
