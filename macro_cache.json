@@ -1,18 +1,18 @@
 {
-  "score_macro": 45,
-  "score_sentiment": 35,
-  "tendance_marche": "BAISSIER",
-  "contexte": "Les marchés crypto montrent une stagnation généralisée avec des variations nulles sur tous les actifs majeurs, tandis que Bitcoin voit son uptrend de trois mois se briser selon CoinDesk. Le sentiment Reddit reste modéré à 74/100 mais les signaux techniques se dégradent avec BTC glissant vers 75k$ malgré un potentiel 'golden cross'.",
-  "risque_principal": "La rupture de l'uptrend Bitcoin de trois mois combinée à l'échec de breakout XRP signale un affaiblissement de la dynamique haussière générale du marché.",
-  "opportunite_du_jour": "L'annonce de Base connectant les wallets crypto aux agents IA ouvre de nouvelles perspectives sur les tokens d'infrastructure blockchain et d'intelligence artificielle.",
+  "score_macro": 75,
+  "score_sentiment": 72,
+  "tendance_marche": "HAUSSIER",
+  "contexte": "Le marché crypto bénéficie d'un contexte macro favorable avec des nouvelles institutionnelles positives (tokenisation BIS, IPOs crypto à 1T$, fusion Tesla-SpaceX) qui renforcent l'adoption mainstream. La stabilité des prix majeurs à 0% de variation couplée à un Reddit sentiment à 64/100 indique une consolidation saine avant une potentielle accélération.",
+  "risque_principal": "La menace sur Bitcoin de perdre le niveau des 75K$ suite aux progrès de paix US-Iran pourrait déclencher une correction généralisée sur l'ensemble des cryptoactifs.",
+  "opportunite_du_jour": "Les blockchains shardées comme NEAR continuent de dominer avec des performances exceptionnelles (+25.5%) confirmant leur statut d'actifs les plus explosifs du marché.",
   "actifs_favorables": [
     "NEAR",
-    "ETH",
-    "SOL"
+    "SOL",
+    "ETH"
   ],
   "actifs_risques": [
     "BTC",
-    "XRP"
+    "FIL"
   ],
-  "last_claude_run": "2026-05-27T06:05:09.219717+00:00"
+  "last_claude_run": "2026-05-27T18:05:52.969298+00:00"
 }
