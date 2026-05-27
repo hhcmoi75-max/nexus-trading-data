@@ -147305,9 +147305,9 @@
     "title": "",
     "price_at_signal": 75930.01,
     "price_after_1h": 76089.7,
-    "price_after_4h": null,
+    "price_after_4h": 75664.43,
     "result_1h_pct": 0.21,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.35,
     "would_have_won": false,
     "verified": true
   },
@@ -147327,9 +147327,9 @@
     "title": "",
     "price_at_signal": 75930.0,
     "price_after_1h": 76076.01,
-    "price_after_4h": null,
+    "price_after_4h": 75685.59,
     "result_1h_pct": 0.192,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.322,
     "would_have_won": false,
     "verified": true
   },
@@ -148096,12 +148096,12 @@
     "is_cascade": false,
     "title": "Binance Will Support the Base Network Upgrade & Hard Fork - 2026-05-28",
     "price_at_signal": 656.21,
-    "price_after_1h": null,
+    "price_after_1h": 654.13,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.317,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 6733,
