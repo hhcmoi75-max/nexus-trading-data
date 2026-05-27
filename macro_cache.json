@@ -1,18 +1,18 @@
 {
-  "score_macro": 65,
-  "score_sentiment": 58,
-  "tendance_marche": "NEUTRE",
-  "contexte": "Le marché crypto évolue dans un environnement réglementaire contrasté avec les sanctions UK sur Huobi d'un côté et l'innovation technologique de Coinbase Base avec l'IA de l'autre. La stabilité des prix à 0.0% sur tous les actifs majeurs reflète une consolidation après les mouvements récents, tandis que le sentiment Reddit à 72/100 et le win rate bot à 63.4% indiquent une confiance modérée.",
-  "risque_principal": "Les sanctions réglementaires s'intensifient avec le UK qui cible les réseaux crypto russes, créant une incertitude sur les futures restrictions d'accès aux plateformes.",
-  "opportunite_du_jour": "L'émergence des blockchains shardées comme NEAR et la domination continue de TRX offrent des opportunités sur les protocoles alternatifs à haute performance.",
+  "score_macro": 45,
+  "score_sentiment": 35,
+  "tendance_marche": "BAISSIER",
+  "contexte": "Les marchés crypto montrent une stagnation généralisée avec des variations nulles sur tous les actifs majeurs, tandis que Bitcoin voit son uptrend de trois mois se briser selon CoinDesk. Le sentiment Reddit reste modéré à 74/100 mais les signaux techniques se dégradent avec BTC glissant vers 75k$ malgré un potentiel 'golden cross'.",
+  "risque_principal": "La rupture de l'uptrend Bitcoin de trois mois combinée à l'échec de breakout XRP signale un affaiblissement de la dynamique haussière générale du marché.",
+  "opportunite_du_jour": "L'annonce de Base connectant les wallets crypto aux agents IA ouvre de nouvelles perspectives sur les tokens d'infrastructure blockchain et d'intelligence artificielle.",
   "actifs_favorables": [
-    "TRX",
     "NEAR",
+    "ETH",
     "SOL"
   ],
   "actifs_risques": [
-    "ARB",
-    "UNI"
+    "BTC",
+    "XRP"
   ],
-  "last_claude_run": "2026-05-26T17:58:41.996444+00:00"
+  "last_claude_run": "2026-05-27T06:05:09.219717+00:00"
 }
