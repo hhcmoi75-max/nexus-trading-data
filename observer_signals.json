@@ -152474,12 +152474,12 @@
     "is_cascade": false,
     "title": "Kraken Now Lets You Earn Yield on Bitcoin Holdings via Lending Vaults",
     "price_at_signal": 75307.75,
-    "price_after_1h": null,
+    "price_after_1h": 75156.03,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.201,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 6932,
