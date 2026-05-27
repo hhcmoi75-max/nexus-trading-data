@@ -152496,12 +152496,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 75268.02,
-    "price_after_1h": null,
+    "price_after_1h": 75160.08,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.143,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 6933,
@@ -152518,12 +152518,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 75275.33,
-    "price_after_1h": null,
+    "price_after_1h": 75160.61,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.152,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 6934,
@@ -152540,12 +152540,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 75294.86,
-    "price_after_1h": null,
+    "price_after_1h": 75174.0,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.161,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 6935,
@@ -152562,12 +152562,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 2073.48,
-    "price_after_1h": null,
+    "price_after_1h": 2068.14,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.258,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 6936,
@@ -152584,12 +152584,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 75304.01,
-    "price_after_1h": null,
+    "price_after_1h": 75222.98,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.108,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 6937,
