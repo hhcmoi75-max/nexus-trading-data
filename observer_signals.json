@@ -161033,9 +161033,9 @@
     "title": "",
     "price_at_signal": 73396.01,
     "price_after_1h": 73368.94,
-    "price_after_4h": null,
+    "price_after_4h": 73149.79,
     "result_1h_pct": -0.037,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.335,
     "would_have_won": false,
     "verified": true
   },
@@ -161670,12 +161670,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 0.2294,
-    "price_after_1h": null,
+    "price_after_1h": 0.2309,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.654,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 7350,
