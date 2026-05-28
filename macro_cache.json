@@ -1,18 +1,18 @@
 {
-  "score_macro": 75,
-  "score_sentiment": 72,
-  "tendance_marche": "HAUSSIER",
-  "contexte": "Le marché crypto bénéficie d'un contexte macro favorable avec des nouvelles institutionnelles positives (tokenisation BIS, IPOs crypto à 1T$, fusion Tesla-SpaceX) qui renforcent l'adoption mainstream. La stabilité des prix majeurs à 0% de variation couplée à un Reddit sentiment à 64/100 indique une consolidation saine avant une potentielle accélération.",
-  "risque_principal": "La menace sur Bitcoin de perdre le niveau des 75K$ suite aux progrès de paix US-Iran pourrait déclencher une correction généralisée sur l'ensemble des cryptoactifs.",
-  "opportunite_du_jour": "Les blockchains shardées comme NEAR continuent de dominer avec des performances exceptionnelles (+25.5%) confirmant leur statut d'actifs les plus explosifs du marché.",
+  "score_macro": 25,
+  "score_sentiment": 20,
+  "tendance_marche": "BAISSIER",
+  "contexte": "Les marchés crypto subissent une pression baissière intense avec des sorties massives de capitaux (528M$ sur l'ETF Bitcoin BlackRock) et des liquidations de 1 milliard suite aux tensions géopolitiques Iran-US. L'environnement macro se dégrade avec une opération Treasury de 150 milliards imminente et la rupture de supports techniques clés sur XRP sous 1.30$.",
+  "risque_principal": "Cascade de liquidations amplifiée par les sorties d'ETF et l'escalade géopolitique pouvant déclencher un sell-off généralisé sous les supports majeurs.",
+  "opportunite_du_jour": "Positions courtes sur les altcoins les plus exposés aux liquidations avec des stops serrés pour capitaliser sur la faiblesse du sentiment.",
   "actifs_favorables": [
-    "NEAR",
-    "SOL",
-    "ETH"
+    "USDT",
+    "USDC",
+    "XAG"
   ],
   "actifs_risques": [
     "BTC",
-    "FIL"
+    "XRP"
   ],
-  "last_claude_run": "2026-05-27T18:05:52.969298+00:00"
+  "last_claude_run": "2026-05-28T06:10:50.748966+00:00"
 }
