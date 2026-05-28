@@ -164179,9 +164179,9 @@
     "title": "",
     "price_at_signal": 73602.21,
     "price_after_1h": 73434.68,
-    "price_after_4h": null,
+    "price_after_4h": 73500.73,
     "result_1h_pct": -0.228,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.138,
     "would_have_won": false,
     "verified": true
   },
@@ -164201,9 +164201,9 @@
     "title": "Anthropic's Claude Opus 4.8 Is Here: Better AI Coding, Smarter Safety—Same Huge Price",
     "price_at_signal": 0.1203,
     "price_after_1h": 0.1199,
-    "price_after_4h": null,
+    "price_after_4h": 0.1182,
     "result_1h_pct": -0.333,
-    "result_4h_pct": null,
+    "result_4h_pct": -1.746,
     "would_have_won": false,
     "verified": true
   },
@@ -164223,9 +164223,9 @@
     "title": "Whales dumped 22,823 BTC in four weeks but retail sentiment just hit the most bullish level of 2026",
     "price_at_signal": 73631.86,
     "price_after_1h": 73502.22,
-    "price_after_4h": null,
+    "price_after_4h": 73532.71,
     "result_1h_pct": -0.176,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.135,
     "would_have_won": false,
     "verified": true
   },
@@ -164904,12 +164904,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 73880.25,
-    "price_after_1h": null,
+    "price_after_1h": 73500.74,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.514,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 7497,
@@ -164926,12 +164926,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 73880.25,
-    "price_after_1h": null,
+    "price_after_1h": 73500.74,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.514,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 7498,
@@ -164948,12 +164948,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 73836.15,
-    "price_after_1h": null,
+    "price_after_1h": 73532.71,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.411,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 7499,
