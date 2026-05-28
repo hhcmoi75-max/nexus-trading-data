@@ -163431,9 +163431,9 @@
     "title": "",
     "price_at_signal": 72890.01,
     "price_after_1h": 73442.77,
-    "price_after_4h": null,
+    "price_after_4h": 73403.68,
     "result_1h_pct": 0.758,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.705,
     "would_have_won": false,
     "verified": true
   },
