@@ -161671,9 +161671,9 @@
     "title": "",
     "price_at_signal": 0.2294,
     "price_after_1h": 0.2309,
-    "price_after_4h": null,
+    "price_after_4h": 0.2343,
     "result_1h_pct": 0.654,
-    "result_4h_pct": null,
+    "result_4h_pct": 2.136,
     "would_have_won": false,
     "verified": true
   },
