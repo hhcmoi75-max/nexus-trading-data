@@ -1,68 +1,7 @@
 {
-  "last_scan": "2026-05-29T20:23:53.087409",
-  "total_scanned": 5,
-  "top_signals": [
-    {
-      "asset": "FET",
-      "name": "FET",
-      "type": "crypto",
-      "price_eur": 0.238503,
-      "change_24h": 11.57,
-      "volume_usd": 31728547.0,
-      "signal": "BUY",
-      "strength": 11.6,
-      "source": "Binance background",
-      "layer": 2
-    },
-    {
-      "asset": "ALGO",
-      "name": "ALGO",
-      "type": "crypto",
-      "price_eur": 0.109468,
-      "change_24h": 7.14,
-      "volume_usd": 9077860.0,
-      "signal": "BUY",
-      "strength": 7.1,
-      "source": "Binance background",
-      "layer": 2
-    },
-    {
-      "asset": "SEI",
-      "name": "SEI",
-      "type": "crypto",
-      "price_eur": 0.061472,
-      "change_24h": -5.56,
-      "volume_usd": 13506152.0,
-      "signal": "SELL",
-      "strength": 5.6,
-      "source": "Binance background",
-      "layer": 2
-    },
-    {
-      "asset": "SUI",
-      "name": "SUI",
-      "type": "crypto",
-      "price_eur": 0.841314,
-      "change_24h": -3.13,
-      "volume_usd": 53988837.0,
-      "signal": "WATCH",
-      "strength": 3.1,
-      "source": "Binance background",
-      "layer": 2
-    },
-    {
-      "asset": "ZEC",
-      "name": "ZEC",
-      "type": "crypto",
-      "price_eur": 500.27523,
-      "change_24h": -2.7,
-      "volume_usd": 119773782.0,
-      "signal": "WATCH",
-      "strength": 2.7,
-      "source": "Binance background",
-      "layer": 2
-    }
-  ],
-  "extreme_count": 1,
-  "eur_rate": 0.923
+  "last_scan": "2026-05-29T20:30:44.465809",
+  "total_scanned": 0,
+  "top_signals": [],
+  "extreme_count": 0,
+  "eur_rate": 0.8628635
 }
