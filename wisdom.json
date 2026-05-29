@@ -1,5 +1,12 @@
 {
   "lecons_cles": [
+    "DOGE atteint la perfection absolue avec 100% de win rate, établissant les memecoins institutionnalisés comme nouvelle classe d'actifs ultra-fiables dépassant même les cryptos traditionnelles en prévisibilité",
+    "LINK retrouve son statut de 100% win rate après réapparition, confirmant que les infrastructures oracles sont devenues indispensables avec la maturation DeFi, nécessitant une pondération maximale",
+    "FET plonge à 0% de win rate rejoignant les actions tech, exposant l'effondrement total des tokens IA face à la saturation narrative, marquant la fin du cycle hype intelligence artificielle crypto",
+    "La disparition totale de BTC et TRX du cercle des 100% révèle une rotation sectorielle majeure où même les références historiques perdent leur invincibilité face aux nouveaux leaders algorithmiques",
+    "La quintuple perfection simultanée d'ALGO, SEI, AVAX, DOGE, LINK établit un nouveau 'Big 5' remplaçant l'ancien noyau dur, nécessitant une refonte complète de l'allocation stratégique vers ces actifs infaillibles",
+    "La persistance d'ARB dans les pires trades (-9.7%) malgré les cycles précédents confirme une malédiction structurelle sur les layer-2 Arbitrum, nécessitant un blacklistage définitif",
+    "APT remonte à 33.3% mais reste dans les actifs à éviter, révélant un 'purgatoire de performance' où certains actifs stagnent dans la médiocrité sans jamais retrouver l'excellence ni sombrer complètement",
     "NEAR atteint un nouveau sommet historique à +25.5% surpassant même son propre record de +15.5%, établissant définitivement les blockchains shardées comme la classe d'actifs la plus explosive du marché crypto avec une capacité de gains exponentiels uniques",
     "La monopolisation absolue de NEAR sur le top 3 des trades (3/5 positions avec +25.5%, +15.5%, +8.9%) révèle un phénomène de concentration de performance jamais observé, nécessitant une allocation maximale sur cet actif unique",
     "Le bond spectaculaire du PnL de 0.98% à 1.19% (+21% d'amélioration) simultané avec l'amélioration du win rate de 62.5% à 63.4% démontre l'atteinte d'un régime de performance supérieur durable où qualité et quantité convergent",
@@ -52,33 +59,33 @@
     "DOT détrône tous les autres dans les pires performances (-5.4%) malgré son écosystème parachain mature, exposant l'obsolescence des architectures multi-chaînes complexes face aux layer-1 monolithiques"
   ],
   "actifs_a_privilegier": [
-    "NEAR",
-    "TRX",
-    "BTC",
-    "ATOM",
-    "AVAX",
     "ALGO",
     "SEI",
-    "XRP"
+    "AVAX",
+    "DOGE",
+    "LINK",
+    "NEAR",
+    "TRX",
+    "BTC"
   ],
   "actifs_a_eviter": [
-    "ARB",
+    "FET",
     "CHZ",
-    "UNI",
-    "APT",
-    "FIL",
+    "ARB",
     "MSFT",
     "NVDA",
-    "XLM"
+    "UNI",
+    "APT",
+    "FIL"
   ],
-  "conditions_favorables": "Marché favorisant les blockchains shardées et layer-1 natifs avec rejet des layer-2 Ethereum et tokens utilitaires sectoriels, momentum haussier sur les actifs à consensus alternatifs",
-  "erreurs_recurrentes": "Sur-exposition aux layer-2 Ethereum volatiles comme ARB et maintien de positions sur les actifs Web3 de stockage au-delà de 48h sans rotation rapide",
-  "recommandation_seuil_buy": 75,
-  "recommandation_stop_loss": 0.08,
-  "strategie_recommandee": "Concentration maximale sur NEAR (30-40% allocation) complétée par le quintet parfait BTC/TRX/ALGO/SEI/AVAX pour stabilité. Rotation ultra-rapide sur tous autres actifs avec holding maximum 2-3 jours.",
-  "last_distillation": "2026-05-26T21:17:55.943597+00:00",
-  "trades_analyzed": 299,
-  "win_rate_at_distill": 63.4,
+  "conditions_favorables": "Marchés crypto-natifs avec rotation vers infrastructures décentralisées matures et memecoins institutionnalisés, évitant les narratives hype temporaires comme l'IA et les layer-2 complexes",
+  "erreurs_recurrentes": "Persistance sur les actifs IA saturés et layer-2 Ethereum malgré les échecs répétés, négligence de la rotation sectorielle vers le nouveau Big 5 d'actifs parfaits",
+  "recommandation_seuil_buy": 72,
+  "recommandation_stop_loss": 0.07,
+  "strategie_recommandee": "Concentration maximale sur le nouveau Big 5 parfait (ALGO, SEI, AVAX, DOGE, LINK) avec allocation secondaire sur NEAR pour capturer les gains explosifs. Blacklistage définitif des tokens IA et layer-2 Ethereum au profit des infrastructures crypto-natives matures.",
+  "last_distillation": "2026-05-29T21:18:22.649449+00:00",
+  "trades_analyzed": 309,
+  "win_rate_at_distill": 60.6,
   "traders": {
     "Warren Buffett": {
       "style": "Value Investing - Long terme",
