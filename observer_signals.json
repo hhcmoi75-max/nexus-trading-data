@@ -166070,12 +166070,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 73770.0,
-    "price_after_1h": null,
+    "price_after_1h": 73538.22,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.314,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 7550,
@@ -166092,12 +166092,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 73770.0,
-    "price_after_1h": null,
+    "price_after_1h": 73529.93,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.325,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 7551,
@@ -166114,12 +166114,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 73754.3,
-    "price_after_1h": null,
+    "price_after_1h": 73564.47,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.257,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 7552,
@@ -166136,12 +166136,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 73770.0,
-    "price_after_1h": null,
+    "price_after_1h": 73564.22,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.279,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 7553,
@@ -166158,12 +166158,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 2.463,
-    "price_after_1h": null,
+    "price_after_1h": 2.524,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 2.477,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": true,
+    "verified": true
   },
   {
     "id": 7554,
