@@ -166312,12 +166312,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 73700.95,
-    "price_after_1h": null,
+    "price_after_1h": 73607.32,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.127,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 7561,
@@ -166334,12 +166334,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 73717.99,
-    "price_after_1h": null,
+    "price_after_1h": 73604.31,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.154,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 7562,
@@ -166356,12 +166356,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 73772.17,
-    "price_after_1h": null,
+    "price_after_1h": 73590.01,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.247,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 7563,
@@ -166378,12 +166378,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 73772.17,
-    "price_after_1h": null,
+    "price_after_1h": 73590.0,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.247,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 7564,
@@ -166400,12 +166400,12 @@
     "is_cascade": false,
     "title": "CIS User Exclusive: Solve Summer Mystery! Gifts are Ready—Up to 300 USDT in Surprise Boxes",
     "price_at_signal": 82.35,
-    "price_after_1h": null,
+    "price_after_1h": 82.19,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.194,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 7565,
