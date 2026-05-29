@@ -1,18 +1,18 @@
 {
-  "score_macro": 45,
-  "score_sentiment": 35,
-  "tendance_marche": "BAISSIER",
-  "contexte": "Les marchés crypto affichent une stagnation préoccupante malgré des records sur les actions traditionnelles, révélant une déconnexion inquiétante et un manque de momentum. La demande institutionnelle s'essouffle dangereusement avec un arrêt des achats des gros détenteurs Bitcoin selon CryptoQuant, signalant un potentiel retournement de cycle.",
-  "risque_principal": "La sécheresse de la demande institutionnelle combinée à des détenteurs record qui ne vendent pas crée un équilibre fragile susceptible de basculer violemment à la baisse.",
-  "opportunite_du_jour": "XRP montre des signes de réveil technique avec un rebond au-dessus de 1.30$ accompagné d'une hausse de volume significative malgré la pression baissière générale.",
+  "score_macro": 72,
+  "score_sentiment": 65,
+  "tendance_marche": "HAUSSIER",
+  "contexte": "Les marchés européens montrent une rotation sectorielle marquée avec les utilities (EOAN +17.65%) et banques (DBK +14.13%) qui surperforment tandis que les télécoms (DTE -12.73%) chutent. Les indices US restent solides (SPY +1.8%, QQQ +3.19%) avec ARKK qui bondit de 6.81%, signalant un retour d'appétit pour la croissance tech.",
+  "risque_principal": "La volatilité crypto avec Bitcoin testant des plus bas sur 6 semaines pourrait contaminer les actifs tech corrélés malgré les performances actuelles.",
+  "opportunite_du_jour": "La rotation vers les utilities européennes et la résurgence d'ARKK offrent des points d'entrée sur la croissance tech avec un momentum retrouvé.",
   "actifs_favorables": [
-    "XRP",
-    "NEAR",
-    "SOL"
+    "QQQ",
+    "ARKK",
+    "EOAN.DE"
   ],
   "actifs_risques": [
-    "BTC",
-    "FIL"
+    "DTE.DE",
+    "GLD"
   ],
-  "last_claude_run": "2026-05-29T06:18:49.096696+00:00"
+  "last_claude_run": "2026-05-29T18:23:10.308554+00:00"
 }
