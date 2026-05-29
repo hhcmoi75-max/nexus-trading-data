@@ -1,18 +1,18 @@
 {
-  "score_macro": 25,
-  "score_sentiment": 30,
+  "score_macro": 45,
+  "score_sentiment": 35,
   "tendance_marche": "BAISSIER",
-  "contexte": "Le marché crypto traverse une phase de stress majeur avec une chute de 20 milliards de TVL en DeFi, des pannes répétées d'infrastructures (Sui blockchain) et des liquidations massives sur les produits dérivés. L'adoption institutionnelle recule avec des entreprises françaises liquidant leurs réserves Bitcoin tandis que l'Europe peine à contenir une crise crypto-bancaire émergente sous MiCA.",
-  "risque_principal": "Contagion systémique amplifiée par les défaillances d'infrastructure blockchain et l'inadéquation réglementaire européenne face à la crise crypto-bancaire.",
-  "opportunite_du_jour": "Intégration yield natif USDT/USDC via Morpho sur Trezor offrant des rendements stables pendant la correction du marché.",
+  "contexte": "Les marchés crypto affichent une stagnation préoccupante malgré des records sur les actions traditionnelles, révélant une déconnexion inquiétante et un manque de momentum. La demande institutionnelle s'essouffle dangereusement avec un arrêt des achats des gros détenteurs Bitcoin selon CryptoQuant, signalant un potentiel retournement de cycle.",
+  "risque_principal": "La sécheresse de la demande institutionnelle combinée à des détenteurs record qui ne vendent pas crée un équilibre fragile susceptible de basculer violemment à la baisse.",
+  "opportunite_du_jour": "XRP montre des signes de réveil technique avec un rebond au-dessus de 1.30$ accompagné d'une hausse de volume significative malgré la pression baissière générale.",
   "actifs_favorables": [
-    "USDT",
-    "USDC",
-    "XAU"
-  ],
-  "actifs_risques": [
-    "ETH",
+    "XRP",
+    "NEAR",
     "SOL"
   ],
-  "last_claude_run": "2026-05-28T18:17:33.466660+00:00"
+  "actifs_risques": [
+    "BTC",
+    "FIL"
+  ],
+  "last_claude_run": "2026-05-29T06:18:49.096696+00:00"
 }
