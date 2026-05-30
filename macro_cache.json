@@ -1,18 +1,18 @@
 {
-  "score_macro": 72,
-  "score_sentiment": 65,
-  "tendance_marche": "HAUSSIER",
-  "contexte": "Les marchés européens montrent une rotation sectorielle marquée avec les utilities (EOAN +17.65%) et banques (DBK +14.13%) qui surperforment tandis que les télécoms (DTE -12.73%) chutent. Les indices US restent solides (SPY +1.8%, QQQ +3.19%) avec ARKK qui bondit de 6.81%, signalant un retour d'appétit pour la croissance tech.",
-  "risque_principal": "La volatilité crypto avec Bitcoin testant des plus bas sur 6 semaines pourrait contaminer les actifs tech corrélés malgré les performances actuelles.",
-  "opportunite_du_jour": "La rotation vers les utilities européennes et la résurgence d'ARKK offrent des points d'entrée sur la croissance tech avec un momentum retrouvé.",
+  "score_macro": 45,
+  "score_sentiment": 35,
+  "tendance_marche": "BAISSIER",
+  "contexte": "Les cryptomonnaies accusent un retard significatif face au rallye actions de 9 semaines avec un refroidissement notable de la demande ETF. Le sentiment Reddit modéré à 50/100 et les préoccupations croissantes sur les risques quantiques pour Bitcoin renforcent l'attentisme du marché.",
+  "risque_principal": "L'escalade réglementaire avec Dimon sur les stablecoins et les inquiétudes quantiques créent une incertitude systémique majeure.",
+  "opportunite_du_jour": "Les acheteurs accumulent 500M$ en ordres d'achat sur Bitcoin anticipant un retest des 70k EUR, signalant un support technique solide.",
   "actifs_favorables": [
-    "QQQ",
-    "ARKK",
-    "EOAN.DE"
+    "DOGE",
+    "LINK",
+    "AVAX"
   ],
   "actifs_risques": [
-    "DTE.DE",
-    "GLD"
+    "BTC",
+    "FET"
   ],
-  "last_claude_run": "2026-05-29T18:23:10.308554+00:00"
+  "last_claude_run": "2026-05-30T06:23:56.616656+00:00"
 }
