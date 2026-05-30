@@ -1,18 +1,18 @@
 {
   "score_macro": 45,
   "score_sentiment": 35,
-  "tendance_marche": "BAISSIER",
-  "contexte": "Les cryptomonnaies accusent un retard significatif face au rallye actions de 9 semaines avec un refroidissement notable de la demande ETF. Le sentiment Reddit modéré à 50/100 et les préoccupations croissantes sur les risques quantiques pour Bitcoin renforcent l'attentisme du marché.",
-  "risque_principal": "L'escalade réglementaire avec Dimon sur les stablecoins et les inquiétudes quantiques créent une incertitude systémique majeure.",
-  "opportunite_du_jour": "Les acheteurs accumulent 500M$ en ordres d'achat sur Bitcoin anticipant un retest des 70k EUR, signalant un support technique solide.",
+  "tendance_marche": "NEUTRE",
+  "contexte": "Le marché crypto stagne avec tous les actifs majeurs à 0% de variation dans un environnement réglementaire tendu marqué par les poursuites SEC contre les schémas frauduleux d'IA trading. La saisie de $1 milliard de crypto iranien et les préoccupations de sécurité blockchain des grandes banques créent un climat d'incertitude institutionnelle.",
+  "risque_principal": "L'intensification des actions réglementaires SEC contre les projets crypto-IA pourrait déclencher une vague de ventes sur les tokens d'intelligence artificielle.",
+  "opportunite_du_jour": "La rotation sectorielle vers les memecoins institutionnalisés comme DOGE et les infrastructures oracles comme LINK offre des opportunités de repositionnement.",
   "actifs_favorables": [
     "DOGE",
     "LINK",
-    "AVAX"
+    "ALGO"
   ],
   "actifs_risques": [
-    "BTC",
-    "FET"
+    "FET",
+    "TRX"
   ],
-  "last_claude_run": "2026-05-30T06:23:56.616656+00:00"
+  "last_claude_run": "2026-05-30T18:25:21.018309+00:00"
 }
