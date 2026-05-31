@@ -1,18 +1,18 @@
 {
   "score_macro": 45,
   "score_sentiment": 35,
-  "tendance_marche": "NEUTRE",
-  "contexte": "Le marché crypto stagne avec tous les actifs majeurs à 0% de variation dans un environnement réglementaire tendu marqué par les poursuites SEC contre les schémas frauduleux d'IA trading. La saisie de $1 milliard de crypto iranien et les préoccupations de sécurité blockchain des grandes banques créent un climat d'incertitude institutionnelle.",
-  "risque_principal": "L'intensification des actions réglementaires SEC contre les projets crypto-IA pourrait déclencher une vague de ventes sur les tokens d'intelligence artificielle.",
-  "opportunite_du_jour": "La rotation sectorielle vers les memecoins institutionnalisés comme DOGE et les infrastructures oracles comme LINK offre des opportunités de repositionnement.",
+  "tendance_marche": "BAISSIER",
+  "contexte": "Les marchés crypto stagnent à 0% avec des volumes douteux signalant une faiblesse structurelle malgré un sentiment Bitcoin techniquement positif. Les nouvelles réglementaires négatives (saisies SEC, attaques DeFi) contrebalancent les améliorations techniques du XRP Ledger et créent un environnement d'incertitude.",
+  "risque_principal": "La combinaison de volumes suspects sur Bitcoin et des actions réglementaires agressives (1 milliard saisi) pourrait déclencher une correction majeure.",
+  "opportunite_du_jour": "XRP pourrait surperformer grâce à la proposition anti-flash loan qui renforce la sécurité de son écosystème DeFi.",
   "actifs_favorables": [
-    "DOGE",
-    "LINK",
-    "ALGO"
+    "XRP",
+    "BNB",
+    "SOL"
   ],
   "actifs_risques": [
-    "FET",
-    "TRX"
+    "BTC",
+    "ETH"
   ],
-  "last_claude_run": "2026-05-30T18:25:21.018309+00:00"
+  "last_claude_run": "2026-05-31T06:26:06.326445+00:00"
 }
