@@ -1,10 +1,10 @@
 {
-  "score_macro": 25,
-  "score_sentiment": 20,
+  "score_macro": 35,
+  "score_sentiment": 25,
   "tendance_marche": "BAISSIER",
-  "contexte": "Les marchés crypto subissent une pression baissière généralisée avec Bitcoin qui étend sa chute face aux sorties record des ETF spot et XRP qui plonge sous la pression vendeuse. Les problèmes techniques sur Sui et l'exploit de 230M$ sur Aave révèlent des fragilités infrastructurelles préoccupantes.",
-  "risque_principal": "Les sorties massives d'ETF Bitcoin combinées aux défaillances techniques répétées créent un cercle vicieux de défiance institutionnelle.",
-  "opportunite_du_jour": "La rotation sectorielle vers les memecoins institutionnalisés comme DOGE offre un refuge paradoxal avec 100% de win rate.",
+  "contexte": "Les marchés crypto subissent des sorties de fonds majeures en 2026 avec une rotation sectorielle brutale qui redistribue les cartes entre actifs. La vente historique de Bitcoin par Saylor marque un tournant psychologique majeur pour l'écosystème institutionnel.",
+  "risque_principal": "L'effondrement des narratives IA crypto et la désaffection des investisseurs institutionnels créent une pression vendeuse généralisée.",
+  "opportunite_du_jour": "La quintuple perfection d'ALGO, SEI, AVAX, DOGE, LINK offre une opportunité de repositionnement vers le nouveau 'Big 5' ultra-fiable.",
   "actifs_favorables": [
     "DOGE",
     "LINK",
@@ -12,7 +12,7 @@
   ],
   "actifs_risques": [
     "BTC",
-    "XRP"
+    "FET"
   ],
-  "last_claude_run": "2026-06-01T06:37:54.337092+00:00"
+  "last_claude_run": "2026-06-01T18:39:27.894202+00:00"
 }
