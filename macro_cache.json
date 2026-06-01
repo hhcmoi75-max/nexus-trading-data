@@ -1,18 +1,18 @@
 {
-  "score_macro": 65,
-  "score_sentiment": 55,
-  "tendance_marche": "NEUTRE",
-  "contexte": "Le marché crypto évolue dans une phase de consolidation avec une stabilité générale des prix majeurs (0.0% de variation) tandis que l'institutionnalisation s'accélère via les initiatives de tokenisation de DTCC/Stellar et les outils trading Wall Street pour le retail. La rotation sectorielle majeure identifiée par le bot trading révèle un changement structurel où les nouvelles infrastructures (ALGO, SEI, AVAX) et memecoins institutionnalisés (DOGE) surpassent les références historiques.",
-  "risque_principal": "Bitcoin prépare une correction de 3% en mai selon les données PMI US, signalant une possible faiblesse des actifs de référence dans ce nouveau cycle.",
-  "opportunite_du_jour": "La quintuple perfection simultanée d'ALGO, SEI, AVAX, DOGE, LINK avec 100% de win rate établit un nouveau 'Big 5' offrant une allocation stratégique vers des actifs algorithmiquement optimisés.",
+  "score_macro": 25,
+  "score_sentiment": 20,
+  "tendance_marche": "BAISSIER",
+  "contexte": "Les marchés crypto subissent une pression baissière généralisée avec Bitcoin qui étend sa chute face aux sorties record des ETF spot et XRP qui plonge sous la pression vendeuse. Les problèmes techniques sur Sui et l'exploit de 230M$ sur Aave révèlent des fragilités infrastructurelles préoccupantes.",
+  "risque_principal": "Les sorties massives d'ETF Bitcoin combinées aux défaillances techniques répétées créent un cercle vicieux de défiance institutionnelle.",
+  "opportunite_du_jour": "La rotation sectorielle vers les memecoins institutionnalisés comme DOGE offre un refuge paradoxal avec 100% de win rate.",
   "actifs_favorables": [
-    "ALGO",
-    "SEI",
-    "AVAX"
+    "DOGE",
+    "LINK",
+    "ALGO"
   ],
   "actifs_risques": [
     "BTC",
-    "FET"
+    "XRP"
   ],
-  "last_claude_run": "2026-05-31T18:32:23.750307+00:00"
+  "last_claude_run": "2026-06-01T06:37:54.337092+00:00"
 }
