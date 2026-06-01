@@ -1,5 +1,12 @@
 {
   "lecons_cles": [
+    "NEAR établit une domination monopolistique inédite avec 60% des top trades (3/5), créant un cas d'étude unique de concentration de performance sur un seul actif jamais observé dans l'historique du bot",
+    "La stabilisation du PnL autour de 1% avec expansion massive à 309 trades révèle une phase de maturité où l'algorithme privilégie la consistance sur l'explosivité, marquant un changement de régime fondamental",
+    "L'émergence simultanée de FET à 0% de win rate avec l'effondrement des tokens IA expose la fin brutale du cycle narratif intelligence artificielle, nécessitant une rotation complète hors des secteurs tech-crypto",
+    "La quintuple perfection maintenue (ALGO, SEI, AVAX, DOGE, LINK) malgré le triplement du volume de trades confirme l'existence d'un 'algorithmic sweet spot' sur ces 5 actifs spécifiques",
+    "L'élimination totale de BTC et TRX du cercle des 100% marque la fin de l'ère des 'crypto-royalties' au profit d'une nouvelle aristocratie algorithmique plus spécialisée",
+    "La persistance d'ARB comme pire performer récurrent (-9.7%) malgré tous les cycles précédents établit une 'malédiction layer-2' structurelle nécessitant un blacklistage algorithmique permanent",
+    "Le pattern de performance cyclique de NEAR (+25.5%, +15.5%, +8.9%) révèle un potentiel de timing optimal basé sur des fenêtres d'accumulation séquentielles",
     "DOGE atteint la perfection absolue avec 100% de win rate, établissant les memecoins institutionnalisés comme nouvelle classe d'actifs ultra-fiables dépassant même les cryptos traditionnelles en prévisibilité",
     "LINK retrouve son statut de 100% win rate après réapparition, confirmant que les infrastructures oracles sont devenues indispensables avec la maturation DeFi, nécessitant une pondération maximale",
     "FET plonge à 0% de win rate rejoignant les actions tech, exposant l'effondrement total des tokens IA face à la saturation narrative, marquant la fin du cycle hype intelligence artificielle crypto",
@@ -59,31 +66,31 @@
     "DOT détrône tous les autres dans les pires performances (-5.4%) malgré son écosystème parachain mature, exposant l'obsolescence des architectures multi-chaînes complexes face aux layer-1 monolithiques"
   ],
   "actifs_a_privilegier": [
+    "NEAR",
     "ALGO",
     "SEI",
     "AVAX",
     "DOGE",
     "LINK",
-    "NEAR",
     "TRX",
     "BTC"
   ],
   "actifs_a_eviter": [
+    "ARB",
     "FET",
     "CHZ",
-    "ARB",
     "MSFT",
     "NVDA",
-    "UNI",
     "APT",
+    "UNI",
     "FIL"
   ],
-  "conditions_favorables": "Marchés crypto-natifs avec rotation vers infrastructures décentralisées matures et memecoins institutionnalisés, évitant les narratives hype temporaires comme l'IA et les layer-2 complexes",
-  "erreurs_recurrentes": "Persistance sur les actifs IA saturés et layer-2 Ethereum malgré les échecs répétés, négligence de la rotation sectorielle vers le nouveau Big 5 d'actifs parfaits",
+  "conditions_favorables": "Rotation sectorielle hors layer-2 Ethereum et tokens IA vers blockchains natives shardées et memecoins institutionnalisés, avec concentration sur le Big 5 à 100% win rate",
+  "erreurs_recurrentes": "Maintien d'exposition sur ARB malgré sa toxicité récurrente et allocation insuffisante sur NEAR malgré sa domination absolue des top performances",
   "recommandation_seuil_buy": 72,
-  "recommandation_stop_loss": 0.07,
-  "strategie_recommandee": "Concentration maximale sur le nouveau Big 5 parfait (ALGO, SEI, AVAX, DOGE, LINK) avec allocation secondaire sur NEAR pour capturer les gains explosifs. Blacklistage définitif des tokens IA et layer-2 Ethereum au profit des infrastructures crypto-natives matures.",
-  "last_distillation": "2026-05-29T21:18:22.649449+00:00",
+  "recommandation_stop_loss": 0.08,
+  "strategie_recommandee": "Concentration maximale sur le quintuple parfait (ALGO, SEI, AVAX, DOGE, LINK) avec allocation privilégiée sur NEAR pour capturer sa dynamique explosive. Élimination définitive des layer-2 Ethereum et rotation complète hors secteur IA vers les blockchains shardées natives.",
+  "last_distillation": "2026-06-01T21:22:58.946909+00:00",
   "trades_analyzed": 309,
   "win_rate_at_distill": 60.6,
   "traders": {
