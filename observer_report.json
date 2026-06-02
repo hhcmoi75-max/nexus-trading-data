@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-02T14:22:20.722403+00:00",
-  "total_signals": 9252,
-  "verified_signals": 9187,
+  "generated_at": "2026-06-02T18:22:21.021265+00:00",
+  "total_signals": 9304,
+  "verified_signals": 9238,
   "by_source": {
     "whale_buy": {
       "win_rate_pct": 0.1,
-      "avg_gain_1h": -0.018,
-      "total_signals": 7721
+      "avg_gain_1h": -0.023,
+      "total_signals": 7770
     },
     "cascade": {
       "win_rate_pct": 1.2,
@@ -25,8 +25,8 @@
     },
     "news_decrypt": {
       "win_rate_pct": 0.0,
-      "avg_gain_1h": -0.047,
-      "total_signals": 21
+      "avg_gain_1h": -0.036,
+      "total_signals": 22
     },
     "news_coindesk": {
       "win_rate_pct": 0.0,
@@ -35,8 +35,8 @@
     },
     "news_cointelegraph": {
       "win_rate_pct": 0.0,
-      "avg_gain_1h": -0.593,
-      "total_signals": 1
+      "avg_gain_1h": -2.112,
+      "total_signals": 2
     }
   },
   "threshold_analysis": {
@@ -54,15 +54,15 @@
     },
     "0.5": {
       "win_rate": 0.6,
-      "count": 345
+      "count": 347
     },
     "0.6": {
       "win_rate": 0.1,
-      "count": 7557
+      "count": 7605
     },
     "0.7": {
       "win_rate": 0.0,
-      "count": 5
+      "count": 6
     }
   },
   "recommended_threshold": null,
