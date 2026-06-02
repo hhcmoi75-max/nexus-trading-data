@@ -1,18 +1,18 @@
 {
-  "score_macro": 35,
-  "score_sentiment": 25,
+  "score_macro": 45,
+  "score_sentiment": 35,
   "tendance_marche": "BAISSIER",
-  "contexte": "Le marché crypto traverse une phase de correction significative avec Bitcoin glissant vers 70 000$ et XRP chutant de 4% sous 1,30$, amplifié par les ventes stratégiques institutionnelles et les mouvements suspects de Mt. Gox. La pression vendeur généralisée sur les majors coïncide avec une pause des marchés actions, créant un environnement de risk-off défavorable aux actifs numériques.",
-  "risque_principal": "Les 739 millions de dollars de Bitcoin déplacés par Mt. Gox créent une épée de Damoclès sur le marché avec un potentiel de liquidation massive à l'approche de la deadline.",
-  "opportunite_du_jour": "TON/Gram bénéficie d'un pump de 15% sur l'annonce de rebranding tandis que les ETF crypto continuent leur développement avec des frais compétitifs.",
+  "contexte": "Les marchés crypto stagnent totalement avec 0% de variation sur tous les actifs majeurs, reflétant une indécision généralisée après le crash de 6% de Bitcoin. Le sentiment bearish domine avec des prédictions contradictoires et une rotation des capitaux vers les actions IA au détriment du crypto.",
+  "risque_principal": "L'effondrement du narratif IA crypto (FET à 0% win rate) combiné à l'exode des capitaux vers les actions tech traditionnelles menace de créer un vide liquiditaire majeur.",
+  "opportunite_du_jour": "La domination monopolistique de NEAR avec 60% des top trades révèle un alpha exceptionnel à exploiter avant que le marché ne rattrape cette anomalie de performance.",
   "actifs_favorables": [
-    "TON",
     "NEAR",
-    "HYPE"
+    "ALGO",
+    "SEI"
   ],
   "actifs_risques": [
     "BTC",
-    "XRP"
+    "FET"
   ],
-  "last_claude_run": "2026-06-02T06:43:12.353558+00:00"
+  "last_claude_run": "2026-06-02T18:50:07.549710+00:00"
 }
