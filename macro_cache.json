@@ -1,18 +1,18 @@
 {
-  "score_macro": 25,
-  "score_sentiment": 20,
+  "score_macro": 45,
+  "score_sentiment": 35,
   "tendance_marche": "BAISSIER",
-  "contexte": "Le marché crypto traverse une phase de forte aversion au risque avec l'indice de peur Bitcoin en hausse de 20% et les traders pariant sur la poursuite de la correction. La rotation des capitaux vers l'IA traditionnelle au détriment des cryptos confirme un changement de narratif défavorable aux actifs numériques.",
-  "risque_principal": "L'effondrement du sentiment crypto couplé à l'abandon des tokens IA crée un vide narratif dangereux pour la valorisation globale du secteur.",
-  "opportunite_du_jour": "Les signaux techniques haussiers sur XRP malgré la chute des prix offrent une opportunité contrarian pour les traders expérimentés.",
+  "contexte": "Les marchés crypto affichent une stagnation totale avec 0% de variation sur tous les actifs majeurs, reflétant une indécision profonde des investisseurs. Les news confirment une perte de momentum sur Bitcoin et questionnent la résilience du consommateur américain, créant un environnement d'incertitude généralisée.",
+  "risque_principal": "La perte de momentum sur Bitcoin combinée à l'échec potentiel des supports clés de 2022 menace l'ensemble de l'écosystème crypto d'une correction majeure.",
+  "opportunite_du_jour": "L'expansion massive des paiements agentiques sur Base (100M+ transactions) ouvre une nouvelle voie de croissance structurelle pour l'adoption crypto institutionnelle.",
   "actifs_favorables": [
-    "XRP",
-    "XAG",
-    "SOL"
+    "NEAR",
+    "ALGO",
+    "SEI"
   ],
   "actifs_risques": [
     "BTC",
-    "ETH"
+    "FET"
   ],
-  "last_claude_run": "2026-06-03T06:54:49.167642+00:00"
+  "last_claude_run": "2026-06-03T19:00:28.868062+00:00"
 }
