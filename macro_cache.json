@@ -1,18 +1,18 @@
 {
-  "score_macro": 45,
-  "score_sentiment": 35,
+  "score_macro": 25,
+  "score_sentiment": 20,
   "tendance_marche": "BAISSIER",
-  "contexte": "Les marchés crypto stagnent totalement avec 0% de variation sur tous les actifs majeurs, reflétant une indécision généralisée après le crash de 6% de Bitcoin. Le sentiment bearish domine avec des prédictions contradictoires et une rotation des capitaux vers les actions IA au détriment du crypto.",
-  "risque_principal": "L'effondrement du narratif IA crypto (FET à 0% win rate) combiné à l'exode des capitaux vers les actions tech traditionnelles menace de créer un vide liquiditaire majeur.",
-  "opportunite_du_jour": "La domination monopolistique de NEAR avec 60% des top trades révèle un alpha exceptionnel à exploiter avant que le marché ne rattrape cette anomalie de performance.",
+  "contexte": "Le marché crypto traverse une phase de forte aversion au risque avec l'indice de peur Bitcoin en hausse de 20% et les traders pariant sur la poursuite de la correction. La rotation des capitaux vers l'IA traditionnelle au détriment des cryptos confirme un changement de narratif défavorable aux actifs numériques.",
+  "risque_principal": "L'effondrement du sentiment crypto couplé à l'abandon des tokens IA crée un vide narratif dangereux pour la valorisation globale du secteur.",
+  "opportunite_du_jour": "Les signaux techniques haussiers sur XRP malgré la chute des prix offrent une opportunité contrarian pour les traders expérimentés.",
   "actifs_favorables": [
-    "NEAR",
-    "ALGO",
-    "SEI"
+    "XRP",
+    "XAG",
+    "SOL"
   ],
   "actifs_risques": [
     "BTC",
-    "FET"
+    "ETH"
   ],
-  "last_claude_run": "2026-06-02T18:50:07.549710+00:00"
+  "last_claude_run": "2026-06-03T06:54:49.167642+00:00"
 }
