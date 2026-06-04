@@ -1,18 +1,18 @@
 {
-  "score_macro": 45,
-  "score_sentiment": 35,
+  "score_macro": 25,
+  "score_sentiment": 20,
   "tendance_marche": "BAISSIER",
-  "contexte": "Les marchés crypto affichent une stagnation totale avec 0% de variation sur tous les actifs majeurs, reflétant une indécision profonde des investisseurs. Les news confirment une perte de momentum sur Bitcoin et questionnent la résilience du consommateur américain, créant un environnement d'incertitude généralisée.",
-  "risque_principal": "La perte de momentum sur Bitcoin combinée à l'échec potentiel des supports clés de 2022 menace l'ensemble de l'écosystème crypto d'une correction majeure.",
-  "opportunite_du_jour": "L'expansion massive des paiements agentiques sur Base (100M+ transactions) ouvre une nouvelle voie de croissance structurelle pour l'adoption crypto institutionnelle.",
+  "contexte": "Le marché crypto traverse une phase de liquidation massive avec $1,5 milliard de positions longues éliminées et Bitcoin chutant sous $62,000. Les ETFs crypto enregistrent des sorties record de $4,4 milliards sur 13 sessions, signalant un abandon institutionnel généralisé.",
+  "risque_principal": "La contagion de liquidation pourrait s'amplifier avec les dépeg de stablecoins et le gel de $3M par Coinbase révélant des failles systémiques.",
+  "opportunite_du_jour": "Le rebond technique de Bitcoin vers $64,000 offre une fenêtre de sortie pour réduire l'exposition crypto avant de nouvelles chutes.",
   "actifs_favorables": [
-    "NEAR",
-    "ALGO",
-    "SEI"
+    "XAU",
+    "XAG",
+    "EUR"
   ],
   "actifs_risques": [
     "BTC",
-    "FET"
+    "ETH"
   ],
-  "last_claude_run": "2026-06-03T19:00:28.868062+00:00"
+  "last_claude_run": "2026-06-04T07:06:16.897181+00:00"
 }
