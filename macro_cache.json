@@ -1,18 +1,18 @@
 {
-  "score_macro": 25,
-  "score_sentiment": 20,
+  "score_macro": 35,
+  "score_sentiment": 25,
   "tendance_marche": "BAISSIER",
-  "contexte": "Le marché crypto traverse une phase de liquidation massive avec $1,5 milliard de positions longues éliminées et Bitcoin chutant sous $62,000. Les ETFs crypto enregistrent des sorties record de $4,4 milliards sur 13 sessions, signalant un abandon institutionnel généralisé.",
-  "risque_principal": "La contagion de liquidation pourrait s'amplifier avec les dépeg de stablecoins et le gel de $3M par Coinbase révélant des failles systémiques.",
-  "opportunite_du_jour": "Le rebond technique de Bitcoin vers $64,000 offre une fenêtre de sortie pour réduire l'exposition crypto avant de nouvelles chutes.",
+  "contexte": "Le marché crypto traverse une phase de correction majeure avec l'effacement de 2T$ de capitalisation et Bitcoin luttant pour maintenir le support critique à 60K$. L'environnement réglementaire reste tendu avec des pressions politiques sur les chartres crypto tandis que les prédictions d'un crash de 70% de Bitcoin alimentent la peur.",
+  "risque_principal": "Rupture du support Bitcoin à 60K$ qui déclencherait une cascade de liquidations sur l'ensemble du marché crypto.",
+  "opportunite_du_jour": "L'initiative de Coinbase sur les prêts hypothécaires adossés aux tokens ouvre une nouvelle voie d'adoption institutionnelle malgré la correction.",
   "actifs_favorables": [
-    "XAU",
-    "XAG",
-    "EUR"
+    "NEAR",
+    "ALGO",
+    "SEI"
   ],
   "actifs_risques": [
     "BTC",
-    "ETH"
+    "FET"
   ],
-  "last_claude_run": "2026-06-04T07:06:16.897181+00:00"
+  "last_claude_run": "2026-06-04T19:06:31.721142+00:00"
 }
