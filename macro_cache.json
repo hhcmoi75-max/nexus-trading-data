@@ -1,18 +1,18 @@
 {
-  "score_macro": 25,
-  "score_sentiment": 20,
-  "tendance_marche": "BAISSIER",
-  "contexte": "L'effondrement synchrone de Bitcoin vers 62k USD et la rotation sectorielle massive depuis les technologies IA/Layer-2 vers les fondamentaux crypto-natifs révèlent un unwinding majeur des positions spéculatives. La stabilisation des prix à 0% cache une tension sous-jacente avec Reddit à 50/100 et l'émergence de bugs critiques sur des protocoles établis comme Zcash.",
-  "risque_principal": "Cassure imminente de Bitcoin sous les 60k USD qui déclencherait une liquidation en cascade sur l'ensemble de l'écosystème crypto.",
-  "opportunite_du_jour": "Capitaliser sur la résurrection cyclique d'ATOM (+11.8%) et la cristallisation du Big 5 (ALGO, SEI, AVAX, DOGE, LINK) qui résistent à la correction générale.",
+  "score_macro": 72,
+  "score_sentiment": 45,
+  "tendance_marche": "NEUTRE",
+  "contexte": "Le marché affiche une stabilité inhabituelle à 0.0% sur tous les actifs majeurs, créant une situation de consolidation avant un mouvement directionnel potentiel. L'écosystème traverse une phase de maturation avec des signaux techniques mixtes et une rotation sectorielle en cours vers les fondamentaux crypto-natifs.",
+  "risque_principal": "La faille massive exposée dans un réseau crypto majeur par l'IA pourrait déclencher une vague de défiance systémique si elle touche les institutions bancaires comme prévu par les experts.",
+  "opportunite_du_jour": "La législation crypto favorable en discussion au Congrès américain et l'entrée en bourse de Securitize offrent un catalyseur institutionnel pour une reprise haussière imminente.",
   "actifs_favorables": [
-    "ALGO",
-    "SEI",
-    "AVAX"
+    "BTC",
+    "ETH",
+    "ALGO"
   ],
   "actifs_risques": [
-    "BTC",
-    "ZEC"
+    "XRP",
+    "TRX"
   ],
-  "last_claude_run": "2026-06-05T07:12:39.862082+00:00"
+  "last_claude_run": "2026-06-05T19:20:11.807507+00:00"
 }
