@@ -1,18 +1,18 @@
 {
-  "score_macro": 35,
-  "score_sentiment": 25,
+  "score_macro": 25,
+  "score_sentiment": 20,
   "tendance_marche": "BAISSIER",
-  "contexte": "Le marché crypto traverse une phase de correction majeure avec l'effacement de 2T$ de capitalisation et Bitcoin luttant pour maintenir le support critique à 60K$. L'environnement réglementaire reste tendu avec des pressions politiques sur les chartres crypto tandis que les prédictions d'un crash de 70% de Bitcoin alimentent la peur.",
-  "risque_principal": "Rupture du support Bitcoin à 60K$ qui déclencherait une cascade de liquidations sur l'ensemble du marché crypto.",
-  "opportunite_du_jour": "L'initiative de Coinbase sur les prêts hypothécaires adossés aux tokens ouvre une nouvelle voie d'adoption institutionnelle malgré la correction.",
+  "contexte": "L'effondrement synchrone de Bitcoin vers 62k USD et la rotation sectorielle massive depuis les technologies IA/Layer-2 vers les fondamentaux crypto-natifs révèlent un unwinding majeur des positions spéculatives. La stabilisation des prix à 0% cache une tension sous-jacente avec Reddit à 50/100 et l'émergence de bugs critiques sur des protocoles établis comme Zcash.",
+  "risque_principal": "Cassure imminente de Bitcoin sous les 60k USD qui déclencherait une liquidation en cascade sur l'ensemble de l'écosystème crypto.",
+  "opportunite_du_jour": "Capitaliser sur la résurrection cyclique d'ATOM (+11.8%) et la cristallisation du Big 5 (ALGO, SEI, AVAX, DOGE, LINK) qui résistent à la correction générale.",
   "actifs_favorables": [
-    "NEAR",
     "ALGO",
-    "SEI"
+    "SEI",
+    "AVAX"
   ],
   "actifs_risques": [
     "BTC",
-    "FET"
+    "ZEC"
   ],
-  "last_claude_run": "2026-06-04T19:06:31.721142+00:00"
+  "last_claude_run": "2026-06-05T07:12:39.862082+00:00"
 }
