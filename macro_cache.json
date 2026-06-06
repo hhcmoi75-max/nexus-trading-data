@@ -1,18 +1,18 @@
 {
-  "score_macro": 72,
-  "score_sentiment": 45,
-  "tendance_marche": "NEUTRE",
-  "contexte": "Le marché affiche une stabilité inhabituelle à 0.0% sur tous les actifs majeurs, créant une situation de consolidation avant un mouvement directionnel potentiel. L'écosystème traverse une phase de maturation avec des signaux techniques mixtes et une rotation sectorielle en cours vers les fondamentaux crypto-natifs.",
-  "risque_principal": "La faille massive exposée dans un réseau crypto majeur par l'IA pourrait déclencher une vague de défiance systémique si elle touche les institutions bancaires comme prévu par les experts.",
-  "opportunite_du_jour": "La législation crypto favorable en discussion au Congrès américain et l'entrée en bourse de Securitize offrent un catalyseur institutionnel pour une reprise haussière imminente.",
+  "score_macro": 25,
+  "score_sentiment": 20,
+  "tendance_marche": "BAISSIER",
+  "contexte": "Le marché crypto traverse une phase de correction majeure avec Bitcoin retombant sous 61K$ après 1.6 milliards de liquidations, tandis qu'une faille AI critique expose des vulnérabilités systémiques touchant potentiellement le secteur bancaire. La chute d'ETH vers ses plus bas 13 mois et l'effondrement d'ADA à des niveaux 4 ans révèlent une purge généralisée des altcoins.",
+  "risque_principal": "L'exposition d'une faille massive par l'IA dans un réseau crypto majeur crée un risque de contagion systémique vers les institutions bancaires traditionnelles.",
+  "opportunite_du_jour": "La résurrection cyclique d'ATOM (+11.8%) et la stabilisation du Big 5 algorithmique offrent des points d'entrée sur des fondamentaux crypto-natifs éprouvés.",
   "actifs_favorables": [
-    "BTC",
-    "ETH",
-    "ALGO"
+    "ALGO",
+    "ATOM",
+    "DOGE"
   ],
   "actifs_risques": [
-    "XRP",
-    "TRX"
+    "ETH",
+    "ADA"
   ],
-  "last_claude_run": "2026-06-05T19:20:11.807507+00:00"
+  "last_claude_run": "2026-06-06T07:24:35.869674+00:00"
 }
