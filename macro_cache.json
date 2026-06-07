@@ -2,17 +2,17 @@
   "score_macro": 25,
   "score_sentiment": 20,
   "tendance_marche": "BAISSIER",
-  "contexte": "L'écosystème crypto traverse une phase de rotation sectorielle déflationniste avec l'effondrement des technologies next-gen (IA, layer-2) au profit des fondamentaux éprouvés. Les initiatives bancaires traditionnelles de création de réseaux monétaires numériques et l'adoption corporative des stablecoins par Meta signalent une institutionnalisation accélérée mais génèrent une pression concurrentielle sur les cryptos natives.",
-  "risque_principal": "Le mouvement de bitcoin Satoshi-era au centre d'un procès de 285 milliards combiné à la chute d'ETH vers ses plus bas de 13 mois pourrait déclencher une cascade liquidative majeure.",
-  "opportunite_du_jour": "ATOM démontre un pattern de résurrection cyclique avec +11.8% suggérant une rotation vers l'écosystème Cosmos sous-valorisé.",
+  "contexte": "Le marché crypto traverse sa pire semaine depuis l'effondrement FTX avec 390 milliards de capitalisation évaporée, BTC sous 60K et ETH à ses plus bas depuis 13 mois. Les banques américaines ripostent en construisant leur propre réseau de monnaie numérique pour stopper l'hémorragie des dépôts, intensifiant la pression concurrentielle.",
+  "risque_principal": "Contagion systémique amplifiée par la corrélation élevée inter-actifs et la possible cascade de liquidations forcées.",
+  "opportunite_du_jour": "Bitcoin techniquement le plus survendu depuis le crash 2020 offre un potentiel de rebond violent vers 70K selon les indicateurs de momentum.",
   "actifs_favorables": [
-    "ATOM",
     "ALGO",
-    "SEI"
+    "SEI",
+    "AVAX"
   ],
   "actifs_risques": [
     "ETH",
     "BTC"
   ],
-  "last_claude_run": "2026-06-06T19:25:28.605583+00:00"
+  "last_claude_run": "2026-06-07T07:31:49.125688+00:00"
 }
