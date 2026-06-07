@@ -1,5 +1,12 @@
 {
   "lecons_cles": [
+    "La monopolisation absolue de NEAR sur 3/5 des top trades révèle un phénomène de 'clustering temporel' où certains actifs concentrent leurs gains sur des fenêtres ultra-courtes, nécessitant une allocation dynamique massive pendant ces phases d'euphorie",
+    "L'effacement total des tokens d'IA (FET 0%) simultané avec la résurrection de DOGE à 100% expose une rotation fondamentale de la 'narrative driven' vers la 'meme legitimacy', marquant l'institutionnalisation paradoxale des actifs communautaires",
+    "La synchronisation parfaite des échecs DeFi/Layer-2 (ARB, UNI) avec la domination des Layer-1 purs (NEAR, ALGO) révèle un 'retour aux sources' où la complexité architecturale devient un handicap face à la simplicité d'usage",
+    "Le pattern de gains décroissants de NEAR (+25.5%, +15.5%, +8.9%) expose une loi de rendements marginaux décroissants intra-actif nécessitant un timing de sortie progressif plutôt qu'un all-in statique",
+    "La persistance de 5 actifs à 100% malgré 310 trades révèle l'existence d'un 'coefficient de fiabilité algorithmique' où seuls les actifs dépassant 50 trades gardent leur statut de perfection, établissant un seuil de validation statistique",
+    "L'émergence d'ATOM dans le top 5 (+11.8%) après sa chute précédente démontre un pattern de 'rebond post-purge' où les actifs écosystémiques se renforcent après élimination de leurs participants faibles",
+    "La corrélation inverse parfaite entre la complexité technique (FET, ARB échecs) et la performance révèle que l'algorithme privilégie désormais la 'proof of adoption' sur la 'proof of innovation'",
     "La stabilisation du PnL à 1.01% avec légère baisse depuis 1.19% mais maintien à 310 trades révèle un plateau de maturité algorithmique où l'expansion de volume dilue marginalement l'alpha sans l'effacer, suggérant un équilibre optimal atteint",
     "L'effondrement synchrone des secteurs IA (FET 0%) et layer-2 Ethereum (ARB -9.7%, UNI -5.9%) révèle un mouvement de rotation sectorielle massif où les technologies 'next-gen' cèdent place aux fondamentaux crypto-natifs éprouvés",
     "ATOM réintègre le top 5 avec +11.8% après sa chute historique, démontrant un pattern de 'résurrection cyclique' où les actifs cosmos-ecosystem alternent entre phases de grâce et de punition selon des cycles inter-chaînes",
@@ -82,21 +89,21 @@
     "BTC"
   ],
   "actifs_a_eviter": [
-    "ARB",
     "FET",
-    "CHZ",
+    "ARB",
     "UNI",
+    "CHZ",
+    "APT",
     "MSFT",
     "NVDA",
-    "APT",
     "FIL"
   ],
-  "conditions_favorables": "Rotation sectorielle vers crypto-natifs éprouvés, abandon narratifs IA/layer-2, consolidation sur blockchains fundamentalement solides avec adoption réelle",
-  "erreurs_recurrentes": "Dilution excessive du volume de trades sacrifiant la qualité pour la quantité, maintien d'exposition aux secteurs effondrés (IA, layer-2 ETH), sous-allocation sur le Big 5 invulnérable",
-  "recommandation_seuil_buy": 75,
-  "recommandation_stop_loss": 0.06,
-  "strategie_recommandee": "Concentrer 80% de l'allocation sur le Big 5 invulnérable (ALGO, SEI, AVAX, DOGE, LINK) plus NEAR et TRX. Réduire drastiquement le volume de trades pour privilégier la qualité et éliminer définitivement les secteurs IA et layer-2 Ethereum.",
-  "last_distillation": "2026-06-04T21:57:26.771055+00:00",
+  "conditions_favorables": "Rotation sectorielle des narratives complexes vers les fondamentaux adoption-driven, avec domination des Layer-1 natifs sur les solutions Layer-2, dans un contexte de légitimation des memecoins institutionnels",
+  "erreurs_recurrentes": "Surinvestissement dans les tokens d'infrastructure complexe (IA, Layer-2) au détriment des protocoles à adoption massive, et absence de timing de sortie progressif sur les actifs en phase de gains décroissants",
+  "recommandation_seuil_buy": 72,
+  "recommandation_stop_loss": 0.07,
+  "strategie_recommandee": "Concentration massive sur le quintet parfait avec allocation dynamique majorée sur NEAR pendant ses phases de clustering. Rotation immédiate hors de tout token d'infrastructure complexe vers les Layer-1 à adoption prouvée.",
+  "last_distillation": "2026-06-07T22:55:59.797462+00:00",
   "trades_analyzed": 310,
   "win_rate_at_distill": 60.3,
   "traders": {
