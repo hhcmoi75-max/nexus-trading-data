@@ -1,18 +1,18 @@
 {
-  "score_macro": 25,
-  "score_sentiment": 20,
+  "score_macro": 35,
+  "score_sentiment": 25,
   "tendance_marche": "BAISSIER",
-  "contexte": "Le marché crypto traverse sa pire semaine depuis l'effondrement FTX avec 390 milliards de capitalisation évaporée, BTC sous 60K et ETH à ses plus bas depuis 13 mois. Les banques américaines ripostent en construisant leur propre réseau de monnaie numérique pour stopper l'hémorragie des dépôts, intensifiant la pression concurrentielle.",
-  "risque_principal": "Contagion systémique amplifiée par la corrélation élevée inter-actifs et la possible cascade de liquidations forcées.",
-  "opportunite_du_jour": "Bitcoin techniquement le plus survendu depuis le crash 2020 offre un potentiel de rebond violent vers 70K selon les indicateurs de momentum.",
+  "contexte": "Bitcoin évolue dans un environnement de pression baissière multifactorielle avec l'IA, les IPOs tech et les préoccupations quantiques créant un cocktail toxique selon NYDIG. Le sentiment institutionnel s'est inversé depuis février malgré BTC près des 60k EUR, avec un Reddit à 50/100 confirmant l'indécision généralisée.",
+  "risque_principal": "La convergence de facteurs techniques (survente extrême) et fondamentaux (rotation sectorielle massive) crée un environnement propice à une 'purge' prolongée avec 35B$ de pertes potentielles supplémentaires.",
+  "opportunite_du_jour": "ATOM démontre un pattern de 'résurrection cyclique' parfait avec sa réintégration au top 5 (+11.8%), offrant une fenêtre d'entrée sur l'écosystem Cosmos en phase de grâce.",
   "actifs_favorables": [
+    "ATOM",
     "ALGO",
-    "SEI",
-    "AVAX"
+    "LINK"
   ],
   "actifs_risques": [
-    "ETH",
-    "BTC"
+    "BTC",
+    "ETH"
   ],
-  "last_claude_run": "2026-06-07T07:31:49.125688+00:00"
+  "last_claude_run": "2026-06-07T19:35:57.715367+00:00"
 }
