@@ -1,32 +1,7 @@
 {
-  "last_scan": "2026-06-08T12:29:00.582905",
-  "total_scanned": 2,
-  "top_signals": [
-    {
-      "asset": "ZEC",
-      "name": "ZEC",
-      "type": "crypto",
-      "price_eur": 392.58882,
-      "change_24h": 6.93,
-      "volume_usd": 255693455.0,
-      "signal": "BUY",
-      "strength": 6.9,
-      "source": "Binance background",
-      "layer": 2
-    },
-    {
-      "asset": "SUI",
-      "name": "SUI",
-      "type": "crypto",
-      "price_eur": 0.690773,
-      "change_24h": -0.51,
-      "volume_usd": 53448032.0,
-      "signal": "WATCH",
-      "strength": 0.5,
-      "source": "Binance background",
-      "layer": 2
-    }
-  ],
+  "last_scan": "2026-06-08T12:35:47.546780",
+  "total_scanned": 0,
+  "top_signals": [],
   "extreme_count": 0,
-  "eur_rate": 0.923
+  "eur_rate": 0.86786441
 }
