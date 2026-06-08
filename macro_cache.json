@@ -1,18 +1,18 @@
 {
-  "score_macro": 35,
-  "score_sentiment": 25,
+  "score_macro": 45,
+  "score_sentiment": 35,
   "tendance_marche": "BAISSIER",
-  "contexte": "Bitcoin évolue dans un environnement de pression baissière multifactorielle avec l'IA, les IPOs tech et les préoccupations quantiques créant un cocktail toxique selon NYDIG. Le sentiment institutionnel s'est inversé depuis février malgré BTC près des 60k EUR, avec un Reddit à 50/100 confirmant l'indécision généralisée.",
-  "risque_principal": "La convergence de facteurs techniques (survente extrême) et fondamentaux (rotation sectorielle massive) crée un environnement propice à une 'purge' prolongée avec 35B$ de pertes potentielles supplémentaires.",
-  "opportunite_du_jour": "ATOM démontre un pattern de 'résurrection cyclique' parfait avec sa réintégration au top 5 (+11.8%), offrant une fenêtre d'entrée sur l'écosystem Cosmos en phase de grâce.",
+  "contexte": "Bitcoin montre une forte volatilité avec un pic à 63700$ suivi d'un retour brutal sous 63000$, amplifié par les tensions géopolitiques Iran-Israël et le krach des actions coréennes. Le sentiment Reddit modéré à 50/100 et la chute d'XRP vers ses plus bas de 4 mois confirment une pression baissière généralisée.",
+  "risque_principal": "L'escalade géopolitique Iran-Israël combinée aux liquidations massives de shorts crée un environnement de forte volatilité défavorable aux positions longues.",
+  "opportunite_du_jour": "XRP stabilisé au-dessus de 1.10$ après avoir touché ses plus bas présente un potentiel de rebond technique avec un ratio risque/rendement favorable.",
   "actifs_favorables": [
-    "ATOM",
-    "ALGO",
-    "LINK"
+    "XRP",
+    "SOL",
+    "TRX"
   ],
   "actifs_risques": [
     "BTC",
     "ETH"
   ],
-  "last_claude_run": "2026-06-07T19:35:57.715367+00:00"
+  "last_claude_run": "2026-06-08T07:39:33.545755+00:00"
 }
