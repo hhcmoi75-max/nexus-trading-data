@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-06-08T23:54:05.737731",
+    "last_update": "2026-06-09T00:00:51.849486",
     "win_rate_recent": 23.3
   },
   "asset_patterns": {
@@ -17360,6 +17360,33 @@
         "btc_status": "ok",
         "claude_confidence": 50
       }
+    },
+    {
+      "asset": "TON",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-08T22:01:33.827184+00:00",
+      "entry_time": "2026-06-08T22:01:33.827184+00:00",
+      "exit_time": "2026-06-08T22:01:33.827184+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 1.5014054293,
+      "score": 95,
+      "rsi": 48.75,
+      "adx": 29.32,
+      "claude_confidence": 15,
+      "claude_reason": "TON absent de la liste favorable, score ML élevé contredit par signal technique HOLD et confiance ultra-basse (17.8%), contexte macro stagnant sans catalyst identifié, actif non validé par seuil statistique de 50+ trades, allocation risquée face aux opportunités prioritaires (NEAR, ALGO, SEI, AVAX)",
+      "ml_confidence": 17.8,
+      "score_technique": 63,
+      "score_macro": 45,
+      "score_sentiment": 65,
+      "score_momentum": 55,
+      "score_volume": 50,
+      "fear_greed": 8,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 22,
+      "entry_weekday": 0,
+      "simulated": true
     }
   ],
   "stats": {
@@ -17372,6 +17399,6 @@
     "best_trade": 25.48,
     "worst_trade": -9.65
   },
-  "last_update": "2026-06-08T23:54:45.330089",
+  "last_update": "2026-06-09T00:01:33.827235",
   "ml_accuracy": 89.7
 }
