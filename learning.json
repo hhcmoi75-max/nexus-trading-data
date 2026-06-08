@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-06-09T00:00:51.849486",
+    "last_update": "2026-06-09T00:07:39.170792",
     "win_rate_recent": 23.3
   },
   "asset_patterns": {
@@ -17387,6 +17387,33 @@
       "entry_hour_utc": 22,
       "entry_weekday": 0,
       "simulated": true
+    },
+    {
+      "asset": "TON",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-08T22:08:22.644430+00:00",
+      "entry_time": "2026-06-08T22:08:22.644430+00:00",
+      "exit_time": "2026-06-08T22:08:22.644430+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 1.5001432386,
+      "score": 97,
+      "rsi": 51.15,
+      "adx": 29.27,
+      "claude_confidence": 15,
+      "claude_reason": "TON absent de la liste blanche (favorables), score ML élevé contredit par confiance extrêmement faible (16.4%), stagnation macro (0% variation 24h) incompatible avec un BUY, RSI neutre (51.15) sans momentum, et contexte de consolidation fragile exposant à correction. Le pattern de clustering temporel requiert des actifs éprouvés (50+ trades). Attendre un catalyseur macro ou une confirmation technique supérieure.",
+      "ml_confidence": 16.4,
+      "score_technique": 71,
+      "score_macro": 45,
+      "score_sentiment": 65,
+      "score_momentum": 55,
+      "score_volume": 50,
+      "fear_greed": 8,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 22,
+      "entry_weekday": 0,
+      "simulated": true
     }
   ],
   "stats": {
@@ -17399,6 +17426,6 @@
     "best_trade": 25.48,
     "worst_trade": -9.65
   },
-  "last_update": "2026-06-09T00:01:33.827235",
-  "ml_accuracy": 89.7
+  "last_update": "2026-06-09T00:08:22.644475",
+  "ml_accuracy": 90.1
 }
