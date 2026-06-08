@@ -1,18 +1,18 @@
 {
   "score_macro": 45,
-  "score_sentiment": 35,
-  "tendance_marche": "BAISSIER",
-  "contexte": "Bitcoin montre une forte volatilité avec un pic à 63700$ suivi d'un retour brutal sous 63000$, amplifié par les tensions géopolitiques Iran-Israël et le krach des actions coréennes. Le sentiment Reddit modéré à 50/100 et la chute d'XRP vers ses plus bas de 4 mois confirment une pression baissière généralisée.",
-  "risque_principal": "L'escalade géopolitique Iran-Israël combinée aux liquidations massives de shorts crée un environnement de forte volatilité défavorable aux positions longues.",
-  "opportunite_du_jour": "XRP stabilisé au-dessus de 1.10$ après avoir touché ses plus bas présente un potentiel de rebond technique avec un ratio risque/rendement favorable.",
+  "score_sentiment": 65,
+  "tendance_marche": "NEUTRE",
+  "contexte": "Les marchés crypto affichent une stagnation totale avec tous les majeurs à 0% variation, contrastant avec des nouvelles mixtes incluant des achats BTC institutionnels de 100M$ et des préoccupations réglementaires EU. Le sentiment Reddit à 50/100 et la performance bot stable (60.3% win rate) reflètent une phase d'attentisme avant un potentiel mouvement directionnel.",
+  "risque_principal": "La consolidation prolongée avec supports fragiles sur BTC 60K expose à une correction si les vents contraires macro s'intensifient.",
+  "opportunite_du_jour": "Hyperliquid identifié comme 'idée convaincante' par une firme de recherche influente pourrait catalyser une rotation vers les infrastructures DeFi innovantes.",
   "actifs_favorables": [
-    "XRP",
-    "SOL",
-    "TRX"
+    "BTC",
+    "HYPERLIQUID",
+    "SOL"
   ],
   "actifs_risques": [
-    "BTC",
-    "ETH"
+    "ETH",
+    "XRP"
   ],
-  "last_claude_run": "2026-06-08T07:39:33.545755+00:00"
+  "last_claude_run": "2026-06-08T19:43:47.742482+00:00"
 }
