@@ -1,18 +1,18 @@
 {
-  "score_macro": 65,
-  "score_sentiment": 58,
-  "tendance_marche": "NEUTRE",
-  "contexte": "Les marchés crypto stagnent en territoire neutre avec Bitcoin stabilisé autour de 54k EUR malgré les perspectives d'IPO SpaceX comme prochain catalyseur. La dichotomie entre la résilience institutionnelle (mining CEOs optimistes sur BTC à 30k) et les failles de sécurité majeures (hack 32M$ sur Humanity Protocol) illustre un marché en phase de consolidation.",
-  "risque_principal": "Les risques de sécurité persistants et les avertissements sur les agents IA 'incontrôlables' menacent la confiance institutionnelle naissante.",
-  "opportunite_du_jour": "L'effet SpaceX IPO pourrait catalyser une breakout haussière sur Bitcoin au-dessus des 63k$ mentionnés.",
+  "score_macro": 75,
+  "score_sentiment": 70,
+  "tendance_marche": "HAUSSIER",
+  "contexte": "L'environnement macro présente des signaux positifs avec la régulation britannique autorisant 10% d'exposition crypto aux fonds mutuels et Securitize évoquant un marché de 5 trillions pour les actions tokenisées. Cependant, Bitcoin agit comme indicateur de risque selon Bitwise, suggérant une prudence nécessaire malgré l'optimisme institutionnel.",
+  "risque_principal": "La pression risk-off se propage avec Bitcoin servant de 'canari dans la mine' selon les analystes.",
+  "opportunite_du_jour": "La tokenisation des actifs traditionnels et l'adoption institutionnelle croissante ouvrent de nouveaux corridors de liquidités massives.",
   "actifs_favorables": [
     "BTC",
-    "SOL",
+    "ETH",
     "BNB"
   ],
   "actifs_risques": [
     "XRP",
     "TRX"
   ],
-  "last_claude_run": "2026-06-09T07:49:47.373013+00:00"
+  "last_claude_run": "2026-06-09T19:56:27.317383+00:00"
 }
