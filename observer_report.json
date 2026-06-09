@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-09T18:27:30.586253+00:00",
-  "total_signals": 11660,
-  "verified_signals": 11579,
+  "generated_at": "2026-06-09T22:27:30.872480+00:00",
+  "total_signals": 11682,
+  "verified_signals": 11609,
   "by_source": {
     "whale_buy": {
       "win_rate_pct": 0.4,
       "avg_gain_1h": -0.033,
-      "total_signals": 9164
+      "total_signals": 9194
     },
     "cascade": {
       "win_rate_pct": 1.2,
@@ -58,7 +58,7 @@
     },
     "0.6": {
       "win_rate": 0.4,
-      "count": 8943
+      "count": 8973
     },
     "0.7": {
       "win_rate": 0.0,
