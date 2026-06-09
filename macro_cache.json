@@ -1,18 +1,18 @@
 {
-  "score_macro": 45,
-  "score_sentiment": 65,
+  "score_macro": 65,
+  "score_sentiment": 58,
   "tendance_marche": "NEUTRE",
-  "contexte": "Les marchés crypto affichent une stagnation totale avec tous les majeurs à 0% variation, contrastant avec des nouvelles mixtes incluant des achats BTC institutionnels de 100M$ et des préoccupations réglementaires EU. Le sentiment Reddit à 50/100 et la performance bot stable (60.3% win rate) reflètent une phase d'attentisme avant un potentiel mouvement directionnel.",
-  "risque_principal": "La consolidation prolongée avec supports fragiles sur BTC 60K expose à une correction si les vents contraires macro s'intensifient.",
-  "opportunite_du_jour": "Hyperliquid identifié comme 'idée convaincante' par une firme de recherche influente pourrait catalyser une rotation vers les infrastructures DeFi innovantes.",
+  "contexte": "Les marchés crypto stagnent en territoire neutre avec Bitcoin stabilisé autour de 54k EUR malgré les perspectives d'IPO SpaceX comme prochain catalyseur. La dichotomie entre la résilience institutionnelle (mining CEOs optimistes sur BTC à 30k) et les failles de sécurité majeures (hack 32M$ sur Humanity Protocol) illustre un marché en phase de consolidation.",
+  "risque_principal": "Les risques de sécurité persistants et les avertissements sur les agents IA 'incontrôlables' menacent la confiance institutionnelle naissante.",
+  "opportunite_du_jour": "L'effet SpaceX IPO pourrait catalyser une breakout haussière sur Bitcoin au-dessus des 63k$ mentionnés.",
   "actifs_favorables": [
     "BTC",
-    "HYPERLIQUID",
-    "SOL"
+    "SOL",
+    "BNB"
   ],
   "actifs_risques": [
-    "ETH",
-    "XRP"
+    "XRP",
+    "TRX"
   ],
-  "last_claude_run": "2026-06-08T19:43:47.742482+00:00"
+  "last_claude_run": "2026-06-09T07:49:47.373013+00:00"
 }
