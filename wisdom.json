@@ -1,5 +1,11 @@
 {
   "lecons_cles": [
+    "La chute du win rate de 63.4% à 59.7% simultanée avec la stabilité du PnL à 0.97% révèle un phénomène de 'dilution qualitative' où l'expansion volumique (316 trades) sacrifie la précision pour maintenir la rentabilité absolue",
+    "L'émergence de FET à -7.9% dans les pires trades après son effacement total précédent démontre un pattern de 'double punishment' où les secteurs IA subissent une correction post-bulle nécessitant un blacklistage prolongé de 6+ mois",
+    "La triple monopolisation de NEAR sur 60% du top 5 (+25.5%, +15.5%, +8.9%) avec des écarts de performance décroissants expose une 'courbe de saturation intra-actif' nécessitant une rotation forcée après le 3ème trade gagnant consécutif",
+    "L'effondrement synchronisé de 4 tokens à 0% (MSFT, NVDA, CHZ, FET) spanning tech-stocks et crypto révèle une 'purge algorithmique convergente' où le bot élimine automatiquement toute classe d'actifs non-crypto-native",
+    "La persistance d'APT à exactement 33.3% de win rate (vs 25% précédemment) démontre une 'loi de stagnation structurelle' où certains actifs se stabilisent mathématiquement dans une zone de sous-performance chronique sans jamais s'améliorer ni s'effondrer totalement",
+    "La coexistence parfaite de 5 actifs à 100% win rate avec un PnL global descendant révèle un 'paradoxe de diversification excessive' où trop d'allocation sur des trades moyens dilue l'impact des actifs parfaits",
     "La monopolisation absolue de NEAR sur 3/5 des top trades révèle un phénomène de 'clustering temporel' où certains actifs concentrent leurs gains sur des fenêtres ultra-courtes, nécessitant une allocation dynamique massive pendant ces phases d'euphorie",
     "L'effacement total des tokens d'IA (FET 0%) simultané avec la résurrection de DOGE à 100% expose une rotation fondamentale de la 'narrative driven' vers la 'meme legitimacy', marquant l'institutionnalisation paradoxale des actifs communautaires",
     "La synchronisation parfaite des échecs DeFi/Layer-2 (ARB, UNI) avec la domination des Layer-1 purs (NEAR, ALGO) révèle un 'retour aux sources' où la complexité architecturale devient un handicap face à la simplicité d'usage",
@@ -91,21 +97,21 @@
   "actifs_a_eviter": [
     "FET",
     "ARB",
-    "UNI",
     "CHZ",
-    "APT",
     "MSFT",
     "NVDA",
+    "UNI",
+    "APT",
     "FIL"
   ],
-  "conditions_favorables": "Rotation sectorielle des narratives complexes vers les fondamentaux adoption-driven, avec domination des Layer-1 natifs sur les solutions Layer-2, dans un contexte de légitimation des memecoins institutionnels",
-  "erreurs_recurrentes": "Surinvestissement dans les tokens d'infrastructure complexe (IA, Layer-2) au détriment des protocoles à adoption massive, et absence de timing de sortie progressif sur les actifs en phase de gains décroissants",
+  "conditions_favorables": "Domination des Layer-1 natifs sur les Layer-2 complexes, rotation hors secteurs IA vers memecoins légitimés, concentration sur actifs à 100% win rate avec plus de 50 trades de validation",
+  "erreurs_recurrentes": "Sur-diversification diluant l'alpha des actifs parfaits, persistance sur secteurs IA en déclin, allocation continue sur ARB malgré bipolarité récurrente",
   "recommandation_seuil_buy": 72,
-  "recommandation_stop_loss": 0.07,
-  "strategie_recommandee": "Concentration massive sur le quintet parfait avec allocation dynamique majorée sur NEAR pendant ses phases de clustering. Rotation immédiate hors de tout token d'infrastructure complexe vers les Layer-1 à adoption prouvée.",
-  "last_distillation": "2026-06-07T22:55:59.797462+00:00",
-  "trades_analyzed": 310,
-  "win_rate_at_distill": 60.3,
+  "recommandation_stop_loss": 0.08,
+  "strategie_recommandee": "Concentrer 70% du capital sur le quintuple parfait (ALGO, SEI, AVAX, DOGE, LINK) et implémenter une rotation forcée après 3 trades consécutifs gagnants sur NEAR. Blacklister définitivement tous les tokens IA et Layer-2 Ethereum pour 6 mois minimum.",
+  "last_distillation": "2026-06-10T23:26:21.984385+00:00",
+  "trades_analyzed": 316,
+  "win_rate_at_distill": 59.7,
   "traders": {
     "Warren Buffett": {
       "style": "Value Investing - Long terme",
