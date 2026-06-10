@@ -1,18 +1,18 @@
 {
-  "score_macro": 75,
-  "score_sentiment": 70,
-  "tendance_marche": "HAUSSIER",
-  "contexte": "L'environnement macro présente des signaux positifs avec la régulation britannique autorisant 10% d'exposition crypto aux fonds mutuels et Securitize évoquant un marché de 5 trillions pour les actions tokenisées. Cependant, Bitcoin agit comme indicateur de risque selon Bitwise, suggérant une prudence nécessaire malgré l'optimisme institutionnel.",
-  "risque_principal": "La pression risk-off se propage avec Bitcoin servant de 'canari dans la mine' selon les analystes.",
-  "opportunite_du_jour": "La tokenisation des actifs traditionnels et l'adoption institutionnelle croissante ouvrent de nouveaux corridors de liquidités massives.",
+  "score_macro": 25,
+  "score_sentiment": 20,
+  "tendance_marche": "BAISSIER",
+  "contexte": "Les marchés crypto subissent une pression généralisée avec Bitcoin et l'or qui chutent ensemble face aux anticipations de hausse des taux de la Fed. La corrélation négative traditionnelle entre crypto et politique monétaire restrictive se renforce, créant un environnement défavorable à court terme.",
+  "risque_principal": "L'environnement de taux élevés persistant pourrait prolonger la phase de consolidation/baisse sur l'ensemble des actifs risqués crypto.",
+  "opportunite_du_jour": "Les niveaux de support cassés sur XRP pourraient offrir des points d'entrée tactiques une fois la volatilité stabilisée.",
   "actifs_favorables": [
-    "BTC",
-    "ETH",
-    "BNB"
+    "NEAR",
+    "ALGO",
+    "DOGE"
   ],
   "actifs_risques": [
     "XRP",
-    "TRX"
+    "BTC"
   ],
-  "last_claude_run": "2026-06-09T19:56:27.317383+00:00"
+  "last_claude_run": "2026-06-10T08:02:00.863054+00:00"
 }
