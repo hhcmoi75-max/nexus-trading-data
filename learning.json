@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-06-11T00:04:28.507557",
+    "last_update": "2026-06-11T00:11:14.253492",
     "win_rate_recent": 23.3
   },
   "asset_patterns": {
@@ -17550,6 +17550,33 @@
         "btc_status": "ok",
         "claude_confidence": 50
       }
+    },
+    {
+      "asset": "SOL",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-10T22:11:24.267030+00:00",
+      "entry_time": "2026-06-10T22:11:24.267030+00:00",
+      "exit_time": "2026-06-10T22:11:24.267030+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 54.27,
+      "score": 93,
+      "rsi": 32.98,
+      "adx": 20.25,
+      "claude_confidence": 15,
+      "claude_reason": "SOL absent de la liste favorable malgré score ML élevé; confiance ML très faible (22.5%); RSI 32.98 indique survendeur mais ADX 20.2 montre trend faible; risque géopolitique imminent (BoJ) justifie attendre clarification; variation 24h nulle suggère consolidation sans momentum; préférer les actifs validés (NEAR, ALGO, AVAX) avec coefficient de fiabilité algorithimique confirmé",
+      "ml_confidence": 22.5,
+      "score_technique": 77,
+      "score_macro": 72,
+      "score_sentiment": 68,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 9,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 22,
+      "entry_weekday": 2,
+      "simulated": true
     }
   ],
   "stats": {
@@ -17562,6 +17589,6 @@
     "best_trade": 25.48,
     "worst_trade": -9.65
   },
-  "last_update": "2026-06-11T00:05:09.616975",
+  "last_update": "2026-06-11T00:12:01.245549",
   "ml_accuracy": 91.4
 }
