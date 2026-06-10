@@ -1,18 +1,18 @@
 {
-  "score_macro": 25,
-  "score_sentiment": 20,
-  "tendance_marche": "BAISSIER",
-  "contexte": "Les marchés crypto subissent une pression généralisée avec Bitcoin et l'or qui chutent ensemble face aux anticipations de hausse des taux de la Fed. La corrélation négative traditionnelle entre crypto et politique monétaire restrictive se renforce, créant un environnement défavorable à court terme.",
-  "risque_principal": "L'environnement de taux élevés persistant pourrait prolonger la phase de consolidation/baisse sur l'ensemble des actifs risqués crypto.",
-  "opportunite_du_jour": "Les niveaux de support cassés sur XRP pourraient offrir des points d'entrée tactiques une fois la volatilité stabilisée.",
+  "score_macro": 72,
+  "score_sentiment": 68,
+  "tendance_marche": "HAUSSIER",
+  "contexte": "L'institutionnalisation accélérée via BlackRock/Fidelity consolide le marché crypto tandis que la résistance bancaire génère paradoxalement une mobilisation communautaire renforcée. La décision imminente de la BoJ introduit une volatilité externe sur Bitcoin mais les fondamentaux institutionnels restent solides.",
+  "risque_principal": "La décision de taux de la Banque du Japon pourrait déclencher une volatilité massive sur Bitcoin avec effet de contagion sur l'ensemble des cryptos.",
+  "opportunite_du_jour": "La rotation narrative vers les Layer-1 purs et l'émergence des nouveaux standards de privacy sur Ethereum offrent des opportunités de positionnement précoce.",
   "actifs_favorables": [
-    "NEAR",
-    "ALGO",
-    "DOGE"
+    "ETH",
+    "SOL",
+    "BTC"
   ],
   "actifs_risques": [
     "XRP",
-    "BTC"
+    "TRX"
   ],
-  "last_claude_run": "2026-06-10T08:02:00.863054+00:00"
+  "last_claude_run": "2026-06-10T20:02:35.597307+00:00"
 }
