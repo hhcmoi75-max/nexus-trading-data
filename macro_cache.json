@@ -1,18 +1,18 @@
 {
-  "score_macro": 35,
-  "score_sentiment": 25,
-  "tendance_marche": "BAISSIER",
-  "contexte": "Le marché crypto traverse une phase de bear market profond avec des valorisations Bitcoin dans une zone historiquement basse, confirmée par l'assèchement des flux ETF et des achats corporatifs. La préférence institutionnelle pour les stablecoins et la tokenisation plutôt que Bitcoin signale un changement structurel de paradigme d'investissement.",
-  "risque_principal": "L'entrée en zone de valorisation bear market profond pour Bitcoin pourrait déclencher une cascade de liquidations sur l'ensemble de l'écosystème crypto.",
-  "opportunite_du_jour": "XRP maintient sa résistance au-dessus de 1.10€ avec des flux ETF positifs malgré la prudence générale, offrant une relative stabilité défensive.",
+  "score_macro": 75,
+  "score_sentiment": 45,
+  "tendance_marche": "NEUTRE",
+  "contexte": "L'IPO massive de SpaceX à 75 milliards stimule l'appétit pour les actifs technologiques innovants tandis que Coinbase révolutionne le trading avec ses agents IA autonomes. Cependant, la stagnation totale des prix cryptos (0% partout) contraste avec ces développements positifs, suggérant une phase d'accumulation ou d'indécision.",
+  "risque_principal": "Les signaux techniques baissiers sur ETH (test des 1.6K) et XRP (risque de chute sous 1$) menacent de déclencher une correction généralisée du marché crypto.",
+  "opportunite_du_jour": "L'innovation Coinbase en IA trading pourrait catalyser une adoption institutionnelle massive et relancer la dynamique haussière sur les cryptos liées à l'infrastructure.",
   "actifs_favorables": [
-    "XRP",
-    "TRX",
-    "BNB"
+    "BNB",
+    "SOL",
+    "XAU"
   ],
   "actifs_risques": [
-    "BTC",
-    "ETH"
+    "ETH",
+    "XRP"
   ],
-  "last_claude_run": "2026-06-11T08:06:39.997630+00:00"
+  "last_claude_run": "2026-06-11T20:13:36.543534+00:00"
 }
