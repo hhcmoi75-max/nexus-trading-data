@@ -1,18 +1,18 @@
 {
-  "score_macro": 72,
-  "score_sentiment": 68,
-  "tendance_marche": "HAUSSIER",
-  "contexte": "L'institutionnalisation accélérée via BlackRock/Fidelity consolide le marché crypto tandis que la résistance bancaire génère paradoxalement une mobilisation communautaire renforcée. La décision imminente de la BoJ introduit une volatilité externe sur Bitcoin mais les fondamentaux institutionnels restent solides.",
-  "risque_principal": "La décision de taux de la Banque du Japon pourrait déclencher une volatilité massive sur Bitcoin avec effet de contagion sur l'ensemble des cryptos.",
-  "opportunite_du_jour": "La rotation narrative vers les Layer-1 purs et l'émergence des nouveaux standards de privacy sur Ethereum offrent des opportunités de positionnement précoce.",
+  "score_macro": 35,
+  "score_sentiment": 25,
+  "tendance_marche": "BAISSIER",
+  "contexte": "Le marché crypto traverse une phase de bear market profond avec des valorisations Bitcoin dans une zone historiquement basse, confirmée par l'assèchement des flux ETF et des achats corporatifs. La préférence institutionnelle pour les stablecoins et la tokenisation plutôt que Bitcoin signale un changement structurel de paradigme d'investissement.",
+  "risque_principal": "L'entrée en zone de valorisation bear market profond pour Bitcoin pourrait déclencher une cascade de liquidations sur l'ensemble de l'écosystème crypto.",
+  "opportunite_du_jour": "XRP maintient sa résistance au-dessus de 1.10€ avec des flux ETF positifs malgré la prudence générale, offrant une relative stabilité défensive.",
   "actifs_favorables": [
-    "ETH",
-    "SOL",
-    "BTC"
+    "XRP",
+    "TRX",
+    "BNB"
   ],
   "actifs_risques": [
-    "XRP",
-    "TRX"
+    "BTC",
+    "ETH"
   ],
-  "last_claude_run": "2026-06-10T20:02:35.597307+00:00"
+  "last_claude_run": "2026-06-11T08:06:39.997630+00:00"
 }
