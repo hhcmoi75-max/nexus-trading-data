@@ -1,18 +1,18 @@
 {
-  "score_macro": 75,
-  "score_sentiment": 45,
-  "tendance_marche": "NEUTRE",
-  "contexte": "L'IPO massive de SpaceX à 75 milliards stimule l'appétit pour les actifs technologiques innovants tandis que Coinbase révolutionne le trading avec ses agents IA autonomes. Cependant, la stagnation totale des prix cryptos (0% partout) contraste avec ces développements positifs, suggérant une phase d'accumulation ou d'indécision.",
-  "risque_principal": "Les signaux techniques baissiers sur ETH (test des 1.6K) et XRP (risque de chute sous 1$) menacent de déclencher une correction généralisée du marché crypto.",
-  "opportunite_du_jour": "L'innovation Coinbase en IA trading pourrait catalyser une adoption institutionnelle massive et relancer la dynamique haussière sur les cryptos liées à l'infrastructure.",
+  "score_macro": 45,
+  "score_sentiment": 40,
+  "tendance_marche": "BAISSIER",
+  "contexte": "Le marché crypto traverse une phase d'incertitude avec Bitcoin qui n'a pas encore trouvé son bottom selon CoinDesk, malgré des espoirs de rally vers 75000$. La fermeture d'un réseau de blanchiment de 390M$ et le sentiment Reddit modéré à 50/100 renforcent la prudence générale.",
+  "risque_principal": "Le non-bottoming confirmé de Bitcoin crée un risque de cascade baissière sur l'ensemble des altcoins en cas de rupture des supports actuels.",
+  "opportunite_du_jour": "XRP montre une dynamique positive avec +3% et un test de résistance clé à 1.14$, soutenu par des achats institutionnels.",
   "actifs_favorables": [
-    "BNB",
-    "SOL",
-    "XAU"
+    "XRP",
+    "NEAR",
+    "SOL"
   ],
   "actifs_risques": [
-    "ETH",
-    "XRP"
+    "FET",
+    "APT"
   ],
-  "last_claude_run": "2026-06-11T20:13:36.543534+00:00"
+  "last_claude_run": "2026-06-12T08:13:58.438576+00:00"
 }
