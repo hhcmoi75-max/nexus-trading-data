@@ -1,18 +1,18 @@
 {
-  "score_macro": 45,
-  "score_sentiment": 40,
-  "tendance_marche": "BAISSIER",
-  "contexte": "Le marché crypto traverse une phase d'incertitude avec Bitcoin qui n'a pas encore trouvé son bottom selon CoinDesk, malgré des espoirs de rally vers 75000$. La fermeture d'un réseau de blanchiment de 390M$ et le sentiment Reddit modéré à 50/100 renforcent la prudence générale.",
-  "risque_principal": "Le non-bottoming confirmé de Bitcoin crée un risque de cascade baissière sur l'ensemble des altcoins en cas de rupture des supports actuels.",
-  "opportunite_du_jour": "XRP montre une dynamique positive avec +3% et un test de résistance clé à 1.14$, soutenu par des achats institutionnels.",
+  "score_macro": 65,
+  "score_sentiment": 58,
+  "tendance_marche": "NEUTRE",
+  "contexte": "L'analyse Standard Chartered sur la fin du crypto winter et Bitcoin à 64K avec l'IPO SpaceX créent une dynamique positive, mais les marchés restent figés à 0% suggérant une consolidation. Le sentiment Reddit modéré à 50/100 et les leçons bot révélant une dilution qualitative du win rate indiquent une phase de transition délicate.",
+  "risque_principal": "La 'purge algorithmique convergente' éliminant les actifs non-crypto-natives couplée au warning sur l'effondrement potentiel du support Bitcoin menace la stabilité actuelle.",
+  "opportunite_du_jour": "VanEck mise sur BNB avec son usage réel dans un marché ETF crypto encombré, positionnant BNB comme différenciateur face à la concurrence.",
   "actifs_favorables": [
-    "XRP",
-    "NEAR",
-    "SOL"
+    "BNB",
+    "SOL",
+    "XRP"
   ],
   "actifs_risques": [
     "FET",
     "APT"
   ],
-  "last_claude_run": "2026-06-12T08:13:58.438576+00:00"
+  "last_claude_run": "2026-06-12T20:19:44.921797+00:00"
 }
