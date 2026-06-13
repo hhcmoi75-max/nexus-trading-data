@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-06-14T01:39:08.280094",
+    "last_update": "2026-06-14T01:46:11.644296",
     "win_rate_recent": 16.7
   },
   "asset_patterns": {
@@ -18330,6 +18330,33 @@
       "entry_hour_utc": 23,
       "entry_weekday": 5,
       "simulated": true
+    },
+    {
+      "asset": "ICP",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-13T23:46:38.012931+00:00",
+      "entry_time": "2026-06-13T23:46:38.012931+00:00",
+      "exit_time": "2026-06-13T23:46:38.012931+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 2.16,
+      "score": 85,
+      "rsi": 54.78,
+      "adx": 64.78,
+      "claude_confidence": 15,
+      "claude_reason": "Score ML élevé (85/100) contredit par confiance très faible (12.7%), signal technique HOLD, et ICP absent des actifs favorables. Variation 24h nulle indique pas de momentum. RSI neutre (54.78) et ADX fort (64.8) suggèrent volatilité sans direction claire. Contexte macro stable mais risques systémiques identifiés. Dilution qualitative du bot (WR en baisse) exige sélectivité accrue sur actifs non-validés.",
+      "ml_confidence": 12.7,
+      "score_technique": 59,
+      "score_macro": 72,
+      "score_sentiment": 68,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 13,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 23,
+      "entry_weekday": 5,
+      "simulated": true
     }
   ],
   "stats": {
@@ -18342,6 +18369,6 @@
     "best_trade": 25.48,
     "worst_trade": -9.65
   },
-  "last_update": "2026-06-14T01:39:47.911414",
+  "last_update": "2026-06-14T01:46:54.198750",
   "ml_accuracy": 91.0
 }
