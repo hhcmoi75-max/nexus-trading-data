@@ -13,8 +13,8 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-06-14T00:50:58.899950",
-    "win_rate_recent": 23.3
+    "last_update": "2026-06-14T00:57:48.596121",
+    "win_rate_recent": 20.0
   },
   "asset_patterns": {
     "NEAR": {
@@ -18249,6 +18249,33 @@
       "entry_hour_utc": 22,
       "entry_weekday": 5,
       "simulated": true
+    },
+    {
+      "asset": "NEAR",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-13T22:58:10.358615+00:00",
+      "entry_time": "2026-06-13T22:58:10.358615+00:00",
+      "exit_time": "2026-06-13T22:58:10.358615+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 1.8305,
+      "score": 85,
+      "rsi": 57.86,
+      "adx": 43.71,
+      "claude_confidence": 25,
+      "claude_reason": "Confiance ML insuffisante (15.7%), signal technique en HOLD, et saturation intra-actif détectée après 3 trades gagnants consécutifs sur NEAR nécessitant rotation forcée selon règle de stagnation. Score technique élevé contredit par contexte comportemental et courbe de saturation.",
+      "ml_confidence": 15.7,
+      "score_technique": 57,
+      "score_macro": 72,
+      "score_sentiment": 68,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 13,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 22,
+      "entry_weekday": 5,
+      "simulated": true
     }
   ],
   "stats": {
@@ -18261,6 +18288,6 @@
     "best_trade": 25.48,
     "worst_trade": -9.65
   },
-  "last_update": "2026-06-14T00:51:41.551654",
+  "last_update": "2026-06-14T00:58:30.326000",
   "ml_accuracy": 90.3
 }
