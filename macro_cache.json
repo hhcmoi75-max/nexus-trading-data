@@ -1,18 +1,18 @@
 {
-  "score_macro": 65,
-  "score_sentiment": 58,
-  "tendance_marche": "NEUTRE",
-  "contexte": "L'analyse Standard Chartered sur la fin du crypto winter et Bitcoin à 64K avec l'IPO SpaceX créent une dynamique positive, mais les marchés restent figés à 0% suggérant une consolidation. Le sentiment Reddit modéré à 50/100 et les leçons bot révélant une dilution qualitative du win rate indiquent une phase de transition délicate.",
-  "risque_principal": "La 'purge algorithmique convergente' éliminant les actifs non-crypto-natives couplée au warning sur l'effondrement potentiel du support Bitcoin menace la stabilité actuelle.",
-  "opportunite_du_jour": "VanEck mise sur BNB avec son usage réel dans un marché ETF crypto encombré, positionnant BNB comme différenciateur face à la concurrence.",
+  "score_macro": 45,
+  "score_sentiment": 35,
+  "tendance_marche": "BAISSIER",
+  "contexte": "Les marchés crypto stagnent totalement avec 0% de variation sur tous les actifs majeurs, reflétant une indécision massive après la pire semaine de Bitcoin en mois. L'incertitude quantique sur Bitcoin et la fermeture du modèle IA le plus puissant par le gouvernement US créent un climat de défiance technologique généralisée.",
+  "risque_principal": "Le débat des cryptographes sur la résistance quantique de Bitcoin pourrait déclencher une vente de panique si des vulnérabilités sont confirmées.",
+  "opportunite_du_jour": "ETH montre une résilience sous-jacente malgré les signaux baissiers des futures, offrant un potentiel de rebond technique.",
   "actifs_favorables": [
-    "BNB",
+    "ETH",
     "SOL",
-    "XRP"
+    "BNB"
   ],
   "actifs_risques": [
-    "FET",
-    "APT"
+    "BTC",
+    "XRP"
   ],
-  "last_claude_run": "2026-06-12T20:19:44.921797+00:00"
+  "last_claude_run": "2026-06-13T08:24:04.000828+00:00"
 }
