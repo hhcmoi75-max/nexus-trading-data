@@ -1,18 +1,18 @@
 {
-  "score_macro": 45,
-  "score_sentiment": 35,
-  "tendance_marche": "BAISSIER",
-  "contexte": "Les marchés crypto stagnent totalement avec 0% de variation sur tous les actifs majeurs, reflétant une indécision massive après la pire semaine de Bitcoin en mois. L'incertitude quantique sur Bitcoin et la fermeture du modèle IA le plus puissant par le gouvernement US créent un climat de défiance technologique généralisée.",
-  "risque_principal": "Le débat des cryptographes sur la résistance quantique de Bitcoin pourrait déclencher une vente de panique si des vulnérabilités sont confirmées.",
-  "opportunite_du_jour": "ETH montre une résilience sous-jacente malgré les signaux baissiers des futures, offrant un potentiel de rebond technique.",
+  "score_macro": 72,
+  "score_sentiment": 68,
+  "tendance_marche": "HAUSSIER",
+  "contexte": "Le marché crypto montre une stabilité encourageante avec BTC à 55.5k EUR et des nouvelles géopolitiques positives (accord de paix Iran-Pakistan) qui avaient propulsé Bitcoin au-dessus de 64k USD. Les réserves Bitcoin de SpaceX (1.3 milliards) et la maturation du secteur stablecoins créent un environnement institutionnel favorable.",
+  "risque_principal": "La menace de hackers super-rapides et la purge algorithmique continue des actifs tech traditionnels exposent une vulnérabilité systémique croissante.",
+  "opportunite_du_jour": "NEAR démontre une monopolisation exceptionnelle avec 3 trades consécutifs gagnants (+25.5%, +15.5%, +8.9%) malgré la saturation intra-actif imminente.",
   "actifs_favorables": [
-    "ETH",
+    "BTC",
     "SOL",
-    "BNB"
+    "NEAR"
   ],
   "actifs_risques": [
-    "BTC",
-    "XRP"
+    "FET",
+    "APT"
   ],
-  "last_claude_run": "2026-06-13T08:24:04.000828+00:00"
+  "last_claude_run": "2026-06-13T20:28:49.307153+00:00"
 }
