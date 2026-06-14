@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-06-14T09:57:04.794141",
+    "last_update": "2026-06-14T10:03:48.881739",
     "win_rate_recent": 20.0
   },
   "asset_patterns": {
@@ -18593,6 +18593,60 @@
         "btc_status": "ok",
         "claude_confidence": 50
       }
+    },
+    {
+      "asset": "BCH",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-14T08:04:06.412162+00:00",
+      "entry_time": "2026-06-14T08:04:06.412162+00:00",
+      "exit_time": "2026-06-14T08:04:06.412162+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 175.9,
+      "score": 89,
+      "rsi": 36.05,
+      "adx": 26.32,
+      "claude_confidence": 25,
+      "claude_reason": "BCH absent de la liste des actifs favorables avec coefficient de résistance statistique confirmé. Confiance ML très basse (15.7%) malgré score élevé. RSI à 36.05 indique survendeur mais ADX faible (26.3) = tendance faible. Contexte macro stable mais risque systémique croissant identifié. Variation 24h nulle = absence de momentum. Pattern NEAR/ATOM/INJ plus robuste statistiquement.",
+      "ml_confidence": 15.7,
+      "score_technique": 72,
+      "score_macro": 72,
+      "score_sentiment": 68,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 18,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 8,
+      "entry_weekday": 6,
+      "simulated": true
+    },
+    {
+      "asset": "ICP",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-14T08:04:17.609917+00:00",
+      "entry_time": "2026-06-14T08:04:17.609917+00:00",
+      "exit_time": "2026-06-14T08:04:17.609917+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 2.13,
+      "score": 85,
+      "rsi": 51.45,
+      "adx": 27.46,
+      "claude_confidence": 15,
+      "claude_reason": "ICP absent des actifs favorables, score ML élevé contredit par confiance extrêmement basse (14.3%), signal technique en HOLD, RSI neutre (51.45), variation 24h nulle indiquant absence de momentum. Saturation algo confirmée par plateau de rendements et dégradation efficacité marginale malgré 336 trades. Risque systémique croissant des hackers et purges tech ajoutent exposition supplémentaire.",
+      "ml_confidence": 14.3,
+      "score_technique": 59,
+      "score_macro": 72,
+      "score_sentiment": 68,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 18,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 8,
+      "entry_weekday": 6,
+      "simulated": true
     }
   ],
   "stats": {
@@ -18605,6 +18659,6 @@
     "best_trade": 25.48,
     "worst_trade": -9.65
   },
-  "last_update": "2026-06-14T09:57:44.337166",
+  "last_update": "2026-06-14T10:04:33.903716",
   "ml_accuracy": 91.3
 }
