@@ -1,10 +1,10 @@
 {
   "version": 2,
   "weights": {
-    "technique": 0.291,
-    "macro": 0.378,
-    "sentiment": 0.264,
-    "onchain": 0.067
+    "technique": 0.305,
+    "macro": 0.371,
+    "sentiment": 0.259,
+    "onchain": 0.066
   },
   "thresholds": {
     "MIN_SCORE_BUY": 85,
@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-06-14T07:13:49.869517",
+    "last_update": "2026-06-14T07:20:34.571497",
     "win_rate_recent": 16.7
   },
   "asset_patterns": {
@@ -884,14 +884,14 @@
       ]
     },
     "TON": {
-      "trades": 11,
-      "wins": 6,
+      "trades": 12,
+      "wins": 7,
       "losses": 5,
-      "win_rate": 54.5,
-      "avg_pnl": -0.1,
+      "win_rate": 58.3,
+      "avg_pnl": 0.1,
       "best_rsi_range": [
         26.6,
-        66.5
+        57.2
       ],
       "avoid_conditions": [
         "RSI=60 change=11.9%",
@@ -902,12 +902,6 @@
         "RSI=44 change=5.9%"
       ],
       "last_trades": [
-        {
-          "rsi": 66.5,
-          "change_24h": 4.15293,
-          "pnl": 7.94,
-          "result": "win"
-        },
         {
           "rsi": 59.89,
           "change_24h": 11.9019,
@@ -961,6 +955,12 @@
           "change_24h": 2.31392,
           "pnl": -1.07,
           "result": "loss"
+        },
+        {
+          "rsi": 43.12,
+          "change_24h": -2.05588,
+          "pnl": 1.05,
+          "result": "win"
         }
       ]
     },
@@ -18519,18 +18519,92 @@
       "entry_hour_utc": 1,
       "entry_weekday": 6,
       "simulated": true
+    },
+    {
+      "asset": "TON",
+      "partial_exits": [
+        {
+          "action": "SETUP_INVALID_EXIT",
+          "pnl_pct": 1.79,
+          "pnl_eur": 0.28,
+          "amount_eur": 15.5,
+          "exit_time": "2026-06-13T11:20:15.372900+00:00",
+          "score_tech": 22,
+          "adx": 12.1
+        },
+        {
+          "action": "SETUP_INVALID_EXIT",
+          "pnl_pct": 1.19,
+          "pnl_eur": 0.14,
+          "amount_eur": 11.63,
+          "exit_time": "2026-06-13T13:22:31.739457+00:00",
+          "score_tech": 25,
+          "adx": 15.1
+        }
+      ],
+      "paliers_done": [],
+      "action": "TRAILING_STOP",
+      "exit_reason": "TRAILING_STOP",
+      "entry_price_eur": 1.4516589359999998,
+      "exit_price_eur": 1.4611,
+      "pnl_pct": 1.05,
+      "pnl_eur": 0.65,
+      "amount_eur": 62.01,
+      "features": [],
+      "ml_score": 0,
+      "entry_time": "2026-06-12T23:43:35.168436+00:00",
+      "exit_time": "2026-06-14T07:21:14.695356",
+      "entry_rsi": 43.12,
+      "entry_score": 87,
+      "entry_change_24h": -2.05588,
+      "exit_type_code": 2,
+      "candle_score": 0,
+      "stoch_k": 13.18,
+      "fib_score": 0,
+      "dist_support_pct": 8.12,
+      "dist_resistance_pct": 5.0,
+      "entry_hour_utc": 23,
+      "entry_weekday": 4,
+      "btc_change_at_entry": 0,
+      "btc_status": "ok",
+      "claude_confidence": 50,
+      "adx": 21.68,
+      "psar_bull": true,
+      "above_ema200": true,
+      "fear_greed": 12,
+      "entry_snapshot": {
+        "score_technique": 69,
+        "score_macro": 65,
+        "score_sentiment": 58,
+        "score_momentum": 55,
+        "score_volume": 50,
+        "onchain_score": null,
+        "score": 87,
+        "rsi": 43.12,
+        "change_24h": -2.05588,
+        "type": "crypto",
+        "adx": 21.68,
+        "psar_bull": true,
+        "above_ema200": true,
+        "fear_greed": 12,
+        "entry_hour_utc": 23,
+        "entry_weekday": 4,
+        "btc_change_at_entry": 0,
+        "btc_status": "ok",
+        "claude_confidence": 50
+      }
     }
   ],
   "stats": {
-    "total_closed": 213,
-    "wins": 128,
+    "total_closed": 214,
+    "wins": 129,
     "losses": 85,
-    "win_rate": 60.1,
+    "win_rate": 60.3,
     "avg_pnl": 1.11,
-    "total_pnl": 235.52,
+    "total_pnl": 236.57,
     "best_trade": 25.48,
     "worst_trade": -9.65
   },
-  "last_update": "2026-06-14T07:14:29.850242",
-  "ml_accuracy": 91.2
+  "last_update": "2026-06-14T07:21:15.612087",
+  "ml_accuracy": 91.3
 }
