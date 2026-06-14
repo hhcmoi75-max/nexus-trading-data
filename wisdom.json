@@ -1,5 +1,11 @@
 {
   "lecons_cles": [
+    "L'explosion d'ATOM de -5.5% à +14.2% (+19.7% de swing) révèle un pattern de 'résurrection explosive' où les actifs cosmos-ecosystem alternent entre purges brutales et euphories compensatoires dans des amplitudes inégalées",
+    "La chute de CRV à 0% de win rate marque l'effondrement définitif des protocoles DeFi 1.0 face à la montée des derivatives et perps (INJ +12.2%), exposant une rotation sectorielle DeFi vers les produits financiers sophistiqués",
+    "L'émergence d'OP dans les pires trades (-5.1%) simultanément avec la domination maintenue des Layer-1 révèle que l'Optimism Stack souffre du même mal qu'Arbitrum, confirmant une malédiction structurelle sur tous les rollups optimistic",
+    "La stabilisation exacte du PnL à 1.11% (+5% vs 1.05%) avec une expansion massive à 336 trades (+122%) révèle un plateau de rendements algorithmiques où l'efficacité marginale se dégrade mais reste positive, suggérant une saturation des opportunités alpha",
+    "La persistance paradoxale de 5 actifs parfaits (ALGO, SEI, AVAX, DOGE, LINK) malgré 336 trades confirme l'existence d'un 'coefficient de résistance statistique' où seuls ces actifs maintiennent leur invulnérabilité face à l'explosion volumique",
+    "L'effondrement synchrone de CRV et CHZ à 0% avec l'émergence d'OP dans les échecs expose une 'contagion sectorielle descendante' où les protocoles de première génération (DeFi 1.0, fan tokens, Layer-2 optimistic) s'effondrent simultanément",
     "La chute du win rate de 63.4% à 59.7% simultanée avec la stabilité du PnL à 0.97% révèle un phénomène de 'dilution qualitative' où l'expansion volumique (316 trades) sacrifie la précision pour maintenir la rentabilité absolue",
     "L'émergence de FET à -7.9% dans les pires trades après son effacement total précédent démontre un pattern de 'double punishment' où les secteurs IA subissent une correction post-bulle nécessitant un blacklistage prolongé de 6+ mois",
     "La triple monopolisation de NEAR sur 60% du top 5 (+25.5%, +15.5%, +8.9%) avec des écarts de performance décroissants expose une 'courbe de saturation intra-actif' nécessitant une rotation forcée après le 3ème trade gagnant consécutif",
@@ -86,32 +92,32 @@
   ],
   "actifs_a_privilegier": [
     "NEAR",
+    "ATOM",
+    "TRX",
+    "INJ",
     "ALGO",
     "SEI",
     "AVAX",
-    "DOGE",
-    "LINK",
-    "TRX",
-    "BTC"
+    "DOGE"
   ],
   "actifs_a_eviter": [
     "FET",
-    "ARB",
+    "CRV",
+    "OP",
     "CHZ",
-    "MSFT",
     "NVDA",
-    "UNI",
-    "APT",
-    "FIL"
+    "ARB",
+    "MSFT",
+    "UNI"
   ],
-  "conditions_favorables": "Domination des Layer-1 natifs sur les Layer-2 complexes, rotation hors secteurs IA vers memecoins légitimés, concentration sur actifs à 100% win rate avec plus de 50 trades de validation",
-  "erreurs_recurrentes": "Sur-diversification diluant l'alpha des actifs parfaits, persistance sur secteurs IA en déclin, allocation continue sur ARB malgré bipolarité récurrente",
+  "conditions_favorables": "Rotation sectorielle vers Layer-1 natifs et derivatives DeFi sophistiqués avec rejet massif des technologies legacy (rollups optimistic, DeFi 1.0, tokens IA)",
+  "erreurs_recurrentes": "Maintien d'allocation sur les rollups optimistic (ARB, OP) et persistance d'exposition aux secteurs narratifs épuisés (IA tokens, fan tokens) malgré les signaux d'effondrement répétés",
   "recommandation_seuil_buy": 72,
-  "recommandation_stop_loss": 0.08,
-  "strategie_recommandee": "Concentrer 70% du capital sur le quintuple parfait (ALGO, SEI, AVAX, DOGE, LINK) et implémenter une rotation forcée après 3 trades consécutifs gagnants sur NEAR. Blacklister définitivement tous les tokens IA et Layer-2 Ethereum pour 6 mois minimum.",
-  "last_distillation": "2026-06-10T23:26:21.984385+00:00",
-  "trades_analyzed": 316,
-  "win_rate_at_distill": 59.7,
+  "recommandation_stop_loss": 0.06,
+  "strategie_recommandee": "Concentration maximale sur le quintet invulnérable (ALGO, SEI, AVAX, DOGE, LINK) avec allocation tactique sur NEAR/ATOM durant leurs phases explosives. Blacklistage définitif de tous les rollups optimistic et rotation DeFi vers les derivatives avancés type INJ.",
+  "last_distillation": "2026-06-14T01:03:05.213120+00:00",
+  "trades_analyzed": 336,
+  "win_rate_at_distill": 60.1,
   "traders": {
     "Warren Buffett": {
       "style": "Value Investing - Long terme",
