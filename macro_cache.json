@@ -2,17 +2,17 @@
   "score_macro": 72,
   "score_sentiment": 68,
   "tendance_marche": "HAUSSIER",
-  "contexte": "Le marché crypto montre une stabilité encourageante avec BTC à 55.5k EUR et des nouvelles géopolitiques positives (accord de paix Iran-Pakistan) qui avaient propulsé Bitcoin au-dessus de 64k USD. Les réserves Bitcoin de SpaceX (1.3 milliards) et la maturation du secteur stablecoins créent un environnement institutionnel favorable.",
-  "risque_principal": "La menace de hackers super-rapides et la purge algorithmique continue des actifs tech traditionnels exposent une vulnérabilité systémique croissante.",
-  "opportunite_du_jour": "NEAR démontre une monopolisation exceptionnelle avec 3 trades consécutifs gagnants (+25.5%, +15.5%, +8.9%) malgré la saturation intra-actif imminente.",
+  "contexte": "Le momentum géopolitique est favorable avec les négociations Iran-Pakistan pour un accord de paix qui booste Bitcoin au-dessus de 64k$, tandis que l'IPO potentielle de SpaceX valorise davantage son trésor de 1.3 milliard en Bitcoin. Cependant, l'émergence d'hackers crypto à vitesse surhumaine et la stagnation des stablecoins révèlent des failles structurelles majeures dans l'écosystème.",
+  "risque_principal": "La saturation des opportunités alpha avec un plateau de rendements à 1.11% malgré 336 trades indique une dégradation de l'efficacité marginale algorithmique.",
+  "opportunite_du_jour": "L'explosion des derivatives DeFi sophistiqués face à l'effondrement de la DeFi 1.0 ouvre une rotation sectorielle majeure vers les produits financiers avancés.",
   "actifs_favorables": [
     "BTC",
-    "SOL",
-    "NEAR"
+    "INJ",
+    "ALGO"
   ],
   "actifs_risques": [
-    "FET",
-    "APT"
+    "CRV",
+    "OP"
   ],
-  "last_claude_run": "2026-06-13T20:28:49.307153+00:00"
+  "last_claude_run": "2026-06-14T08:31:26.405880+00:00"
 }
