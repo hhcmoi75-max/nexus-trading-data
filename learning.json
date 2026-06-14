@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-06-14T13:07:48.325230",
+    "last_update": "2026-06-14T13:14:34.175409",
     "win_rate_recent": 3.3
   },
   "asset_patterns": {
@@ -18890,6 +18890,33 @@
       "entry_hour_utc": 8,
       "entry_weekday": 6,
       "simulated": true
+    },
+    {
+      "asset": "LTC",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-14T11:14:53.005685+00:00",
+      "entry_time": "2026-06-14T11:14:53.005685+00:00",
+      "exit_time": "2026-06-14T11:14:53.005685+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 38.12,
+      "score": 89,
+      "rsi": 53.79,
+      "adx": 32.84,
+      "claude_confidence": 25,
+      "claude_reason": "LTC absent de la liste favorable malgré score ML élevé; confiance ML anormalement basse (12.1%) incompatible avec score 89/100; saturation algorithmique confirmée (plateau 1.11% sur 336 trades) suggère dégradation efficacité marginale; RSI neutre (53.79) sans confirmation d'impulsion; variation 24h nulle indique absence de momentum initial; contexte macro dilué entre opportunités DeFi et risques géopolitiques sans catalyseur direct LTC",
+      "ml_confidence": 12.1,
+      "score_technique": 75,
+      "score_macro": 72,
+      "score_sentiment": 68,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 18,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 11,
+      "entry_weekday": 6,
+      "simulated": true
     }
   ],
   "stats": {
@@ -18902,6 +18929,6 @@
     "best_trade": 25.48,
     "worst_trade": -9.65
   },
-  "last_update": "2026-06-14T13:08:29.000197",
+  "last_update": "2026-06-14T13:15:18.798983",
   "ml_accuracy": 89.3
 }
