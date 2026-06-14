@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-06-14T02:35:35.478222",
+    "last_update": "2026-06-14T02:42:38.637847",
     "win_rate_recent": 16.7
   },
   "asset_patterns": {
@@ -18384,6 +18384,33 @@
       "entry_hour_utc": 0,
       "entry_weekday": 6,
       "simulated": true
+    },
+    {
+      "asset": "NEAR",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-14T00:43:00.752389+00:00",
+      "entry_time": "2026-06-14T00:43:00.752389+00:00",
+      "exit_time": "2026-06-14T00:43:00.752389+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 1.8349,
+      "score": 85,
+      "rsi": 58.4,
+      "adx": 50.17,
+      "claude_confidence": 25,
+      "claude_reason": "Confiance ML anormalement basse (12.4%) malgré score élevé + signal technique HOLD contredit l'achat + NEAR déjà monopolise 60% du top 5 avec saturation intra-actif imminente après 3 gains consécutifs + variation 24h à 0% indique momentum épuisé + Fear&Greed neutre (50) sans catalyseur immédiat",
+      "ml_confidence": 12.4,
+      "score_technique": 57,
+      "score_macro": 72,
+      "score_sentiment": 68,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 18,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 0,
+      "entry_weekday": 6,
+      "simulated": true
     }
   ],
   "stats": {
@@ -18396,6 +18423,6 @@
     "best_trade": 25.48,
     "worst_trade": -9.65
   },
-  "last_update": "2026-06-14T02:36:15.039287",
+  "last_update": "2026-06-14T02:43:20.705523",
   "ml_accuracy": 90.1
 }
