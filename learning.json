@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-06-14T03:30:53.949712",
+    "last_update": "2026-06-14T03:37:38.626124",
     "win_rate_recent": 16.7
   },
   "asset_patterns": {
@@ -18411,6 +18411,33 @@
       "entry_hour_utc": 0,
       "entry_weekday": 6,
       "simulated": true
+    },
+    {
+      "asset": "ICP",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-14T01:38:03.959057+00:00",
+      "entry_time": "2026-06-14T01:38:03.959057+00:00",
+      "exit_time": "2026-06-14T01:38:03.959057+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 2.12,
+      "score": 86,
+      "rsi": 46.78,
+      "adx": 57.28,
+      "claude_confidence": 25,
+      "claude_reason": "ICP absent des actifs favorables, score ML 86 contredit par signal technique HOLD et confiance extrêmement faible 27.8%, RSI neutre 46.78, variation 24h nulle indique momentum absent, macro favorable insuffisante face aux signaux techniques divergents",
+      "ml_confidence": 27.8,
+      "score_technique": 47,
+      "score_macro": 72,
+      "score_sentiment": 68,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 18,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 1,
+      "entry_weekday": 6,
+      "simulated": true
     }
   ],
   "stats": {
@@ -18423,6 +18450,6 @@
     "best_trade": 25.48,
     "worst_trade": -9.65
   },
-  "last_update": "2026-06-14T03:31:33.550181",
+  "last_update": "2026-06-14T03:38:20.159759",
   "ml_accuracy": 90.2
 }
