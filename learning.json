@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-06-14T18:54:27.229404",
+    "last_update": "2026-06-14T19:01:12.885827",
     "win_rate_recent": 6.7
   },
   "asset_patterns": {
@@ -19104,6 +19104,33 @@
       "entry_hour_utc": 15,
       "entry_weekday": 6,
       "simulated": true
+    },
+    {
+      "asset": "ETC",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-14T17:01:40.237183+00:00",
+      "entry_time": "2026-06-14T17:01:40.237183+00:00",
+      "exit_time": "2026-06-14T17:01:40.237183+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 6.0359,
+      "score": 91,
+      "rsi": 24.3,
+      "adx": 21.88,
+      "claude_confidence": 15,
+      "claude_reason": "ETC absent de la liste des actifs favorables, confiance ML anormalement basse (15.3%), RSI extrêmement déprimé (24.3) suggérant un survendu sans catalyseur clair, variation 24h nulle indiquant une absence de momentum immédiat, et saturation algorithmique avérée (1.11% PnL sur 336 trades) réduit les marges de profitabilité sur les signaux faibles",
+      "ml_confidence": 15.3,
+      "score_technique": 76,
+      "score_macro": 72,
+      "score_sentiment": 68,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 18,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 17,
+      "entry_weekday": 6,
+      "simulated": true
     }
   ],
   "stats": {
@@ -19116,6 +19143,6 @@
     "best_trade": 25.48,
     "worst_trade": -9.65
   },
-  "last_update": "2026-06-14T18:55:07.501091",
+  "last_update": "2026-06-14T19:01:55.257455",
   "ml_accuracy": 89.4
 }
