@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-06-14T10:03:48.881739",
+    "last_update": "2026-06-14T10:10:39.849151",
     "win_rate_recent": 20.0
   },
   "asset_patterns": {
@@ -18647,6 +18647,60 @@
       "entry_hour_utc": 8,
       "entry_weekday": 6,
       "simulated": true
+    },
+    {
+      "asset": "BCH",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-14T08:10:56.460771+00:00",
+      "entry_time": "2026-06-14T08:10:56.460771+00:00",
+      "exit_time": "2026-06-14T08:10:56.460771+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 176.13,
+      "score": 89,
+      "rsi": 37.77,
+      "adx": 26.04,
+      "claude_confidence": 25,
+      "claude_reason": "BCH absent de la liste des actifs favorables, confiance ML très faible (15.8%), RSI en zone de survente mais sans confirmation ADX suffisante (26.0), et contexte macro montrant saturation alpha avec rendements dégradés malgré 336 trades",
+      "ml_confidence": 15.8,
+      "score_technique": 72,
+      "score_macro": 72,
+      "score_sentiment": 68,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 18,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 8,
+      "entry_weekday": 6,
+      "simulated": true
+    },
+    {
+      "asset": "ICP",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-14T08:11:13.352312+00:00",
+      "entry_time": "2026-06-14T08:11:13.352312+00:00",
+      "exit_time": "2026-06-14T08:11:13.352312+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 2.14,
+      "score": 85,
+      "rsi": 54.84,
+      "adx": 27.67,
+      "claude_confidence": 25,
+      "claude_reason": "ICP absent de la liste favorable (NEAR, ATOM, TRX, INJ, ALGO, SEI, AVAX, DOGE), signal technique en HOLD contredit le ML, confiance ML très faible à 14.3%, RSI neutre à 54.84 sans momentum directif, et variation 24h nulle indique absence de dynamique",
+      "ml_confidence": 14.3,
+      "score_technique": 59,
+      "score_macro": 72,
+      "score_sentiment": 68,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 18,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 8,
+      "entry_weekday": 6,
+      "simulated": true
     }
   ],
   "stats": {
@@ -18659,6 +18713,6 @@
     "best_trade": 25.48,
     "worst_trade": -9.65
   },
-  "last_update": "2026-06-14T10:04:33.903716",
-  "ml_accuracy": 91.3
+  "last_update": "2026-06-14T10:11:29.645982",
+  "ml_accuracy": 90.4
 }
