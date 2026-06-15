@@ -1,10 +1,10 @@
 {
   "version": 2,
   "weights": {
-    "technique": 0.363,
-    "macro": 0.379,
-    "sentiment": 0.204,
-    "onchain": 0.054
+    "technique": 0.356,
+    "macro": 0.391,
+    "sentiment": 0.2,
+    "onchain": 0.053
   },
   "thresholds": {
     "MIN_SCORE_BUY": 85,
@@ -13,33 +13,28 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-06-16T00:40:55.439000",
-    "win_rate_recent": 50.0
+    "last_update": "2026-06-16T00:47:44.753044",
+    "win_rate_recent": 46.7
   },
   "asset_patterns": {
     "NEAR": {
-      "trades": 12,
-      "wins": 7,
+      "trades": 13,
+      "wins": 8,
       "losses": 5,
-      "win_rate": 58.3,
-      "avg_pnl": 0.12,
+      "win_rate": 61.5,
+      "avg_pnl": 1.0,
       "best_rsi_range": [
         35.1,
-        53.9
+        56.6
       ],
       "avoid_conditions": [
         "RSI=50 change=-1.0%"
       ],
       "favorable_conditions": [
-        "RSI=50 change=-3.6%"
+        "RSI=50 change=-3.6%",
+        "RSI=57 change=0.0%"
       ],
       "last_trades": [
-        {
-          "rsi": 50.3,
-          "change_24h": 0.0,
-          "pnl": 2.89,
-          "result": "win"
-        },
         {
           "rsi": 35.1,
           "change_24h": 0.0,
@@ -92,6 +87,12 @@
           "rsi": 47.25,
           "change_24h": 0.0,
           "pnl": 1.33,
+          "result": "win"
+        },
+        {
+          "rsi": 56.57,
+          "change_24h": 0.0,
+          "pnl": 11.05,
           "result": "win"
         }
       ]
@@ -21078,18 +21079,157 @@
       "entry_hour_utc": 22,
       "entry_weekday": 0,
       "simulated": true
+    },
+    {
+      "asset": "SOL",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-15T22:47:54.835852+00:00",
+      "entry_time": "2026-06-15T22:47:54.835852+00:00",
+      "exit_time": "2026-06-15T22:47:54.835852+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 63.730000000000004,
+      "score": 91,
+      "rsi": 61.87,
+      "adx": 57.11,
+      "claude_confidence": 15,
+      "claude_reason": "SOL absent des actifs favorables malgré score ML élevé; confiance ML très basse (21.9%) incompatible avec risque géopolitique majeur (BOJ mardi); signal technique HOLD contredit l'achat; contexte macro instable avec risque de déstabilisation yen crée volatilité non-priced; pattern historique montre saturation alpha à 336 trades avec dégradation efficacité marginale",
+      "ml_confidence": 21.9,
+      "score_technique": 45,
+      "score_macro": 75,
+      "score_sentiment": 72,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 20,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 22,
+      "entry_weekday": 0,
+      "simulated": true
+    },
+    {
+      "asset": "NEAR",
+      "partial_exits": [],
+      "paliers_done": [
+        "0.08",
+        "0.15"
+      ],
+      "action": "TRAILING_STOP",
+      "exit_reason": "TP_PALIER_15",
+      "entry_price_eur": 1.8348,
+      "exit_price_eur": 2.084,
+      "pnl_pct": 11.05,
+      "pnl_eur": 3.24,
+      "amount_eur": 29.32,
+      "features": [],
+      "ml_score": 0,
+      "entry_time": "2026-06-14T00:50:06.621475+00:00",
+      "exit_time": "2026-06-16T00:48:07.343351",
+      "entry_rsi": 56.57,
+      "entry_score": 87,
+      "entry_change_24h": 0.0,
+      "exit_type_code": 2,
+      "candle_score": 0,
+      "stoch_k": 13.77,
+      "fib_score": 0,
+      "dist_support_pct": 6.48,
+      "dist_resistance_pct": 1.94,
+      "entry_hour_utc": 0,
+      "entry_weekday": 6,
+      "btc_change_at_entry": 0,
+      "btc_status": "ok",
+      "claude_confidence": 50,
+      "adx": 50.17,
+      "psar_bull": true,
+      "above_ema200": true,
+      "fear_greed": 18,
+      "entry_snapshot": {
+        "score_technique": 65,
+        "score_macro": 72,
+        "score_sentiment": 68,
+        "score_momentum": 42,
+        "score_volume": 50,
+        "onchain_score": null,
+        "score": 87,
+        "rsi": 56.57,
+        "change_24h": 0.0,
+        "type": "crypto",
+        "adx": 50.17,
+        "psar_bull": true,
+        "above_ema200": true,
+        "fear_greed": 18,
+        "entry_hour_utc": 0,
+        "entry_weekday": 6,
+        "btc_change_at_entry": 0,
+        "btc_status": "ok",
+        "claude_confidence": 50
+      }
+    },
+    {
+      "asset": "DOT",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-15T22:48:12.434684+00:00",
+      "entry_time": "2026-06-15T22:48:12.434684+00:00",
+      "exit_time": "2026-06-15T22:48:12.434684+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 0.867,
+      "score": 90,
+      "rsi": 46.21,
+      "adx": 46.4,
+      "claude_confidence": 15,
+      "claude_reason": "DOT absent de la liste favorable et présent implicitement dans les actifs à éviter (ecosystem Cosmos volatil). Score ML 90/100 contredit par confiance 27.6% très faible et signal technique HOLD. Contexte macro instable (Iran-USA, risque BOJ) incompatible avec position faible. Pattern ATOM révèle volatilité extrême du secteur Cosmos. Saturation alpha détectée (336 trades, rendements dégradés).",
+      "ml_confidence": 27.6,
+      "score_technique": 51,
+      "score_macro": 75,
+      "score_sentiment": 72,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 20,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 22,
+      "entry_weekday": 0,
+      "simulated": true
+    },
+    {
+      "asset": "INJ",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-15T22:48:28.237494+00:00",
+      "entry_time": "2026-06-15T22:48:28.237494+00:00",
+      "exit_time": "2026-06-15T22:48:28.237494+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 4.7594,
+      "score": 87,
+      "rsi": 55.45,
+      "adx": 48.28,
+      "claude_confidence": 25,
+      "claude_reason": "Confiance ML critique (16.3%), signal technique HOLD contradictoire, variation 24h nulle, risque macro majeur (BOJ/yen) et Fear&Greed neutre créent confluence négative malgré score ML élevé et présence d'INJ dans actifs favorables",
+      "ml_confidence": 16.3,
+      "score_technique": 57,
+      "score_macro": 75,
+      "score_sentiment": 72,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 20,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 22,
+      "entry_weekday": 0,
+      "simulated": true
     }
   ],
   "stats": {
-    "total_closed": 235,
-    "wins": 149,
+    "total_closed": 236,
+    "wins": 150,
     "losses": 86,
-    "win_rate": 63.4,
-    "avg_pnl": 1.51,
-    "total_pnl": 354.94,
+    "win_rate": 63.6,
+    "avg_pnl": 1.55,
+    "total_pnl": 365.99,
     "best_trade": 25.48,
     "worst_trade": -9.65
   },
-  "last_update": "2026-06-16T00:41:38.552892",
+  "last_update": "2026-06-16T00:48:37.189509",
   "ml_accuracy": 88.6
 }
