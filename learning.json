@@ -13,8 +13,8 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-06-16T00:47:44.753044",
-    "win_rate_recent": 46.7
+    "last_update": "2026-06-16T00:54:43.319294",
+    "win_rate_recent": 40.0
   },
   "asset_patterns": {
     "NEAR": {
@@ -21218,6 +21218,60 @@
       "entry_hour_utc": 22,
       "entry_weekday": 0,
       "simulated": true
+    },
+    {
+      "asset": "SOL",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-15T22:54:53.541341+00:00",
+      "entry_time": "2026-06-15T22:54:53.541341+00:00",
+      "exit_time": "2026-06-15T22:54:53.541341+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 63.68,
+      "score": 91,
+      "rsi": 61.51,
+      "adx": 57.11,
+      "claude_confidence": 15,
+      "claude_reason": "SOL n'est pas dans la liste des actifs favorables (absent de NEAR/ATOM/TRX/INJ/ALGO/SEI/AVAX/DOGE). Confiance ML très basse à 23.4% malgré score élevé. Signal technique HOLD contredit l'achat. Contexte macro instable (risque BOJ mardi, tensions géopolitiques) et Fear&Greed neutre. Variation 24h à 0% indique momentum faible.",
+      "ml_confidence": 23.4,
+      "score_technique": 45,
+      "score_macro": 75,
+      "score_sentiment": 72,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 20,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 22,
+      "entry_weekday": 0,
+      "simulated": true
+    },
+    {
+      "asset": "NEAR",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-15T22:55:10.049577+00:00",
+      "entry_time": "2026-06-15T22:55:10.049577+00:00",
+      "exit_time": "2026-06-15T22:55:10.049577+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 2.0696,
+      "score": 86,
+      "rsi": 52.44,
+      "adx": 76.62,
+      "claude_confidence": 25,
+      "claude_reason": "Score ML élevé (86) contredit par confiance très faible (14.4%), signal technique HOLD, variation 24h nulle, et contexte macro instable (risque BOJ mardi). NEAR en liste favorable mais conditions d'entrée insuffisantes. ADX élevé (76.6) indique épuisement potentiel. Risque géopolitique majeur justifie prudence malgré historique positif du bot.",
+      "ml_confidence": 14.4,
+      "score_technique": 59,
+      "score_macro": 75,
+      "score_sentiment": 72,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 20,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 22,
+      "entry_weekday": 0,
+      "simulated": true
     }
   ],
   "stats": {
@@ -21230,6 +21284,6 @@
     "best_trade": 25.48,
     "worst_trade": -9.65
   },
-  "last_update": "2026-06-16T00:48:37.189509",
-  "ml_accuracy": 88.6
+  "last_update": "2026-06-16T00:55:35.985876",
+  "ml_accuracy": 89.5
 }
