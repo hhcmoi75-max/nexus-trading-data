@@ -1,18 +1,18 @@
 {
-  "score_macro": 35,
-  "score_sentiment": 42,
-  "tendance_marche": "BAISSIER",
-  "contexte": "Les marchés crypto stagnent complètement avec 0% de variation sur tous les actifs majeurs, traduisant une paralysie totale des investisseurs. Les news bearish sur Bitcoin (crash potentiel à 48k$) et l'analyse technique de StanChart recherchant des signes de bottom confirment un environnement défavorable.",
-  "risque_principal": "La stagnation parfaite cache une volatilité latente explosive qui pourrait se déclencher brutalement vers le bas selon les patterns historiques évoqués.",
-  "opportunite_du_jour": "Les actifs cosmos-ecosystem (ATOM) montrent des patterns de résurrection explosive après purges, offrant des swings de +19.7% pour les traders agiles.",
+  "score_macro": 75,
+  "score_sentiment": 72,
+  "tendance_marche": "HAUSSIER",
+  "contexte": "Le marché évolue dans un contexte géopolitique instable avec les tensions Iran-USA qui créent de la volatilité, mais les annonces d'accords de paix de Trump et les décisions potentielles de la BOJ sur le yen soutiennent les actifs risqués. L'achat massif d'actions SpaceX par Ark Invest ($500M) signale un appétit institutionnel fort pour les actifs alternatifs.",
+  "risque_principal": "La position short record sur le yen (9 ans) crée un risque de déstabilisation majeure si la BOJ durcit sa politique monétaire mardi.",
+  "opportunite_du_jour": "XRP teste sa résistance clé au-dessus de $1.18 avec un momentum de +4%, offrant une opportunité de breakout technique.",
   "actifs_favorables": [
-    "ALGO",
-    "DOGE",
-    "LINK"
+    "XRP",
+    "BTC",
+    "SOL"
   ],
   "actifs_risques": [
-    "BTC",
-    "OP"
+    "ETH",
+    "BNB"
   ],
-  "last_claude_run": "2026-06-14T20:38:17.611422+00:00"
+  "last_claude_run": "2026-06-15T08:42:30.638269+00:00"
 }
