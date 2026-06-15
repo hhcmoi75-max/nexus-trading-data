@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-06-15T20:00:03.554980",
+    "last_update": "2026-06-15T20:07:06.440257",
     "win_rate_recent": 36.7
   },
   "asset_patterns": {
@@ -20041,6 +20041,60 @@
       "entry_hour_utc": 17,
       "entry_weekday": 0,
       "simulated": true
+    },
+    {
+      "asset": "DOT",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-15T18:07:31.945080+00:00",
+      "entry_time": "2026-06-15T18:07:31.945080+00:00",
+      "exit_time": "2026-06-15T18:07:31.945080+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 0.8924870323899999,
+      "score": 93,
+      "rsi": 68.58,
+      "adx": 54.18,
+      "claude_confidence": 15,
+      "claude_reason": "DOT absent de liste blanche malgre score ML eleve; confiance ML 11.8% insuffisante; signal technique HOLD contredit achat; RSI 68.58 suracheté; contexte macro instable (BOJ mardi, tensions geopolitiques); saturation alpha observee (336 trades, rendements plateaumes); rotation sectorielle vers derivatives/perps penalise Layer-1; risque yen destabilisation majeure",
+      "ml_confidence": 11.8,
+      "score_technique": 46,
+      "score_macro": 75,
+      "score_sentiment": 72,
+      "score_momentum": 55,
+      "score_volume": 50,
+      "fear_greed": 20,
+      "btc_change_at_entry": 4.86709,
+      "btc_status": "ok",
+      "entry_hour_utc": 18,
+      "entry_weekday": 0,
+      "simulated": true
+    },
+    {
+      "asset": "FIL",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-15T18:07:41.743254+00:00",
+      "entry_time": "2026-06-15T18:07:41.743254+00:00",
+      "exit_time": "2026-06-15T18:07:41.743254+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 0.70307329129995,
+      "score": 88,
+      "rsi": 67.28,
+      "adx": 48.92,
+      "claude_confidence": 15,
+      "claude_reason": "FIL est explicitement dans la liste 'à éviter', le signal technique contredit le ML (HOLD vs achat), la confiance ML est très faible (13%), et le contexte macro instable (risque yen/BOJ mardi) justifie une prudence maximale",
+      "ml_confidence": 13.0,
+      "score_technique": 45,
+      "score_macro": 75,
+      "score_sentiment": 72,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 20,
+      "btc_change_at_entry": 4.86709,
+      "btc_status": "ok",
+      "entry_hour_utc": 18,
+      "entry_weekday": 0,
+      "simulated": true
     }
   ],
   "stats": {
@@ -20053,6 +20107,6 @@
     "best_trade": 25.48,
     "worst_trade": -9.65
   },
-  "last_update": "2026-06-15T20:00:44.880386",
+  "last_update": "2026-06-15T20:07:46.703693",
   "ml_accuracy": 87.0
 }
