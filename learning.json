@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-06-15T18:58:38.588785",
+    "last_update": "2026-06-15T19:05:39.724390",
     "win_rate_recent": 36.7
   },
   "asset_patterns": {
@@ -20014,6 +20014,33 @@
         "claude_confidence": 50
       },
       "simulated": false
+    },
+    {
+      "asset": "FIL",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-15T17:06:11.574531+00:00",
+      "entry_time": "2026-06-15T17:06:11.574531+00:00",
+      "exit_time": "2026-06-15T17:06:11.574531+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 0.69968996194967,
+      "score": 90,
+      "rsi": 60.43,
+      "adx": 48.8,
+      "claude_confidence": 15,
+      "claude_reason": "FIL est en liste noire d'évitement malgré score ML élevé. Confiance ML très faible (10.6%), signal technique en HOLD, variation 24h nulle. Contexte macro instable (risque BOJ/yen) justifie prudence. Actifs favorables disponibles (NEAR, ATOM, INJ, SEI, AVAX, DOGE) offrent meilleur profil risque-rendement. Pattern historique montre saturation alpha à 336 trades avec dégradation efficacité marginale.",
+      "ml_confidence": 10.6,
+      "score_technique": 50,
+      "score_macro": 75,
+      "score_sentiment": 72,
+      "score_momentum": 55,
+      "score_volume": 50,
+      "fear_greed": 20,
+      "btc_change_at_entry": 4.58799,
+      "btc_status": "ok",
+      "entry_hour_utc": 17,
+      "entry_weekday": 0,
+      "simulated": true
     }
   ],
   "stats": {
@@ -20026,6 +20053,6 @@
     "best_trade": 25.48,
     "worst_trade": -9.65
   },
-  "last_update": "2026-06-15T18:59:18.589629",
+  "last_update": "2026-06-15T19:06:16.591883",
   "ml_accuracy": 87.5
 }
