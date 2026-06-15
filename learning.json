@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-06-15T11:23:37.995125",
+    "last_update": "2026-06-15T11:30:29.206869",
     "win_rate_recent": 16.7
   },
   "asset_patterns": {
@@ -19482,6 +19482,33 @@
       "entry_hour_utc": 9,
       "entry_weekday": 0,
       "simulated": true
+    },
+    {
+      "asset": "ICP",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-15T09:30:55.487314+00:00",
+      "entry_time": "2026-06-15T09:30:55.487314+00:00",
+      "exit_time": "2026-06-15T09:30:55.487314+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 2.17,
+      "score": 86,
+      "rsi": 55.2,
+      "adx": 34.07,
+      "claude_confidence": 15,
+      "claude_reason": "ICP présente une confiance ML extrêmement faible (12.9%), un signal technique en HOLD, une variation 24h nulle et n'apparaît pas dans la liste des actifs favorables du bot. Le contexte macro instable (tensions géopolitiques, risque BOJ mardi) exige une sélectivité maximale. Préférer les 8 actifs avec coefficient de résistance statistique prouvé (ALGO, SEI, AVAX, DOGE).",
+      "ml_confidence": 12.9,
+      "score_technique": 57,
+      "score_macro": 75,
+      "score_sentiment": 72,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 20,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 9,
+      "entry_weekday": 0,
+      "simulated": true
     }
   ],
   "stats": {
@@ -19494,6 +19521,6 @@
     "best_trade": 25.48,
     "worst_trade": -9.65
   },
-  "last_update": "2026-06-15T11:24:21.420600",
+  "last_update": "2026-06-15T11:31:11.826433",
   "ml_accuracy": 87.5
 }
