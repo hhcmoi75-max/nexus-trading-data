@@ -13,8 +13,8 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-06-16T01:49:47.590769",
-    "win_rate_recent": 23.3
+    "last_update": "2026-06-16T01:56:44.342828",
+    "win_rate_recent": 13.3
   },
   "asset_patterns": {
     "NEAR": {
@@ -21596,6 +21596,60 @@
       "entry_hour_utc": 23,
       "entry_weekday": 0,
       "simulated": true
+    },
+    {
+      "asset": "BCH",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-15T23:57:06.291550+00:00",
+      "entry_time": "2026-06-15T23:57:06.291550+00:00",
+      "exit_time": "2026-06-15T23:57:06.291550+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 193.6,
+      "score": 89,
+      "rsi": 64.54,
+      "adx": 44.31,
+      "claude_confidence": 15,
+      "claude_reason": "BCH absent de la liste blanche des actifs favorables, confiance ML très faible (10.8%), contexte macro instable (risque BOJ/yen mardi), variation 24h nulle indique pas de momentum. RSI élevé (64.54) suggère suracheté. Signal technique fort (89/100) contredit par confiance insuffisante et absence de BCH dans les 8 actifs performants identifiés par la sagesse du bot.",
+      "ml_confidence": 10.8,
+      "score_technique": 77,
+      "score_macro": 75,
+      "score_sentiment": 72,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 20,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 23,
+      "entry_weekday": 0,
+      "simulated": true
+    },
+    {
+      "asset": "NEAR",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-15T23:57:13.682299+00:00",
+      "entry_time": "2026-06-15T23:57:13.682299+00:00",
+      "exit_time": "2026-06-15T23:57:13.682299+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 2.0572,
+      "score": 87,
+      "rsi": 51.77,
+      "adx": 73.22,
+      "claude_confidence": 35,
+      "claude_reason": "Score ML 87/100 contredit par confiance 27.8% insuffisante et signal technique HOLD. Contexte macro instable (risque BOJ mardi, positions yen record). NEAR en liste favorable mais variation 24h à 0% et RSI 51.77 neutre. ADX 73.2 élevé mais dans contexte géopolitique volatile. Attendre clarification BOJ et confirmation technique avant entrée.",
+      "ml_confidence": 27.8,
+      "score_technique": 47,
+      "score_macro": 75,
+      "score_sentiment": 72,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 20,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 23,
+      "entry_weekday": 0,
+      "simulated": true
     }
   ],
   "stats": {
@@ -21608,6 +21662,6 @@
     "best_trade": 25.48,
     "worst_trade": -9.65
   },
-  "last_update": "2026-06-16T01:50:38.318830",
-  "ml_accuracy": 89.0
+  "last_update": "2026-06-16T01:57:34.160392",
+  "ml_accuracy": 90.3
 }
