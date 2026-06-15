@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-06-15T11:16:48.578960",
+    "last_update": "2026-06-15T11:23:37.995125",
     "win_rate_recent": 16.7
   },
   "asset_patterns": {
@@ -19455,6 +19455,33 @@
       "entry_hour_utc": 9,
       "entry_weekday": 0,
       "simulated": true
+    },
+    {
+      "asset": "ICP",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-15T09:24:05.070996+00:00",
+      "entry_time": "2026-06-15T09:24:05.070996+00:00",
+      "exit_time": "2026-06-15T09:24:05.070996+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 2.18,
+      "score": 90,
+      "rsi": 55.53,
+      "adx": 34.07,
+      "claude_confidence": 15,
+      "claude_reason": "ICP absent de la liste des actifs favorables et présent implicitement dans les actifs à éviter par exclusion; confiance ML extrêmement basse (11.3%) incompatible avec le score de 90/100; contexte macro instable (BOJ mardi, tensions géopolitiques) déconseille les entrées marginales; variation 24h à 0% indique une absence de momentum confirmateur; l'actif ne figure pas parmi les 5 actifs invulnérables identifiés par le système",
+      "ml_confidence": 11.3,
+      "score_technique": 69,
+      "score_macro": 75,
+      "score_sentiment": 72,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 20,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 9,
+      "entry_weekday": 0,
+      "simulated": true
     }
   ],
   "stats": {
@@ -19467,6 +19494,6 @@
     "best_trade": 25.48,
     "worst_trade": -9.65
   },
-  "last_update": "2026-06-15T11:17:30.723359",
-  "ml_accuracy": 88.9
+  "last_update": "2026-06-15T11:24:21.420600",
+  "ml_accuracy": 87.5
 }
