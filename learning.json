@@ -13,8 +13,8 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-06-16T01:01:42.112918",
-    "win_rate_recent": 40.0
+    "last_update": "2026-06-16T01:08:35.942604",
+    "win_rate_recent": 36.7
   },
   "asset_patterns": {
     "NEAR": {
@@ -21326,6 +21326,60 @@
       "entry_hour_utc": 23,
       "entry_weekday": 0,
       "simulated": true
+    },
+    {
+      "asset": "SOL",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-15T23:08:46.476276+00:00",
+      "entry_time": "2026-06-15T23:08:46.476276+00:00",
+      "exit_time": "2026-06-15T23:08:46.476276+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 63.72,
+      "score": 99,
+      "rsi": 61.92,
+      "adx": 56.31,
+      "claude_confidence": 15,
+      "claude_reason": "SOL absent de la liste des actifs favorables malgré score ML élevé; confiance ML anormalement basse (12.1%) contredit le score 99/100 suggérant une anomalie; contexte macro instable avec risque BOJ mardi crée volatilité systémique; variation 24h à 0% manque momentum; saturation algorithmique détectée (336 trades, plateau de rendements) requiert sélectivité accrue sur seuls actifs prouvés (NEAR, ATOM, ALGO, SEI, AVAX, DOGE)",
+      "ml_confidence": 12.1,
+      "score_technique": 65,
+      "score_macro": 75,
+      "score_sentiment": 72,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 20,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 23,
+      "entry_weekday": 0,
+      "simulated": true
+    },
+    {
+      "asset": "NEAR",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-15T23:09:01.204909+00:00",
+      "entry_time": "2026-06-15T23:09:01.204909+00:00",
+      "exit_time": "2026-06-15T23:09:01.204909+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 2.0573,
+      "score": 87,
+      "rsi": 50.83,
+      "adx": 73.8,
+      "claude_confidence": 25,
+      "claude_reason": "Signal ML contradictoire (87/100 mais confiance 30.4% seulement), RSI neutre (50.83), ADX élevé mais signal technique en HOLD, variation 24h nulle, et contexte macro instable avec risque BOJ majeur mardi. NEAR est dans les favorables mais les signaux techniques manquent de conviction. Attendre clarification post-BOJ.",
+      "ml_confidence": 30.4,
+      "score_technique": 47,
+      "score_macro": 75,
+      "score_sentiment": 72,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 20,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 23,
+      "entry_weekday": 0,
+      "simulated": true
     }
   ],
   "stats": {
@@ -21338,6 +21392,6 @@
     "best_trade": 25.48,
     "worst_trade": -9.65
   },
-  "last_update": "2026-06-16T01:02:29.865431",
+  "last_update": "2026-06-16T01:09:21.678204",
   "ml_accuracy": 89.8
 }
