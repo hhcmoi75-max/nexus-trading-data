@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-06-16T00:33:55.769325",
+    "last_update": "2026-06-16T00:40:55.439000",
     "win_rate_recent": 50.0
   },
   "asset_patterns": {
@@ -21051,6 +21051,33 @@
       "entry_hour_utc": 22,
       "entry_weekday": 0,
       "simulated": true
+    },
+    {
+      "asset": "ETC",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-15T22:41:23.272066+00:00",
+      "entry_time": "2026-06-15T22:41:23.272066+00:00",
+      "exit_time": "2026-06-15T22:41:23.272066+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 6.4158,
+      "score": 87,
+      "rsi": 59.58,
+      "adx": 46.67,
+      "claude_confidence": 15,
+      "claude_reason": "ETC non présent dans liste favorable (absencé de NEAR, ATOM, TRX, INJ, ALGO, SEI, AVAX, DOGE), confiance ML très faible 14.6% malgré score 87, signal technique en HOLD, contexte macro instable (tension Iran-USA, risque BOJ mardi sur positions yen), variation 24h nulle suggère momentum absent, actif absent aussi de liste éviter mais pas validé par patterns historiques du bot (63.4% WR sur favoris seulement)",
+      "ml_confidence": 14.6,
+      "score_technique": 57,
+      "score_macro": 75,
+      "score_sentiment": 72,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 20,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 22,
+      "entry_weekday": 0,
+      "simulated": true
     }
   ],
   "stats": {
@@ -21063,6 +21090,6 @@
     "best_trade": 25.48,
     "worst_trade": -9.65
   },
-  "last_update": "2026-06-16T00:34:44.191863",
-  "ml_accuracy": 90.2
+  "last_update": "2026-06-16T00:41:38.552892",
+  "ml_accuracy": 88.6
 }
