@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-06-15T16:18:41.290575",
+    "last_update": "2026-06-15T16:25:48.831766",
     "win_rate_recent": 30.0
   },
   "asset_patterns": {
@@ -19798,6 +19798,33 @@
       "entry_hour_utc": 14,
       "entry_weekday": 0,
       "simulated": true
+    },
+    {
+      "asset": "INJ",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-15T14:26:32.829958+00:00",
+      "entry_time": "2026-06-15T14:26:32.829958+00:00",
+      "exit_time": "2026-06-15T14:26:32.829958+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 4.7734,
+      "score": 85,
+      "rsi": 73.04,
+      "adx": 30.4,
+      "claude_confidence": 15,
+      "claude_reason": "Score ML élevé (85) contredit par confiance très faible (27.2%), RSI suracheté (73.04), signal technique HOLD, et variation 24h nulle. Contexte macro instable avec risque BOJ majeur mardi. INJ favorable en liste sagesse mais conditions d'entrée insuffisantes. Attendre confirmation technique et clarification géopolitique.",
+      "ml_confidence": 27.2,
+      "score_technique": 49,
+      "score_macro": 75,
+      "score_sentiment": 72,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 20,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 14,
+      "entry_weekday": 0,
+      "simulated": true
     }
   ],
   "stats": {
@@ -19810,6 +19837,6 @@
     "best_trade": 25.48,
     "worst_trade": -9.65
   },
-  "last_update": "2026-06-15T16:19:31.731027",
-  "ml_accuracy": 89.2
+  "last_update": "2026-06-15T16:26:42.087151",
+  "ml_accuracy": 88.1
 }
