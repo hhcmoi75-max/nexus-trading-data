@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-06-15T17:56:28.252560",
+    "last_update": "2026-06-15T18:03:48.605535",
     "win_rate_recent": 33.3
   },
   "asset_patterns": {
@@ -19940,6 +19940,33 @@
         "btc_status": "ok",
         "claude_confidence": 50
       }
+    },
+    {
+      "asset": "FIL",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-15T16:04:20.224634+00:00",
+      "entry_time": "2026-06-15T16:04:20.224634+00:00",
+      "exit_time": "2026-06-15T16:04:20.224634+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 0.7031933839403199,
+      "score": 88,
+      "rsi": 66.5,
+      "adx": 49.97,
+      "claude_confidence": 15,
+      "claude_reason": "FIL figure dans la liste 'A eviter', signal technique en HOLD contredit le score ML élevé, confiance ML anormalement basse (10.8%), contexte macro instable avec risque BOJ mardi, et absence de FIL dans les actifs favorables du bot historiquement performants",
+      "ml_confidence": 10.8,
+      "score_technique": 46,
+      "score_macro": 75,
+      "score_sentiment": 72,
+      "score_momentum": 55,
+      "score_volume": 50,
+      "fear_greed": 20,
+      "btc_change_at_entry": 4.88459,
+      "btc_status": "ok",
+      "entry_hour_utc": 16,
+      "entry_weekday": 0,
+      "simulated": true
     }
   ],
   "stats": {
@@ -19952,6 +19979,6 @@
     "best_trade": 25.48,
     "worst_trade": -9.65
   },
-  "last_update": "2026-06-15T17:57:08.279909",
+  "last_update": "2026-06-15T18:04:25.233904",
   "ml_accuracy": 87.6
 }
