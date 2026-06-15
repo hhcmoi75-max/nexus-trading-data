@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-06-16T00:54:43.319294",
+    "last_update": "2026-06-16T01:01:42.112918",
     "win_rate_recent": 40.0
   },
   "asset_patterns": {
@@ -21272,6 +21272,60 @@
       "entry_hour_utc": 22,
       "entry_weekday": 0,
       "simulated": true
+    },
+    {
+      "asset": "SOL",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-15T23:01:52.097839+00:00",
+      "entry_time": "2026-06-15T23:01:52.097839+00:00",
+      "exit_time": "2026-06-15T23:01:52.097839+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 63.64,
+      "score": 91,
+      "rsi": 60.99,
+      "adx": 56.31,
+      "claude_confidence": 15,
+      "claude_reason": "SOL absent de la liste des actifs favorables malgré score ML élevé; confiance ML très faible (22.5%); signal technique en HOLD contredit l'achat; contexte macro instable (risque BOJ mardi); variation 24h nulle suggère manque de momentum; volatilité géopolitique non favorable; pattern historical montre saturation alpha à 336 trades avec rendements marginaux décroissants",
+      "ml_confidence": 22.5,
+      "score_technique": 45,
+      "score_macro": 75,
+      "score_sentiment": 72,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 20,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 23,
+      "entry_weekday": 0,
+      "simulated": true
+    },
+    {
+      "asset": "NEAR",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-15T23:02:09.424391+00:00",
+      "entry_time": "2026-06-15T23:02:09.424391+00:00",
+      "exit_time": "2026-06-15T23:02:09.424391+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 2.0724,
+      "score": 87,
+      "rsi": 52.09,
+      "adx": 74.21,
+      "claude_confidence": 15,
+      "claude_reason": "Confiance ML trop faible (26.9%), signal technique en HOLD, variation 24h nulle, risque macro élevé (BOJ mardi), et contexte géopolitique instable malgré présence en liste favorable",
+      "ml_confidence": 26.9,
+      "score_technique": 47,
+      "score_macro": 75,
+      "score_sentiment": 72,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 20,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 23,
+      "entry_weekday": 0,
+      "simulated": true
     }
   ],
   "stats": {
@@ -21284,6 +21338,6 @@
     "best_trade": 25.48,
     "worst_trade": -9.65
   },
-  "last_update": "2026-06-16T00:55:35.985876",
-  "ml_accuracy": 89.5
+  "last_update": "2026-06-16T01:02:29.865431",
+  "ml_accuracy": 89.8
 }
