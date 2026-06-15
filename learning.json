@@ -13,8 +13,8 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-06-16T01:08:35.942604",
-    "win_rate_recent": 36.7
+    "last_update": "2026-06-16T01:15:27.044660",
+    "win_rate_recent": 33.3
   },
   "asset_patterns": {
     "NEAR": {
@@ -21380,6 +21380,60 @@
       "entry_hour_utc": 23,
       "entry_weekday": 0,
       "simulated": true
+    },
+    {
+      "asset": "SOL",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-15T23:15:40.205568+00:00",
+      "entry_time": "2026-06-15T23:15:40.205568+00:00",
+      "exit_time": "2026-06-15T23:15:40.205568+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 63.7,
+      "score": 96,
+      "rsi": 62.77,
+      "adx": 56.31,
+      "claude_confidence": 15,
+      "claude_reason": "SOL n'est pas dans la liste des actifs favorables malgré un score ML élevé. La confiance ML de 13.9% est extrêmement basse et contredit le score de 96/100. Le signal technique est HOLD, pas BUY. Le contexte macro instable (tensions géopolitiques, risque BOJ) justifie une prudence accrue. La variation 24h nulle indique une absence de momentum.",
+      "ml_confidence": 13.9,
+      "score_technique": 57,
+      "score_macro": 75,
+      "score_sentiment": 72,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 20,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 23,
+      "entry_weekday": 0,
+      "simulated": true
+    },
+    {
+      "asset": "NEAR",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-15T23:15:54.530041+00:00",
+      "entry_time": "2026-06-15T23:15:54.530041+00:00",
+      "exit_time": "2026-06-15T23:15:54.530041+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 2.0609,
+      "score": 87,
+      "rsi": 50.83,
+      "adx": 73.8,
+      "claude_confidence": 15,
+      "claude_reason": "Confiance ML insuffisante (28.4%), signal technique en HOLD, variation 24h nulle et risque macro majeur (BOJ mardi) justifient le rejet malgré score ML élevé et présence en liste favorable",
+      "ml_confidence": 28.4,
+      "score_technique": 47,
+      "score_macro": 75,
+      "score_sentiment": 72,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 20,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 23,
+      "entry_weekday": 0,
+      "simulated": true
     }
   ],
   "stats": {
@@ -21392,6 +21446,6 @@
     "best_trade": 25.48,
     "worst_trade": -9.65
   },
-  "last_update": "2026-06-16T01:09:21.678204",
-  "ml_accuracy": 89.8
+  "last_update": "2026-06-16T01:16:14.865957",
+  "ml_accuracy": 88.9
 }
