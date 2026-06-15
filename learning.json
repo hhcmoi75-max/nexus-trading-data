@@ -13,8 +13,8 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-06-16T00:06:27.652659",
-    "win_rate_recent": 46.7
+    "last_update": "2026-06-16T00:13:23.622576",
+    "win_rate_recent": 43.3
   },
   "asset_patterns": {
     "NEAR": {
@@ -20594,6 +20594,33 @@
       "entry_hour_utc": 22,
       "entry_weekday": 0,
       "simulated": true
+    },
+    {
+      "asset": "XRP",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-15T22:13:32.871382+00:00",
+      "entry_time": "2026-06-15T22:13:32.871382+00:00",
+      "exit_time": "2026-06-15T22:13:32.871382+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 1.0818,
+      "score": 88,
+      "rsi": 65.79,
+      "adx": 40.67,
+      "claude_confidence": 25,
+      "claude_reason": "Signal ML contredit par confiance extrêmement basse (13%), signal technique en HOLD, XRP absent de la liste des actifs favorables, contexte macro instable (risque BOJ mardi, positions yen record), variation 24h nulle, RSI surachat à 65.79 sans momentum confirmé - accumulation de signaux négatifs surpasse le score ML isolé",
+      "ml_confidence": 13.0,
+      "score_technique": 61,
+      "score_macro": 75,
+      "score_sentiment": 72,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 20,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 22,
+      "entry_weekday": 0,
+      "simulated": true
     }
   ],
   "stats": {
@@ -20606,6 +20633,6 @@
     "best_trade": 25.48,
     "worst_trade": -9.65
   },
-  "last_update": "2026-06-16T00:07:16.307053",
-  "ml_accuracy": 89.1
+  "last_update": "2026-06-16T00:14:06.975768",
+  "ml_accuracy": 88.8
 }
