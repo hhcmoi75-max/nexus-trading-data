@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-06-15T11:09:58.064181",
+    "last_update": "2026-06-15T11:16:48.578960",
     "win_rate_recent": 16.7
   },
   "asset_patterns": {
@@ -19428,6 +19428,33 @@
       "entry_hour_utc": 9,
       "entry_weekday": 0,
       "simulated": true
+    },
+    {
+      "asset": "ICP",
+      "action": "BUY_BLOCKED_CLAUDE",
+      "entry_date": "2026-06-15T09:17:14.308222+00:00",
+      "entry_time": "2026-06-15T09:17:14.308222+00:00",
+      "exit_time": "2026-06-15T09:17:14.308222+00:00",
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "entry_price_eur": 2.17,
+      "score": 86,
+      "rsi": 55.37,
+      "adx": 34.07,
+      "claude_confidence": 25,
+      "claude_reason": "Score ML élevé (86/100) contredit par confiance très basse (12.9%), signal technique HOLD, variation 24h nulle, et ICP absent de la liste des actifs favorables. Contexte macro instable avec risque BOJ mardi. Pattern historique montre saturation alpha avec dégradation efficacité marginale sur 336 trades. Ratio risque/récompense défavorable.",
+      "ml_confidence": 12.9,
+      "score_technique": 57,
+      "score_macro": 75,
+      "score_sentiment": 72,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "fear_greed": 20,
+      "btc_change_at_entry": 0.0,
+      "btc_status": "ok",
+      "entry_hour_utc": 9,
+      "entry_weekday": 0,
+      "simulated": true
     }
   ],
   "stats": {
@@ -19440,6 +19467,6 @@
     "best_trade": 25.48,
     "worst_trade": -9.65
   },
-  "last_update": "2026-06-15T11:10:41.215055",
-  "ml_accuracy": 88.0
+  "last_update": "2026-06-15T11:17:30.723359",
+  "ml_accuracy": 88.9
 }
