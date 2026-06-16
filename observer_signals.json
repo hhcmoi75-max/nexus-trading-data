@@ -22636,5 +22636,27 @@
     "result_4h_pct": null,
     "would_have_won": null,
     "verified": false
+  },
+  {
+    "id": 1030,
+    "timestamp": "2026-06-16T19:01:44.186389+00:00",
+    "symbol": "OPUSDT",
+    "score": 0.5032,
+    "source": "news_decrypt",
+    "age_seconds": 65.35237765312195,
+    "size_pct": 1.99,
+    "size_usd": 11.96,
+    "regime": "bear_volatile",
+    "urgency": "NORMAL",
+    "bypass": "False",
+    "is_cascade": false,
+    "title": "Coinbase Gears Up to Launch Tokenized Stock Trading, Crypto and Equities Options",
+    "price_at_signal": 0.1079,
+    "price_after_1h": null,
+    "price_after_4h": null,
+    "result_1h_pct": null,
+    "result_4h_pct": null,
+    "would_have_won": null,
+    "verified": false
   }
 ]
