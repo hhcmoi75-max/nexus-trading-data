@@ -22256,12 +22256,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 66217.99,
-    "price_after_1h": null,
+    "price_after_1h": 65699.99,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.782,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1013,
@@ -22278,12 +22278,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 66214.84,
-    "price_after_1h": null,
+    "price_after_1h": 65699.99,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.778,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1014,
@@ -22300,12 +22300,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 66088.0,
-    "price_after_1h": null,
+    "price_after_1h": 65734.0,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.536,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1015,
@@ -22322,12 +22322,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 66088.01,
-    "price_after_1h": null,
+    "price_after_1h": 65734.0,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.536,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1016,
@@ -22344,12 +22344,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 66088.01,
-    "price_after_1h": null,
+    "price_after_1h": 65734.0,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.536,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1017,
