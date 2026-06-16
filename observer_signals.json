@@ -22675,9 +22675,9 @@
     "title": "",
     "price_at_signal": 65574.14,
     "price_after_1h": 65749.45,
-    "price_after_4h": null,
+    "price_after_4h": 65749.99,
     "result_1h_pct": 0.267,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.268,
     "would_have_won": false,
     "verified": true
   },
@@ -22697,9 +22697,9 @@
     "title": "",
     "price_at_signal": 65560.0,
     "price_after_1h": 65749.45,
-    "price_after_4h": null,
+    "price_after_4h": 65749.99,
     "result_1h_pct": 0.289,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.29,
     "would_have_won": false,
     "verified": true
   },
@@ -23686,12 +23686,12 @@
     "is_cascade": false,
     "title": "BlackRock's First Bitcoin Yield ETF Launches Today as XRP Whales Control 74.1% of Supply",
     "price_at_signal": 1.2202,
-    "price_after_1h": null,
+    "price_after_1h": 1.2207,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.041,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1078,
@@ -23708,12 +23708,12 @@
     "is_cascade": false,
     "title": "BlackRock's First Bitcoin Yield ETF Launches Today as XRP Whales Control 74.1% of Supply",
     "price_at_signal": 65840.28,
-    "price_after_1h": null,
+    "price_after_1h": 65749.99,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.137,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1079,
