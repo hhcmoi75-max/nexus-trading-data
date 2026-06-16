@@ -22652,12 +22652,12 @@
     "is_cascade": false,
     "title": "Coinbase Gears Up to Launch Tokenized Stock Trading, Crypto and Equities Options",
     "price_at_signal": 0.1079,
-    "price_after_1h": null,
+    "price_after_1h": 0.108,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.093,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1031,
