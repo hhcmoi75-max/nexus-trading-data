@@ -1,18 +1,18 @@
 {
   "score_macro": 75,
-  "score_sentiment": 80,
+  "score_sentiment": 82,
   "tendance_marche": "HAUSSIER",
-  "contexte": "Le marché crypto affiche une tendance haussière avec des gains sur Bitcoin et d'autres altcoins. Les nouvelles positives sur l'accumulation de Bitcoin et les performances de XLM, INJ et UNI contribuent à un sentiment optimiste.",
-  "risque_principal": "La volatilité persistante des actifs DeFi 1.0 reste un risque potentiel pour les investisseurs.",
-  "opportunite_du_jour": "Le 'pattern de resurrection explosive' d'ATOM offre une opportunité potentielle pour les traders audacieux.",
+  "contexte": "Le marché crypto affiche une tendance haussière soutenue par des nouvelles positives sur les ETF Bitcoin et l'accumulation de BTC. La performance globale des actifs est positive, reflétant un sentiment d'optimisme accru.",
+  "risque_principal": "La volatilité persistante du marché reste un risque potentiel pour les investisseurs.",
+  "opportunite_du_jour": "L'augmentation de la liquidité sur le marché offre une opportunité d'entrée dans des actifs à fort potentiel de croissance comme ATOM et SEI.",
   "actifs_favorables": [
     "ATOM",
-    "XLM",
-    "INJ"
+    "SEI",
+    "ALGO"
   ],
   "actifs_risques": [
-    "CRV",
-    "OP"
+    "OP",
+    "CRV"
   ],
-  "last_claude_run": "2026-06-16T10:54:51.681348+00:00"
+  "last_claude_run": "2026-06-16T11:42:53.110308+00:00"
 }
