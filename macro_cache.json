@@ -1,18 +1,18 @@
 {
-  "score_macro": 75,
-  "score_sentiment": 72,
-  "tendance_marche": "HAUSSIER",
-  "contexte": "Le marché évolue dans un contexte géopolitique instable avec les tensions Iran-USA qui créent de la volatilité, mais les annonces d'accords de paix de Trump et les décisions potentielles de la BOJ sur le yen soutiennent les actifs risqués. L'achat massif d'actions SpaceX par Ark Invest ($500M) signale un appétit institutionnel fort pour les actifs alternatifs.",
-  "risque_principal": "La position short record sur le yen (9 ans) crée un risque de déstabilisation majeure si la BOJ durcit sa politique monétaire mardi.",
-  "opportunite_du_jour": "XRP teste sa résistance clé au-dessus de $1.18 avec un momentum de +4%, offrant une opportunité de breakout technique.",
+  "score_macro": 42,
+  "score_sentiment": 38,
+  "tendance_marche": "BAISSIER",
+  "contexte": "Le marché crypto affiche une consolidation sous pression avec des prises de bénéfices généralisées sur BTC, ETH et SOL dans l'attente d'un événement géopolitique majeur lié à la signature avec l'Iran, créant une aversion au risque notable. XRP recule après son rally de 10% près de 1.25$, confirmant une résistance structurelle et un sentiment de profit-taking dominant sur l'ensemble du secteur.",
+  "risque_principal": "L'incertitude géopolitique autour de la signature Iran combinée aux prises de bénéfices coordonnées peut déclencher une cascade baissière si les niveaux de support clés sur BTC cèdent sous 57000 EUR.",
+  "opportunite_du_jour": "Le lancement d'un marché d'options dédié à Tether Gold sur Bybit couplé à la progression de SpaceX crée une fenêtre tactique sur XAU comme valeur refuge en contexte d'incertitude géopolitique.",
   "actifs_favorables": [
-    "XRP",
-    "BTC",
-    "SOL"
-  ],
-  "actifs_risques": [
-    "ETH",
+    "XAU",
+    "XAG",
     "BNB"
   ],
-  "last_claude_run": "2026-06-15T08:42:30.638269+00:00"
+  "actifs_risques": [
+    "XRP",
+    "SOL"
+  ],
+  "last_claude_run": "2026-06-16T10:00:24.119391+00:00"
 }
