@@ -1,18 +1,18 @@
 {
-  "score_macro": 75,
-  "score_sentiment": 82,
+  "score_macro": 65,
+  "score_sentiment": 72,
   "tendance_marche": "HAUSSIER",
-  "contexte": "Le marché crypto affiche une tendance haussière soutenue par des nouvelles positives sur les ETF Bitcoin et l'accumulation de BTC. La performance globale des actifs est positive, reflétant un sentiment d'optimisme accru.",
-  "risque_principal": "La volatilité persistante du marché reste un risque potentiel pour les investisseurs.",
-  "opportunite_du_jour": "L'augmentation de la liquidité sur le marché offre une opportunité d'entrée dans des actifs à fort potentiel de croissance comme ATOM et SEI.",
+  "contexte": "Le marché crypto affiche une tendance haussière malgré des nouvelles mitigées sur les réglementations et la performance des minerais. L'intérêt pour l'IA et le DeFi continue de stimuler certaines altcoins.",
+  "risque_principal": "La volatilité persistante du marché crypto reste un risque majeur, exacerbée par les incertitudes macroéconomiques.",
+  "opportunite_du_jour": "L'émergence de tendances comme l'AI et le DeFi offre des opportunités d'investissement dans des actifs spécifiques.",
   "actifs_favorables": [
-    "ATOM",
+    "ALGO",
     "SEI",
-    "ALGO"
+    "AVAX"
   ],
   "actifs_risques": [
-    "OP",
+    "ATOM",
     "CRV"
   ],
-  "last_claude_run": "2026-06-16T11:42:53.110308+00:00"
+  "last_claude_run": "2026-06-16T23:47:32.709350+00:00"
 }
