@@ -26260,12 +26260,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 64937.98,
-    "price_after_1h": null,
+    "price_after_1h": 64617.36,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.494,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1195,
@@ -26282,12 +26282,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 64930.85,
-    "price_after_1h": null,
+    "price_after_1h": 64574.42,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.549,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1196,
@@ -26304,12 +26304,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 64930.84,
-    "price_after_1h": null,
+    "price_after_1h": 64574.42,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.549,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1197,
@@ -26326,12 +26326,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 64930.84,
-    "price_after_1h": null,
+    "price_after_1h": 64572.69,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.552,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1198,
@@ -26436,6 +26436,28 @@
     "is_cascade": false,
     "title": "Binance Alpha Trading Competition: Trade Starpower (STAR) and Share $200K Worth of Rewards (2026-06-",
     "price_at_signal": 602.05,
+    "price_after_1h": null,
+    "price_after_4h": null,
+    "result_1h_pct": null,
+    "result_4h_pct": null,
+    "would_have_won": null,
+    "verified": false
+  },
+  {
+    "id": 1203,
+    "timestamp": "2026-06-17T11:17:39.483087+00:00",
+    "symbol": "BTCUSDT",
+    "score": 0.6106,
+    "source": "whale_buy",
+    "age_seconds": 0,
+    "size_pct": 4.16,
+    "size_usd": 24.95,
+    "regime": "bear_volatile",
+    "urgency": "NORMAL",
+    "bypass": false,
+    "is_cascade": false,
+    "title": "",
+    "price_at_signal": 64565.01,
     "price_after_1h": null,
     "price_after_4h": null,
     "result_1h_pct": null,
