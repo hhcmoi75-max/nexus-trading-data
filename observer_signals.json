@@ -27190,5 +27190,27 @@
     "result_4h_pct": null,
     "would_have_won": null,
     "verified": false
+  },
+  {
+    "id": 1237,
+    "timestamp": "2026-06-17T14:49:03.111309+00:00",
+    "symbol": "OPUSDT",
+    "score": 0.5395,
+    "source": "news_decrypt",
+    "age_seconds": 69.31215286254883,
+    "size_pct": 2.38,
+    "size_usd": 14.27,
+    "regime": "bear_volatile",
+    "urgency": "NORMAL",
+    "bypass": false,
+    "is_cascade": false,
+    "title": "'Rapidly Evolving': Benchmark Analyst Bullish on Coinbase After Stocks, Options Moves",
+    "price_at_signal": 0.1061,
+    "price_after_1h": null,
+    "price_after_4h": null,
+    "result_1h_pct": null,
+    "result_4h_pct": null,
+    "would_have_won": null,
+    "verified": false
   }
 ]
