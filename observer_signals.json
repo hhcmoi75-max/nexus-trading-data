@@ -24567,9 +24567,9 @@
     "title": "Announcement on the Extension of the Zero Trading Service Fee and Zero On-Chain Gas Fee Promotion fo",
     "price_at_signal": 65844.74,
     "price_after_1h": 65876.01,
-    "price_after_4h": null,
+    "price_after_4h": 65454.61,
     "result_1h_pct": 0.047,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.592,
     "would_have_won": false,
     "verified": true
   },
@@ -24589,9 +24589,9 @@
     "title": "",
     "price_at_signal": 65872.34,
     "price_after_1h": 65834.89,
-    "price_after_4h": null,
+    "price_after_4h": 65445.99,
     "result_1h_pct": -0.057,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.647,
     "would_have_won": false,
     "verified": true
   },
