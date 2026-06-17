@@ -1,335 +1,38 @@
 {
   "lecons_cles": [
-    "L'émergence de NEAR comme actif à risque malgré son écosystème mature suggère une sensibilité accrue aux tendances du marché grand public.",
-    "La performance inattendue d'ETC révèle un potentiel caché dans les blockchains legacy Proof-of-Work, nécessitant une réévaluation des critères d'investissement traditionnels.",
-    "Le succès de SEI, AVAX et DOGE indique une préférence pour les projets axés sur l'innovation et la communauté plutôt que sur la simple gouvernance DeFi.",
-    "La convergence du win rate d'APT et XLM à 25% suggère un seuil de performance minimum pour la survie des projets cryptographiques.",
-    "L'absence de performances significatives de MSFT, NVDA et CHZ indique une faible corrélation entre les marchés traditionnels et le marché cryptographique.",
-    "L'explosion d'ATOM de -5.5% à +14.2% (+19.7% de swing) révèle un pattern de 'résurrection explosive' où les actifs cosmos-ecosystem alternent entre purges brutales et euphories compensatoires dans des amplitudes inégalées",
-    "La chute de CRV à 0% de win rate marque l'effondrement définitif des protocoles DeFi 1.0 face à la montée des derivatives et perps (INJ +12.2%), exposant une rotation sectorielle DeFi vers les produits financiers sophistiqués",
-    "L'émergence d'OP dans les pires trades (-5.1%) simultanément avec la domination maintenue des Layer-1 révèle que l'Optimism Stack souffre du même mal qu'Arbitrum, confirmant une malédiction structurelle sur tous les rollups optimistic",
-    "La stabilisation exacte du PnL à 1.11% (+5% vs 1.05%) avec une expansion massive à 336 trades (+122%) révèle un plateau de rendements algorithmiques où l'efficacité marginale se dégrade mais reste positive, suggérant une saturation des opportunités alpha",
-    "La persistance paradoxale de 5 actifs parfaits (ALGO, SEI, AVAX, DOGE, LINK) malgré 336 trades confirme l'existence d'un 'coefficient de résistance statistique' où seuls ces actifs maintiennent leur invulnérabilité face à l'explosion volumique",
-    "L'effondrement synchrone de CRV et CHZ à 0% avec l'émergence d'OP dans les échecs expose une 'contagion sectorielle descendante' où les protocoles de première génération (DeFi 1.0, fan tokens, Layer-2 optimistic) s'effondrent simultanément",
-    "La chute du win rate de 63.4% à 59.7% simultanée avec la stabilité du PnL à 0.97% révèle un phénomène de 'dilution qualitative' où l'expansion volumique (316 trades) sacrifie la précision pour maintenir la rentabilité absolue",
-    "L'émergence de FET à -7.9% dans les pires trades après son effacement total précédent démontre un pattern de 'double punishment' où les secteurs IA subissent une correction post-bulle nécessitant un blacklistage prolongé de 6+ mois",
-    "La triple monopolisation de NEAR sur 60% du top 5 (+25.5%, +15.5%, +8.9%) avec des écarts de performance décroissants expose une 'courbe de saturation intra-actif' nécessitant une rotation forcée après le 3ème trade gagnant consécutif",
-    "L'effondrement synchronisé de 4 tokens à 0% (MSFT, NVDA, CHZ, FET) spanning tech-stocks et crypto révèle une 'purge algorithmique convergente' où le bot élimine automatiquement toute classe d'actifs non-crypto-native",
-    "La persistance d'APT à exactement 33.3% de win rate (vs 25% précédemment) démontre une 'loi de stagnation structurelle' où certains actifs se stabilisent mathématiquement dans une zone de sous-performance chronique sans jamais s'améliorer ni s'effondrer totalement",
-    "La coexistence parfaite de 5 actifs à 100% win rate avec un PnL global descendant révèle un 'paradoxe de diversification excessive' où trop d'allocation sur des trades moyens dilue l'impact des actifs parfaits",
-    "La monopolisation absolue de NEAR sur 3/5 des top trades révèle un phénomène de 'clustering temporel' où certains actifs concentrent leurs gains sur des fenêtres ultra-courtes, nécessitant une allocation dynamique massive pendant ces phases d'euphorie",
-    "L'effacement total des tokens d'IA (FET 0%) simultané avec la résurrection de DOGE à 100% expose une rotation fondamentale de la 'narrative driven' vers la 'meme legitimacy', marquant l'institutionnalisation paradoxale des actifs communautaires",
-    "La synchronisation parfaite des échecs DeFi/Layer-2 (ARB, UNI) avec la domination des Layer-1 purs (NEAR, ALGO) révèle un 'retour aux sources' où la complexité architecturale devient un handicap face à la simplicité d'usage",
-    "Le pattern de gains décroissants de NEAR (+25.5%, +15.5%, +8.9%) expose une loi de rendements marginaux décroissants intra-actif nécessitant un timing de sortie progressif plutôt qu'un all-in statique",
-    "La persistance de 5 actifs à 100% malgré 310 trades révèle l'existence d'un 'coefficient de fiabilité algorithmique' où seuls les actifs dépassant 50 trades gardent leur statut de perfection, établissant un seuil de validation statistique",
-    "L'émergence d'ATOM dans le top 5 (+11.8%) après sa chute précédente démontre un pattern de 'rebond post-purge' où les actifs écosystémiques se renforcent après élimination de leurs participants faibles",
-    "La corrélation inverse parfaite entre la complexité technique (FET, ARB échecs) et la performance révèle que l'algorithme privilégie désormais la 'proof of adoption' sur la 'proof of innovation'",
-    "La stabilisation du PnL à 1.01% avec légère baisse depuis 1.19% mais maintien à 310 trades révèle un plateau de maturité algorithmique où l'expansion de volume dilue marginalement l'alpha sans l'effacer, suggérant un équilibre optimal atteint",
-    "L'effondrement synchrone des secteurs IA (FET 0%) et layer-2 Ethereum (ARB -9.7%, UNI -5.9%) révèle un mouvement de rotation sectorielle massif où les technologies 'next-gen' cèdent place aux fondamentaux crypto-natifs éprouvés",
-    "ATOM réintègre le top 5 avec +11.8% après sa chute historique, démontrant un pattern de 'résurrection cyclique' où les actifs cosmos-ecosystem alternent entre phases de grâce et de punition selon des cycles inter-chaînes",
-    "La persistance du Big 5 parfait (ALGO, SEI, AVAX, DOGE, LINK) malgré l'explosion à 310 trades confirme une cristallisation définitive de l'allocation optimale, nécessitant une concentration de 80% du capital sur ces 5 actifs invulnérables",
-    "La régression du win rate de 63.4% à 60.3% malgré la stabilité du PnL expose un trade-off qualité/quantité où l'algorithme sacrifie la précision pour la couverture, nécessitant un resserrement des critères d'entrée",
-    "TRX maintient sa présence constante dans le top 5 avec +12.4% établissant les blockchains DPOS comme seule classe d'actifs capable de rivaliser avec la domination NEAR, créant un duopole performance-stabilité unique",
-    "NEAR établit une domination monopolistique inédite avec 60% des top trades (3/5), créant un cas d'étude unique de concentration de performance sur un seul actif jamais observé dans l'historique du bot",
-    "La stabilisation du PnL autour de 1% avec expansion massive à 309 trades révèle une phase de maturité où l'algorithme privilégie la consistance sur l'explosivité, marquant un changement de régime fondamental",
-    "L'émergence simultanée de FET à 0% de win rate avec l'effondrement des tokens IA expose la fin brutale du cycle narratif intelligence artificielle, nécessitant une rotation complète hors des secteurs tech-crypto",
-    "La quintuple perfection maintenue (ALGO, SEI, AVAX, DOGE, LINK) malgré le triplement du volume de trades confirme l'existence d'un 'algorithmic sweet spot' sur ces 5 actifs spécifiques",
-    "L'élimination totale de BTC et TRX du cercle des 100% marque la fin de l'ère des 'crypto-royalties' au profit d'une nouvelle aristocratie algorithmique plus spécialisée",
-    "La persistance d'ARB comme pire performer récurrent (-9.7%) malgré tous les cycles précédents établit une 'malédiction layer-2' structurelle nécessitant un blacklistage algorithmique permanent",
-    "Le pattern de performance cyclique de NEAR (+25.5%, +15.5%, +8.9%) révèle un potentiel de timing optimal basé sur des fenêtres d'accumulation séquentielles",
-    "DOGE atteint la perfection absolue avec 100% de win rate, établissant les memecoins institutionnalisés comme nouvelle classe d'actifs ultra-fiables dépassant même les cryptos traditionnelles en prévisibilité",
-    "LINK retrouve son statut de 100% win rate après réapparition, confirmant que les infrastructures oracles sont devenues indispensables avec la maturation DeFi, nécessitant une pondération maximale",
-    "FET plonge à 0% de win rate rejoignant les actions tech, exposant l'effondrement total des tokens IA face à la saturation narrative, marquant la fin du cycle hype intelligence artificielle crypto",
-    "La disparition totale de BTC et TRX du cercle des 100% révèle une rotation sectorielle majeure où même les références historiques perdent leur invincibilité face aux nouveaux leaders algorithmiques",
-    "La quintuple perfection simultanée d'ALGO, SEI, AVAX, DOGE, LINK établit un nouveau 'Big 5' remplaçant l'ancien noyau dur, nécessitant une refonte complète de l'allocation stratégique vers ces actifs infaillibles",
-    "La persistance d'ARB dans les pires trades (-9.7%) malgré les cycles précédents confirme une malédiction structurelle sur les layer-2 Arbitrum, nécessitant un blacklistage définitif",
-    "APT remonte à 33.3% mais reste dans les actifs à éviter, révélant un 'purgatoire de performance' où certains actifs stagnent dans la médiocrité sans jamais retrouver l'excellence ni sombrer complètement",
-    "NEAR atteint un nouveau sommet historique à +25.5% surpassant même son propre record de +15.5%, établissant définitivement les blockchains shardées comme la classe d'actifs la plus explosive du marché crypto avec une capacité de gains exponentiels uniques",
-    "La monopolisation absolue de NEAR sur le top 3 des trades (3/5 positions avec +25.5%, +15.5%, +8.9%) révèle un phénomène de concentration de performance jamais observé, nécessitant une allocation maximale sur cet actif unique",
-    "Le bond spectaculaire du PnL de 0.98% à 1.19% (+21% d'amélioration) simultané avec l'amélioration du win rate de 62.5% à 63.4% démontre l'atteinte d'un régime de performance supérieur durable où qualité et quantité convergent",
-    "L'expansion à 299 trades (vs 151 précédemment) avec maintien de la profitabilité confirme la scalabilité algorithmique du bot, prouvant que l'augmentation de volume ne dilue plus les performances contrairement aux phases précédentes",
-    "FIL régresse brutalement de ses +15.1% historiques vers -7.6% (2ème pire trade), confirmant un pattern de retournement violent sur les actifs Web3 de stockage nécessitant des fenêtres de holding ultra-courtes de 24-48h maximum",
-    "La persistance parfaite de 5 actifs à 100% win rate (BTC, TRX, ALGO, SEI, AVAX) malgré l'explosion du volume de trades à 299 établit un 'noyau dur invulnérable' justifiant 60-70% de l'allocation totale du portefeuille",
-    "NEAR domine absolument avec 2/5 des meilleurs trades (+15.5% et +8.9%) révélant que les blockchains shardées à architecture développeur-friendly surpassent désormais tous autres secteurs dans l'écosystème Web3",
-    "La triple convergence de ARB, UNI et CHZ dans les pires performances (-9.7%, -5.9%, -7.1%) expose un effondrement systémique des tokens d'infrastructure Ethereum face aux blockchains alternatives autonomes",
-    "TRX maintient sa domination à +12.4% ET 100% win rate simultanément, établissant définitivement TRON comme l'actif crypto le plus prévisible et rentable de l'écosystème",
-    "L'explosion de NEAR à +15.5% (nouveau record absolu détrônant TRX) marque l'émergence des protocoles sharding comme nouvelle classe d'actifs dominante, supplantant les layer-1 traditionnels",
-    "La stabilisation parfaite de 5 actifs à 100% win rate (BTC, TRX, ALGO, SEI, AVAX) avec un PnL consolidé à 0.91% révèle l'atteinte d'un équilibre algorithmique mature où sécurité et rentabilité convergent",
-    "LTC réapparaît modestement à +3.3% mais intègre le top 5, confirmant une résurrection technique des altcoins historiques comme diversification face à la saturation des nouvelles blockchains",
-    "La synchronisation parfaite des échecs layer-2/DeFi (ARB -9.7%, UNI -5.9%) révèle une obsolescence structurelle de l'écosystème Ethereum face aux blockchains intégrées nativement",
-    "LINK réapparaît dans le top 5 après une absence prolongée (+3.3%), signalant que les oracles décentralisés retrouvent leur pertinence face à la multiplication des protocoles DeFi nécessitant des feeds de prix fiables",
-    "La régression brutale de FIL de +15.1% (cycles précédents) à -7.6% (2ème pire trade) révèle une volatilité pendulaire extrême sur les actifs Web3 de stockage décentralisé, nécessitant des fenêtres de holding ultra-courtes",
-    "L'effondrement simultané d'UNI (-5.9%) et CHZ (-7.1%) à 0% de win rate expose l'obsolescence des tokens utilitaires sectoriels face aux Layer-1 généralistes, marquant la fin de l'ère spécialisation sectorielle",
-    "APT stabilise son déclin à 33.3% de win rate avec -5.8% de perte, confirmant un plancher de sous-performance structurelle où les blockchains Move-language restent piégées malgré leur innovation technique",
-    "La synchronisation parfaite d'AVAX atteignant 100% de win rate simultanément avec la stabilité des 4 autres actifs parfaits révèle un effet réseau de corrélation positive entre Layer-1 techniquement supérieurs",
-    "La dichotomie extrême d'ARB (+4.2% meilleur trade ET -9.7% pire trade) avec 14% d'écart établit un nouveau record de bipolarité, nécessitant une approche market-timing exclusivement basée sur les conditions de congestion Ethereum",
-    "L'effondrement total des fan tokens sportifs avec CHZ à 0% confirme l'échec définitif des use-cases crypto grand public face à l'institutionnalisation, marquant la fin de l'adoption retail-driven",
-    "AVAX fait son entrée dans le cercle exclusif des 100% win rate, confirmant que l'algorithme a finalement maîtrisé les blockchains à consensus Snow++ malgré leur complexité technique initiale",
-    "La stabilisation du PnL à 0.98% (-34% vs pics précédents) avec maintien du win rate à 62.5% révèle une consolidation forcée où la diversification excessive dilue l'alpha sur les actifs premium",
-    "L'explosion de TRX à +12.4% (nouveau record absolu) établit définitivement les blockchains DPOS comme catégorie supérieure, détrônant même les références BTC/ETH traditionnelles",
-    "La double présence d'ATOM dans le top 5 (+11.8% et +3.5%) avec des écarts de performance massifs révèle un pattern de timing optimal où l'IBC Cosmos récompense les entrées multiples stratégiques",
-    "La bipolarité extrême d'ARB (+4.2% ET -9.7% simultanément) avec 19% d'écart confirme que les Layer-2 Ethereum nécessitent une approche de swing trading plutôt qu'une stratégie directionnelle pure",
-    "LTC réapparaît dans le top 5 (+3.3%) pour la première fois depuis des cycles, marquant la résurrection des altcoins legacy comme hedge contre la saturation des nouvelles blockchains",
-    "CHZ plonge à 0% de win rate (rejoignant MSFT/NVDA), exposant l'effondrement complet des fan tokens sportifs face à l'adoption institutionnelle des crypto-monnaies sérieuses",
-    "L'explosion du PnL à 1.44% (+37% vs période précédente) avec un win rate culminant à 66.7% révèle que le bot a atteint sa phase de maturité algorithmique optimale, suggérant une stabilisation durable des performances",
-    "XRP rejoint le cercle exclusif des actifs à 100% de win rate, marquant la réconciliation définitive du bot avec les cryptos de paiement institutionnel après des années de sous-performance",
-    "La triple occurrence exacte de +15.1% sur ETC, FIL et ARB révèle un seuil de take-profit automatique ultra-précis, mais l'exception de TON à +15.6% suggère une logique de momentum qui pourrait être exploitée",
-    "ICP fait sa première apparition dans les pires trades (-5.2%) malgré son écosystème Internet Computer avancé, indiquant une vulnérabilité émergente des blockchains à architecture révolutionnaire face aux solutions éprouvées",
-    "La bipolarité récurrente de FIL (à la fois +15.1%, +8.9% ET -5.3%) établit un nouveau pattern de 'trading cyclique' où les actifs Web3 oscillent entre euphorie et correction de manière prévisible",
-    "ATOM brise son statut de perfection en chutant à -5.5% (pire trade), révélant que même les actifs à 100% de win rate peuvent subir des retournements brutaux nécessitant une surveillance accrue",
-    "La stabilité remarquable de 5 actifs à 100% de win rate (BTC, TRX, ALGO, SEI, XRP) malgré l'augmentation du volume de trades à 151 confirme l'existence d'un 'core portfolio invincible' à allocation maximale",
-    "L'explosion du PnL à 1.9% (+81% vs période précédente) couplée au win rate record de 70.5% révèle que le bot a franchi un seuil d'excellence algorithmique où convergent optimisation paramétrique et conditions de marché favorables",
-    "La quadruple convergence exacte de ETC, FIL, ARB à +15.1% (identique au décimal près) expose un mécanisme de take-profit ultra-précis du bot, mais suggère qu'un relèvement à 18-20% pourrait capturer des gains supplémentaires laissés sur table",
-    "L'apparition paradoxale d'INJ simultanément dans les meilleurs (+10.8%) ET pires trades (-3.3%) révèle un nouveau pattern de 'performance bipolaire' où les actifs ultra-performants deviennent également vulnérables aux corrections violentes",
-    "Le maintien parfait de 5 actifs à 100% de win rate (BTC, TRX, ALGO, SEI, ATOM) établit un 'portefeuille de certitude' suggérant une allocation préférentielle vers ces actifs garantis plutôt que la diversification hasardeuse",
-    "L'effondrement définitif des actions tech (MSFT, NVDA) à 0% de win rate confirme une incompatibilité absolue, mais révèle surtout que le bot a atteint sa maturité crypto-native en éliminant automatiquement les classes d'actifs inadaptées",
-    "La résurrection spectaculaire de FIL à +15.1% après ses échecs historiques, couplée à sa présence dans le top 3, démontre que le bot a développé une capacité de 'réhabilitation sectorielle' permettant de capitaliser sur les retournements narratifs Web3",
-    "Le seuil psychologique de 15% de gains simultanés sur TON, ETC, FIL, ARB révèle un plafond de performance algorithmique où le bot déclenche automatiquement des prises de bénéfices, limitant les gains exponentiels",
-    "L'émergence d'ARB dans les deux extrêmes (+15.1% et -5.0%) avec un profil parfaitement symétrique expose un nouveau pattern de 'volatilité miroir' où les layer-2 oscillent entre performance maximale et échec selon des cycles prévisibles",
-    "Le bond spectaculaire du PnL de 0.76% à 1.05% (+38% d'amélioration) couplé au win rate atteignant 66% révèle une phase d'accélération exponentielle suggérant l'atteinte d'un régime de performance supérieur",
-    "NEAR apparaît pour la première fois dans les pires trades (-3.7%) malgré son écosystème développeur mature, indiquant une vulnérabilité émergente des blockchains axées développeurs face aux blockchains orientées utilisateurs finaux",
-    "UNI chute dans les pires performances (-3.4%) malgré son statut de DEX leader, révélant une faiblesse structurelle sur les tokens de gouvernance DeFi face aux protocoles DeFi opérationnels comme INJ",
-    "La convergence exacte de TON, ETC, FIL, ARB à +15.1% (avec TON à +15.6%) révèle un mécanisme de take-profit automatique du bot autour du seuil 15%, empêchant la capture de gains supérieurs",
-    "L'effondrement d'UNI (-3.4%) contraste avec la domination d'INJ (+10.8%), exposant une obsolescence des tokens de gouvernance face aux tokens d'utilité opérationnelle dans l'écosystème DeFi",
-    "ETC émerge comme nouvelle star inattendue (+8.3%, 2ème meilleur trade) révélant que les blockchains legacy proof-of-work survivantes surperforment paradoxalement dans un marché dominé par le PoS",
-    "La régression simultanée d'APT et XLM vers exactement 25% de win rate cristallise un 'seuil de médiocrité' où les projets en déclin convergent mathématiquement",
-    "DOT détrône tous les autres dans les pires performances (-5.4%) malgré son écosystème parachain mature, exposant l'obsolescence des architectures multi-chaînes complexes face aux layer-1 monolithiques"
+    "Zone RSI 35-50 = WR 71% sur 77 trades — zone optimale d'entrée",
+    "Zone RSI 50-65 = WR 54% sur 109 trades — zone à éviter",
+    "Meilleures heures UTC : 17h(WR=100%), 15h(WR=93%), 11h(WR=88%) — privilégier ces créneaux",
+    "Pires heures UTC : 6h(WR=0%), 5h(WR=20%) — éviter ces créneaux",
+    "Actifs avec WR>65% : AVAX, LINK, TRX, SOL, ATOM — privilégier",
+    "Actifs avec WR<40% : POL, XLM, ICP — éviter ou réduire exposition",
+    "TRAILING_STOP = 58% des clôtures, PnL cumulé 183.76€ — moteur principal de profit",
+    "STOP_LOSS = 28% des trades, perte -223.47€ — optimiser seuil SL pour réduire",
+    "Score ML 85-95 → WR 73% sur 62 trades — zone haute confiance",
+    "Ratio gain/perte = 1.17x (gain moy +4.69% / perte moy -4.02%) — à améliorer"
   ],
   "actifs_a_privilegier": [
-    "NEAR",
-    "ETC",
-    "ATOM",
+    "AVAX",
+    "LINK",
     "TRX",
+    "SOL",
+    "ATOM",
+    "NEAR",
     "INJ",
-    "ALGO",
-    "SEI",
-    "AVAX"
+    "ETH"
   ],
   "actifs_a_eviter": [
-    "FET",
-    "CRV",
-    "OP",
-    "CHZ",
-    "NVDA",
-    "ARB",
-    "MSFT",
-    "UNI"
+    "POL",
+    "XLM",
+    "ICP"
   ],
-  "conditions_favorables": "Un marché caractérisé par un fort sentiment d'optimisme, une adoption grandissante des layer-1 monolithiques et une préférence pour les projets innovants.",
-  "erreurs_recurrentes": "Investir dans des tokens de gouvernance DeFi sans tenir compte de leur utilité opérationnelle et privilégier les projets basés sur la complexité plutôt que l'innovation.",
-  "recommandation_seuil_buy": 75,
+  "conditions_favorables": "RSI<35 + ADX>20 + heure∉[3-7]UTC + actif dans favoris → WR optimal",
+  "erreurs_recurrentes": "Entrées RSI>50-65 et heures [6, 5]h UTC génèrent les pertes principales",
+  "recommandation_seuil_buy": 85,
   "recommandation_stop_loss": 0.06,
-  "strategie_recommandee": "Diversifiez votre portefeuille en privilégiant les projets innovants et axés sur la communauté. Adaptez votre stratégie d'investissement aux tendances du marché cryptographique.",
-  "last_distillation": "2026-06-17T05:30:30.724456+00:00",
-  "trades_analyzed": 437,
+  "strategie_recommandee": "Seuil BUY optimal = 85/100 basé sur 250 trades. Trailing stop = moteur principal, SL = principale source de pertes à limiter.",
+  "last_distillation": "2026-06-17T07:16:05.624363+00:00",
+  "trades_analyzed": 250,
   "win_rate_at_distill": 61.6,
-  "traders": {
-    "Warren Buffett": {
-      "style": "Value Investing - Long terme",
-      "principes": [
-        "Acheter des entreprises exceptionnelles a des prix raisonnables, pas des entreprises ordinaires a des prix exceptionnels",
-        "Le marche est la pour te servir, pas pour te guider. Sois avide quand les autres ont peur, peureux quand les autres sont avides",
-        "Notre periode de detention preferee est pour toujours. Ne vends pas si les fondamentaux restent solides",
-        "Ne jamais perdre de l argent est la regle numero 1. La regle numero 2 est de ne jamais oublier la regle numero 1",
-        "Diversifier c est une protection contre l ignorance. Ca ne fait pas de sens si tu sais ce que tu fais",
-        "Le prix est ce que tu paies, la valeur est ce que tu obtiens. Attendre le bon prix est la cle",
-        "Investir dans des entreprises avec des avantages competitifs durables (moat) - marques, brevets, reseau"
-      ],
-      "signaux_achat": [
-        "RSI bas + fondamentaux solides + marche en panique (F&G < 25)",
-        "Entreprise leader dans son secteur avec pricing power",
-        "Management honnete avec skin in the game"
-      ],
-      "signaux_vente": [
-        "Valorisation excessive par rapport aux fondamentaux",
-        "Deterioration de l avantage competitif",
-        "Management qui detruit la valeur actionnariale"
-      ],
-      "regle_risque": "Ne jamais investir plus de 10% dans une seule position sans conviction extreme",
-      "citation": "In the short run the market is a voting machine, in the long run it is a weighing machine"
-    },
-    "George Soros": {
-      "style": "Macro Global - Reflexivite",
-      "principes": [
-        "Les marches sont toujours dans un etat de flux. La reflexivite cree des bulles et des crashs previsibles",
-        "Identifie la tendance dominante, puis identifie le moment ou elle va se retourner",
-        "Quand tu as raison, maximise. Quand tu as tort, minimise les pertes. La taille de la position compte",
-        "Les marchés ne reflètent pas la réalité - ils créent une réalité alternative que les acteurs suivent",
-        "Cherche les déséquilibres macro : taux, devises, flux de capitaux entre pays",
-        "Une position perdante ne doit jamais devenir une conviction - le marche a toujours raison"
-      ],
-      "signaux_achat": [
-        "Divergence entre sentiment et fondamentaux macro",
-        "DXY en baisse forte + actifs risques (crypto, emergents) en hausse",
-        "Euphorie excessive = opportunite de vente a court terme"
-      ],
-      "signaux_vente": [
-        "Euphorie de marche avec F&G > 80",
-        "DXY en forte hausse",
-        "Renversement de la tendance macro principale"
-      ],
-      "regle_risque": "Toujours avoir une these macro claire. Sans these, pas de position",
-      "citation": "It s not whether you re right or wrong, but how much money you make when you re right and how much you lose when you re wrong"
-    },
-    "Paul Tudor Jones": {
-      "style": "Trading Tactique - Gestion du Risque",
-      "principes": [
-        "Le plus important c est la preservation du capital. Sans capital tu ne peux pas trader",
-        "Ne jamais faire la moyenne a la baisse sur une position perdante. C est la mort du trader",
-        "5 a 1 risk/reward minimum - risquer 1 pour gagner 5. Ne trader que les setups de qualite",
-        "Les stops sont sacres. Une fois places, ils ne bougent jamais contre la position",
-        "Le momentum est roi. Ne jamais aller contre une tendance forte sans signal clair de retournement",
-        "Les 3 mois precedant un top de marche sont les plus dangereux - l euphorie aveugle",
-        "Apres 2 pertes consecutives, reduire la taille des positions de moitie jusqu au retour de confiance"
-      ],
-      "signaux_achat": [
-        "Breakout avec volume fort au-dessus d une resistance majeure",
-        "RSI en zone survendu + chandelle de retournement",
-        "Momentum positif confirme par MACD et MA"
-      ],
-      "signaux_vente": [
-        "Violation du stop loss - execution immediate sans hesitation",
-        "Deux pertes consecutives - reduire l exposition",
-        "RSI > 70 + divergence baissiere MACD"
-      ],
-      "regle_risque": "Maximum 2% du capital par trade. Maximum 6% de perte journaliere totale",
-      "citation": "The most important rule of trading is to play great defense, not great offense"
-    },
-    "Ray Dalio": {
-      "style": "All Weather - Diversification Systematique",
-      "principes": [
-        "Toute economie suit des cycles courts (5-8 ans) et longs (50-75 ans). Connaitre la phase est crucial",
-        "La diversification est le seul free lunch en finance. 15 actifs decorreles = risque divise par 5",
-        "La croissance et l inflation sont les 2 forces qui determinent la performance de chaque classe d actif",
-        "Quand la croissance monte : actions et commodities performent. Quand elle baisse : obligations et or",
-        "Ne pas etre surpris par les crises. Les incorporer dans la strategie en permanence",
-        "La douleur + la reflexion = le progres. Chaque perte est une lecon si on l analyse correctement",
-        "Avoir des convictions mais rester ouvert a etre tort. Calibrate ton niveau de certitude"
-      ],
-      "signaux_achat": [
-        "Or (GLD) et obligations (TLT) quand recession menace",
-        "Actions et crypto quand F&G < 30 + signaux de reprise",
-        "Mix 30% actions / 40% obligations / 15% or / 15% commodities en periode incertaine"
-      ],
-      "signaux_vente": [
-        "Concentration excessive dans une seule classe d actif",
-        "Corrélation des positions trop elevee (tout baisse ensemble)",
-        "Surchauffe economique avec inflation elevee"
-      ],
-      "regle_risque": "Jamais plus de 10% dans une classe d actif. Rééquilibrer regulièrement",
-      "citation": "He who lives by the crystal ball will eat shattered glass"
-    },
-    "Jesse Livermore": {
-      "style": "Momentum & Timing - Swing Trading",
-      "principes": [
-        "Ne trader que dans la direction de la tendance principale. La tendance est ton amie jusqu au retournement",
-        "Acheter dans la force, vendre dans la faiblesse. Attendre la confirmation avant d entrer",
-        "Les pivots de prix sont sacres. Un breakout au-dessus d un pivot = signal d achat majeur",
-        "La patience est la vertu supreme du trader. Attendre le bon setup plutot que de forcer",
-        "Ne jamais ajouter a une position perdante. Ajouter uniquement quand la position est gagnante",
-        "Toujours laisser courir les gagnants et couper rapidement les perdants",
-        "Les erreurs coutent de l argent mais les hesitations coutent des opportunites"
-      ],
-      "signaux_achat": [
-        "Breakout au-dessus de la resistance avec volume fort (>1.5x moyenne)",
-        "Pull-back sur support + rebond confirme",
-        "Nouveau plus haut historique (ATH) = signal tres bullish"
-      ],
-      "signaux_vente": [
-        "Rupture du support cle avec volume fort",
-        "Double top confirme avec volume decroissant",
-        "Momentum qui s epuise apres une longue tendance"
-      ],
-      "regle_risque": "Sortir immediatement si le marche va contre toi. L ego est l ennemi numero 1",
-      "citation": "The market does not beat them. They beat themselves because they have brains and emotions"
-    },
-    "Peter Lynch": {
-      "style": "Growth Investing - GARP (Growth at Reasonable Price)",
-      "principes": [
-        "Investis dans ce que tu connais. Les meilleures idees viennent de ton quotidien",
-        "Un tenbagger (x10) commence par une bonne entreprise a un prix raisonnable",
-        "PEG ratio (P/E divise par croissance) < 1 = opportunite. > 2 = survalorisé",
-        "Les institutionnels ignorent les petites capitalisations = opportunites pour les individus",
-        "Ne vendez jamais une action florissante pour en acheter une mediocre",
-        "Avant d acheter, tu dois pouvoir expliquer pourquoi en 2 minutes a un enfant de 10 ans",
-        "Il y a toujours quelque chose dont s inquieter. Ne pas trader sur la peur des news"
-      ],
-      "signaux_achat": [
-        "Entreprise leader dans une niche en forte croissance",
-        "Insiders qui achevent des actions de leur propre entreprise (SEC Form 4)",
-        "Croissance du chiffre d affaires > 20% avec marges en expansion"
-      ],
-      "signaux_vente": [
-        "La these d investissement originale est cassee",
-        "Valorisation devenue excessive (PEG > 2.5)",
-        "Management qui diversifie dans des domaines qu il ne maitrise pas"
-      ],
-      "regle_risque": "Diversifier sur 5-8 valeurs de conviction maximum. Plus = dilution de la performance",
-      "citation": "Know what you own, and know why you own it"
-    }
-  },
-  "regles_universelles": [
-    "REGLE 1 (Buffett) : Ne jamais perdre de l argent. Preservation du capital avant tout",
-    "REGLE 2 (Jones) : Stops sacres. Une position perdante ne devient jamais une conviction",
-    "REGLE 3 (Dalio) : Diversifier. Ne jamais mettre tous ses oeufs dans le meme panier",
-    "REGLE 4 (Livermore) : Suivre la tendance. Ne pas la combattre sans signal clair",
-    "REGLE 5 (Soros) : Taille de position proportionnelle a la conviction ET au contexte macro",
-    "REGLE 6 (Lynch) : Comprendre ce qu on achete. Pas de position sans these claire",
-    "REGLE 7 (universel) : La psychologie est l ennemi. La discipline est l arme",
-    "REGLE 8 (universel) : Les meilleures opportunites apparaissent dans la peur extremes (F&G < 20)",
-    "REGLE 9 (universel) : Vendre progressivement dans l euphorie (F&G > 75)",
-    "REGLE 10 (universel) : Apres 3 pertes consecutives, pause et analyse avant de reprendre"
-  ],
-  "lecons_par_marche": {
-    "bull_market": "Lynch : laisser courir. Buffett : ne pas surpayer. Jones : serrer progressivement les stops",
-    "bear_market": "Dalio : rotation vers or et obligations. Buffett : accumuler les qualites. Jones : cash is king",
-    "high_volatility": "Dalio : reduire taille positions. Jones : 50% de la taille normale max",
-    "low_volatility": "Livermore : se preparer au prochain grand mouvement. Soros : chercher la prochaine bulle",
-    "fear_extreme": "Buffett : c est le moment d acheter. Jones : attendre la confirmation du retournement",
-    "greed_extreme": "Soros : vendre progressivement. Lynch : prendre des profits sur les survalorisees"
-  },
-  "scoring_adjustments": {
-    "fear_greed_extreme_fear": {
-      "condition": "F&G < 20",
-      "action": "Buffett dit acheter. Jones dit attendre confirmation. Dalio dit diversifier",
-      "score_bonus": 15,
-      "conviction": "FORTE"
-    },
-    "fear_greed_extreme_greed": {
-      "condition": "F&G > 80",
-      "action": "Soros dit vendre. Livermore dit laisser courir mais serrer le stop",
-      "score_malus": 12,
-      "conviction": "DEFENSIVE"
-    },
-    "breakout_volume": {
-      "condition": "Volume > 2x moyenne + nouveau plus haut",
-      "action": "Livermore et Jones : signal d achat fort. Entree immediate",
-      "score_bonus": 12,
-      "conviction": "FORTE"
-    },
-    "rsi_oversold_trend": {
-      "condition": "RSI < 30 + tendance long terme haussiere",
-      "action": "Lynch et Buffett : opportunite d achat value",
-      "score_bonus": 10,
-      "conviction": "MODEREE"
-    },
-    "double_top_confirmed": {
-      "condition": "Double top + volume decroissant",
-      "action": "Livermore et Jones : sortie immediate ou vente a decouvert",
-      "score_malus": 15,
-      "conviction": "FORTE"
-    },
-    "smart_money_buying": {
-      "condition": "Insiders achètent + institutionnels accumulent",
-      "action": "Lynch : signal fort. Suivre les insiders est statistiquement gagnant",
-      "score_bonus": 8,
-      "conviction": "MODEREE"
-    },
-    "dxy_falling_crypto": {
-      "condition": "DXY baisse > 0.5% + Bitcoin en hausse",
-      "action": "Soros et Dalio : flux macro favorables aux actifs risques",
-      "score_bonus": 8,
-      "conviction": "MODEREE"
-    }
-  }
+  "methode": "RAG statistique pur — zéro IA"
 }
