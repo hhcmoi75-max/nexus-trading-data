@@ -1,18 +1,18 @@
 {
   "score_macro": 65,
-  "score_sentiment": 72,
+  "score_sentiment": 70,
   "tendance_marche": "HAUSSIER",
-  "contexte": "Le marché crypto affiche une tendance haussière malgré des nouvelles mitigées sur les réglementations et la performance des minerais. L'intérêt pour l'IA et le DeFi continue de stimuler certaines altcoins.",
-  "risque_principal": "La volatilité persistante du marché crypto reste un risque majeur, exacerbée par les incertitudes macroéconomiques.",
-  "opportunite_du_jour": "L'émergence de tendances comme l'AI et le DeFi offre des opportunités d'investissement dans des actifs spécifiques.",
+  "contexte": "Le marché crypto affiche un sentiment positif malgré la baisse de Bitcoin en juin. Les nouvelles sur l'adoption blockchain et les signaux du Fed stimulent l'optimisme. ",
+  "risque_principal": "La volatilité persistante des actifs IA reste une menace pour les portefeuilles diversifiés.",
+  "opportunite_du_jour": "L'émergence de nouveaux projets blockchain dans le secteur financier offre des opportunités d'investissement à long terme.",
   "actifs_favorables": [
-    "ALGO",
-    "SEI",
-    "AVAX"
+    "BTC",
+    "ETH",
+    "SOL"
   ],
   "actifs_risques": [
-    "ATOM",
-    "CRV"
+    "FET",
+    "APT"
   ],
-  "last_claude_run": "2026-06-16T23:47:32.709350+00:00"
+  "last_claude_run": "2026-06-17T11:52:43.751031+00:00"
 }
