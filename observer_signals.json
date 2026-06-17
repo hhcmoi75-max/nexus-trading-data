@@ -26376,5 +26376,27 @@
     "result_4h_pct": null,
     "would_have_won": null,
     "verified": false
+  },
+  {
+    "id": 1200,
+    "timestamp": "2026-06-17T10:40:02.889285+00:00",
+    "symbol": "SOLUSDT",
+    "score": 0.6108,
+    "source": "whale_buy",
+    "age_seconds": 0,
+    "size_pct": 4.16,
+    "size_usd": 24.97,
+    "regime": "bear_volatile",
+    "urgency": "NORMAL",
+    "bypass": false,
+    "is_cascade": false,
+    "title": "",
+    "price_at_signal": 72.33,
+    "price_after_1h": null,
+    "price_after_4h": null,
+    "result_1h_pct": null,
+    "result_4h_pct": null,
+    "would_have_won": null,
+    "verified": false
   }
 ]
