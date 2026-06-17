@@ -26480,12 +26480,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 64715.25,
-    "price_after_1h": null,
+    "price_after_1h": 64706.0,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.014,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1205,
