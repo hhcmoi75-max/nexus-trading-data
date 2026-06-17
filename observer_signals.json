@@ -26833,9 +26833,9 @@
     "title": "",
     "price_at_signal": 65018.0,
     "price_after_1h": 65332.01,
-    "price_after_4h": null,
+    "price_after_4h": 65825.09,
     "result_1h_pct": 0.483,
-    "result_4h_pct": null,
+    "result_4h_pct": 1.241,
     "would_have_won": false,
     "verified": true
   },
@@ -26855,9 +26855,9 @@
     "title": "",
     "price_at_signal": 65018.0,
     "price_after_1h": 65332.01,
-    "price_after_4h": null,
+    "price_after_4h": 65825.09,
     "result_1h_pct": 0.483,
-    "result_4h_pct": null,
+    "result_4h_pct": 1.241,
     "would_have_won": false,
     "verified": true
   },
@@ -26877,9 +26877,9 @@
     "title": "",
     "price_at_signal": 64983.28,
     "price_after_1h": 65270.01,
-    "price_after_4h": null,
+    "price_after_4h": 65964.62,
     "result_1h_pct": 0.441,
-    "result_4h_pct": null,
+    "result_4h_pct": 1.51,
     "would_have_won": false,
     "verified": true
   },
@@ -26899,9 +26899,9 @@
     "title": "",
     "price_at_signal": 64983.28,
     "price_after_1h": 65270.01,
-    "price_after_4h": null,
+    "price_after_4h": 65966.0,
     "result_1h_pct": 0.441,
-    "result_4h_pct": null,
+    "result_4h_pct": 1.512,
     "would_have_won": false,
     "verified": true
   },
@@ -26921,9 +26921,9 @@
     "title": "",
     "price_at_signal": 64983.27,
     "price_after_1h": 65270.01,
-    "price_after_4h": null,
+    "price_after_4h": 65966.0,
     "result_1h_pct": 0.441,
-    "result_4h_pct": null,
+    "result_4h_pct": 1.512,
     "would_have_won": false,
     "verified": true
   },
@@ -26943,9 +26943,9 @@
     "title": "",
     "price_at_signal": 64983.27,
     "price_after_1h": 65270.01,
-    "price_after_4h": null,
+    "price_after_4h": 65966.0,
     "result_1h_pct": 0.441,
-    "result_4h_pct": null,
+    "result_4h_pct": 1.512,
     "would_have_won": false,
     "verified": true
   },
@@ -26965,9 +26965,9 @@
     "title": "",
     "price_at_signal": 609.9,
     "price_after_1h": 606.56,
-    "price_after_4h": null,
+    "price_after_4h": 605.23,
     "result_1h_pct": -0.548,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.766,
     "would_have_won": false,
     "verified": true
   },
@@ -26987,9 +26987,9 @@
     "title": "",
     "price_at_signal": 610.02,
     "price_after_1h": 606.56,
-    "price_after_4h": null,
+    "price_after_4h": 605.23,
     "result_1h_pct": -0.567,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.785,
     "would_have_won": false,
     "verified": true
   },
@@ -27404,12 +27404,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 65775.63,
-    "price_after_1h": null,
+    "price_after_1h": 65888.0,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.171,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1247,
@@ -27426,12 +27426,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 65775.64,
-    "price_after_1h": null,
+    "price_after_1h": 65888.0,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.171,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1248,
@@ -27448,12 +27448,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 65775.63,
-    "price_after_1h": null,
+    "price_after_1h": 65888.01,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.171,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1249,
@@ -27470,12 +27470,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 65775.64,
-    "price_after_1h": null,
+    "price_after_1h": 65888.01,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.171,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1250,
