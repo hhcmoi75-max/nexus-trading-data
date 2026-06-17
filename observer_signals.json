@@ -24457,9 +24457,9 @@
     "title": "",
     "price_at_signal": 65779.9,
     "price_after_1h": 65884.59,
-    "price_after_4h": null,
+    "price_after_4h": 65546.75,
     "result_1h_pct": 0.159,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.354,
     "would_have_won": false,
     "verified": true
   },
