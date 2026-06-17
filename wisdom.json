@@ -1,5 +1,10 @@
 {
   "lecons_cles": [
+    "L'émergence de NEAR comme actif à risque malgré son écosystème mature suggère une sensibilité accrue aux tendances du marché grand public.",
+    "La performance inattendue d'ETC révèle un potentiel caché dans les blockchains legacy Proof-of-Work, nécessitant une réévaluation des critères d'investissement traditionnels.",
+    "Le succès de SEI, AVAX et DOGE indique une préférence pour les projets axés sur l'innovation et la communauté plutôt que sur la simple gouvernance DeFi.",
+    "La convergence du win rate d'APT et XLM à 25% suggère un seuil de performance minimum pour la survie des projets cryptographiques.",
+    "L'absence de performances significatives de MSFT, NVDA et CHZ indique une faible corrélation entre les marchés traditionnels et le marché cryptographique.",
     "L'explosion d'ATOM de -5.5% à +14.2% (+19.7% de swing) révèle un pattern de 'résurrection explosive' où les actifs cosmos-ecosystem alternent entre purges brutales et euphories compensatoires dans des amplitudes inégalées",
     "La chute de CRV à 0% de win rate marque l'effondrement définitif des protocoles DeFi 1.0 face à la montée des derivatives et perps (INJ +12.2%), exposant une rotation sectorielle DeFi vers les produits financiers sophistiqués",
     "L'émergence d'OP dans les pires trades (-5.1%) simultanément avec la domination maintenue des Layer-1 révèle que l'Optimism Stack souffre du même mal qu'Arbitrum, confirmant une malédiction structurelle sur tous les rollups optimistic",
@@ -92,13 +97,13 @@
   ],
   "actifs_a_privilegier": [
     "NEAR",
+    "ETC",
     "ATOM",
     "TRX",
     "INJ",
     "ALGO",
     "SEI",
-    "AVAX",
-    "DOGE"
+    "AVAX"
   ],
   "actifs_a_eviter": [
     "FET",
@@ -110,14 +115,14 @@
     "MSFT",
     "UNI"
   ],
-  "conditions_favorables": "Rotation sectorielle vers Layer-1 natifs et derivatives DeFi sophistiqués avec rejet massif des technologies legacy (rollups optimistic, DeFi 1.0, tokens IA)",
-  "erreurs_recurrentes": "Maintien d'allocation sur les rollups optimistic (ARB, OP) et persistance d'exposition aux secteurs narratifs épuisés (IA tokens, fan tokens) malgré les signaux d'effondrement répétés",
-  "recommandation_seuil_buy": 72,
+  "conditions_favorables": "Un marché caractérisé par un fort sentiment d'optimisme, une adoption grandissante des layer-1 monolithiques et une préférence pour les projets innovants.",
+  "erreurs_recurrentes": "Investir dans des tokens de gouvernance DeFi sans tenir compte de leur utilité opérationnelle et privilégier les projets basés sur la complexité plutôt que l'innovation.",
+  "recommandation_seuil_buy": 75,
   "recommandation_stop_loss": 0.06,
-  "strategie_recommandee": "Concentration maximale sur le quintet invulnérable (ALGO, SEI, AVAX, DOGE, LINK) avec allocation tactique sur NEAR/ATOM durant leurs phases explosives. Blacklistage définitif de tous les rollups optimistic et rotation DeFi vers les derivatives avancés type INJ.",
-  "last_distillation": "2026-06-17T05:18:23.630364+00:00",
-  "trades_analyzed": 336,
-  "win_rate_at_distill": 60.1,
+  "strategie_recommandee": "Diversifiez votre portefeuille en privilégiant les projets innovants et axés sur la communauté. Adaptez votre stratégie d'investissement aux tendances du marché cryptographique.",
+  "last_distillation": "2026-06-17T05:30:30.724456+00:00",
+  "trades_analyzed": 437,
+  "win_rate_at_distill": 61.6,
   "traders": {
     "Warren Buffett": {
       "style": "Value Investing - Long terme",
