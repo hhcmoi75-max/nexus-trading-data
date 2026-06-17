@@ -1,18 +1,17 @@
 {
   "score_macro": 65,
-  "score_sentiment": 70,
-  "tendance_marche": "HAUSSIER",
-  "contexte": "Le marché crypto affiche un sentiment positif malgré la baisse de Bitcoin en juin. Les nouvelles sur l'adoption blockchain et les signaux du Fed stimulent l'optimisme. ",
-  "risque_principal": "La volatilité persistante des actifs IA reste une menace pour les portefeuilles diversifiés.",
-  "opportunite_du_jour": "L'émergence de nouveaux projets blockchain dans le secteur financier offre des opportunités d'investissement à long terme.",
+  "score_sentiment": 48,
+  "tendance_marche": "NEUTRE",
+  "contexte": "Le marché crypto reste prudent suite aux commentaires de Warsh et Trump, tandis que les régulateurs ciblent les marchés prédictifs. La stabilité des prix suggère une consolidation avant un mouvement potentiel.",
+  "risque_principal": "La volatilité potentielle liée aux réglementations et aux déclarations politiques pourrait affecter négativement le marché.",
+  "opportunite_du_jour": "Le retracement de certains actifs IA après la correction post-bulle pourrait offrir des opportunités d'achat à long terme.",
   "actifs_favorables": [
-    "BTC",
-    "ETH",
-    "SOL"
+    "NEAR",
+    "XAU"
   ],
   "actifs_risques": [
     "FET",
     "APT"
   ],
-  "last_claude_run": "2026-06-17T11:52:43.751031+00:00"
+  "last_claude_run": "2026-06-17T23:54:02.064641+00:00"
 }
