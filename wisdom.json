@@ -115,7 +115,7 @@
   "recommandation_seuil_buy": 72,
   "recommandation_stop_loss": 0.06,
   "strategie_recommandee": "Concentration maximale sur le quintet invulnérable (ALGO, SEI, AVAX, DOGE, LINK) avec allocation tactique sur NEAR/ATOM durant leurs phases explosives. Blacklistage définitif de tous les rollups optimistic et rotation DeFi vers les derivatives avancés type INJ.",
-  "last_distillation": "2026-06-17T05:13:08.275380+00:00",
+  "last_distillation": "2026-06-17T05:18:23.630364+00:00",
   "trades_analyzed": 336,
   "win_rate_at_distill": 60.1,
   "traders": {
