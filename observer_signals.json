@@ -25403,9 +25403,9 @@
     "title": "",
     "price_at_signal": 65626.0,
     "price_after_1h": 65540.0,
-    "price_after_4h": null,
+    "price_after_4h": 64812.66,
     "result_1h_pct": -0.131,
-    "result_4h_pct": null,
+    "result_4h_pct": -1.239,
     "would_have_won": false,
     "verified": true
   },
@@ -26172,12 +26172,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 64854.48,
-    "price_after_1h": null,
+    "price_after_1h": 64700.0,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.238,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1191,
@@ -26194,12 +26194,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 64854.48,
-    "price_after_1h": null,
+    "price_after_1h": 64700.01,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.238,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1192,
@@ -26216,12 +26216,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 64854.48,
-    "price_after_1h": null,
+    "price_after_1h": 64700.0,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.238,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1193,
@@ -26238,12 +26238,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 64854.48,
-    "price_after_1h": null,
+    "price_after_1h": 64700.01,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.238,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1194,
@@ -26414,6 +26414,28 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 64840.02,
+    "price_after_1h": null,
+    "price_after_4h": null,
+    "result_1h_pct": null,
+    "result_4h_pct": null,
+    "would_have_won": null,
+    "verified": false
+  },
+  {
+    "id": 1202,
+    "timestamp": "2026-06-17T11:01:10.990949+00:00",
+    "symbol": "BNBUSDT",
+    "score": 0.5332,
+    "source": "news_binance_news",
+    "age_seconds": 67.61768436431885,
+    "size_pct": 2.32,
+    "size_usd": 13.93,
+    "regime": "bear_volatile",
+    "urgency": "NORMAL",
+    "bypass": "False",
+    "is_cascade": false,
+    "title": "Binance Alpha Trading Competition: Trade Starpower (STAR) and Share $200K Worth of Rewards (2026-06-",
+    "price_at_signal": 602.05,
     "price_after_1h": null,
     "price_after_4h": null,
     "result_1h_pct": null,
