@@ -23687,9 +23687,9 @@
     "title": "BlackRock's First Bitcoin Yield ETF Launches Today as XRP Whales Control 74.1% of Supply",
     "price_at_signal": 1.2202,
     "price_after_1h": 1.2207,
-    "price_after_4h": null,
+    "price_after_4h": 1.2233,
     "result_1h_pct": 0.041,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.254,
     "would_have_won": false,
     "verified": true
   },
@@ -23709,9 +23709,9 @@
     "title": "BlackRock's First Bitcoin Yield ETF Launches Today as XRP Whales Control 74.1% of Supply",
     "price_at_signal": 65840.28,
     "price_after_1h": 65749.99,
-    "price_after_4h": null,
+    "price_after_4h": 65915.43,
     "result_1h_pct": -0.137,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.114,
     "would_have_won": false,
     "verified": true
   },
