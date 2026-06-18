@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-18T08:12:24.123839+00:00",
-  "total_signals": 1401,
-  "verified_signals": 1309,
+  "generated_at": "2026-06-18T12:12:24.397911+00:00",
+  "total_signals": 1437,
+  "verified_signals": 1346,
   "by_source": {
     "whale_buy": {
       "win_rate_pct": 0.2,
-      "avg_gain_1h": -0.36,
-      "total_signals": 628
+      "avg_gain_1h": -0.346,
+      "total_signals": 661
     },
     "news_reddit_crypto": {
       "win_rate_pct": 0.0,
@@ -20,8 +20,8 @@
     },
     "news_binance_news": {
       "win_rate_pct": 0.0,
-      "avg_gain_1h": -0.248,
-      "total_signals": 14
+      "avg_gain_1h": -0.188,
+      "total_signals": 18
     },
     "news_coindesk": {
       "win_rate_pct": 0.0,
@@ -37,19 +37,19 @@
   "threshold_analysis": {
     "0.3": {
       "win_rate": 0.0,
-      "count": 395
+      "count": 396
     },
     "0.4": {
       "win_rate": 0.0,
-      "count": 193
+      "count": 194
     },
     "0.5": {
-      "win_rate": 0.9,
-      "count": 117
+      "win_rate": 0.8,
+      "count": 119
     },
     "0.6": {
       "win_rate": 0.2,
-      "count": 604
+      "count": 637
     }
   },
   "recommended_threshold": null,
@@ -60,7 +60,7 @@
   },
   "urgency_wr": {
     "high_wr": 0,
-    "normal_wr": 0.2,
+    "normal_wr": 0.1,
     "high_count": 0
   }
 }
