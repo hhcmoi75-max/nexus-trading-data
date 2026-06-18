@@ -28131,9 +28131,9 @@
     "title": "",
     "price_at_signal": 63946.0,
     "price_after_1h": 64401.08,
-    "price_after_4h": null,
+    "price_after_4h": 64610.0,
     "result_1h_pct": 0.712,
-    "result_4h_pct": null,
+    "result_4h_pct": 1.038,
     "would_have_won": false,
     "verified": true
   },
