@@ -30903,9 +30903,9 @@
     "title": "Binance Futures Will End Last Price Protected Period on USDⓈ-Margined HUSDT Perpetual Contract (2026",
     "price_at_signal": 592.28,
     "price_after_1h": 591.24,
-    "price_after_4h": null,
+    "price_after_4h": 591.4,
     "result_1h_pct": -0.176,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.149,
     "would_have_won": false,
     "verified": true
   },
@@ -31518,12 +31518,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 1743.28,
-    "price_after_1h": null,
+    "price_after_1h": 1750.43,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.41,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1434,
@@ -31540,12 +31540,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 1739.86,
-    "price_after_1h": null,
+    "price_after_1h": 1749.69,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.565,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1435,
