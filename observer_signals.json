@@ -28637,9 +28637,9 @@
     "title": "",
     "price_at_signal": 64480.57,
     "price_after_1h": 64464.01,
-    "price_after_4h": null,
+    "price_after_4h": 64287.97,
     "result_1h_pct": -0.026,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.299,
     "would_have_won": false,
     "verified": true
   },
@@ -28659,9 +28659,9 @@
     "title": "",
     "price_at_signal": 64480.57,
     "price_after_1h": 64464.01,
-    "price_after_4h": null,
+    "price_after_4h": 64287.97,
     "result_1h_pct": -0.026,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.299,
     "would_have_won": false,
     "verified": true
   },
@@ -28681,9 +28681,9 @@
     "title": "",
     "price_at_signal": 1750.22,
     "price_after_1h": 1755.03,
-    "price_after_4h": null,
+    "price_after_4h": 1744.74,
     "result_1h_pct": 0.275,
-    "result_4h_pct": null,
+    "result_4h_pct": -0.313,
     "would_have_won": false,
     "verified": true
   },
@@ -29428,12 +29428,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 64708.02,
-    "price_after_1h": null,
+    "price_after_1h": 64287.98,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.649,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1339,
@@ -29450,12 +29450,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 64706.01,
-    "price_after_1h": null,
+    "price_after_1h": 64287.48,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.647,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1340,
@@ -29472,12 +29472,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 64706.01,
-    "price_after_1h": null,
+    "price_after_1h": 64287.48,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.647,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1341,
@@ -29494,12 +29494,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 64706.02,
-    "price_after_1h": null,
+    "price_after_1h": 64287.47,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.647,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1342,
@@ -29516,12 +29516,12 @@
     "is_cascade": false,
     "title": "CIS Exclusive Binance Earn Special Offer: Subscribe to USDT Simple Earn to Enjoy 35% APR!",
     "price_at_signal": 601.89,
-    "price_after_1h": null,
+    "price_after_1h": 596.66,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.869,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1343,
@@ -29538,12 +29538,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 64650.01,
-    "price_after_1h": null,
+    "price_after_1h": 64262.0,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.6,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1344,
@@ -29560,12 +29560,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 64640.43,
-    "price_after_1h": null,
+    "price_after_1h": 64262.0,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.585,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1345,
@@ -29582,12 +29582,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 64549.34,
-    "price_after_1h": null,
+    "price_after_1h": 64281.47,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": -0.415,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1346,
@@ -29758,6 +29758,28 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 64329.21,
+    "price_after_1h": null,
+    "price_after_4h": null,
+    "result_1h_pct": null,
+    "result_4h_pct": null,
+    "would_have_won": null,
+    "verified": false
+  },
+  {
+    "id": 1354,
+    "timestamp": "2026-06-18T04:00:45.384699+00:00",
+    "symbol": "BNBUSDT",
+    "score": 0.5263,
+    "source": "news_binance_news",
+    "age_seconds": 42.06945991516113,
+    "size_pct": 2.49,
+    "size_usd": 14.93,
+    "regime": "bear_volatile",
+    "urgency": "NORMAL",
+    "bypass": "False",
+    "is_cascade": false,
+    "title": "Binance Earn: Enjoy Up to 8% APR with U Flexible Products - 10,000 U Limit Available (2026-06-19)",
+    "price_at_signal": 596.77,
     "price_after_1h": null,
     "price_after_4h": null,
     "result_1h_pct": null,
