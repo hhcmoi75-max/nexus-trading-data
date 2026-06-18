@@ -29781,9 +29781,9 @@
     "title": "Binance Earn: Enjoy Up to 8% APR with U Flexible Products - 10,000 U Limit Available (2026-06-19)",
     "price_at_signal": 596.77,
     "price_after_1h": 590.07,
-    "price_after_4h": null,
+    "price_after_4h": 589.49,
     "result_1h_pct": -1.123,
-    "result_4h_pct": null,
+    "result_4h_pct": -1.22,
     "would_have_won": false,
     "verified": true
   },
@@ -30506,12 +30506,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 64091.45,
-    "price_after_1h": null,
+    "price_after_1h": 64435.11,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.536,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1388,
