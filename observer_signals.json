@@ -29803,9 +29803,9 @@
     "title": "",
     "price_at_signal": 64100.0,
     "price_after_1h": 63922.0,
-    "price_after_4h": null,
+    "price_after_4h": 64525.99,
     "result_1h_pct": -0.278,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.665,
     "would_have_won": false,
     "verified": true
   },
@@ -29825,9 +29825,9 @@
     "title": "",
     "price_at_signal": 64099.99,
     "price_after_1h": 63922.0,
-    "price_after_4h": null,
+    "price_after_4h": 64526.0,
     "result_1h_pct": -0.278,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.665,
     "would_have_won": false,
     "verified": true
   },
@@ -29847,9 +29847,9 @@
     "title": "",
     "price_at_signal": 64096.01,
     "price_after_1h": 63928.39,
-    "price_after_4h": null,
+    "price_after_4h": 64526.0,
     "result_1h_pct": -0.262,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.671,
     "would_have_won": false,
     "verified": true
   },
@@ -29869,9 +29869,9 @@
     "title": "",
     "price_at_signal": 64072.01,
     "price_after_1h": 63976.0,
-    "price_after_4h": null,
+    "price_after_4h": 64595.99,
     "result_1h_pct": -0.15,
-    "result_4h_pct": null,
+    "result_4h_pct": 0.818,
     "would_have_won": false,
     "verified": true
   },
@@ -30616,12 +30616,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 64151.75,
-    "price_after_1h": null,
+    "price_after_1h": 64605.5,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.707,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1393,
@@ -30638,12 +30638,12 @@
     "is_cascade": false,
     "title": "",
     "price_at_signal": 64151.76,
-    "price_after_1h": null,
+    "price_after_1h": 64605.5,
     "price_after_4h": null,
-    "result_1h_pct": null,
+    "result_1h_pct": 0.707,
     "result_4h_pct": null,
-    "would_have_won": null,
-    "verified": false
+    "would_have_won": false,
+    "verified": true
   },
   {
     "id": 1394,
